@@ -1,0 +1,1204 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "name": "Optimized C++",
+            "author": "Kurt Guntheroth",
+            "tagline": "Proven Techniques for Heightened Performance",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/Optimized%20C%2B%2B%20Proven%20Techniques%20for%20Heightened%20Performance%20by%20Kurt%20Guntheroth%20(z-lib.org)-compressed.pdf?alt=media&token=b9df4c04-1517-4736-9f53-fa27f2be5c23",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51QvR0tcdOL._SX258_BO1,204,203,200_.jpg",
+            "desc": "In today’s fast and competitive world, a program’s performance is just as important to customers as the features it provides. This practical guide teaches developers performance-tuning principles that enable optimization in C++. You’ll learn how to make code that already embodies best practices of C++ design run faster and consume fewer resources on any computer—whether it’s a watch, phone, workstation, supercomputeror globe-spanning network of servers.",
+            "lang": "English"
+        },
+        {
+            "id": 1,
+            "name": "Modern C++ Programming Cookbook",
+            "author": "Marius Bancila",
+            "tagline": "Over 100 recipes to help you overcome your difficulties with C++",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/Modern%20C%2B%2B%20Programming%20Cookbook%20by%20Marius%20Bancila%20(z-lib.org)-compressed.pdf?alt=media&token=0f847770-b783-4275-b67e-5f61c023ce18",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51eEU2XlClL._SX404_BO1,204,203,200_.jpg",
+            "desc": "About the Author Marius Bancila is a software engineer with 14 years of experience in developing solutions for the industrial and financial sectors. He focuses on Microsoft technologies and mainly develops desktop applications with C++ and C#. Over the years, he has worked with other languages and technologies including Java, HTML/CSS, PHP, and JavaScript. Marius is passionate about sharing his technical expertise with others, and for that reason, he has been recognized as a Microsoft MVP for more than a decade. He has been an active contributor to forums and other developer communities where he has published many articles, for which he has won multiple awards. He also created and contributed to several open source libraries. He is a cofounder of Codexpert, a Romanian community for C++ developers. He is based in Timisoara, Romania, and works as a system architect, building accounting and logistic solutions for a major European software vendor. ",
+            "lang": "English"
+        },
+        {
+            "id": 1,
+            "name": "Java Cookbook",
+            "author": "Ian F. Darwin",
+            "tagline": "Problems and Solutions for Java Developers",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/Java%20Cookbook%20-%20Problems%20and%20Solutions%20for%20Java%20Developers%20(Early%20Release)%20by%20Ian%20F.%20Darwin%20(z-lib.org).epub-compressed.pdf?alt=media&token=e25a12e4-ce44-45db-b35a-7c64cd7e0bce",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41-nqEwJ1jL._SX379_BO1,204,203,200_.jpg",
+            "desc": "Java continues to grow and evolve, and this cookbook continues to evolve in tandem. With this guide, you’ll get up to speed right away with hundreds of hands-on recipes across a broad range of Java topics. You’ll learn useful techniques for everything from string handling and functional programming to network communication. Each recipe includes self-contained code solutions that you can freely use, along with a discussion of how and why they work. If you’re familiar with Java basics, this cookbook will bolster your knowledge of the language and its many recent changes, including how to apply them in your day-to-day development. This updated edition covers changes through Java 12 and parts of 13 and 14.",
+            "lang": "English"
+        },
+        {
+            "id": 1,
+            "name": "Data Structures and Algorithm Analysis in C++",
+            "author": "Clifford A. Shaffer",
+            "tagline": "Clifford A. Shaffer",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/Data%20Structures%20and%20Algorithm%20Analysis%20in%20C%2B%2B%2C%203rd%20Edition%20by%20Dr.%20Clifford%20A.%20Shaffer%20(z-lib.org)-compressed.pdf?alt=media&token=97070840-3e1e-43dd-be7f-36b1195de44f",
+            "image": "https://m.media-amazon.com/images/I/51CwhVoJdNL.jpg",
+            "desc": "With its focus on creating efficient data structures and algorithms, this comprehensive text helps readers understand how to select or design the tools that will best solve specific problems. It uses Microsoft C++ as the programming language and is suitable for second-year data structure courses and computer science courses in algorithm analysis. Techniques for representing data are presented within the context of assessing costs and benefits, promoting an understanding of the principles of algorithm analysis and the effects of a chosen physical medium. The text also explores tradeoff issues, familiarizes readers with the most commonly used data structures and their algorithms, and discusses matching appropriate data structures to applications. The author offers explicit coverage of design patterns encountered in the course of programming the book's basic data structures and algorithms. Numerous examples appear throughout the text.",
+            "lang": "English"
+        },
+        {
+            "id": 1,
+            "name": "Algorithms Unlocked",
+            "author": "Thomas H. Cormen",
+            "tagline": "Thomas H. Cormen",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Algorithms%20Unlocked%20by%20Thomas%20H.%20Cormen%20(z-lib.org)-compressed.pdf?alt=media&token=607a99f5-83ae-4ef3-881f-79fc439dd4e8",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71TVqky3k8L.jpg",
+            "desc": "For anyone who has ever wondered how computers solve problems, an engagingly written guide for nonexperts to the basics of computer algorithms. Have you ever wondered how your GPS can find the fastest way to your destination, selecting one route from seemingly countless possibilities in mere seconds? How your credit card account number is protected when you make a purchase over the Internet? The answer is algorithms. And how do these mathematical formulations translate themselves into your GPS, your laptop, or your smart phone? This book offers an engagingly written guide to the basics of computer algorithms. In Algorithms Unlocked, Thomas Cormen-coauthor of the leading college textbook on the subject-provides a general explanation, with limited mathematics, of how algorithms enable computers to solve problems. Readers will learn what computer algorithms are, how to describe them, and how to evaluate them.",
+            "lang": "English"
+        },
+        {
+            "id": 2,
+            "name": "Automate the boring stuff with python",
+            "author": "Al Sweigart",
+            "tagline": "Practical Programming for complete beginners",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Automate%20the%20boring%20stuff%20with%20python%202nd%20edition%20by%20Al%20Sweigart%20(z-lib.org)-compressed.pdf?alt=media&token=3f8a19dc-8323-4e32-87e0-643f62db79b5",
+            "image": "https://automatetheboringstuff.com/images/automate_2e_cover.png",
+            "desc": "In Automate the Boring Stuff with Python, you'll learn how to use Python to write programs that do in minutes what would take you hours to do by hand-no prior programming experience required. Once you've mastered the basics of programming, you'll create Python programs that effortlessly perform useful and impressive feats of automation.",
+            "lang": "English"
+        },
+        {
+            "id": 3,
+            "name": "Beginning Modern Unix",
+            "author": "Manish Jain",
+            "tagline": "Learn to live comfortably in a modern Unix Environment",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Beginning%20Modern%20Unix_%20Learn%20to%20Live%20Comfortably%20in%20a%20Modern%20Unix%20Environment%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=7f5798ad-0ee9-4087-8ef9-acbde6a4bba3",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61iutBKmgWL.jpg",
+            "desc": "Discover how to leverage modern Unix even if you’ve never worked with Unix before. This book presents everything in conceptual terms that you can understand, rather than tips to be committed raw to memory.",
+            "lang": "English"
+        },
+        {
+            "id": 4,
+            "name": "C How to Program",
+            "author": "Paul Deitel, Harvey Deitel",
+            "tagline": "With an Introduction to C++",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/C%20How%20to%20Program.%20%20With%20an%20Introduction%20to%20C%2B%2B%20by%20Paul%20Deitel%2C%20Harvey%20Deitel%20(z-lib.org).pdf?alt=media&token=6bec632c-a687-4d93-bce4-51fec34afc1d",
+            "image": "https://www.perlego.com/books/RM_Books/pearson_lm_vzezmkn/9781292110981.jpg",
+            "desc": "C How to Program is a comprehensive introduction to programming in C. Like other texts of the Deitels’ How to Program series, the book serves as a detailed beginner source of information for college students looking to embark on a career in coding, or instructors and software-development professionals seeking to learn how to program with C.",
+            "lang": "English"
+        },
+        {
+            "id": 5,
+            "name": "C++ Programming",
+            "author": "Behrouz A. Forouzan, Richard F. Gilberg",
+            "tagline": "An Object Oriented Approach",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/C%2B%2B%20Programming%20An%20Object-Oriented%20Approach%20by%20Behrouz%20A.%20Forouzan%2C%20Richard%20Gilberg%20(z-lib.org)-compressed.pdf?alt=media&token=7f5dd8f0-516a-4796-afc7-fa7346a7339e",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/418Uy1lofCL.jpg",
+            "desc": "C++ Programming: An Object-Oriented Approach has two primary objectives: Teach the basic principles of programming as outlined in the ACM curriculum for a CS1 class and teach the basic constructs of the C++ language. While C++ is a complex and professional language, experience shows that beginning students can easily understand and use C++.",
+            "lang": "English"
+        },
+        {
+            "id": 6,
+            "name": "Clean Code",
+            "author": "Robert C. Martin",
+            "tagline": "A Handbook of Agile Software Craftsmanship",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Clean%20Code%20-%20A%20Handbook%20of%20Agile%20Software%20Craftsmanship%20by%20Robert%20C.%20Martin%20(z-lib.org)-compressed.pdf?alt=media&token=a99e4489-4877-406e-93cb-32d817596ca1",
+            "image": "https://m.media-amazon.com/images/I/41SH-SvWPxL.jpg",
+            "desc": "Even bad code can function. But if code isn't clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn't have to be that way.",
+            "lang": "English"
+        },
+        {
+            "id": 7,
+            "name": "Computer Systems",
+            "author": "Ata Elahi",
+            "tagline": "Digital Design, Fundamentals of Computer Architecture",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Computer%20Systems_%20Digital%20Design%2C%20Fundamentals%20of%20Computer%20Architecture%20and%20Assembly%20Language%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=6648c86c-e2fa-4f54-8efb-0f859a6679b8",
+            "image": "https://wordery.com/jackets/527d1cf7/computer-systems-ata-elahi-9783319667744.jpg",
+            "desc": "This textbook covers digital design, fundamentals of computer architecture, and assembly language. The book starts by introducing basic number systems, character coding, basic knowledge in digital design, and components of a computer. The book goes on to discuss information representation in computing; Boolean algebra and logic gates; sequential logic; input/output; and CPU performance.",
+            "lang": "English"
+        },
+        {
+            "id": 8,
+            "name": "Cracking Codes With Python",
+            "author":"Al Sweigart",
+            "tagline": "An Introduction to Builsing and Breaking Ciphers",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Cracking%20Codes%20with%20Python_%20An%20Introduction%20to%20Building%20and%20Breaking%20Ciphers%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=adb1ae15-f3f9-4b20-9e14-1fffcc0c188e",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81KOL4RYF6L.jpg",
+            "desc": "After a crash course in Python programming basics, you’ll learn to make, test, and hack programs that encrypt text with classical ciphers like the transposition cipher and Vigenère cipher. You’ll begin with simple programs for the reverse and Caesar ciphers and then work your way up to public key cryptography, the type of encryption used to secure today’s online transactions, including digital signatures, email, and Bitcoin.",
+            "lang": "English"
+        },
+        {
+            "id": 9,
+            "name": "Data Science from Scratch",
+            "author": "Joel Grus",
+            "tagline": "First Principles with Python",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Data%20Science%20from%20Scratch%20First%20Principles%20with%20Python%20by%20Joel%20Grus%20(z-lib.org).epub-compressed.pdf?alt=media&token=37a260c0-cfd5-4f51-9037-eccf0ef7e045",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51YUWU6KNdL._SX258_BO1,204,203,200_.jpg",
+            "desc": "Data science libraries, frameworks, modules, and toolkits are great for doing data science, but they’re also a good way to dive into the discipline without actually understanding data science. In this book, you’ll learn how many of the most fundamental data science tools and algorithms work by implementing them from scratch.",
+            "lang": "English"
+        },
+        {
+            "id": 10,
+            "name": "Flask Web Development",
+            "author": "Miguel Grinberg",
+            "tagline": "Developing Web Applications with Python",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Flask%20Web%20Development_%20Developing%20Web%20Applications%20with%20Python%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=e63a6e7f-4873-46ff-8c07-ef046b230a05",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/514Lbvt36zL._SX377_BO1,204,203,200_.jpg",
+            "desc": "Take full creative control of your web applications with Flask, the Python-based microframework. With the second edition of this hands-on book, you’ll learn the framework from the ground up by developing, step-by-step, a real-world project created by author Miguel Grinberg. This refreshed edition accounts for important technology changes that have occurred in the past three years.",
+            "lang": "English"
+        },
+        {
+            "id": 11,
+            "name": "Fundamentals of Software Engineering",
+            "author": "Rajib Mall",
+            "tagline": "Rajib Mall",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Fundamentals%20of%20Software%20Engineering%2C%20Fourth%20Edition%2C%20Rajib%20Mall%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=a5860bac-4d32-4890-bd69-0e59f0193de1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51x81pPs8gL._SX374_BO1,204,203,200_.jpg",
+            "desc": "Now in its fourth edition, this text has been restructured and revised to incorporate the latest advances in the field. It not only incorporates the latest and enhanced software engineering techniques and practices, but also shows how these techniques are applied into the practical software assignments. Chapters now incorporate illustrative examples to add an analytical insight on the subject.",
+            "lang": "English"
+        },
+        {
+            "id": 12,
+            "name": "How Linux Works",
+            "author": "Brian Ward",
+            "tagline": "What Every Superuser Should Know",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/How%20Linux%20Works%20What%20Every%20Superuser%20Should%20Know%20by%20Brian%20Ward%20(z-lib.org)-compressed.pdf?alt=media&token=9f734df4-f544-4c88-8c8e-f8dc4777586b",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51LAvDkpwmL._SX375_BO1,204,203,200_.jpg",
+            "desc": "How Linux Works describes the inside of the Linux system for systems administrators, whether they maintain an extensive network in the office or one Linux box at home. Some books try to give you copy-and-paste instructions for how to deal with every single system issue that may arise, but How Linux Works actually shows you how the Linux system functions so that you can come up with your own solutions.",
+            "lang": "English"
+        },
+        {
+            "id": 13,
+            "name": "IOS 12 Programming Fundamental with Swift",
+            "author": "Matt Neuburg",
+            "tagline": "Swift, Xcode and Cocoa Basics",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/IOS%2012%20Programming%20Fundamentals%20with%20Swift_%20Swift%2C%20Xcode%2C%20and%20Cocoa%20Basics%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=0c3032eb-3343-45e0-8028-6dfd242c0950",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81fbLAHyuuL.jpg",
+            "desc": "If you're grounded in the basics of Swift, Xcode, and the Cocoa framework, this book provides a structured explanation of all essential real-world iOS app components. Through deep exploration and copious code examples, you'll learn how to create views, manipulate view controllers, and add features from iOS frameworks.",
+            "lang": "English"
+        },
+        {
+            "id": 14,
+            "name": "Introduction to Algorithms",
+            "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest , Clifford Stein",
+            "tagline": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest , Clifford Stein",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Introduction%20to%20algorithms%20by%20Thomas%20H.%20Cormen%2C%20Charles%20E.%20Leiserson%2C%20Ronald%20L.%20Rivest%2C%20Clifford%20Stein%20(z-lib.org).pdf?alt=media&token=89dccd7d-e90c-4d64-8ec8-1f2a41023c5d",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41T0iBxY8FL._SX440_BO1,204,203,200_.jpg",
+            "desc": "Some books on algorithms are rigorous but incomplete; others cover masses of material but lack rigor. Introduction to Algorithms uniquely combines rigor and comprehensiveness. The book covers a broad range of algorithms in depth, yet makes their design and analysis accessible to all levels of readers. Each chapter is relatively self-contained and can be used as a unit of study. The algorithms are described in English and in a pseudocode designed to be readable by anyone who has done a little programming. The explanations have been kept elementary without sacrificing depth of coverage or mathematical rigor.",
+            "lang": "English"
+        },
+        {
+            "id": 15,
+            "name": "Java for Absolute Beginners",
+            "author": "Luliana Cosmina",
+            "tagline": "Learn to Program the Fundamentals",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Java%20for%20Absolute%20Beginners_%20Learn%20to%20Program%20the%20Fundamentals%20the%20Java%209%2B%20Way%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=0ea0fd1b-4a5b-467f-a6c5-e9397cdcf233",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41yHyEvLERL._SX348_BO1,204,203,200_.jpg",
+            "desc": "Write your first code in Java using simple, step-by-step examples that model real-word objects and events, making learning easy. With this book you’ll be able to pick up the concepts without fuss. Java for Absolute Beginners teaches Java development in language anyone can understand, giving you the best possible start. You’ll see clear code descriptions and layout so that you can get your code running as soon as possible. After reading this book, you'll come away with the basics to get started writing programs in Java.",
+            "lang": "English"
+        },
+        {
+            "id": 16,
+            "name": "Learn Android Studio 3 with Kotlin",
+            "author": "Ted Hagos",
+            "tagline": "Efficient Android App Development",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Learn%20Android%20Studio%203%20with%20Kotlin_%20Efficient%20Android%20App%20Development%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=f1fe995f-fe3d-4c5d-ba7f-af1a26b3c6f6",
+            "image": "https://m.media-amazon.com/images/I/41zkx0ipXiL.jpg",
+            "desc": "Build Android apps using the popular and efficient Android Studio 3 suite of tools, an integrated development environment (IDE) for Android developers using Java APIs. With this book, you’ll learn the latest and most productive tools in the Android tools ecosystem, ensuring quick Android app development and minimal effort on your part. Along the way, you’ll use Android Studio to develop Java-based Android apps, tier by tier through practical examples. These examples cover core Android topics such as notifications and toast; intents and broadcast receivers; and services. Then, you’ll learn how to publish your apps and sell them online and in the Google Play store.",
+            "lang": "English"
+        },
+        {
+            "id": 17,
+            "name": "Machine Learning",
+            "author": "Rudolph Russel",
+            "tagline": "Step-by-Step Guide To Implement Machine Learning Algorithm with Python",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Machine%20Learning_%20Step-by-Step%20Guide%20To%20Implement%20Machine%20Learning%20Algorithms%20with%20Python%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=0e38a4c5-5bf1-4113-9edb-a0c491f902a3",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71+Y2TASwbL.jpg",
+            "desc": "This book is for anyone who would like to learn how to develop machine-learning systems. We will cover the most important concepts about machine learning algorithms, in both a theoretical and a practical way, and we'll implement many machine-learning algorithms using the Scikit-learn library in the Python programming language.",
+            "lang": "English"
+        },
+        {
+            "id": 18,
+            "name": "Mastering Machine Learning with Python in Six Steps",
+            "author": "Manohar Swamynathan",
+            "tagline": "A Practical Implementation Guide to Predictive Data Analytics",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Mastering%20Machine%20Learning%20with%20Python%20in%20Six%20Steps_%20A%20Practical%20Implementation%20Guide%20to%20Predictive%20Data%20Analytics%20Using%20Python%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=3276e127-1091-45d7-b456-ba2c94fb5a4d",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41Kfd1H1URL._SX348_BO1,204,203,200_.jpg",
+            "desc": "Explore fundamental to advanced Python 3 topics in six steps, all designed to make you a worthy practitioner. This updated version’s approach is based on the “six degrees of separation” theory, which states that everyone and everything is a maximum of six steps away and presents each topic in two parts: theoretical concepts and practical implementation using suitable Python 3 packages.",
+            "lang": "English"
+        },
+        {
+            "id": 19,
+            "name": "Python Crash Course",
+            "author": "Eric Matthes",
+            "tagline": "A Hands On, Project Based Introduction to Programming",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Python%20Crash%20Course_%20A%20Hands-On%2C%20Project-Based%20Introduction%20to%20Programming%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=66319095-df56-4d9e-8fe8-ee75830dff53",
+            "image": "https://m.media-amazon.com/images/I/510-dE3N1PL.jpg",
+            "desc": "Python Crash Course is a fast-paced, thorough introduction to Python that will have you writing programs, solving problems, and making things that work in no time. In the first half of the book, you’ll learn about basic programming concepts, such as lists, dictionaries, classes, and loops, and practice writing clean and readable code with exercises for each topic. You’ll also learn how to make your programs interactive and how to test your code safely before adding it to a project.",
+            "lang": "English"
+        },
+        {
+            "id": 20,
+            "name": "Python Pocket Reference 5th Edition",
+            "author": "Mark Lutz",
+            "tagline": "Python in Your Pocket",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Python%20Pocket%20Reference%2C%205th%20Edition_%20Python%20in%20Your%20Pocket%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=452f5642-d227-42cc-858e-a02ab0adb6a1",
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/815DYInRvNL._AC_UL600_SR363,600_.jpg",
+            "desc": "Updated for both Python 3.4 and 2.7, this convenient pocket guide is the perfect on-the-job quick reference. You’ll find concise, need-to-know information on Python types and statements, special method names, built-in functions and exceptions, commonly used standard library modules, and other prominent Python tools. The handy index lets you pinpoint exactly what you need.",
+            "lang": "English"
+        },
+        {
+            "id": 21,
+            "name": "Angular 5 Projects",
+            "author": "Mark Clow",
+            "tagline": "Learn to Build Single Page Web Application Using 70+ Projects",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book2-aa723.appspot.com/o/Angular%205%20Projects_%20Learn%20to%20Build%20Single%20Page%20Web%20Applications%20Using%2070%2B%20Projects%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=9b031eb2-f58b-4c57-adeb-5f92241ea4de",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61TZ1MaQ4GL.jpg",
+            "desc": "Learn to build single page web apps using Angular 5 and TypeScript by working through 70+ mini-projects. With hundreds of code examples you gain a thorough understanding of the Angular 5 ecosystem and how to work within it. You'll begin by understanding the benefits of Angular 5 vs older versions, and how this benefits your applications. You'll then move onto mini-projects that teach you JavaScript, TypeScript, how to use editors, Node, CLI, components, modules, directives, Webpack, dependency injection, widgets, routes and navigation, observers, reactive programming, and RxJS.",
+            "lang": "English"
+        },
+        {
+            "id": 22,
+            "name": "Data Structures and Algorithms in C++",
+            "author": "Adam Drozdek",
+            "tagline": "Adam Drozdek",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book2-aa723.appspot.com/o/Data%20Structures%20and%20Algorithms%20in%20C%2B%2B%20by%20Adam%20Drozdek%20(z-lib.org)-compressed.pdf?alt=media&token=f81e894b-ecfb-4c98-9579-1d6b7268c62a",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41RSZgyiIxL._SX402_BO1,204,203,200_.jpg",
+            "desc": "Strengthen your understanding of data structures and their algorithms for the foundation you need to successfully design, implement and maintain virtually any software system. Theoretical, yet practical, DATA STRUCUTRES AND ALGORITHMS IN C++, 4E by experienced author Adam Drosdek highlights the fundamental connection between data structures and their algorithms, giving equal weight to the practical implementation of data structures and the theoretical analysis of algorithms and their efficiency.",
+            "lang": "English"
+        },
+        {
+            "id": 23,
+            "name": "Flutter Recipes Mobile Development",
+            "author": "Fu Cheng",
+            "tagline": "Solutions for iOS and Android",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book2-aa723.appspot.com/o/Flutter%20Recipes%20Mobile%20Development%20Solutions%20for%20iOS%20and%20Android%20by%20Fu%20Cheng%20(z-lib.org)-compressed.pdf?alt=media&token=883e0f3d-f440-48ae-95b6-01b9eccddba5",
+            "image": "https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4842-4982-6",
+            "desc": "Take advantage of this comprehensive reference to solving common problems when developing with Flutter. Along with an introduction to the basic concepts of Flutter development, the recipes in this book cover all important aspects of this emerging technology, including development, testing, debugging, performance tuning, app publishing, and continuous integration.",
+            "lang": "English"
+        },
+        {
+            "id": 24,
+            "name": "Full Stack JavaScript",
+            "author": "Azat Mardan",
+            "tagline": "Learn Backbone.js, Node.js, and MongoDB",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book2-aa723.appspot.com/o/Full%20Stack%20JavaScript%20Learn%20Backbone.js%2C%20Node.js%2C%20and%20MongoDB%2C%202nd%20Edition%20by%20Azat%20Mardan%20(z-lib.org)-compressed.pdf?alt=media&token=257fe445-6add-4914-9722-462465074adf",
+            "image": "https://m.media-amazon.com/images/I/41iNKSx9grL.jpg",
+            "desc": "Learn agile JavaScript web development using the latest cutting-edge front-end and back-end technologies including Node.js, MongoDB, Backbone.js, Parse.com, Heroku, and Microsoft Azure. Using a key project example of a message board app, you will learn the foundations of a typical web application: fetching data, displaying it, and submitting new data.",
+            "lang": "English"
+        },
+        {
+            "id": 25,
+            "name": "Google Flutter Mobile Development",
+            "author": "Prajyot Manikar, Salvatore Giordano",
+            "tagline": "Get up and running with iOS and Android mobile app development",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book2-aa723.appspot.com/o/Google%20Flutter%20Mobile%20Development%20Quick%20Start%20Guide%20by%20Prajyot%20Mainkar%20Salvatore%20Giordano%20(z-lib.org)-compressed.pdf?alt=media&token=dd39d164-c313-43cb-a4f8-96d17b780253",
+            "image": "https://m.media-amazon.com/images/I/519d88GR+kL._SX260_.jpg",
+            "desc": "Flutter is a cross-platform mobile application development framework. It uses the Dart programming language, which was created by Google, and aims to make development easier, faster, and more efficient. This book is going to be your guide, from introducing Flutter to successfully developing a cross platform application.",
+            "lang": "English"
+        },
+        {
+            "id": 26,
+            "name": "Learning PHP, MySQL, & JavaScript",
+            "author": "Robin Nixon",
+            "tagline": "With JQuery, CSS & HTML5",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book2-aa723.appspot.com/o/Learning%20PHP%2C%20MySQL%20%20JavaScript%20-%20With%20jQuery%2C%20CSS%20%20HTML5%20by%20Robin%20Nixon%20(z-lib.org)-compressed.pdf?alt=media&token=fd2e5b74-83cc-4d6a-9352-fab75b0a46d3",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51H8DtU-WTL._SX379_BO1,204,203,200_.jpg",
+            "desc": "Build interactive, data driven websites with the potent combination of open source technologies and web standards, even if you have only basic HTML knowledge. In this update to this popular hands on guide, you’ll tackle dynamic web programming with the latest versions of today’s core technologies: PHP, MySQL, JavaScript, CSS, HTML5, and key jQuery libraries. Web designers will learn how to use these technologies together and pick up valuable web programming practices along the way—including how to optimize websites for mobile devices. At the end of the book, you’ll put everything together to build a fully functional social networking site suitable for both desktop and mobile browsers.",
+            "lang": "English"
+        },
+        {
+            "id": 27,
+            "name": "Linux Basics for Hackers",
+            "author": "Occupytheweb",
+            "tagline": "Getting Started with Networking, Scripting, and Security in Kali",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book2-aa723.appspot.com/o/Linux%20Basics%20for%20Hackers%20Getting%20Started%20with%20Networking%2C%20Scripting%2C%20and%20Security%20in%20Kali%20by%20OccupyTheWeb%20(z-lib.org)-compressed.pdf?alt=media&token=eb7d18ac-2a69-4571-b8f5-e7733e7f34a4",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81TQ6G34JcL.jpg",
+            "desc": "This practical, tutorial-style book uses the Kali Linux distribution to teach Linux basics with a focus on how hackers would use them. Topics include Linux command line basics, filesystems, networking, BASH basics, package management, logging, and the Linux kernel and drivers. If you're getting started along the exciting path of hacking, cybersecurity, and pentesting, Linux Basics for Hackers is an excellent first step. Using Kali Linux, an advanced penetration testing distribution of Linux, you'll learn the basics of using the Linux operating system and acquire the tools and techniques you'll need to take control of a Linux environment.",
+            "lang": "English"
+        },
+        {
+            "id": 28,
+            "name": "Java How to Program Early Objects",
+            "author": "Paul Deitel, Harvey Deitel",
+            "tagline": "Paul Deitel, Harvey Deitel",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/Java%20How%20to%20Program%20Early%20Objects%20by%20Paul%20Deitel%2C%20Harvey%20Deitel%20(z-lib.org)-compressed.pdf?alt=media&token=b2549aef-3ab9-4aab-8550-2122116e6c1f",
+            "image": "https://www.pearson.com/store/medias/-bigcovers-0134800273.jpg-size-W370?context=bWFzdGVyfGltYWdlc3w1MjA4OXxpbWFnZS9qcGVnfHN5cy1tYXN0ZXIvaW1hZ2VzL2gyZS9oNDAvODkxMDU5OTAyODc2Ni9iaWdjb3ZlcnMvMDEzNDgwMDI3My5qcGdfc2l6ZV9XMzcwfDUwNzRmNGU1NTg3YWZlYmVhNGQ5ZmZiYjhkYWFhOTljMDAxNmNmZmQ1MjlkODA2MWM3YTJhNzU2ZjUyMDNkYTU",
+            "desc": "Unparalleled breadth and depth of object-oriented programming concepts. The Deitels’ groundbreaking How to Program series offers unparalleled breadth and depth of programming fundamentals, object-oriented programming concepts and intermediate-level topics for further study. Java How to Program, Early Objects, 11th Edition, presents leading-edge computing technologies using the Deitel signature live-code approach, which demonstrates concepts in hundreds of complete working programs. The 11th Edition presents updated coverage of Java SE 8 and new Java SE 9 capabilities, including JShell, the Java Module System, and other key Java 9 topics.",
+            "lang": "English"
+        },
+        {
+            "id": 29,
+            "name": "Java Program Design",
+            "author": "Edward Sciore",
+            "tagline": "Principles, Polymorphism, and Patterns",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/Java%20Program%20Design_%20Principles%2C%20Polymorphism%2C%20and%20Patterns%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=0ad61c69-b2f8-40b9-b137-e619af5be5cb",
+            "image": "https://images.springer.com/sgw/books/medium/9781484241424.jpg",
+            "desc": "Get a grounding in polymorphism and other fundamental aspects of object-oriented program design and implementation, and learn a subset of design patterns that any practicing Java professional simply must know in today’s job climate. Java Program Design presents program design principles to help practicing programmers up their game and remain relevant in the face of changing trends and an evolving language. The book enhances the traditional design patterns with Java's new functional programming features, such as functional interfaces and lambda expressions. The result is a fresh treatment of design patterns that expands their power and applicability, and reflects current best practice.",
+            "lang": "English"
+        },
+        {
+            "id": 30,
+            "name": "JavaScript Data Structures and Algorithm",
+            "author": "Sammie Bae",
+            "tagline": "An Introduction to Understanding and Implementing Core Data Structure and Algoritm Fundamentals",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/JavaScript%20Data%20Structures%20and%20Algorithms_%20An%20Introduction%20to%20Understanding%20and%20Implementing%20Core%20Data%20Structure%20and%20Algorithm%20Fundamentals%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=48423d4a-c617-4121-ad8a-f2da934ff6ec",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61PzAMU7SGL.jpg",
+            "desc": "Explore data structures and algorithm concepts and their relation to everyday JavaScript development. A basic understanding of these ideas is essential to any JavaScript developer wishing to analyze and build great software solutions. You'll discover how to implement data structures such as hash tables, linked lists, stacks, queues, trees, and graphs. You'll also learn how a URL shortener, such as bit.ly, is developed and what is happening to the data as a PDF is uploaded to a webpage. This book covers the practical applications of data structures and algorithms to encryption, searching, sorting, and pattern matching.",
+            "lang": "English"
+        },
+        {
+            "id": 31,
+            "name": "Learn Keras for Deep Neural Networks",
+            "author": "Jojo Moolayil",
+            "tagline": "A Fast-Track Approach to Modern Deep Learning with Python",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/Learn%20Keras%20for%20Deep%20Neural%20Networks_%20A%20Fast-Track%20Approach%20to%20Modern%20Deep%20Learning%20with%20Python%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=26e59f65-bd25-4f0d-86d5-b01f46296fde",
+            "image": "https://m.media-amazon.com/images/I/51r6TOmiQHL.jpg",
+            "desc": "Learn, understand, and implement deep neural networks in a math- and programming-friendly approach using Keras and Python. The book focuses on an end-to-end approach to developing supervised learning algorithms in regression and classification with practical business-centric use-cases implemented in Keras.",
+            "lang": "English"
+        },
+        {
+            "id": 32,
+            "name": "Learn Python 3 The Hard Way",
+            "author": "Zed Shaw",
+            "tagline": "A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/Learn%20Python%203%20the%20Hard%20Way%20A%20Very%20Simple%20Introduction%20to%20the%20Terrifyingly%20Beautiful%20World%20of%20Computers%20and%20Code%20by%20Zed%20A.%20Shaw%20(z-lib.org)-compressed.pdf?alt=media&token=6ee00554-fd77-462b-bf57-adee618b9938",
+            "image": "https://m.media-amazon.com/images/I/51ko6ehpzEL.jpg",
+            "desc": "In Learn Python 3 the Hard Way, you’ll learn Python by working through 52 brilliantly crafted exercises. Read them. Type their code precisely. (No copying and pasting!) Fix your mistakes. Watch the programs run. As you do, you’ll learn how a computer works; what good programs look like; and how to read, write, and think about code. Zed then teaches you even more in 5+ hours of video where he shows you how to break, fix, and debug your code—live, as he’s doing the exercises.",
+            "lang": "English"
+        },
+        {
+            "id": 33,
+            "name": "Linux For Beginners",
+            "author": "Adam Vardy",
+            "tagline": "The Ultimate Guide To The Linux Operating System & Linux",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/Linux%20For%20Beginners_%20The%20Ultimate%20Guide%20To%20The%20Linux%20Operating%20System%20%26%20Linux%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=d3b4abbc-dfdd-4d66-95ef-f4c4d4449607",
+            "image": "https://m.media-amazon.com/images/I/51U0NCOFVrL.jpg",
+            "desc": "Linux For Beginners! Updated April 2016 The Ultimate Beginners Crash Course To Learning & Mastering Linux Are You Ready To Learn How To Use, Master & Configure Linux? If So You've Come To The Right Place - Regardless Of How Little Experience You May Have! There's a ton of other technical guides out there that aren't clear and concise, and in my opinion use far too much jargon.",
+            "lang": "English"
+        },
+        {
+            "id": 34,
+            "name": "Machine Learning with Python Cookbook",
+            "author": "Chris Albon",
+            "tagline": "Practical Solutions from Preprocessing to Deep Learning",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/Machine%20Learning%20with%20Python%20Cookbook_%20Practical%20Solutions%20from%20Preprocessing%20to%20Deep%20Learning%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=4490bee5-ce0a-4275-8b27-dac68d7fba85",
+            "image": "https://m.media-amazon.com/images/I/513xbu+BfpL.jpg",
+            "desc": "This practical guide provides nearly 200 self-contained recipes to help you solve machine learning challenges you may encounter in your daily work. If you're comfortable with Python and its libraries, including pandas and scikit-learn, you'll be able to address specific problems such as loading data, handling text or numerical data, model selection, and dimensionality reduction and many other topics. Each recipe includes code that you can copy and paste into a toy dataset to ensure that it actually works. From there, you can insert, combine, or adapt the code to help construct your application. Recipes also include a discussion that explains the solution and provides meaningful context. This cookbook takes you beyond theory and concepts by providing the nuts and bolts you need to construct working machine learning applications. You'll find recipes for: Vectors, matrices, and arrays Handling numerical and categorical data, text, images, and dates and times Dimensionality reduction using feature extraction or feature selection Model evaluation and selection Linear and logical regression, trees and forests, and k-nearest neighbors Support vector machines (SVM), naive Bayes, clustering, and neural networks Saving and loading trained models",
+            "lang": "English"
+        },
+        {
+            "id": 35,
+            "name": "Object Oriented Programming With C++",
+            "author": "E. Balagurusamy",
+            "tagline": "E. Balagurusamy",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/Object%20Oriented%20Programming%20With%20C%2B%2B%20by%20Balagurusamy%20(z-lib.org).pdf?alt=media&token=18ddd876-f189-4add-bee0-1522160a5a06",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51N4A59EAiL.jpg",
+            "desc": "Written by the most well known face of India's IT literacy movement, this book is designed for the first course in Object Oriented Programming with C++ taken by undergraduate students in Computers and Information Technology. It explores C++ in the light of its Object Oriented nature and simplifies it for novice programmers.",
+            "lang": "English"
+        },
+        {
+            "id": 36,
+            "name": "Operating System Concepts and Basic Linux Command",
+            "author": "Shital Vivek Ghate",
+            "tagline": "Shital Vivek Ghate",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/Operating%20System%20Concepts%20and%20Basic%20Linux%20Commands%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=7b0c9d63-e2dd-448e-b390-fbc29fdaa2a0",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91EpbXTYh4L.jpg",
+            "desc": "This book contains the introductory information about the operating system and the basics of Linux commands for graduation level studies. This book provides the concepts of operating system. It contains the fundamental concepts which are applicable to various operating systems. Unit-I explains what is operating system and how the concepts of operating system has developed, contains resource management, structure of operating system, services provided by operating system, types of operating systemit contains the common features of the operating system.",
+            "lang": "English"
+        },
+        {
+            "id": 37,
+            "name": "Practical Flutter",
+            "author": "Frank Zammetti",
+            "tagline": "Improve your Mobile Development with Google's Latest Open-Source SDK",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/Practical%20Flutter%20Improve%20your%20Mobile%20Development%20with%20Google%E2%80%99s%20Latest%20Open-Source%20SDK%20by%20Frank%20Zammetti%20(z-lib.org)-compressed.pdf?alt=media&token=2d3d06eb-fe04-4df9-89f2-b0fb4f0b696e",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61bx00TGIfL.jpg",
+            "desc": "Explore what Flutter has to offer, where it came from, and where it’s going. Mobile development is progressing at a fast rate and with Flutter – an open-source mobile application development SDK created by Google – you can develop applications for Android and iOS, as well as Google Fuchsia.Learn to create three apps (a personal information manager, a chat system, and a game project) that you can install on your mobile devices and use for real. You will begin by getting a solid foundation of Flutter knowledge, and building on it immediately by constructing two more traditional productivity apps.",
+            "lang": "English"
+        },
+        {
+            "id": 38,
+            "name": "Pro Angular 9",
+            "author": "Adam Freeman",
+            "tagline": "Build Powerful and Dynamic Web Apps",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/Pro%20Angular%209%20Build%20Powerful%20and%20Dynamic%20Web%20Apps%20by%20Adam%20Freeman%20(z-lib.org)-compressed.pdf?alt=media&token=4f68e468-a4f9-41b6-9eee-35ec9b74f3a2",
+            "image": "https://m.media-amazon.com/images/I/51flRbqnrFL.jpg",
+            "desc": "Welcome to this one-stop-shop for learning Angular. Pro Angular is the most concise and comprehensive guide available, giving you the knowledge you need to take full advantage of this popular framework for building your own dynamic JavaScript applications. The fourth edition of this full-color guide explains how to get the most from Angular, starting with an in-depth overview of the MVC pattern and presenting the range of benefits it can offer. From there, you will begin learning how to use Angular in your projects, starting with the nuts-and-bolts concepts, and progressing on to more advanced and sophisticated features.",
+            "lang": "English"
+        },
+        {
+            "id": 39,
+            "name": "Serious Python",
+            "author": "Julien Danjou",
+            "tagline": "Black-Belt Advice on Deployment, Scalability, Testing, and More",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/Serious%20Python_%20Black-Belt%20Advice%20on%20Deployment%2C%20Scalability%2C%20Testing%2C%20and%20More%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=b6e6c024-b88c-4f80-8ed0-bb2d7680f18d",
+            "image": "https://m.media-amazon.com/images/I/51KdxC4Da8L.jpg",
+            "desc": "An indispensable collection of practical tips and real-world advice for tackling common Python problems and taking your code to the next level. Features interviews with high-profile Python developers who share their tips, tricks, best practices, and real-world advice gleaned from years of experience. Sharpen your Python skills as you dive deep into the Python programming language with Serious Python. You'll cover a range of advanced topics like multithreading and memorization, get advice from experts on things like designing APIs and dealing with databases, and learn Python internals to help you gain a deeper understanding of the language itself.",
+            "lang": "English"
+        },
+        {
+            "id": 40,
+            "name": "The Full Stack Developer",
+            "author": "Chris Northwood",
+            "tagline": "Your Essential Guide to the Everyday Skills Expected of a Modern Full Stack Web Developer",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/The%20Full%20Stack%20Developer_%20Your%20Essential%20Guide%20to%20the%20Everyday%20Skills%20Expected%20of%20a%20Modern%20Full%20Stack%20Web%20Developer%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=cef4752d-e314-42c9-867f-d8a14cef5fcb",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41Leq5xMp7L.jpg",
+            "desc": "Understand the technical foundations, as well as the non-programming skills needed to be a successful full stack web developer. This book reveals the reasons why a truly successful full stack developer does more than write code. You will learn the principles of the topics needed to help a developer new to agile or full stack working—UX, project management, QA, product management, and more— all from the point of view of a developer.",
+            "lang": "English"
+        },
+        {
+            "id": 41,
+            "name": "Web Development with Angular and Bootstrap",
+            "author": "Sridhar Rao Chivukula, Aki Iskandar",
+            "tagline": "Embrace responsive web design and build adaptive Angular web applications",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/Web%20Development%20with%20Angular%20and%20Bootstrap%20Embrace%20responsive%20web%20design%20and%20build%20adaptive%20Angular%20web%20applications%20by%20Sridhar%20Rao%20Chivukula%20Aki%20Iskandar%20(z-lib.org)-compressed.pdf?alt=media&token=6d503f91-6458-4146-b342-fbbeabcbedf6",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51kH-nnH14L._SX258_BO1,204,203,200_.jpg",
+            "desc": "Combine the power of Angular, Bootstrap 4, FlexLayout, and Angular Material Design to build elegant user interfaces Key Features Learn to combine Angular 6 with Bootstrap 4 to design highly intuitive and responsive web interfaces Explore the design principles for professional web layout with Angular Material, Flexbox, and Bootstrap Avoid potential stumbling blocks in web development with the help of expert tips Book DescriptionAngular and Bootstrap have undergone a major overhaul to embrace emerging web technologies that help developers build cutting-edge web applications. This book is for you if you're ready to enhance your web development skills beyond HTML and CSS. It begins with the basics of Angular and Bootstrap 4, along with an introduction to ES and TypeScript.",
+            "lang": "English"
+        },
+        {
+            "id": 42,
+            "name": "Mastering Object-Oriented Python",
+            "author": "Steven F. Lott",
+            "tagline": "Build powerful applications with resuable code using OOP design pattern and Python 3.7",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/mastering%20object-oriented%20python%20by%20steven%20F.Lott%20(z-lib.org)-compressed.pdf?alt=media&token=d319867d-2789-43ed-83f9-f5050c7119ba",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/613hsHAlYwL.jpg",
+            "desc": "Gain comprehensive insights into programming practices, and code portability and reuse to build flexible and maintainable apps using object-oriented principles Key Features Extend core OOP techniques to increase integration of classes created with Python Explore various Python libraries for handling persistence and object serialization Learn alternative approaches for solving programming problems, with different attributes to address your problem domain Book DescriptionObject-oriented programming (OOP) is a relatively complex discipline to master, and it can be difficult to see how general principles apply to each language's unique features. With the help of the latest edition of Mastering Objected-Oriented Python, you'll be shown how to effectively implement OOP in Python, and even explore Python 3.x. Complete with practical examples, the book guides you through the advanced concepts of OOP in Python, and demonstrates how you can apply them to solve complex problems in OOP. You will learn how to create high-quality Python programs by exploring design alternatives and determining which design offers the best performance. Next, you'll work through special methods for handling simple object conversions and also learn about hashing and comparison of objects.",
+            "lang": "English"
+        },
+        {
+            "id": 43,
+            "name": "Beyond Artificial Intelligence",
+            "author": "Alain Cardon",
+            "tagline": "From Human Consciousness to Artificial Consciousness",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Beyond%20Artificial%20Intelligence_%20From%20Human%20Consciousness%20to%20Artificial%20Consciousness%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=baf5c812-15bc-4cf7-bfb1-3cb710cf6056",
+            "image": "https://media.wiley.com/product_data/coverImage300/90/17863035/1786303590.jpg",
+            "desc": "This book will present a complete modeling of the human psychic system that allows to generate the thoughts in a strictly organizational approach that mixes a rising and falling approach. The model will present the architecture of the psychic system that can generate sensations and thoughts, showing how one can feel thoughts. The model developed into an organizational architecture based on massive multiagent systems. The architecture will be fully developed, showing how an artificial system can be endowed with consciousness and intentionally generate thoughts and, especially, feel them. These results are multidisciplinary, combining both psychology and computer science disciplines.",
+            "lang": "English"
+        },
+        {
+            "id": 44,
+            "name": "Building Your Online Store with Wordpress and WooCommerce",
+            "author": "Lisa Sims",
+            "tagline": "Learn to Leverage the Critical Role Ecommerce Plays in Today's Competitive Marketplace",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Building%20Your%20Online%20Store%20with%20Wordpress%20and%20Woocommerce_%20Learn%20to%20Leverage%20the%20Critical%20Role%20Ecommerce%20Plays%20in%20Today%E2%80%99s%20Competitive%20Marketplace%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=43f125bb-5676-4ac5-8161-e316c8570caf",
+            "image": "https://images.springer.com/sgw/books/medium/9781484238455.jpg",
+            "desc": "Teaches you all about e-commerce and how to create your own online shop using WordPress and WooCommerce. Regardless of a business’s size, e-commerce helps level the playing field, increases a business’s exposure, allows companies to reach customers globally, and streamlines the fulfillment process. In the past, e-commerce websites were expensive, technically difficult, and time-consuming to create but not anymore. WordPress and WooCommerce together are a complete e-commerce solution that can be used to sell both physical and digital products online. You'll learn how to install WordPress and how to plan your e-commerce solution with WooCommerce as well as install, create, secure, test, and market a sample online store.",
+            "lang": "English"
+        },
+        {
+            "id": 45,
+            "name": "C++ Crash Course",
+            "author": "Josh Lospinoso",
+            "tagline": "A Fast-Paced Introduction",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/C%2B%2B%20Crash%20Course%20A%20Fast-Paced%20Introduction%20by%20Josh%20Lospinoso%20(z-lib.org)-compressed.pdf?alt=media&token=9b6c5cc6-aee0-4786-8ecc-60ae6e6233a4",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81SUknrOYVL.jpg",
+            "desc": "A fast-paced, thorough introduction to modern C++ written for experienced programmers. After reading C++ Crash Course, you'll be proficient in the core language concepts, the C++ Standard Library, and the Boost Libraries. C++ is one of the most widely used languages for real-world software. In the hands of a knowledgeable programmer, C++ can produce small, efficient, and readable code that any programmer would be proud of.",
+            "lang": "English"
+        },
+        {
+            "id": 46,
+            "name": "Clean Architecture",
+            "author": "Robert C. Martin",
+            "tagline": "A Craftsman's Guide to Software Structures and Design",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Clean%20Architecture%20A%20Craftsman%E2%80%99s%20Guide%20to%20Software%20Structure%20and%20Design%20by%20Robert%20C.%20Martin%20(z-lib.org)-compressed.pdf?alt=media&token=521b2b22-b217-4d95-8389-c264b9f20f5d",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/810b1DUyN-L.jpg",
+            "desc": "Practical Software Architecture Solutions from the Legendary Robert C. Martin (“Uncle Bob”) By applying universal rules of software architecture, you can dramatically improve developer productivity throughout the life of any software system. Now, building upon the success of his best-selling books Clean Code and The Clean Coder, legendary software craftsman Robert C. Martin (“Uncle Bob”) reveals those rules and helps you apply them. Martin’s Clean Architecture doesn’t merely present options. Drawing on over a half-century of experience in software environments of every imaginable type, Martin tells you what choices to make and why they are critical to your success. As you’ve come to expect from Uncle Bob, this book is packed with direct, no-nonsense solutions for the real challenges you’ll face—the ones that will make or break your projects. Learn what software architects need to achieve—and core disciplines and practices for achieving it Master essential software design principles for addressing function, component separation, and data management See how programming paradigms impose discipline by restricting what developers can do Understand what’s critically important and what’s merely a “detail” Implement optimal, high-level structures for web, database, thick-client, console, and embedded applications Define appropriate boundaries and layers, and organize components and services.",
+            "lang": "English"
+        },
+        {
+            "id": 47,
+            "name": "Cyber Operations",
+            "author": "Mike O'Leary",
+            "tagline": "Building, Defending, and Attacking Modern Computer Networks",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Cyber%20Operations_%20Building%2C%20Defending%2C%20and%20Attacking%20Modern%20Computer%20Networks%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=dda3c39c-8abb-4aa1-a44c-7f969653a176",
+            "image": "https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4842-4294-0",
+            "desc": "Cyber Operations walks you through all the processes to set up, defend, and attack computer networks. This book focuses on networks and real attacks, offers extensive coverage of offensive and defensive techniques, and is supported by a rich collection of exercises and resources. You'll learn how to configure your network from the ground up, starting by setting up your virtual test environment with basics like DNS and active directory, through common network services, and ending with complex web applications involving web servers and backend databases.",
+            "lang": "English"
+        },
+        {
+            "id": 48,
+            "name": "Cyber Security",
+            "author": "Thomas A. Jhonson",
+            "tagline": "Protecting Critical Infrastructures from Cyber Attack and Cyber Warfare",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Cyber-security%20Protecting%20Critical%20Infrastructures%20from%20Cyber%20Attack%20and%20Cyber%20Warfare%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=27b93b37-6fe1-4bb5-b8ca-608263a2e2a4",
+            "image": "https://images.tandf.co.uk/common/jackets/agentjpg/978148223/9781482239225.jpg",
+            "desc": "The World Economic Forum regards the threat of cyber attack as one of the top five global risks confronting nations of the world today. Cyber attacks are increasingly targeting the core functions of the economies in nations throughout the world. The threat to attack critical infrastructures, disrupt critical services, and induce a wide range of dam.",
+            "lang": "English"
+        },
+        {
+            "id": 49,
+            "name": "Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow",
+            "author": "Aurelien Géron",
+            "tagline": "Concepts, Tools, and Techniques to Build Intelligent Systems",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%2C%20and%20Tensorflow%20Concepts%2C%20Tools%2C%20and%20Techniques%20to%20Build%20Intelligent%20Systems%20by%20Aur%C3%A9lien%20G%C3%A9ron%20(z-lib.org)-compressed.pdf?alt=media&token=82ed286f-0b8d-4ab2-92a8-f3164458ebbb",
+            "image": "https://user-images.githubusercontent.com/835329/61048739-00edd100-a3e3-11e9-986b-d8db9f708273.png",
+            "desc": "Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning. Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data. This practical book shows you how. By using concrete examples, minimal theory, and two production-ready Python frameworks―Scikit-Learn and TensorFlow―author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each chapter to help you apply what you’ve learned, all you need is programming experience to get started.",
+            "lang": "English"
+        },
+        {
+            "id": 50,
+            "name": "Impractical Python Projects",
+            "author": "Lee Vaughan",
+            "tagline": "Playful Programming Activities to Make You Smarter",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Impractical%20Python%20Projects%20Playful%20Programming%20Activities%20to%20Make%20You%20Smarter%20by%20Lee%20Vaughan%20(z-lib.org)-compressed.pdf?alt=media&token=04e09add-6c56-490d-9156-681c70b1fb1c",
+            "image": "https://m.media-amazon.com/images/I/51bbaMvwj6L.jpg",
+            "desc": "Impractical Python Projects is a collection of fun and educational projects designed to entertain programmers while enhancing their Python skills. It picks up where the complete beginner books leave off, expanding on existing concepts and introducing new tools that you'll use every day. And to keep things interesting, each project includes a zany twist featuring historical incidents, pop culture references, and literary allusions.",
+            "lang": "English"
+        },
+        {
+            "id": 51,
+            "name": "Invent Your Own Computer Games with Python",
+            "author": "Al Sweigart",
+            "tagline": "Al Sweigart",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Invent%20Your%20Own%20Computer%20Games%20with%20Python%20by%20Al%20Sweigart%20(z-lib.org)-compressed.pdf?alt=media&token=647ec09d-92aa-4d0a-91ae-8d9bc5198011",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91d-3mzu8HL.jpg",
+            "desc": "Invent Your Own Computer Games with Python will teach you how to make computer games using the popular Python programming language—even if you’ve never programmed before! Begin by building classic games like Hangman, Guess the Number, and Tic-Tac-Toe, and then work your way up to more advanced games, like a text-based treasure hunting game and an animated collision-dodging game with sound effects. Along the way, you’ll learn key programming and math concepts that will help you take your game programming to the next level.",
+            "lang": "English"
+        },
+        {
+            "id": 52,
+            "name": "Kali Linux Revealed",
+            "author": "Raphael Hertzog, Jim O'Gorman, Mati Aharoni",
+            "tagline": "Mastering the Penetration Testing Distribution",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Kali%20Linux%20Revealed%20Mastering%20the%20Penetration%20Testing%20Distribution%20by%20Rapha%C3%ABl%20Hertzog%20Jim%20O%E2%80%99Gorman%20Mati%20Aharoni%20(z-lib.org)-compressed.pdf?alt=media&token=a37007fd-428a-4d6d-9272-e053487e4193",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71WlEeiwLTL.jpg",
+            "desc": "Kali Linux has not only become the information security professional's platform of choice, but evolved into an industrial-grade, and world-class operating system distribution--mature, secure, and enterprise-ready. Through the decade-long development process, Muts and his team, along with countless volunteers from the hacker community, have taken on the burden of streamlining and organizing our work environment, freeing us from much of the drudgery. They provided a secure and reliable foundation, allowing us to concentrate on securing our digital world.",
+            "lang": "English"
+        },
+        {
+            "id": 53,
+            "name": "Learn Java The Easy Way",
+            "author": "Bryson Payne",
+            "tagline": "A Hands-on Introduction to Programming",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Learn%20Java%20the%20Easy%20Way_%20A%20Hands-On%20Introduction%20to%20Programming%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=994f3edb-d0c8-4a2f-99fe-99e6451c1c1d",
+            "image": "https://m.media-amazon.com/images/I/51tY-ivMKaL.jpg",
+            "desc": "Java is the world’s most popular programming language, but it’s known for having a steep learning curve. Learn Java the Easy Way takes the chore out of learning Java with hands-on projects that will get you building real, functioning apps right away. You’ll start by familiarizing yourself with JShell, Java’s interactive command line shell that allows programmers to run single lines of code and get immediate feedback. Then, you’ll create a guessing game, a secret message encoder, and a multitouch bubble-drawing app for both desktop and mobile devices using Eclipse, an industry-standard IDE, and Android Studio, the development environment for making Android apps.",
+            "lang": "English"
+        },
+        {
+            "id": 54,
+            "name": "Math Adventures With Python",
+            "author": "Peter Farrell",
+            "tagline": "An Illustrated Guide to Exploring Math with Code",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Math%20Adventures%20with%20Python%20An%20Illustrated%20Guide%20to%20Exploring%20Math%20with%20Code%20by%20Farrell%2C%20P.%20(z-lib.org)-compressed.pdf?alt=media&token=a57cd532-360d-46e5-bc27-ca018f0cbe94",
+            "image": "https://m.media-amazon.com/images/I/51AwWtGkaPL.jpg",
+            "desc": "Learn math by getting creative with code! Use the Python programming language to transform learning high school-level math topics like algebra, geometry, trigonometry, and calculus! Math Adventures with Python will show you how to harness the power of programming to keep math relevant and fun. With the aid of the Python programming language, you'll learn how to visualize solutions to a range of math problems as you use code to explore key mathematical concepts like algebra, trigonometry, matrices, and cellular automata.",
+            "lang": "English"
+        },
+        {
+            "id": 55,
+            "name": "Numerical Python",
+            "author": "Robert Johansson",
+            "tagline": "Scientific Computing and Data Science Application with Numpy, SciPy and Matplotlib",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Numerical%20Python%20Scientific%20Computing%20and%20Data%20Science%20Applications%20with%20Numpy%2C%20SciPy%20and%20Matplotlib%20by%20Robert%20Johansson%20(z-lib.org)-compressed.pdf?alt=media&token=9ab5e39f-f041-46b4-a649-7df6830a04ef",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61YNqJZzbEL.jpg",
+            "desc": "Leverage the numerical and mathematical modules in Python and its standard library as well as popular open source numerical Python packages like NumPy, SciPy, FiPy, matplotlib and more. This fully revised edition, updated with the latest details of each package and changes to Jupyter projects, demonstrates how to numerically compute solutions and mathematically model applications in big data, cloud computing, financial engineering, business management and more.  Numerical Python, Second Edition, presents many brand-new case study examples of applications in data science and statistics using Python, along with extensions to many previous examples. Each of these demonstrates the power of Python for rapid development and exploratory computing due to its simple and high-level syntax and multiple options for data analysis.",
+            "lang": "English"
+        },
+        {
+            "id": 56,
+            "name": "Pro Deep Learning with TensorFlow",
+            "author": "Santanu Pattanayak",
+            "tagline": "A Mathematical Approach to Advanced Artificial Intelligence in Python",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Pro%20Deep%20Learning%20with%20TensorFlow_%20A%20Mathematical%20Approach%20to%20Advanced%20Artificial%20Intelligence%20in%20Python%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=e4a5c9b5-e3d3-442a-9d16-1cbf568a9444",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41QpXBDGUpL._SX348_BO1,204,203,200_.jpg",
+            "desc": "Deploy deep learning solutions in production with ease using TensorFlow. You'll also develop the mathematical understanding and intuition required to invent new deep learning architectures and solutions on your own. Pro Deep Learning with TensorFlow provides practical, hands-on expertise so you can learn deep learning from scratch and deploy meaningful deep learning solutions. This book will allow you to get up to speed quickly using TensorFlow and to optimize different deep learning architectures.",
+            "lang": "English"
+        },
+        {
+            "id": 57,
+            "name": "Python Artificial Intelligence Projects for Beginners",
+            "author": "Joshua Eckorth",
+            "tagline": "Get up and running with Artificial Intelligence using 8 smart and exciting AI applications",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Python%20Artificial%20Intelligence%20Projects%20for%20Beginners_%20Get%20up%20and%20running%20with%20Artificial%20Intelligence%20using%208%20smart%20and%20exciting%20AI%20applications%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=18c8c503-d6ad-4c47-bc26-da7408413818",
+            "image": "https://www.packtpub.com/media/catalog/product/cache/4cdce5a811acc0d2926d7f857dceb83b/b/1/b11518.png",
+            "desc": "Artificial Intelligence (AI) is the newest technology that’s being employed among varied businesses, industries, and sectors. Python Artificial Intelligence Projects for Beginners demonstrates AI projects in Python, covering modern techniques that make up the world of Artificial Intelligence. This book begins with helping you to build your first prediction model using the popular Python library, scikit-learn. You will understand how to build a classifier using an effective machine learning technique, random forest, and decision trees. With exciting projects on predicting bird species, analyzing student performance data, song genre identification, and spam detection, you will learn the fundamentals and various algorithms and techniques that foster the development of these smart applications. In the concluding chapters, you will also understand deep learning and neural network mechanisms through these projects with the help of the Keras library.",
+            "lang": "English"
+        },
+        {
+            "id": 58,
+            "name": "Wicked Cool Shell Scripts",
+            "author": "Dave Taylor, Brandon Perry",
+            "tagline": "101 Scripts for Linux, OS X, and Unix System",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Wicked%20Cool%20Shell%20Scripts%20101%20Scripts%20for%20Linux%2C%20OS%20X%2C%20and%20UNIX%20Systems%20by%20Dave%20Taylor%2C%20Brandon%20Perry%20(z-lib.org).pdf?alt=media&token=b8e0792d-4745-4094-8772-bbd815247eac",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91yPEGKwJ1L.jpg",
+            "desc": "All computers running Linux, Mac OS X, or Unix-like operating systems have a command line interface that gives users a powerful alternative to managing their computers and learning programming basics. Users can write small programs, or scripts, that run in the command line 'shell' to perform everyday tasks like renaming files or processing text. Like the best-selling first edition, this revision of Wicked Cool Shell Scripts provides the full source code for over 100 short shell scripts that solve common problems, can be used to personalize a user's computing environment, and are just plain entertaining. The tools include an interactive calculator, a stock tracker, a password manager, a weather checker, and a website search engine.",
+            "lang": "English"
+        },
+        {
+            "id": 59,
+            "name": "eCommerce in the Cloud",
+            "author": "Kelly Goetsch",
+            "tagline": "Bringing Elasticity to Ecommerce",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/eCommerce%20in%20the%20Cloud_%20Bringing%20Elasticity%20to%20eCommerce%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=5bf36ca7-c732-431a-9cc0-910536468451",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91xBKSEFuvL._SL1500_.jpg",
+            "desc": "Is your eCommerce solution ready for the cloud? This practical guide shows experienced and aspiring web architects alike how to adopt cloud computing incrementally, using public Infrastructure-as-a-Service and Platform-as-a-Service. You will learn how to marshal as much capacity as you need to handle peak holiday or special-event traffic. Written by eCommerce expert Kelly Goetsch, this book helps architects leverage recent technological advances that have made it possible to run an entire enterprise-level eCommerce platform from a cloud.",
+            "lang": "English"
+        },
+        {
+            "id": 60,
+            "name": "Beginning PHP and MySQL",
+            "author": "Frank M. Kromann",
+            "tagline": "From Novice to Professional",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Beginning%20PHP%20and%20MySQL_%20From%20Novice%20to%20Professional%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=3ca09ed9-da15-4e96-bb25-68b5aff1eeb2",
+            "image": "https://images.springer.com/sgw/books/medium/9781430260431.jpg",
+            "desc": "Written for the budding web developer searching for a powerful, low-cost solution for building flexible, dynamic web sites. Essentially three books in one: provides thorough introductions to the PHP language and the MySQL database, and shows you how these two technologies can be effectively integrated to build powerful websites.",
+            "lang": "English"
+        },
+        {
+            "id": 61,
+            "name": "Building Chatbots with Python",
+            "author": "Sumit Raj",
+            "tagline": "Using Natural Language Processing and Machine Learning",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Building%20Chatbots%20with%20Python%20Using%20Natural%20Language%20Processing%20and%20Machine%20Learning%20by%20Sumit%20Raj%20(z-lib.org)-compressed.pdf?alt=media&token=8e6c477d-f823-4034-a2b8-7bfa51019376",
+            "image": "https://m.media-amazon.com/images/I/519AeVgF8NL.jpg",
+            "desc": "Build your own chatbot using Python and open source tools. This book begins with an introduction to chatbots where you will gain vital information on their architecture. You will then dive straight into natural language processing with the natural language toolkit (NLTK) for building a custom language processing platform for your chatbot. With this foundation, you will take a look at different natural language processing techniques so that you can choose the right one for you.",
+            "lang": "English"
+        },
+        {
+            "id": 62,
+            "name": "Computer Architecture",
+            "author": "John L. Hennessy, David A. Patterson",
+            "tagline": "A Quantitive Approach",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Computer%20Architecture%2C%20Sixth%20Edition_%20A%20Quantitative%20Approach%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=5b2ceb5c-06bc-4a9e-8c2e-52bee153c170",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51HjJG5krmL.jpg",
+            "desc": "Computer Architecture: A Quantitative Approach, Sixth Edition has been considered essential reading by instructors, students and practitioners of computer design for over 20 years. The sixth edition of this classic textbook from Hennessy and Patterson, winners of the 2017 ACM A.M. Turing Award recognizing contributions of lasting and major technical importance to the computing field, is fully revised with the latest developments in processor and system architecture. The text now features examples from the RISC-V (RISC Five) instruction set architecture, a modern RISC instruction set developed and designed to be a free and openly adoptable standard. It also includes a new chapter on domain-specific architectures and an updated chapter on warehouse-scale computing that features the first public information on Google's newest WSC.",
+            "lang": "English"
+        },
+        {
+            "id": 63,
+            "name": "Deep Learning for Coders with fastai & PyTorch",
+            "author": "Jeremy Howard, Sylvain Gugger",
+            "tagline": "AI Applications Without a PhD",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Deep%20Learning%20for%20Coders%20With%20Fastai%20and%20PyTorch%20AI%20Applications%20Without%20a%20PhD%20by%20Jeremy%20Howard%20(z-lib.org)-compressed.pdf?alt=media&token=46117d3a-9fb2-4663-9b34-783fea5808b8",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91CB1tXICjL.jpg",
+            "desc": "Deep learning is often viewed as the exclusive domain of math PhDs and big tech companies. But as this hands-on guide demonstrates, programmers comfortable with Python can achieve impressive results in deep learning with little math background, small amounts of data, and minimal code. How? With fastai, the first library to provide a consistent interface to the most frequently used deep learning applications.",
+            "lang": "English"
+        },
+        {
+            "id": 64,
+            "name": "JavaScript The Definitive Guide",
+            "author": "David Flanagan",
+            "tagline": "Master the World's Most-Used Programming Language",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/JavaScript%20The%20Definitive%20Guide%20Master%20the%20Worlds%20Most-Used%20Programming%20Language%20by%20David%20Flanagan%20(z-lib.org)-compressed.pdf?alt=media&token=ff81f1ca-898f-42d0-8ea4-f301344eb4bf",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91hUer84PpL.jpg",
+            "desc": "JavaScript is a simple programming language from Netscape that can be embedded in your HTML Web pages. It allows you to control the behavior of the Web browser, add dynamically created text to your Web pages, interact with the user through HTML forms (withoutCGI scripts), and, in version 3.0 of Netscape Navigator, even control and interact with Java applets and Navigator plugins.",
+            "lang": "English"
+        },
+        {
+            "id": 65,
+            "name": "Learning OpenCV 3",
+            "author": "Adrian Kaehler, Gary Bradski",
+            "tagline": "Computer Vision in C++ with the OpenCV Library",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Learning%20OpenCV%203_%20Computer%20Vision%20in%20C%2B%2B%20with%20the%20OpenCV%20Library%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=ff229106-7ef7-4ea4-a9b5-26bbfe90fb89",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91E0M-1ifnL.jpg",
+            "desc": "Learning OpenCV puts you in the middle of the rapidly expanding field of computer vision. Written by the creators of the free open source OpenCV library, this book introduces you to computer vision and demonstrates how you can quickly build applications that enable computers to 'see' and make decisions based on that data. Computer vision is everywhere-in security systems, manufacturing inspection systems, medical image analysis, Unmanned Aerial Vehicles, and more. It stitches Google maps and Google Earth together, checks the pixels on LCD screens, and makes sure the stitches in your shirt are sewn properly. OpenCV provides an easy-to-use computer vision framework and a comprehensive library with more than 500 functions that can run vision code in real time.",
+            "lang": "English"
+        },
+        {
+            "id": 66,
+            "name": "Learning Web Design",
+            "author": "Jennifer Niederst Robbins",
+            "tagline": "A Beginners's Guide to HTML, CSS, JavaScript, and Web Graphics",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Learning%20Web%20Design%20_%20A%20Beginner%E2%80%99s%20Guide%20to%20HTML%2C%20CSS%2C%20JavaScript%2C%20and%20Web%20Graphics%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=99c42eb9-6c03-4892-b922-696b46379bc2",
+            "image": "https://www.learningwebdesign.com/images/lwd5_cover.png",
+            "desc": "Do you want to build web pages but have no prior experience? This friendly guide is the perfect place to start. You’ll begin at square one, learning how the web and web pages work, and then steadily build from there. By the end of the book, you’ll have the skills to create a simple site with multicolumn pages that adapt for mobile devices. This thoroughly revised edition is ideal for students and professionals of all backgrounds and skill levels. It is simple and clear enough for beginners, yet thorough enough to be a useful reference for experienced developers keeping their skills up to date.",
+            "lang": "English"
+        },
+        {
+            "id": 67,
+            "name": "Machine Learning Applications Using Python",
+            "author": "Puneet Mathur",
+            "tagline": "Cases Studies from Healthcare, Retail, and Finance",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Machine%20Learning%20Applications%20Using%20Python_%20Cases%20Studies%20from%20Healthcare%2C%20Retail%2C%20and%20Finance%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=96ac59cb-fb40-4350-97d3-b7c9a693c52d",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/611Ku-6ttZL.jpg",
+            "desc": "Gain practical skills in machine learning for finance, healthcare, and retail. This book uses a hands-on approach by providing case studies from each of these domains: you’ll see examples that demonstrate how to use machine learning as a tool for business enhancement. As a domain expert, you will not only discover how machine learning is used in finance, healthcare, and retail, but also work through practical case studies where machine learning has been implemented. Machine Learning Applications Using Python is divided into three sections, one for each of the domains (healthcare, finance, and retail). Each section starts with an overview of machine learning and key technological advancements in that domain. You’ll then learn more by using case studies on how organizations are changing the game in their chosen markets. This book has practical case studies with Python code and domain-specific innovative ideas for monetizing machine learning.",
+            "lang": "English"
+        },
+        {
+            "id": 68,
+            "name": "Microservies Patterns",
+            "author": "Chris Richardson",
+            "tagline": "With Examples in Java",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Microservices%20Patterns_%20With%20examples%20in%20Java%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=96bb1693-19b2-4c95-b1f0-9190aba72f82",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71eY7tYDS4L.jpg",
+            "desc": "Microservices Patterns teaches you 44 reusable patterns to reliably develop and deploy production-quality microservices-based applications. This invaluable set of design patterns builds on decades of distributed system experience, adding new patterns for composing services into systems that scale and perform under real-world conditions. More than just a patterns catalog, this practical guide with worked examples offers industry-tested advice to help you design, implement, test, and deploy your microservices-based application.",
+            "lang": "English"
+        },
+        {
+            "id": 69,
+            "name": "Natural Language Processing Recipes",
+            "author": "Akshay Kulkarni, Adarsha Shivananda",
+            "tagline": "Unlocking Text Data with Machine Learning and Deep Learning using Python",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Natural%20Language%20Processing%20Recipes_%20Unlocking%20Text%20Data%20with%20Machine%20Learning%20and%20Deep%20Learning%20using%20Python%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=55e6df68-f55e-4939-b17d-25164ced7179",
+            "image": "https://images.springer.com/sgw/books/medium/9781484242667.jpg",
+            "desc": "Implement natural language processing applications with Python using a problem-solution approach. This book has numerous coding exercises that will help you to quickly deploy natural language processing techniques, such as text classification, parts of speech identification, topic modeling, text summarization, text generation, entity extraction, and sentiment analysis.",
+            "lang": "English"
+        },
+        {
+            "id": 70,
+            "name": "Practical C++ Design",
+            "author": "Adam B. Singer",
+            "tagline": "From Programming to Architecture",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Practical%20C%2B%2B%20Design_%20From%20Programming%20to%20Architecture%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=103e371c-b57a-4833-aedd-02e71d122620",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61wTlBF0dlL.jpg",
+            "desc": "Go from competent C++ developer to skilled designer or architect using this book as your C++ design master class. This title will guide you through the design and implementation of a fun, engaging case study. Starting with a quick exploration of the requirements for building the application, you'll delve into selecting an appropriate architecture, eventually designing and implementing all of the necessary modules to meet the project’s requirements.",
+            "lang": "English"
+        },
+        {
+            "id": 71,
+            "name": "Test-Driven Development with Python",
+            "author": "Harry J.W. Percival",
+            "tagline": "Obey the Testing Goat: Using Django, Selenium & JavaScript",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Test-Driven%20Development%20with%20Python%20Obey%20the%20Testing%20Goat%20Using%20Django%2C%20Selenium%2C%20and%20JavaScript%20by%20Percival%2C%20H.J.W.%20(z-lib.org)-compressed.pdf?alt=media&token=1a24dffa-fc0c-488d-8f25-7778dc12f6f6",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/717rz1yW-3L.jpg",
+            "desc": "By taking you through the development of a real web application from beginning to end, the second edition of this hands-on guide demonstrates the practical advantages of test-driven development (TDD) with Python. You’ll learn how to write and run tests before building each part of your app, and then develop the minimum amount of code required to pass those tests. The result? Clean code that works.",
+            "lang": "English"
+        },
+        {
+            "id": 72,
+            "name": "Web Scraping with Python",
+            "author": "Ryan Mitchell",
+            "tagline": "Collecting More Data from the Modern Web",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Web%20Scraping%20with%20Python%20Collecting%20More%20Data%20from%20the%20Modern%20Web%20by%20Ryan%20Mitchell%20(z-lib.org)-compressed%20(1).pdf?alt=media&token=5a619bbb-8e51-46c8-b0c7-c34e877ec9b9",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91gpT8bwJjL.jpg",
+            "desc": "If programming is magic then web scraping is surely a form of wizardry. By writing a simple automated program, you can query web servers, request data and parse it to extract the information you need. The expanded edition of this practical book not only introduces you web scraping, but also serves as a comprehensive guide to scraping almost every type of data from the modern web.",
+            "lang": "English"
+        },
+        {
+            "id": 73,
+            "name": "Algorithms",
+            "author": "Robert Sedgewick, Kevin Wayne",
+            "tagline": "Essential Information about Algorithms and Data Structures",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book6-71fc8.appspot.com/o/Algorithms%2C%204th%20Edition%20Essential%20Information%20about%20Algorithms%20and%20Data%20Structures%20by%20Robert%20Sedgewick%2C%20Kevin%20Wayne%20(z-lib.org)-compressed.pdf?alt=media&token=6a5eb721-e66f-4910-9cdd-80412504a33f",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41HrMSnMfUL._SX400_BO1,204,203,200_.jpg",
+            "desc": "This fourth edition of Robert Sedgewick and Kevin Wayne’s Algorithms is the leading textbook on algorithms today and is widely used in colleges and universities worldwide. This book surveys the most important computer algorithms currently in use and provides a full treatment of data structures and algorithms for sorting, searching, graph processing, and string processing--including fifty algorithms every programmer should know. In this edition, new Java implementations are written in an accessible modular programming style, where all of the code is exposed to the reader and ready to use.",
+            "lang": "English"
+        },
+        {
+            "id": 74,
+            "name": "Computer Graphics, C Version",
+            "author": "Donald Hearn, M. Pauline Baker",
+            "tagline": "Donald Baker, M. Pauline Hearn",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book6-71fc8.appspot.com/o/Computer%20Graphics%2C%20C%20Version%20by%20Donald%20Baker%2C%20M.%20Pauline%20Hearn%20(z-lib.org).pdf?alt=media&token=e0deed06-fcfa-4643-8c84-06d86e638306",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51R20C3M3SL.jpg",
+            "desc": "Reflecting the rapid expansion of the use of computer graphics and of C as a programming language of choice for implementation, this new version of the best-selling Hearn and Baker text converts all programming code into the C language. Assuming the reader has no prior familiarity with computer graphics, the authors present basic principles for design, use, and understanding of computer graphics systems. The authors are widely considered authorities in computer graphics, and are known for their accessible writing style. A free Open GL supplement is available via the texts Prentice Hall Catalog page.",
+            "lang": "English"
+        },
+        {
+            "id": 75,
+            "name": "Computer Networking",
+            "author": "Kurose, Ross",
+            "tagline": "A Top-Down Approach",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book6-71fc8.appspot.com/o/Computer%20Networking%20A%20Top-Down%20Approach%2C%207th%20Edition%20by%20James%20Kurose%2C%20Keith%20Ross%20(z-lib.org).pdf?alt=media&token=fd62c631-d636-44db-907f-cbc9222cec58",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51xp1%2BoDRML._AC_UL600_SR486,600_.jpg",
+            "desc": "Unique among computer networking texts, the Seventh Edition of the popular Computer Networking: A Top Down Approach builds on the author’s long tradition of teaching this complex subject through a layered approach in a “top-down manner.” The text works its way from the application layer down toward the physical layer, motivating readers by exposing them to important concepts early in their study of networking. Focusing on the Internet and the fundamentally important issues of networking, this text provides an excellent foundation for readers interested in computer science and electrical engineering, without requiring extensive knowledge of programming or mathematics. The Seventh Edition has been updated to reflect the most important and exciting recent advances in networking.",
+            "lang": "English"
+        },
+        {
+            "id": 76,
+            "name": "Cracking Coding Interview",
+            "author": "Gayle Laakmann Mcdowell",
+            "tagline": "189 Programming Questions & Solutions",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book6-71fc8.appspot.com/o/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions%20by%20Gayle%20Laakmann%20McDowell%20(z-lib.org).pdf?alt=media&token=c18febd5-ba7a-47a4-a6ca-ce5bba99bbde",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/410hiaPGyCL._SX348_BO1,204,203,200_.jpg",
+            "desc": "189 programming interview questions, ranging from the basics to the trickiest algorithm problems. - A walk-through of how to derive each solution, so that you can learn how to get there yourself. - Hints on how to solve each of the 189 questions, just like what you would get in a real interview. - Five proven strategies to tackle algorithm questions, so that you can solve questions you haven't seen. - Extensive coverage of essential topics, such as big O time, data structures, and core algorithms. - A behind the scenes look at how top companies like Google and Facebook hire developers. - Techniques to prepare for and ace the soft side of the interview: behavioral questions. - For interviewers and companies: details on what makes a good interview question and hiring process.",
+            "lang": "English"
+        },
+        {
+            "id": 77,
+            "name": "Deep Learning from Scratch",
+            "author": "Seth Weidmon",
+            "tagline": "Building with Python from First Principles",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book6-71fc8.appspot.com/o/Deep%20Learning%20from%20Scratch%20Building%20with%20Python%20from%20First%20Principles%20by%20Seth%20Weidman%20(z-lib.org).epub-compressed.pdf?alt=media&token=6d066721-14b6-4db1-9809-1716f728e656",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51ENSG38FYL._SX258_BO1,204,203,200_.jpg",
+            "desc": "With the resurgence of neural networks in the 2010s, deep learning has become essential for machine learning practitioners and even many software engineers. This book provides a comprehensive introduction for data scientists and software engineers with machine learning experience. You’ll start with deep learning basics and move quickly to the details of important advanced architectures, implementing everything from scratch along the way.",
+            "lang": "English"
+        },
+        {
+            "id": 78,
+            "name": "Doing Math with Python",
+            "author": "Amit Saha",
+            "tagline": "Use Programming to Explore Algebra, Statistics, Calculus, and More",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book6-71fc8.appspot.com/o/Doing%20Math%20with%20Python%20Use%20Programming%20to%20Explore%20Algebra%2C%20Statistics%2C%20Calculus%2C%20and%20More%20by%20Amit%20Saha%20(z-lib.org)-compressed%20(1).pdf?alt=media&token=0a81543e-2533-468f-b0ab-6ace5c2fbb83",
+            "image": "https://m.media-amazon.com/images/I/51ObPO65iAL.jpg",
+            "desc": "Doing Math with Python shows you how to use Python to delve into high school—level math topics like statistics, geometry, probability, and calculus. You'll start with simple projects, like a factoring program and a quadratic-equation solver, and then create more complex projects once you've gotten the hang of things. Along the way, you'll discover new ways to explore math and gain valuable programming skills that you'll use throughout your study of math and computer science.",
+            "lang": "English"
+        },
+        {
+            "id": 79,
+            "name": "Fluent Python",
+            "author": "Luciano Ramalho",
+            "tagline": "Clear, Concise, and Effecive Programming",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book6-71fc8.appspot.com/o/Fluent%20Python%20by%20Luciano%20Ramalho%20(z-lib.org)-compressed.pdf?alt=media&token=7e474f0d-76e6-4fd9-8750-700d8acb80ef",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41R+fNX-akL._SX379_BO1,204,203,200_.jpg",
+            "desc": "Python’s simplicity lets you become productive quickly, but this often means you aren’t using everything it has to offer. With this hands-on guide, you’ll learn how to write effective, idiomatic Python code by leveraging its best—and possibly most neglected—features. Author Luciano Ramalho takes you through Python’s core language features and libraries, and shows you how to make your code shorter, faster, and more readable at the same time. Many experienced programmers try to bend Python to fit patterns they learned from other languages, and never discover Python features outside of their experience. With this book, those Python programmers will thoroughly learn how to become proficient in Python 3.",
+            "lang": "English"
+        },
+        {
+            "id": 80,
+            "name": "MongoDB The Definitive Guide",
+            "author": "Shannon Bradshaw, Eoin Brazil, Kristina Chodorow",
+            "tagline": "Powerful and Scalable Data Storage",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book6-71fc8.appspot.com/o/MongoDB%20The%20Definitive%20Guide%20Powerful%20and%20Scalable%20Data%20Storage%203rd%20Edition%20by%20Kristina%20Chodorow%20Eoin%20Brazil%20Shannon%20Bradshaw%20(z-lib.org).epub-compressed.pdf?alt=media&token=0be01c22-d11d-4ffe-a397-e4554c4f727f",
+            "image": "https://m.media-amazon.com/images/I/51n4OPvZiWL.jpg",
+            "desc": "Manage your data with a system designed to support modern application development. Updated for MongoDB 4.2, the third edition of this authoritative and accessible guide shows you the advantages of using document-oriented databases. You’ll learn how this secure, high-performance system enables flexible data models, high availability, and horizontal scalability. Authors Shannon Bradshaw, Eoin Brazil, and Kristina Chodorow provide guidance for database developers, advanced configuration for system administrators, and use cases for a variety of projects. NoSQL newcomers and experienced MongoDB users will find updates on querying, indexing, aggregation, transactions, replica sets, ops management, sharding and data administration, durability, monitoring, and security.",
+            "lang": "English"
+        },
+        {
+            "id": 81,
+            "name": "The Road to Learn React",
+            "author": "Robin Wieruch",
+            "tagline": "Your journey to Master Plain Yet Pragmatic React.js",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book6-71fc8.appspot.com/o/The%20Road%20to%20learn%20React%20Your%20journey%20to%20master%20plain%20yet%20pragmatic%20React.js%20by%20Robin%20Wieruch%20(z-lib.org)-compressed.pdf?alt=media&token=b6f21610-72ad-4309-bf12-31287beca52c",
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/411PLvo%2BcxL._SX342_SY445_QL70_ML2_.jpg",
+            "desc": "In 'The Road to React' you will learn about all the fundamentals of React.js with Hooks while building a full-blown React application step by step. While you create the React application, every chapter will introduce you to a new React key feature. However, there is more than only the fundamentals: The book dives into related topics (e.g. React with TypeScript, Testing, Performance Optimizations) and advanced feature implementations like client- and server-side searching. At the end of the book, you will have a fully working deployed React application.",
+            "lang": "English"
+        },
+        {
+            "id": 82,
+            "name": "The TCP/IP Guide",
+            "author": "Charles M. Kozeirok",
+            "tagline": "A Comprehensive, Illustrated Internet Protocols Reference",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book6-71fc8.appspot.com/o/The%20TCPIP%20Guide%20A%20Comprehensive%2C%20Illustrated%20Internet%20Protocols%20Reference%20by%20Charles%20M.%20Kozierok%20(z-lib.org).pdf?alt=media&token=a7f0b0c3-70ec-4f12-8bf5-d4f022f06215",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71057rOKsIL.jpg",
+            "desc": "From Charles M. Kozierok, the creator of the highly regarded www.pcguide.com, comes The TCP/IP Guide. This completely up-to-date, encyclopedic reference on the TCP/IP protocol suite will appeal to newcomers and the seasoned professional alike. Kozierok details the core protocols that make TCP/IP internetworks function and the most important classic TCP/IP applications, integrating IPv6 coverage throughout. Over 350 illustrations and hundreds of tables help to explain the finer points of this complex topic. The book’s personal, user-friendly writing style lets readers of all levels understand the dozens of protocols and technologies that run the Internet, with full coverage of PPP, ARP, IP, IPv6, IP NAT, IPSec, Mobile IP, ICMP, RIP, BGP, TCP, UDP, DNS, DHCP, SNMP, FTP, SMTP, NNTP, HTTP, Telnet, and much more.",
+            "lang": "English"
+        },
+        {
+            "id": 83,
+            "name": "Classic Computer Science Problems in Python",
+            "author": "David Kopec",
+            "tagline": "David Kopec",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book7-6cc4d.appspot.com/o/Classic%20Computer%20Science%20Problems%20in%20Python%20by%20David%20Kopec%20(z-lib.org)-compressed.pdf?alt=media&token=68fcaf81-a24d-4759-a0e3-8b3d7e59e8ce",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71iz4Wu+rhL.jpg",
+            "desc": "Programming problems that seem new or unique are usually rooted in well-known engineering principles. Classic Computer Science Problems in Python guides you through time-tested scenarios, exercises, and algorithms that will prepare you for the “new” problems you’ll face when you start your next project. In this amazing book, you'll tackle dozens of coding challenges, ranging from simple tasks like binary search algorithms to clustering data using k-means. As you work through examples for web development, machine learning, and more, you'll remember important things you've forgotten and discover classic solutions that will save you hours of time.",
+            "lang": "English"
+        },
+        {
+            "id": 84,
+            "name": "Code Complete",
+            "author": "Steve McConnell",
+            "tagline": "A Practical Handbook of Software Construction",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book7-6cc4d.appspot.com/o/Code%20Complete%20-%20A%20Practical%20Handbook%20of%20Software%20Construction%20by%20Steve%20McConnell%20(z-lib.org)-compressed.pdf?alt=media&token=9d25a0e5-db8a-4418-a51a-b0f455e4b7fc",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41JOmGowq-L._SX408_BO1,204,203,200_.jpg",
+            "desc": "Widely considered one of the best practical guides to programming, Steve McConnell’s original CODE COMPLETE has been helping developers write better software for more than a decade. Now this classic book has been fully updated and revised with leading-edge practices—and hundreds of new code samples—illustrating the art and science of software construction. Capturing the body of knowledge available from research, academia, and everyday commercial practice, McConnell synthesizes the most effective techniques and must-know principles into clear, pragmatic guidance. No matter what your experience level, development environment, or project size, this book will inform and stimulate your thinking—and help you build the highest quality code.",
+            "lang": "English"
+        },
+        {
+            "id": 85,
+            "name": "Effective Modern C++",
+            "author": "Scott Meyers",
+            "tagline": "42 Specific Ways To Improve Your Use Of C++11 and C++14",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book7-6cc4d.appspot.com/o/Effective%20Modern%20C%2B%2B%2042%20Specific%20Ways%20to%20Improve%20Your%20Use%20of%20C%2B%2B11%20and%20C%2B%2B14%20by%20Scott%20Meyers%20(z-lib.org)-compressed.pdf?alt=media&token=4d259ccf-474e-4657-8b7d-8dc9d3089622",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51ImEKUGQhL._SX379_BO1,204,203,200_.jpg",
+            "desc": "Coming to grips with C++11 and C++14 is more than a matter of familiarizing yourself with the features they introduce (e.g., auto type declarations, move semantics, lambda expressions, and concurrency support). The challenge is learning to use those features effectively—so that your software is correct, efficient, maintainable, and portable. That’s where this practical book comes in. It describes how to write truly great software using C++11 and C++14—i.e. using modern C++.",
+            "lang": "English"
+        },
+        {
+            "id": 86,
+            "name": "Hacking",
+            "author": "Jon Erikson",
+            "tagline": "The Art Of Exploitation",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book7-6cc4d.appspot.com/o/Hacking%20The%20Art%20of%20Exploitation%20by%20Jon%20Erickson%20(z-lib.org)-compressed.pdf?alt=media&token=e104f621-dde4-446e-b3dc-1e3c5cadf563",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91UlU666haL.jpg",
+            "desc": "Hacking is the art of creative problem solving, whether that means finding an unconventional solution to a difficult problem or exploiting holes in sloppy programming. Many people call themselves hackers, but few have the strong technical foundation needed to really push the envelope. Rather than merely showing how to run existing exploits, author Jon Erickson explains how arcane hacking techniques actually work. To share the art and science of hacking in a way that is accessible to everyone, Hacking: The Art of Exploitation, 2nd Edition introduces the fundamentals of C programming from a hacker's perspective.",
+            "lang": "English"
+        },
+        {
+            "id": 87,
+            "name": "JavaScript And JQuery",
+            "author": "Jon Duckett",
+            "tagline": "Interactive Front-End Web Development",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book7-6cc4d.appspot.com/o/JavaScript%20and%20JQuery_%20Interactive%20Front-End%20Web%20Development%20(%20PDFDrive%20).pdf?alt=media&token=c0b60257-3dbf-4f53-be26-32390ae8ffe2",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71viHxTLKgL.jpg",
+            "desc": "This full-color book adopts a visual approach to teaching JavaScript & jQuery, showing you how to make web pages more interactive and interfaces more intuitive through the use of inspiring code examples, infographics, and photography. The content assumes no previous programming experience, other than knowing how to create a basic web page in HTML & CSS. You'll learn how to achieve techniques seen on many popular websites (such as adding animation, tabbed panels, content sliders, form validation, interactive galleries, and sorting data)",
+            "lang": "English"
+        },
+        {
+            "id": 88,
+            "name": "Learning React",
+            "author": "Alex Banks, Eve Porcello",
+            "tagline": "Functional Web Development With React And Flux",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book7-6cc4d.appspot.com/o/Learning%20React%20Functional%20Web%20Development%20with%20React%20and%20Redux%20by%20Alex%20Banks%2C%20Eve%20Porcello%20(z-lib.org)-compressed.pdf?alt=media&token=51dd36b9-1e03-447e-b018-1fac07a2ab0e",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91gJrDrQuCL.jpg",
+            "desc": "If you want to learn how to build efficient React applications, this is your book. Ideal for web developers and software engineers who understand how JavaScript, CSS, and HTML work in the browser, this updated edition provides best practices and patterns for writing modern React code. No prior knowledge of React or functional JavaScript is necessary. With their learning road map, authors Alex Banks and Eve Porcello show you how to create UIs that can deftly display changes without page reloads on large-scale, data-driven websites. You’ll also discover how to work with functional programming and the latest ECMAScript features. Once you learn how to build React components with this hands-on guide, you’ll understand just how useful React can be in your organization.",
+            "lang": "English"
+        },
+        {
+            "id": 89,
+            "name": "Refactoring",
+            "author": "Martin Fowler",
+            "tagline": "Improving The Design of Existing Code",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book7-6cc4d.appspot.com/o/Refactoring%20Improving%20the%20Design%20of%20Existing%20Code%20by%20Martin%20Fowler%20(z-lib.org)-compressed.pdf?alt=media&token=c2c3449c-cfed-448d-8b3a-3c400483f0ca",
+            "image": "https://m.media-amazon.com/images/I/41odjJlPgHL._SX260_.jpg",
+            "desc": "For more than twenty years, experienced programmers worldwide have relied on Martin Fowler’s Refactoring to improve the design of existing code and to enhance software maintainability, as well as to make existing code easier to understand. This eagerly awaited new edition has been fully updated to reflect crucial changes in the programming landscape. Refactoring, Second Edition, features an updated catalog of refactorings and includes JavaScript code examples, as well as new functional examples that demonstrate refactoring without classes.",
+            "lang": "English"
+        },
+        {
+            "id": 90,
+            "name": "Secrets of The JavaScript Ninja",
+            "author": "John Resig, Bear Bibeault, Josip Maras",
+            "tagline": "Jhon Resig, Bear Bibeault, Josip Maras",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book7-6cc4d.appspot.com/o/Secrets%20of%20the%20JavaScript%20Ninja%2C%20Second%20Edition%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=5a78ac57-c047-4e6f-9457-013cdced283f",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71OcrNWJv3L.jpg",
+            "desc": "Secrets of the JavaScript Ninja, Second Edition uses practical examples to clearly illustrate each core concept and technique. This completely revised edition shows you how to master key JavaScript concepts such as functions, closures, objects, prototypes, and promises. It covers APIs such as the DOM, events, and timers. You’ll discover best practice techniques such as testing, and cross-browser development, all taught from the perspective of skilled JavaScript practitioners.",
+            "lang": "English"
+        },
+        {
+            "id": 91,
+            "name": "The C++ Programming Language",
+            "author": "Bjarne Stroustrup",
+            "tagline": "Bjarne Stroustrup",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book7-6cc4d.appspot.com/o/The%20C%2B%2B%20Programming%20Language%2C%204th%20Edition%20by%20Stroustrup%20B.%20(z-lib.org).pdf?alt=media&token=a3240624-85d2-4d2a-90db-193f1050533d",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51Z-XJXiQnL._SX396_BO1,204,203,200_.jpg",
+            "desc": "Programming: Principles and Practice Using C++, Second Edition, is a programming textbook aimed at beginners who eventually want to become professionals. It is also be useful for people who have programmed a bit and want to improve their style and technique--or simply to learn modern C++. It teaches fundamental programming principles and techniques for building high-quality, real-world systems.",
+            "lang": "English"
+        },
+        {
+            "id": 92,
+            "name": "The Pragmatic Programmer",
+            "author": "David Thomas, Andrew Hunt",
+            "tagline": "Your Journey To Mastery",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book7-6cc4d.appspot.com/o/The%20Pragmatic%20Programmer%20Your%20Journey%20to%20Mastery%2C%2020th%20Anniversary%20Edition%20by%20Andrew%20Hunt%20David%20Hurst%20Thomas%20(z-lib.org)-compressed.pdf?alt=media&token=75593a22-1e55-4f9e-abce-c669744a5e89",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51cUVaBWZzL._SX380_BO1,204,203,200_.jpg",
+            "desc": "The Pragmatic Programmer is one of those rare tech books you’ll read, re-read, and read again over the years. Whether you’re new to the field or an experienced practitioner, you’ll come away with fresh insights each and every time. Dave Thomas and Andy Hunt wrote the first edition of this influential book in 1999 to help their clients create better software and rediscover the joy of coding. These lessons have helped a generation of programmers examine the very essence of software development, independent of any particular language, framework, or methodology, and the Pragmatic philosophy has spawned hundreds of books, screencasts, and audio books, as well as thousands of careers and success stories.",
+            "lang": "English"
+        },
+        {
+            "id": 93,
+            "name": "The Clean Coder",
+            "author": "Robert C. Martin",
+            "tagline": "A Code of Conduct for Professional Programmers",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book7-6cc4d.appspot.com/o/The%20clean%20coder%20%20a%20code%20of%20conduct%20for%20professional%20programmers%20by%20Martin%2C%20Robert%20C.%20(z-lib.org)-compressed.pdf?alt=media&token=93d40dbf-f1c4-49b9-b1ff-6106bd29cdcc",
+            "image": "https://m.media-amazon.com/images/I/51uhS7QO--L.jpg",
+            "desc": "In The Clean Coder: A Code of Conduct for Professional Programmers, legendary software expert Robert C. Martin introduces the disciplines, techniques, tools, and practices of true software craftsmanship. This book is packed with practical advice–about everything from estimating and coding to refactoring and testing. It covers much more than technique: It is about attitude. Martin shows how to approach software development with honor, self-respect, and pride; work well and work clean; communicate and estimate faithfully; face difficult decisions with clarity and honesty; and understand that deep knowledge comes with a responsibility to act.",
+            "lang": "English"
+        },
+        {
+            "id": 94,
+            "name": "C Primer Plus",
+            "author": "Stephen Prata",
+            "tagline": "Stephen Prata",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book8-67251.appspot.com/o/C%20Primer%20Plus%2C%206th%20Edition%20by%20Stephen%20Prata%20(z-lib.org)-compressed.pdf?alt=media&token=3e5545d9-d2b6-4ad1-88d2-26063e767d1f",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41iQWgMF6BL.jpg",
+            "desc": "C Primer Plus is a carefully tested, well-crafted, and complete tutorial on a subject core to programmers and developers. This computer science classic teaches principles of programming, including structured code and top-down design. Author and educator Stephen Prata has created an introduction to C that is instructive, clear, and insightful. Fundamental programming concepts are explained along with details of the C language. Many short, practical examples illustrate just one or two concepts at a time, encouraging readers to master new topics by immediately putting them to use.",
+            "lang": "English"
+        },
+        {
+            "id": 95,
+            "name": "C The Complete Reference",
+            "author": "Herbert Schildt",
+            "tagline": "Herbert Schildt",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book8-67251.appspot.com/o/C%20the%20complete%20reference%20by%20Herbert%20Schildt%20(z-lib.org)-compressed.pdf?alt=media&token=7e7a4351-8995-4413-a96a-28d0c2c03900",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71mqdKj2O9L.jpg",
+            "desc": "Another gem from Herb Schildt--best-selling programming author with more than 2.5 million books sold! C: The Complete Reference, Fourth Edition gives you full details on C99, the New ANSI/ISO Standard for C. You'll get in-depth coverage of the C language and function libraries as well as all the newest C features, including restricted pointers, inline functions, variable-length arrays, and complex math. This jam-packed resource includes hundreds of examples and sample applications.",
+            "lang": "English"
+        },
+        {
+            "id": 96,
+            "name": "C++ Primer",
+            "author": "Stanley B. Lippman, Josee Lajoie, Barbara E. Moo",
+            "tagline": "Stanley B. Lippman, Josée Lajoie, Barbara E. Moo",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book8-67251.appspot.com/o/C%2B%2B%20Primer%20by%20Stanley%20B.%20Lippman%2C%20Jos%C3%A9e%20Lajoie%2C%20Barbara%20E.%20Moo%20(z-lib.org).pdf?alt=media&token=e48f8ea8-27ea-4545-b9d8-9875dac0a16e",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41LSlra7GOL._SX377_BO1,204,203,200_.jpg",
+            "desc": "C++ Primer, Fifth Edition, introduces the C++ standard library from the outset, drawing on its common functions and facilities to help you write useful programs without first having to master every language detail. The book’s many examples have been revised to use the new language features and demonstrate how to make the best use of them. This book is a proven tutorial for those new to C++, an authoritative discussion of core C++ concepts and techniques, and a valuable resource for experienced programmers, especially those eager to see C++11 enhancements illuminated.",
+            "lang": "English"
+        },
+        {
+            "id": 97,
+            "name": "HTML & CSS",
+            "author": "Jon Duckett",
+            "tagline": "Design and Build Websites",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book8-67251.appspot.com/o/HTML%20and%20CSS%20Design%20and%20Build%20Websites%20by%20Jon%20Duckett%20(z-lib.org).pdf?alt=media&token=fa687049-d32c-473e-b2d5-5bc3c4ff4732",
+            "image": "https://media.wiley.com/product_data/coverImage300/42/11188716/1118871642.jpg",
+            "desc": "A full-color introduction to the basics of HTML and CSS from the publishers of Wrox! Every day, more and more people want to learn some HTML and CSS. Joining the professional web designers and programmers are new audiences who need to know a little bit of code at work (update a content management system or e-commerce store) and those who want to make their personal blogs more attractive. Many books teaching HTML and CSS are dry and only written for those who want to become programmers, which is why this book takes an entirely new approach.",
+            "lang": "English"
+        },
+        {
+            "id": 98,
+            "name": "Head First C",
+            "author": "David Griffiths, Dawn Griffiths",
+            "tagline": "David Griffiths, Dawn Griffiths",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book8-67251.appspot.com/o/Head%20First%20C%20by%20David%20Griffiths%2C%20Dawn%20Griffiths%20(z-lib.org)-compressed.pdf?alt=media&token=4359f7c1-d0c5-4b9f-84cb-91944e406f58",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71oTuwqLUSL.jpg",
+            "desc": "Ever wished there was an easier way to learn C from a book? Head First C is a complete learning experience that will show you how to create programs in the C language. This book helps you learn the C language with a unique method that goes beyond syntax and how-to manuals and helps you understand how to be a great programmer. You'll learn key areas such as language basics, pointers and pointer arithmeticand dynamic memory managementand with advanced topics such as multi-threading and network programming, Head First C can be used as an accessible text book for a college-level course.",
+            "lang": "English"
+        },
+        {
+            "id": 99,
+            "name": "Learn C The Hard Way",
+            "author": "Zed A. Shaw",
+            "tagline": "Practical Exercises on the Computional Subjects You Keep Avoiding(Like C)",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book8-67251.appspot.com/o/Learn%20C%20the%20Hard%20Way%20Practical%20Exercises%20on%20the%20Computational%20Subjects%20You%20Keep%20Avoiding%20(Like%20C)%20by%20Zed%20A.%20Shaw%20(z-lib.org)-compressed.pdf?alt=media&token=b8ddacf7-5dd4-4a11-ac56-edd9a8b9e40f",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41QWCRvb4DL.jpg",
+            "desc": "In Learn C the Hard Way, you’ll learn C by working through 52 brilliantly crafted exercises. Watch Zed Shaw’s teaching video and read the exercise. Type his code precisely. (No copying and pasting!) Fix your mistakes. Watch the programs run. As you do, you’ll learn what good, modern C programs look like; how to think more effectively about code; and how to find and fix mistakes far more efficiently. Most importantly, you’ll master rigorous defensive programming techniques, so you can use any language to create software that protects itself from malicious activity and defects.",
+            "lang": "English"
+        },
+        {
+            "id": 100,
+            "name": "Let Us C",
+            "author": "Yashvant Kanetkar",
+            "tagline": "Authentic Guide To C Programming Language",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book8-67251.appspot.com/o/Let%20Us%20C%20Authentic%20Guide%20to%20C%20PROGRAMMING%20Language%20(17th%20Edition)%20by%20Yashavant%20Kanetkar%20(z-lib.org)-compressed.pdf?alt=media&token=92232d8c-3744-476f-8319-dd22fb98e5ef",
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/51doGYi-0vL._SX342_SY445_QL70_ML2_.jpg",
+            "desc": "The new edition of this classic book has been thoroughly revamped, but remains faithful to the principles that have established it as a favourite amongst students, teachers and software professionals round the world. “Simplicity”- that has been the hallmark of this book in not only its previous sixteen English editions, but also in the Hindi, gujrati, Japanese, Korean, Chinese and us editions. This book doesn't assume any programming background. It begins with the basics and steadily builds the pace so that the reader finds it easy to handle advanced topics towards the end of the book.",
+            "lang": "English"
+        },
+        {
+            "id": 101,
+            "name": "Eloquent JavaScript",
+            "author": "Marijn Haverbeke",
+            "tagline": "A Modern Introduction to Programming",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book8-67251.appspot.com/o/Marijn%20Haverbeke%20-%20Eloquent%20JavaScript_%20A%20Modern%20Introduction%20to%20Programming%2C%203rd%20Edition-No%20Starch%20Press%20(2019)%20by%20Marijn%20Haverbeke%20(z-lib.org)-compressed.pdf?alt=media&token=8c277ae1-09ac-4764-b80a-49c17ffb6c40",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91q8Jx+j6iL.jpg",
+            "desc": "JavaScript lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications. This much anticipated and thoroughly revised third edition of Eloquent JavaScript dives deep into the JavaScript language to show you how to write beautiful, effective code. It has been updated to reflect the current state of Java¬Script and web browsers and includes brand-new material on features like class notation, arrow functions, iterators, async functions, template strings, and block scope. A host of new exercises have also been added to test your skills and keep you on track.",
+            "lang": "English"
+        },
+        {
+            "id": 102,
+            "name": "Big Data Analytics",
+            "author": "Arshdeep Bahga, Vijay Madisetti",
+            "tagline": "A Hands-On Approach",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book9-6aed0.appspot.com/o/Big%20Data%20Analytics%20A%20Hands-On%20Approach%20by%20Arshdeep%20Bahga%2C%20Vijay%20Madisetti%20(z-lib.org)-compressed.pdf?alt=media&token=50917d11-87a0-473b-8ca3-9ec2c3daf336",
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/41fLWpXSMxL._SY264_BO1,204,203,200_QL40_ML2_.jpg",
+            "desc": "We are living in the dawn of what has been termed as the 'Fourth Industrial Revolution', which is marked through the emergence of 'cyber-physical systems' where software interfaces seamlessly over networks with physical systems, such as sensors, smartphones, vehicles, power grids or buildings, to create a new world of Internet of Things (IoT). Data and information are fuel of this new age where powerful analytics algorithms burn this fuel to generate decisions that are expected to create a smarter and more efficient world for all of us to live in. This new area of technology has been defined as Big Data Science and Analytics, and the industrial and academic communities are realizing this as a competitive technology that can generate significant new wealth and opportunity. Big data is defined as collections of datasets whose volume, velocity or variety is so large that it is difficult to store, manage, process and analyze the data using traditional databases and data processing tools. Big data science and analytics deals with collection, storage, processing and analysis of massive-scale data. Industry surveys, by Gartner and e-Skills, for instance, predict that there will be over 2 million job openings for engineers and scientists trained in the area of data science and analytics alone, and that the job market is in this area is growing at a 150 percent year-over-year growth rate.",
+            "lang": "English"
+        },
+        {
+            "id": 103,
+            "name": "Cloud Native",
+            "author": "Boris Scholl, Trent Swanson, Peter Jausovec",
+            "tagline": "Using Containers, Functions, and Data to Build Next-Generation Applications",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book9-6aed0.appspot.com/o/Cloud%20Native%20Containers%2C%20Functions%2C%20Data%2C%20and%20Kubernetes%20How%20to%20Build%20a%20Blueprint%20for%20Next-Generation%20Applications%20by%20Boris%20Scholl%20Trent%20Swanson%20Peter%20Jausovec%20(z-lib.org).epub-compressed.pdf?alt=media&token=e95b12af-7d4c-48cb-81ac-4067f328b66d",
+            "image": "https://sun9-17.userapi.com/c848520/v848520141/17a5f0/bo57FhjpLpA.jpg",
+            "desc": "Developers often struggle when first encountering the cloud. Learning about distributed systems, becoming familiar with technologies such as containers and functions, and knowing how to put everything together can be daunting. With this practical guide, you’ll get up to speed on patterns for building cloud native applications and best practices for common tasks such as messaging, eventing, and DevOps.",
+            "lang": "English"
+        },
+        {
+            "id": 104,
+            "name": "Cloud Native DevOps with Kubernetes",
+            "author": "John Arundel, Justin Domingus",
+            "tagline": "Building, Deploying and Scaling Modern Applications in the Cloud",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book9-6aed0.appspot.com/o/Cloud%20Native%20DevOps%20with%20Kubernetes%20by%20John%20Arundel%2C%20Justin%20Domingus%20(z-lib.org)-compressed.pdf?alt=media&token=453d2964-afcc-49e5-8c2c-6d4aed066741",
+            "image": "https://m.media-amazon.com/images/I/51YFRWk9jSL.jpg",
+            "desc": "Kubernetes is the operating system of the cloud-native world, providing a reliable and scalable platform for running containerized workloads. This book shows developers and operations staff how to apply industry-standard DevOps practices to Kubernetes in a cloud-native context. You’ll learn all about the Kubernetes ecosystem and discover battle-tested solutions to everyday problems. In this friendly, pragmatic book, cloud experts John Arundel and Justin Domingus show you what Kubernetes can do―and what you can do with it. You’ll build, step by step, an example cloud-native application and its supporting infrastructure, along with a development environment and continuous deployment pipeline that you can use for your own applications. Understand containers and Kubernetes from first principles―no experience necessary Run your own clusters or choose a managed Kubernetes service from Amazon, Google, and others Design your own cloud-native services and infrastructure Use Kubernetes to manage resource usage and the container lifecycle Optimize clusters for cost, performance, resilience, capacity, and scalability Learn the best tools for developing, testing, and deploying your applications Apply the latest industry practices for observability and monitoring Secure your containers and clusters in production Adopt DevOps principles to help make your development teams lean, fast, and effective",
+            "lang": "English"
+        },
+        {
+            "id": 105,
+            "name": "Data Analytics",
+            "author": "Arthur Zhang",
+            "tagline": "Practical Guide to Leveraging the Power of Algoriths, Data Science, Data Mining, Statistics, Big Data, and Predictive Analysis to Improve Business, Work, and Life",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book9-6aed0.appspot.com/o/Data%20Analytics%20Practical%20Guide%20to%20Leveraging%20the%20Power%20of%20Algorithms%2C%20Data%20Science%2C%20Data%20Mining%2C%20Statistics%2C%20Big%20Data%2C%20and%20Predictive%20Analysis%20to%20Improve%20Business%2C%20Work%2C%20and%20Life%20by%20Arthur%20Zhang%20(z-lib.org).epub-co.pdf?alt=media&token=7a41b5a3-0c85-43a8-a479-9da7462a85e0",
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/51SAHtvdfcL._SX342_SY445_QL70_ML2_.jpg",
+            "desc": "This practical guide is accessible for the reader who is relatively new to the field of data analytics, while still remaining robust and detailed enough to function as a helpful guide to those already experienced in the field. Data science is expanding in breadth and growing rapidly in importance as technology rapidly integrates ever deeper into business and our daily lives. The need for a succinct and informal guide to this important field has never been greater.",
+            "lang": "English"
+        },
+        {
+            "id": 106,
+            "name": "Data Structure and Algorithmic Thinking with Python",
+            "author": "Narasimha Karumanchi",
+            "tagline": "Data Structure and Algorithmic Puzzels",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book9-6aed0.appspot.com/o/Data%20Structure%20and%20Algorithmic%20Thinking%20with%20Python%20%20Data%20Structure%20and%20Algorithmic%20Puzzles%20by%20Narasimha%20Karumanchi%20(z-lib.org).pdf?alt=media&token=9a1a0342-10ec-4eb6-8a9a-a4a389c0fd4e",
+            "image": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9788/1921/9788192107592.jpg",
+            "desc": "'Data Structure and Algorithmic Thinking with Python' is designed to give a jump-start to programmers, job hunters and those who are appearing for exams. All the code in this book are written in Python. It contains many programming puzzles that not only encourage analytical thinking, but also prepares readers for interviews. This book, with its focused and practical approach, can help readers quickly pick up the concepts and techniques for developing efficient and effective solutions to problems.",
+            "lang": "English"
+        },
+        {
+            "id": 107,
+            "name": "Data Structures and Algorithms Made Easy",
+            "author": "Narasimha Karumanchi",
+            "tagline": "Data Structure and Algorithmic Puzzels",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book9-6aed0.appspot.com/o/Data%20Structures%20and%20Algorithms%20Made%20Easy%20Data%20Structures%20and%20Algorithmic%20Puzzles%20by%20Narasimha%20Karumanchi%20(z-lib.org)-compressed.pdf?alt=media&token=4a707ae8-46b6-428c-ae2f-2584946a6da0",
+            "image": "https://i2.wp.com/learnengineering.in/wp-content/uploads/2019/08/PDF-Data-Structures-and-Algorithms-Made-Easy-Data-Structures-and-Algorithmic-Puzzles-By-Narasimha-Karumanchi-Free-Download.jpg?fit=386%2C499&ssl=1",
+            "desc": "A handy guide of sorts for any computer Science professional, data structures and algorithms made easy: data structures and algorithmic puzzles is a solution Bank for various complex problems related to data structures and algorithms. It can be used as a reference manual by those readers in the computer Science industry. This book serves as guide to prepare for interviews, exams, and campus work. In short, this book offers solutions to various complex data structures and algorithmic problems.",
+            "lang": "English"
+        },
+        {
+            "id": 108,
+            "name": "Data Structures and Algorithms with Python",
+            "author": "Kent D. Lee, Steve Hubbard",
+            "tagline": "Undergraduate Topics in Computer Science",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book9-6aed0.appspot.com/o/Data%20Structures%20and%20Algorithms%20with%20Python%20Undergraduate%20Topics%20in%20Computer%20Science%20by%20Kent%20Lee%2C%20Steve%20Hubbard%20(z-lib.org)-compressed.pdf?alt=media&token=d4b4d65d-ca2f-4d3d-9bef-68889928e649",
+            "image": "https://images.springer.com/sgw/books/medium/9783319130712.jpg",
+            "desc": "This textbook explains the concepts and techniques required to write programs that can handle large amounts of data efficiently. Project-oriented and classroom-tested, the book presents a number of important algorithms supported by examples that bring meaning to the problems faced by computer programmers. The idea of computational complexity is also introduced, demonstrating what can and cannot be computed efficiently so that the programmer can make informed judgements about the algorithms they use. Features: includes both introductory and advanced data structures and algorithms topics, with suggested chapter sequences for those respective courses provided in the preface; provides learning goals, review questions and programming exercises in each chapter, as well as numerous illustrative examples; offers downloadable programs and supplementary files at an associated website, with instructor materials available from the author; presents a primer on Python for those from a different language background.",
+            "lang": "English"
+        },
+        {
+            "id": 109,
+            "name": "Data Visualization",
+            "author": "Kieran Healy",
+            "tagline": "A Practical Introduction",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book9-6aed0.appspot.com/o/Data%20Visualization%20A%20Practical%20Introduction%20by%20Kieran%20Healy%20(z-lib.org).pdf?alt=media&token=9017441e-ad96-469b-8b78-812cfce4c272",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71w0r+tfWBL.jpg",
+            "desc": "Data Visualization builds the reader’s expertise in ggplot2, a versatile visualization library for the R programming language. Through a series of worked examples, this accessible primer then demonstrates how to create plots piece by piece, beginning with summaries of single variables and moving on to more complex graphics. Topics include plotting continuous and categorical variables; layering information on graphics; producing effective “small multiple” plots; grouping, summarizing, and transforming data for plotting; creating maps; working with the output of statistical models; and refining plots to make them more comprehensible.",
+            "lang": "English"
+        },
+        {
+            "id": 110,
+            "name": "Fundamentals of Python",
+            "author": "Kenneth A. Lambert",
+            "tagline": "Data Structures",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book9-6aed0.appspot.com/o/Fundamentals%20Of%20Python%20Data%20Structures%20by%20Kenneth%20A.%20Lambert%20(z-lib.org)-compressed.pdf?alt=media&token=2fb5ad73-9339-4049-aa75-fea35a244dd4",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51VZWHfiW4L.jpg",
+            "desc": "Whether you are a computer programming student, hobbyist or professional, Lambert's FUNDAMENTALS OF PYTHON™: DATA STRUCTURES, 2E offers the perfect introduction to object-oriented design and data structures using the popular Python™ programming language. The level of instruction is ideal if you've had at least one semester of programming experience in an object-oriented language, such as Java™, C++ or Python™. Step-by-step explanations and focused exercises clearly explain the design of collection classes with polymorphism and inheritance and multiple implementations of collection interfaces. This edition also addresses the analysis of the space/time tradeoffs of different collection implementations and, specifically, array-based implementations and link-based implementations. You learn to work with collections, including sets, lists, stacks, queues, trees, dictionaries and graphs. Prepare for success with FUNDAMENTALS OF PYTHON™: DATA STRUCTURES, 2E.",
+            "lang": "English"
+        },
+        {
+            "id": 111,
+            "name": "Hands-On Data Structures and Algorithms with Python",
+            "author": "Dr. Basant Agarwal, Benjamin Baka",
+            "tagline": "Write complex and powerful code using the latest features of Python 3.7",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book9-6aed0.appspot.com/o/Hands-On%20Data%20Structures%20and%20Algorithms%20with%20Python%20Write%20complex%20and%20powerful%20code%20using%20the%20latest%20features%20of%20Python%203.7%2C%202nd%20Edition%20by%20Dr.%20Basant%20Agarwal%2C%20Benjamin%20Baka%20(z-lib.org)-compressed.pdf?alt=media&token=1a533ccc-b0e3-42a9-9002-fce187424230",
+            "image": "https://m.media-amazon.com/images/I/51tCJmqOR5L._SX260_.jpg",
+            "desc": "Data structures allow you to store and organize data efficiently. They are critical to any problem, provide a complete solution, and act like reusable code. Hands-On Data Structures and Algorithms with Python teaches you the essential Python data structures and the most common algorithms for building easy and maintainable applications. This book helps you to understand the power of linked lists, double linked lists, and circular linked lists. You will learn to create complex data structures, such as graphs, stacks, and queues. As you make your way through the chapters, you will explore the application of binary searches and binary search trees, along with learning common techniques and structures used in tasks such as preprocessing, modeling, and transforming data. In the concluding chapters, you will get to grips with organizing your code in a manageable, consistent, and extendable way. You will also study how to bubble sort, selection sort, insertion sort, and merge sort algorithms in detail.",
+            "lang": "English"
+        },
+        {
+            "id": 112,
+            "name": "Kubernetes In Action",
+            "author": "Marko Luksa",
+            "tagline": "Marko Luksa",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book9-6aed0.appspot.com/o/Kubernetes%20in%20Action%20by%20Marko%20Luksa%20(z-lib.org)-compressed.pdf?alt=media&token=2026c548-5594-4c0f-ad6d-ed0304027b36",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71W457XxK4L.jpg",
+            "desc": "Kubernetes in Action teaches you to use Kubernetes to deploy container-based distributed applications. You'll start with an overview of Docker and Kubernetes before building your first Kubernetes cluster. You'll gradually expand your initial application, adding features and deepening your knowledge of Kubernetes architecture and operation. As you navigate this comprehensive guide, you'll explore high-value topics like monitoring, tuning, and scaling.",
+            "lang": "English"
+        },
+        {
+            "id": 113,
+            "name": "Pandas for Everyone",
+            "author": "Daniel Y. Chen",
+            "tagline": "Python Data Analysis",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book9-6aed0.appspot.com/o/Pandas%20for%20Everyone%20Python%20Data%20Analysis%20by%20Daniel%20Y.%20Chen%20(z-lib.org)-compressed.pdf?alt=media&token=c5282c46-c5c3-4853-af66-4d73b3550647",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81zy7jzkOyL.jpg",
+            "desc": "This tutorial teaches students everything they need to get started with Python programming for the fast-growing field of data analysis. Daniel Chen tightly links each new concept with easy-to-apply, relevant examples from modern data analysis. Unlike other beginner's books, this guide helps today's newcomers learn both Python and its popular Pandas data science toolset in the context of tasks they'll really want to perform. Following the proven Software Carpentry approach to teaching programming, Chen introduces each concept with a simple motivating example, slowly offering deeper insights and expanding your ability to handle concrete tasks. Features Establishes a solid foundation for all the Pandas basics needed to be effective. Covers data frames, statistical calculations, data munging, modeling, machine learning, reproducible documents and much more.",
+            "lang": "English"
+        },
+        {
+            "id": 114,
+            "name": "Practical Statistics for Data Scientists",
+            "author": "Peter Bruce, Andrew Bruce, Peter Gedeck",
+            "tagline": "50+ Essential Concepts Using R and Python",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book9-6aed0.appspot.com/o/Practical%20Statistics%20for%20Data%20Scientists%2050%2B%20Essential%20Concepts%20Using%20R%20and%20Python%20by%20Peter%20Bruce%2C%20Andrew%20Bruce%2C%20Peter%20Gedeck%20(z-lib.org)-compressed.pdf?alt=media&token=4c134b52-b04d-406c-a413-2c32307d2782",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51GbJpKtO1L._SX379_BO1,204,203,200_.jpg",
+            "desc": "Statistical methods are a key part of data science, yet few data scientists have formal statistical training. Courses and books on basic statistics rarely cover the topic from a data science perspective. The second edition of this popular guide adds comprehensive examples in Python, provides practical guidance on applying statistical methods to data science, tells you how to avoid their misuse, and gives you advice on what’s important and what’s not. Many data science resources incorporate statistical methods but lack a deeper statistical perspective. If you’re familiar with the R or Python programming languages and have some exposure to statistics, this quick reference bridges the gap in an accessible, readable format. With this book, you’ll learn: Why exploratory data analysis is a key preliminary step in data science How random sampling can reduce bias and yield a higher-quality dataset, even with big data How the principles of experimental design yield definitive answers to questions How to use regression to estimate outcomes and detect anomalies Key classification techniques for predicting which categories a record belongs to Statistical machine learning methods that 'learn' from data Unsupervised learning methods for extracting meaning from unlabeled data.",
+            "lang": "English"
+        },
+        {
+            "id": 115,
+            "name": "Problem Solving and Python Programming",
+            "author": "E. Balagurusamy",
+            "tagline": "E. Balagurusamy",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book9-6aed0.appspot.com/o/Problem%20Solving%20and%20Python%20Programming%20by%20E.%20Balagurusamy%20(z-lib.org).pdf?alt=media&token=b473f5d8-be50-4eab-b144-3325d35344b2",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51CkAggY2+L._SX374_BO1,204,203,200_.jpg",
+            "desc": "Written by the most well-known face of India’s IT literacy movement, this book is designed for first course on introduction to usage of “Python” programming language in problem solving and introduction to fundamentals of basic computing. It uses simple-to-complex approach with unique combination of theory and practice. This text book is an ideal guide to get grips with Python.",
+            "lang": "English"
+        },
+        {
+            "id": 116,
+            "name": "Programming with Java A Primer",
+            "author": "E. Balagurusamy",
+            "tagline": "E. Balagurusamy",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book9-6aed0.appspot.com/o/Programming%20with%20Java%20a%20Primer%20by%20E%20Balagurusamy%20(z-lib.org).pdf?alt=media&token=699dbd28-0868-4d5f-ba83-952384d29413",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/5172ZMKIMfL._SX371_BO1,204,203,200_.jpg",
+            "desc": "Written by the most well-known face of India’s IT literacy movement, this book is designed for first course on introduction to usage of “Java” programming language in problem solving and introduction to fundamentals of basic computing. It uses simple-to-complex approach with unique combination of theory and practice. This text book is an ideal guide to get grips with Java.",
+            "lang": "English"
+        }
+    ]
+}

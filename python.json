@@ -1,0 +1,130 @@
+{
+    "python": [
+        {
+            "id": 1,
+            "name": "Automte the boring stuff with python",
+            "author": "Al Sweigart",
+            "tagline": "Practical Programming for Complete Beginners",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Automate%20the%20boring%20stuff%20with%20python%202nd%20edition%20by%20Al%20Sweigart%20(z-lib.org)-compressed.pdf?alt=media&token=3f8a19dc-8323-4e32-87e0-643f62db79b5",
+            "image": "https://automatetheboringstuff.com/images/automate_2e_cover.png",
+            "desc": "In Automate the Boring Stuff with Python, you'll learn how to use Python to write programs that do in minutes what would take you hours to do by hand-no prior programming experience required. Once you've mastered the basics of programming, you'll create Python programs that effortlessly perform useful and impressive feats of automation."
+        },
+        {
+            "id": 2,
+            "name": "Cracking Codes With Python",
+            "author":"Al Sweigart",
+            "tagline": "An Introduction to Builsing and Breaking Ciphers",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Cracking%20Codes%20with%20Python_%20An%20Introduction%20to%20Building%20and%20Breaking%20Ciphers%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=adb1ae15-f3f9-4b20-9e14-1fffcc0c188e",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81KOL4RYF6L.jpg",
+            "desc": "After a crash course in Python programming basics, you’ll learn to make, test, and hack programs that encrypt text with classical ciphers like the transposition cipher and Vigenère cipher. You’ll begin with simple programs for the reverse and Caesar ciphers and then work your way up to public key cryptography, the type of encryption used to secure today’s online transactions, including digital signatures, email, and Bitcoin."
+        },
+        {
+            "id": 3,
+            "name": "Python Crash Course",
+            "author": "Eric Matthes",
+            "tagline": "A Hands On, Project Based Introduction to Programming",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Python%20Crash%20Course_%20A%20Hands-On%2C%20Project-Based%20Introduction%20to%20Programming%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=66319095-df56-4d9e-8fe8-ee75830dff53",
+            "image": "https://m.media-amazon.com/images/I/510-dE3N1PL.jpg",
+            "desc": "Python Crash Course is a fast-paced, thorough introduction to Python that will have you writing programs, solving problems, and making things that work in no time. In the first half of the book, you’ll learn about basic programming concepts, such as lists, dictionaries, classes, and loops, and practice writing clean and readable code with exercises for each topic. You’ll also learn how to make your programs interactive and how to test your code safely before adding it to a project."
+        },
+        {
+            "id": 4,
+            "name": "Python Pocket Reference 5th Edition",
+            "author": "Mark Lutz",
+            "tagline": "Python in Your Pocket",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Python%20Pocket%20Reference%2C%205th%20Edition_%20Python%20in%20Your%20Pocket%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=452f5642-d227-42cc-858e-a02ab0adb6a1",
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/815DYInRvNL._AC_UL600_SR363,600_.jpg",
+            "desc": "Updated for both Python 3.4 and 2.7, this convenient pocket guide is the perfect on-the-job quick reference. You’ll find concise, need-to-know information on Python types and statements, special method names, built-in functions and exceptions, commonly used standard library modules, and other prominent Python tools. The handy index lets you pinpoint exactly what you need."
+        },
+        {
+            "id": 5,
+            "name": "Learn Python 3 The Hard Way",
+            "author": "Zed Shaw",
+            "tagline": "A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/Learn%20Python%203%20the%20Hard%20Way%20A%20Very%20Simple%20Introduction%20to%20the%20Terrifyingly%20Beautiful%20World%20of%20Computers%20and%20Code%20by%20Zed%20A.%20Shaw%20(z-lib.org)-compressed.pdf?alt=media&token=6ee00554-fd77-462b-bf57-adee618b9938",
+            "image": "https://m.media-amazon.com/images/I/51ko6ehpzEL.jpg",
+            "desc": "In Learn Python 3 the Hard Way, you’ll learn Python by working through 52 brilliantly crafted exercises. Read them. Type their code precisely. (No copying and pasting!) Fix your mistakes. Watch the programs run. As you do, you’ll learn how a computer works; what good programs look like; and how to read, write, and think about code. Zed then teaches you even more in 5+ hours of video where he shows you how to break, fix, and debug your code—live, as he’s doing the exercises."
+        },
+        {
+            "id": 6,
+            "name": "Serious Python",
+            "author": "Julien Danjou",
+            "tagline": "Black-Belt Advice on Deployment, Scalability, Testing, and More",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/Serious%20Python_%20Black-Belt%20Advice%20on%20Deployment%2C%20Scalability%2C%20Testing%2C%20and%20More%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=b6e6c024-b88c-4f80-8ed0-bb2d7680f18d",
+            "image": "https://m.media-amazon.com/images/I/51KdxC4Da8L.jpg",
+            "desc": "An indispensable collection of practical tips and real-world advice for tackling common Python problems and taking your code to the next level. Features interviews with high-profile Python developers who share their tips, tricks, best practices, and real-world advice gleaned from years of experience. Sharpen your Python skills as you dive deep into the Python programming language with Serious Python. You'll cover a range of advanced topics like multithreading and memorization, get advice from experts on things like designing APIs and dealing with databases, and learn Python internals to help you gain a deeper understanding of the language itself."
+        },
+        {
+            "id": 7,
+            "name": "Impractical Python Projects",
+            "author": "Lee Vaughan",
+            "tagline": "Playful Programming Activities to Make You Smarter",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Impractical%20Python%20Projects%20Playful%20Programming%20Activities%20to%20Make%20You%20Smarter%20by%20Lee%20Vaughan%20(z-lib.org)-compressed.pdf?alt=media&token=04e09add-6c56-490d-9156-681c70b1fb1c",
+            "image": "https://m.media-amazon.com/images/I/51bbaMvwj6L.jpg",
+            "desc": "Impractical Python Projects is a collection of fun and educational projects designed to entertain programmers while enhancing their Python skills. It picks up where the complete beginner books leave off, expanding on existing concepts and introducing new tools that you'll use every day. And to keep things interesting, each project includes a zany twist featuring historical incidents, pop culture references, and literary allusions."
+        },
+        {
+            "id": 8,
+            "name": "Invent Your Own Computer Games with Python",
+            "author": "Al Sweigart",
+            "tagline": "Al Sweigart",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Invent%20Your%20Own%20Computer%20Games%20with%20Python%20by%20Al%20Sweigart%20(z-lib.org)-compressed.pdf?alt=media&token=647ec09d-92aa-4d0a-91ae-8d9bc5198011",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91d-3mzu8HL.jpg",
+            "desc": "Invent Your Own Computer Games with Python will teach you how to make computer games using the popular Python programming language—even if you’ve never programmed before! Begin by building classic games like Hangman, Guess the Number, and Tic-Tac-Toe, and then work your way up to more advanced games, like a text-based treasure hunting game and an animated collision-dodging game with sound effects. Along the way, you’ll learn key programming and math concepts that will help you take your game programming to the next level."
+        },
+        {
+            "id": 9,
+            "name": "Math Adventures With Python",
+            "author": "Peter Farrell",
+            "tagline": "An Illustrated Guide to Exploring Math with Code",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Math%20Adventures%20with%20Python%20An%20Illustrated%20Guide%20to%20Exploring%20Math%20with%20Code%20by%20Farrell%2C%20P.%20(z-lib.org)-compressed.pdf?alt=media&token=a57cd532-360d-46e5-bc27-ca018f0cbe94",
+            "image": "https://m.media-amazon.com/images/I/51AwWtGkaPL.jpg",
+            "desc": "Learn math by getting creative with code! Use the Python programming language to transform learning high school-level math topics like algebra, geometry, trigonometry, and calculus! Math Adventures with Python will show you how to harness the power of programming to keep math relevant and fun. With the aid of the Python programming language, you'll learn how to visualize solutions to a range of math problems as you use code to explore key mathematical concepts like algebra, trigonometry, matrices, and cellular automata."
+        },
+        {
+            "id": 10,
+            "name": "Web Scraping with Python",
+            "author": "Ryan Mitchell",
+            "tagline": "Collecting More Data from the Modern Web",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Web%20Scraping%20with%20Python%20Collecting%20More%20Data%20from%20the%20Modern%20Web%20by%20Ryan%20Mitchell%20(z-lib.org)-compressed%20(1).pdf?alt=media&token=5a619bbb-8e51-46c8-b0c7-c34e877ec9b9",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91gpT8bwJjL.jpg",
+            "desc": "If programming is magic then web scraping is surely a form of wizardry. By writing a simple automated program, you can query web servers, request data and parse it to extract the information you need. The expanded edition of this practical book not only introduces you web scraping, but also serves as a comprehensive guide to scraping almost every type of data from the modern web."
+        },
+        {
+            "id": 11,
+            "name": "Doing Math with Python",
+            "author": "Amit Saha",
+            "tagline": "Use Programming to Explore Algebra, Statistics, Calculus, and More",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book6-71fc8.appspot.com/o/Doing%20Math%20with%20Python%20Use%20Programming%20to%20Explore%20Algebra%2C%20Statistics%2C%20Calculus%2C%20and%20More%20by%20Amit%20Saha%20(z-lib.org)-compressed%20(1).pdf?alt=media&token=0a81543e-2533-468f-b0ab-6ace5c2fbb83",
+            "image": "https://m.media-amazon.com/images/I/51ObPO65iAL.jpg",
+            "desc": "Doing Math with Python shows you how to use Python to delve into high school—level math topics like statistics, geometry, probability, and calculus. You'll start with simple projects, like a factoring program and a quadratic-equation solver, and then create more complex projects once you've gotten the hang of things. Along the way, you'll discover new ways to explore math and gain valuable programming skills that you'll use throughout your study of math and computer science."
+        },
+        {
+            "id": 12,
+            "name": "Fluent Python",
+            "author": "Luciano Ramalho",
+            "tagline": "Clear, Concise, and Effecive Programming",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book6-71fc8.appspot.com/o/Fluent%20Python%20by%20Luciano%20Ramalho%20(z-lib.org)-compressed.pdf?alt=media&token=7e474f0d-76e6-4fd9-8750-700d8acb80ef",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41R+fNX-akL._SX379_BO1,204,203,200_.jpg",
+            "desc": "Python’s simplicity lets you become productive quickly, but this often means you aren’t using everything it has to offer. With this hands-on guide, you’ll learn how to write effective, idiomatic Python code by leveraging its best—and possibly most neglected—features. Author Luciano Ramalho takes you through Python’s core language features and libraries, and shows you how to make your code shorter, faster, and more readable at the same time. Many experienced programmers try to bend Python to fit patterns they learned from other languages, and never discover Python features outside of their experience. With this book, those Python programmers will thoroughly learn how to become proficient in Python 3."
+        },
+        {
+            "id": 13,
+            "name": "Classic Computer Science Problems in Python",
+            "author": "David Kopec",
+            "tagline": "David Kopec",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book7-6cc4d.appspot.com/o/Classic%20Computer%20Science%20Problems%20in%20Python%20by%20David%20Kopec%20(z-lib.org)-compressed.pdf?alt=media&token=68fcaf81-a24d-4759-a0e3-8b3d7e59e8ce",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71iz4Wu+rhL.jpg",
+            "desc": "Programming problems that seem new or unique are usually rooted in well-known engineering principles. Classic Computer Science Problems in Python guides you through time-tested scenarios, exercises, and algorithms that will prepare you for the “new” problems you’ll face when you start your next project. In this amazing book, you'll tackle dozens of coding challenges, ranging from simple tasks like binary search algorithms to clustering data using k-means. As you work through examples for web development, machine learning, and more, you'll remember important things you've forgotten and discover classic solutions that will save you hours of time."
+        },
+        {
+            "id": 14,
+            "name": "Problem Solving and Python Programming",
+            "author": "E. Balagurusamy",
+            "tagline": "E. Balagurusamy",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book9-6aed0.appspot.com/o/Problem%20Solving%20and%20Python%20Programming%20by%20E.%20Balagurusamy%20(z-lib.org).pdf?alt=media&token=b473f5d8-be50-4eab-b144-3325d35344b2",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51CkAggY2+L._SX374_BO1,204,203,200_.jpg",
+            "desc": "Written by the most well-known face of India’s IT literacy movement, this book is designed for first course on introduction to usage of “Python” programming language in problem solving and introduction to fundamentals of basic computing. It uses simple-to-complex approach with unique combination of theory and practice. This text book is an ideal guide to get grips with Python."
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "datascience": [
+        {
+            "id": 1,
+            "name": "Data Science from Scratch",
+            "author": "Joel Grus",
+            "tagline": "First Principles with Python",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Data%20Science%20from%20Scratch%20First%20Principles%20with%20Python%20by%20Joel%20Grus%20(z-lib.org).epub-compressed.pdf?alt=media&token=37a260c0-cfd5-4f51-9037-eccf0ef7e045",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51YUWU6KNdL._SX258_BO1,204,203,200_.jpg",
+            "desc": "Data science libraries, frameworks, modules, and toolkits are great for doing data science, but they’re also a good way to dive into the discipline without actually understanding data science. In this book, you’ll learn how many of the most fundamental data science tools and algorithms work by implementing them from scratch."
+        },
+        {
+            "id": 2,
+            "name": "Beyond Artificial Intelligence",
+            "author": "Alain Cardon",
+            "tagline": "From Human Consciousness to Artificial Consciousness",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Beyond%20Artificial%20Intelligence_%20From%20Human%20Consciousness%20to%20Artificial%20Consciousness%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=baf5c812-15bc-4cf7-bfb1-3cb710cf6056",
+            "image": "https://media.wiley.com/product_data/coverImage300/90/17863035/1786303590.jpg",
+            "desc": "This book will present a complete modeling of the human psychic system that allows to generate the thoughts in a strictly organizational approach that mixes a rising and falling approach. The model will present the architecture of the psychic system that can generate sensations and thoughts, showing how one can feel thoughts. The model developed into an organizational architecture based on massive multiagent systems. The architecture will be fully developed, showing how an artificial system can be endowed with consciousness and intentionally generate thoughts and, especially, feel them. These results are multidisciplinary, combining both psychology and computer science disciplines."
+        },
+        {
+            "id": 3,
+            "name": "Python Artificial Intelligence Projects for Beginners",
+            "author": "Joshua Eckorth",
+            "tagline": "Get up and running with Artificial Intelligence using 8 smart and exciting AI applications",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Python%20Artificial%20Intelligence%20Projects%20for%20Beginners_%20Get%20up%20and%20running%20with%20Artificial%20Intelligence%20using%208%20smart%20and%20exciting%20AI%20applications%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=18c8c503-d6ad-4c47-bc26-da7408413818",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51EpFdVVsWL._SX404_BO1,204,203,200_.jpg",
+            "desc": "Artificial Intelligence (AI) is the newest technology that’s being employed among varied businesses, industries, and sectors. Python Artificial Intelligence Projects for Beginners demonstrates AI projects in Python, covering modern techniques that make up the world of Artificial Intelligence. This book begins with helping you to build your first prediction model using the popular Python library, scikit-learn. You will understand how to build a classifier using an effective machine learning technique, random forest, and decision trees. With exciting projects on predicting bird species, analyzing student performance data, song genre identification, and spam detection, you will learn the fundamentals and various algorithms and techniques that foster the development of these smart applications. In the concluding chapters, you will also understand deep learning and neural network mechanisms through these projects with the help of the Keras library."
+        },
+        {
+            "id": 4,
+            "name": "Big Data Analytics",
+            "author": "Arshdeep Bahga, Vijay Madisetti",
+            "tagline": "A Hands-On Approach",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book9-6aed0.appspot.com/o/Big%20Data%20Analytics%20A%20Hands-On%20Approach%20by%20Arshdeep%20Bahga%2C%20Vijay%20Madisetti%20(z-lib.org)-compressed.pdf?alt=media&token=50917d11-87a0-473b-8ca3-9ec2c3daf336",
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/41fLWpXSMxL._SY264_BO1,204,203,200_QL40_ML2_.jpg",
+            "desc": "We are living in the dawn of what has been termed as the 'Fourth Industrial Revolution', which is marked through the emergence of 'cyber-physical systems' where software interfaces seamlessly over networks with physical systems, such as sensors, smartphones, vehicles, power grids or buildings, to create a new world of Internet of Things (IoT). Data and information are fuel of this new age where powerful analytics algorithms burn this fuel to generate decisions that are expected to create a smarter and more efficient world for all of us to live in. This new area of technology has been defined as Big Data Science and Analytics, and the industrial and academic communities are realizing this as a competitive technology that can generate significant new wealth and opportunity. Big data is defined as collections of datasets whose volume, velocity or variety is so large that it is difficult to store, manage, process and analyze the data using traditional databases and data processing tools. Big data science and analytics deals with collection, storage, processing and analysis of massive-scale data. Industry surveys, by Gartner and e-Skills, for instance, predict that there will be over 2 million job openings for engineers and scientists trained in the area of data science and analytics alone, and that the job market is in this area is growing at a 150 percent year-over-year growth rate."
+        },
+        {
+            "id": 5,
+            "name": "Deep Learning for Coders with fastai & PyTorch",
+            "author": "Jeremy Howard, Sylvain Gugger",
+            "tagline": "AI Applications Without a PhD",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Deep%20Learning%20for%20Coders%20With%20Fastai%20and%20PyTorch%20AI%20Applications%20Without%20a%20PhD%20by%20Jeremy%20Howard%20(z-lib.org)-compressed.pdf?alt=media&token=46117d3a-9fb2-4663-9b34-783fea5808b8",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91CB1tXICjL.jpg",
+            "desc": "Deep learning is often viewed as the exclusive domain of math PhDs and big tech companies. But as this hands-on guide demonstrates, programmers comfortable with Python can achieve impressive results in deep learning with little math background, small amounts of data, and minimal code. How? With fastai, the first library to provide a consistent interface to the most frequently used deep learning applications."
+        },
+        {
+            "id": 6,
+            "name": "Data Analytics",
+            "author": "Arthur Zhang",
+            "tagline": "Practical Guide to Leveraging the Power of Algoriths, Data Science, Data Mining, Statistics, Big Data, and Predictive Analysis to Improve Business, Work, and Life",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book9-6aed0.appspot.com/o/Data%20Analytics%20Practical%20Guide%20to%20Leveraging%20the%20Power%20of%20Algorithms%2C%20Data%20Science%2C%20Data%20Mining%2C%20Statistics%2C%20Big%20Data%2C%20and%20Predictive%20Analysis%20to%20Improve%20Business%2C%20Work%2C%20and%20Life%20by%20Arthur%20Zhang%20(z-lib.org).epub-co.pdf?alt=media&token=7a41b5a3-0c85-43a8-a479-9da7462a85e0",
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/51SAHtvdfcL._SX342_SY445_QL70_ML2_.jpg",
+            "desc": "This practical guide is accessible for the reader who is relatively new to the field of data analytics, while still remaining robust and detailed enough to function as a helpful guide to those already experienced in the field. Data science is expanding in breadth and growing rapidly in importance as technology rapidly integrates ever deeper into business and our daily lives. The need for a succinct and informal guide to this important field has never been greater."
+        },
+        {
+            "id": 7,
+            "name": "Data Visualization",
+            "author": "Kieran Healy",
+            "tagline": "A Practical Introduction",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book9-6aed0.appspot.com/o/Data%20Visualization%20A%20Practical%20Introduction%20by%20Kieran%20Healy%20(z-lib.org).pdf?alt=media&token=9017441e-ad96-469b-8b78-812cfce4c272",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71w0r+tfWBL.jpg",
+            "desc": "Data Visualization builds the reader’s expertise in ggplot2, a versatile visualization library for the R programming language. Through a series of worked examples, this accessible primer then demonstrates how to create plots piece by piece, beginning with summaries of single variables and moving on to more complex graphics. Topics include plotting continuous and categorical variables; layering information on graphics; producing effective “small multiple” plots; grouping, summarizing, and transforming data for plotting; creating maps; working with the output of statistical models; and refining plots to make them more comprehensible."
+        },
+        {
+            "id": 8,
+            "name": "Pandas for Everyone",
+            "author": "Daniel Y. Chen",
+            "tagline": "Python Data Analysis",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book9-6aed0.appspot.com/o/Pandas%20for%20Everyone%20Python%20Data%20Analysis%20by%20Daniel%20Y.%20Chen%20(z-lib.org)-compressed.pdf?alt=media&token=c5282c46-c5c3-4853-af66-4d73b3550647",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81zy7jzkOyL.jpg",
+            "desc": "This tutorial teaches students everything they need to get started with Python programming for the fast-growing field of data analysis. Daniel Chen tightly links each new concept with easy-to-apply, relevant examples from modern data analysis. Unlike other beginner's books, this guide helps today's newcomers learn both Python and its popular Pandas data science toolset in the context of tasks they'll really want to perform. Following the proven Software Carpentry approach to teaching programming, Chen introduces each concept with a simple motivating example, slowly offering deeper insights and expanding your ability to handle concrete tasks. Features Establishes a solid foundation for all the Pandas basics needed to be effective. Covers data frames, statistical calculations, data munging, modeling, machine learning, reproducible documents and much more."
+        },
+        {
+            "id": 9,
+            "name": "Practical Statistics for Data Scientists",
+            "author": "Peter Bruce, Andrew Bruce, Peter Gedeck",
+            "tagline": "50+ Essential Concepts Using R and Python",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book9-6aed0.appspot.com/o/Practical%20Statistics%20for%20Data%20Scientists%2050%2B%20Essential%20Concepts%20Using%20R%20and%20Python%20by%20Peter%20Bruce%2C%20Andrew%20Bruce%2C%20Peter%20Gedeck%20(z-lib.org)-compressed.pdf?alt=media&token=4c134b52-b04d-406c-a413-2c32307d2782",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51GbJpKtO1L._SX379_BO1,204,203,200_.jpg",
+            "desc": "Statistical methods are a key part of data science, yet few data scientists have formal statistical training. Courses and books on basic statistics rarely cover the topic from a data science perspective. The second edition of this popular guide adds comprehensive examples in Python, provides practical guidance on applying statistical methods to data science, tells you how to avoid their misuse, and gives you advice on what’s important and what’s not. Many data science resources incorporate statistical methods but lack a deeper statistical perspective. If you’re familiar with the R or Python programming languages and have some exposure to statistics, this quick reference bridges the gap in an accessible, readable format. With this book, you’ll learn: Why exploratory data analysis is a key preliminary step in data science How random sampling can reduce bias and yield a higher-quality dataset, even with big data How the principles of experimental design yield definitive answers to questions How to use regression to estimate outcomes and detect anomalies Key classification techniques for predicting which categories a record belongs to Statistical machine learning methods that 'learn' from data Unsupervised learning methods for extracting meaning from unlabeled data."
+        },
+        {
+            "id": 10,
+            "name": "Numerical Python",
+            "author": "Robert Johansson",
+            "tagline": "Scientific Computing and Data Science Application with Numpy, SciPy and Matplotlib",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Numerical%20Python%20Scientific%20Computing%20and%20Data%20Science%20Applications%20with%20Numpy%2C%20SciPy%20and%20Matplotlib%20by%20Robert%20Johansson%20(z-lib.org)-compressed.pdf?alt=media&token=9ab5e39f-f041-46b4-a649-7df6830a04ef",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61YNqJZzbEL.jpg",
+            "desc": "Leverage the numerical and mathematical modules in Python and its standard library as well as popular open source numerical Python packages like NumPy, SciPy, FiPy, matplotlib and more. This fully revised edition, updated with the latest details of each package and changes to Jupyter projects, demonstrates how to numerically compute solutions and mathematically model applications in big data, cloud computing, financial engineering, business management and more.  Numerical Python, Second Edition, presents many brand-new case study examples of applications in data science and statistics using Python, along with extensions to many previous examples. Each of these demonstrates the power of Python for rapid development and exploratory computing due to its simple and high-level syntax and multiple options for data analysis."
+        },
+        {
+            "id": 11,
+            "name": "Pro Deep Learning with TensorFlow",
+            "author": "Santanu Pattanayak",
+            "tagline": "A Mathematical Approach to Advanced Artificial Intelligence in Python",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Pro%20Deep%20Learning%20with%20TensorFlow_%20A%20Mathematical%20Approach%20to%20Advanced%20Artificial%20Intelligence%20in%20Python%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=e4a5c9b5-e3d3-442a-9d16-1cbf568a9444",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41QpXBDGUpL._SX348_BO1,204,203,200_.jpg",
+            "desc": "Deploy deep learning solutions in production with ease using TensorFlow. You'll also develop the mathematical understanding and intuition required to invent new deep learning architectures and solutions on your own. Pro Deep Learning with TensorFlow provides practical, hands-on expertise so you can learn deep learning from scratch and deploy meaningful deep learning solutions. This book will allow you to get up to speed quickly using TensorFlow and to optimize different deep learning architectures."
+        }
+    ]
+}

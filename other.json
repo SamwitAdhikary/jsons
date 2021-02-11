@@ -1,0 +1,149 @@
+{
+    "other": [
+        {
+            "id": 1,
+            "name": "Clean Code",
+            "author": "Robert C. Martin",
+            "tagline": "A Handbook of Agile Software Craftsmanship",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Clean%20Code%20-%20A%20Handbook%20of%20Agile%20Software%20Craftsmanship%20by%20Robert%20C.%20Martin%20(z-lib.org)-compressed.pdf?alt=media&token=a99e4489-4877-406e-93cb-32d817596ca1",
+            "image": "https://m.media-amazon.com/images/I/41SH-SvWPxL.jpg",
+            "desc": "Even bad code can function. But if code isn't clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn't have to be that way."
+        },
+        {
+            "id": 2,
+            "name": "Computer Systems",
+            "author": "Ata Elahi",
+            "tagline": "Digital Design, Fundamentals of Computer Architecture",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Computer%20Systems_%20Digital%20Design%2C%20Fundamentals%20of%20Computer%20Architecture%20and%20Assembly%20Language%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=6648c86c-e2fa-4f54-8efb-0f859a6679b8",
+            "image": "https://wordery.com/jackets/527d1cf7/computer-systems-ata-elahi-9783319667744.jpg",
+            "desc": "This textbook covers digital design, fundamentals of computer architecture, and assembly language. The book starts by introducing basic number systems, character coding, basic knowledge in digital design, and components of a computer. The book goes on to discuss information representation in computing; Boolean algebra and logic gates; sequential logic; input/output; and CPU performance."
+        },
+        {
+            "id": 3,
+            "name": "Fundamentals of Software Engineering",
+            "author": "Rajib Mall",
+            "tagline": "Rajib Mall",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Fundamentals%20of%20Software%20Engineering%2C%20Fourth%20Edition%2C%20Rajib%20Mall%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=a5860bac-4d32-4890-bd69-0e59f0193de1",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51x81pPs8gL._SX374_BO1,204,203,200_.jpg",
+            "desc": "Now in its fourth edition, this text has been restructured and revised to incorporate the latest advances in the field. It not only incorporates the latest and enhanced software engineering techniques and practices, but also shows how these techniques are applied into the practical software assignments. Chapters now incorporate illustrative examples to add an analytical insight on the subject."
+        },
+        {
+            "id": 4,
+            "name": "Clean Architecture",
+            "author": "Robert C. Martin",
+            "tagline": "A Craftsman's Guide to Software Structures and Design",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Clean%20Architecture%20A%20Craftsman%E2%80%99s%20Guide%20to%20Software%20Structure%20and%20Design%20by%20Robert%20C.%20Martin%20(z-lib.org)-compressed.pdf?alt=media&token=521b2b22-b217-4d95-8389-c264b9f20f5d",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/810b1DUyN-L.jpg",
+            "desc": "Practical Software Architecture Solutions from the Legendary Robert C. Martin (“Uncle Bob”) By applying universal rules of software architecture, you can dramatically improve developer productivity throughout the life of any software system. Now, building upon the success of his best-selling books Clean Code and The Clean Coder, legendary software craftsman Robert C. Martin (“Uncle Bob”) reveals those rules and helps you apply them. Martin’s Clean Architecture doesn’t merely present options. Drawing on over a half-century of experience in software environments of every imaginable type, Martin tells you what choices to make and why they are critical to your success. As you’ve come to expect from Uncle Bob, this book is packed with direct, no-nonsense solutions for the real challenges you’ll face—the ones that will make or break your projects. Learn what software architects need to achieve—and core disciplines and practices for achieving it Master essential software design principles for addressing function, component separation, and data management See how programming paradigms impose discipline by restricting what developers can do Understand what’s critically important and what’s merely a “detail” Implement optimal, high-level structures for web, database, thick-client, console, and embedded applications Define appropriate boundaries and layers, and organize components and services."
+        },
+        {
+            "id": 5,
+            "name": "Cracking Coding Interview",
+            "author": "Gayle Laakmann Mcdowell",
+            "tagline": "189 Programming Questions & Solutions",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book6-71fc8.appspot.com/o/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions%20by%20Gayle%20Laakmann%20McDowell%20(z-lib.org).pdf?alt=media&token=c18febd5-ba7a-47a4-a6ca-ce5bba99bbde",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/410hiaPGyCL._SX348_BO1,204,203,200_.jpg",
+            "desc": "189 programming interview questions, ranging from the basics to the trickiest algorithm problems. - A walk-through of how to derive each solution, so that you can learn how to get there yourself. - Hints on how to solve each of the 189 questions, just like what you would get in a real interview. - Five proven strategies to tackle algorithm questions, so that you can solve questions you haven't seen. - Extensive coverage of essential topics, such as big O time, data structures, and core algorithms. - A behind the scenes look at how top companies like Google and Facebook hire developers. - Techniques to prepare for and ace the soft side of the interview: behavioral questions. - For interviewers and companies: details on what makes a good interview question and hiring process."
+        },
+        {
+            "id": 6,
+            "name": "Code Complete",
+            "author": "Steve McConnell",
+            "tagline": "A Practical Handbook of Software Construction",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book7-6cc4d.appspot.com/o/Code%20Complete%20-%20A%20Practical%20Handbook%20of%20Software%20Construction%20by%20Steve%20McConnell%20(z-lib.org)-compressed.pdf?alt=media&token=9d25a0e5-db8a-4418-a51a-b0f455e4b7fc",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41JOmGowq-L._SX408_BO1,204,203,200_.jpg",
+            "desc": "Widely considered one of the best practical guides to programming, Steve McConnell’s original CODE COMPLETE has been helping developers write better software for more than a decade. Now this classic book has been fully updated and revised with leading-edge practices—and hundreds of new code samples—illustrating the art and science of software construction. Capturing the body of knowledge available from research, academia, and everyday commercial practice, McConnell synthesizes the most effective techniques and must-know principles into clear, pragmatic guidance. No matter what your experience level, development environment, or project size, this book will inform and stimulate your thinking—and help you build the highest quality code."
+        },
+        {
+            "id": 7,
+            "name": "Hacking",
+            "author": "Jon Erikson",
+            "tagline": "The Art Of Exploitation",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book7-6cc4d.appspot.com/o/Hacking%20The%20Art%20of%20Exploitation%20by%20Jon%20Erickson%20(z-lib.org)-compressed.pdf?alt=media&token=e104f621-dde4-446e-b3dc-1e3c5cadf563",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91UlU666haL.jpg",
+            "desc": "Hacking is the art of creative problem solving, whether that means finding an unconventional solution to a difficult problem or exploiting holes in sloppy programming. Many people call themselves hackers, but few have the strong technical foundation needed to really push the envelope. Rather than merely showing how to run existing exploits, author Jon Erickson explains how arcane hacking techniques actually work. To share the art and science of hacking in a way that is accessible to everyone, Hacking: The Art of Exploitation, 2nd Edition introduces the fundamentals of C programming from a hacker's perspective."
+        },
+        {
+            "id": 8,
+            "name": "Refactoring",
+            "author": "Martin Fowler",
+            "tagline": "Improving The Design of Existing Code",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book7-6cc4d.appspot.com/o/Refactoring%20Improving%20the%20Design%20of%20Existing%20Code%20by%20Martin%20Fowler%20(z-lib.org)-compressed.pdf?alt=media&token=c2c3449c-cfed-448d-8b3a-3c400483f0ca",
+            "image": "https://m.media-amazon.com/images/I/41odjJlPgHL._SX260_.jpg",
+            "desc": "For more than twenty years, experienced programmers worldwide have relied on Martin Fowler’s Refactoring to improve the design of existing code and to enhance software maintainability, as well as to make existing code easier to understand. This eagerly awaited new edition has been fully updated to reflect crucial changes in the programming landscape. Refactoring, Second Edition, features an updated catalog of refactorings and includes JavaScript code examples, as well as new functional examples that demonstrate refactoring without classes.",
+            "lang": "English"
+        },
+        {
+            "id": 9,
+            "name": "The Pragmatic Programmer",
+            "author": "David Thomas, Andrew Hunt",
+            "tagline": "Your Journey To Mastery",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book7-6cc4d.appspot.com/o/The%20Pragmatic%20Programmer%20Your%20Journey%20to%20Mastery%2C%2020th%20Anniversary%20Edition%20by%20Andrew%20Hunt%20David%20Hurst%20Thomas%20(z-lib.org)-compressed.pdf?alt=media&token=75593a22-1e55-4f9e-abce-c669744a5e89",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51cUVaBWZzL._SX380_BO1,204,203,200_.jpg",
+            "desc": "The Pragmatic Programmer is one of those rare tech books you’ll read, re-read, and read again over the years. Whether you’re new to the field or an experienced practitioner, you’ll come away with fresh insights each and every time. Dave Thomas and Andy Hunt wrote the first edition of this influential book in 1999 to help their clients create better software and rediscover the joy of coding. These lessons have helped a generation of programmers examine the very essence of software development, independent of any particular language, framework, or methodology, and the Pragmatic philosophy has spawned hundreds of books, screencasts, and audio books, as well as thousands of careers and success stories."
+        },
+        {
+            "id": 10,
+            "name": "The Clean Coder",
+            "author": "Robert C. Martin",
+            "tagline": "A Code of Conduct for Professional Programmers",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book7-6cc4d.appspot.com/o/The%20clean%20coder%20%20a%20code%20of%20conduct%20for%20professional%20programmers%20by%20Martin%2C%20Robert%20C.%20(z-lib.org)-compressed.pdf?alt=media&token=93d40dbf-f1c4-49b9-b1ff-6106bd29cdcc",
+            "image": "https://m.media-amazon.com/images/I/51uhS7QO--L.jpg",
+            "desc": "In The Clean Coder: A Code of Conduct for Professional Programmers, legendary software expert Robert C. Martin introduces the disciplines, techniques, tools, and practices of true software craftsmanship. This book is packed with practical advice–about everything from estimating and coding to refactoring and testing. It covers much more than technique: It is about attitude. Martin shows how to approach software development with honor, self-respect, and pride; work well and work clean; communicate and estimate faithfully; face difficult decisions with clarity and honesty; and understand that deep knowledge comes with a responsibility to act."
+        },
+        {
+            "id": 11,
+            "name": "Computer Architecture",
+            "author": "John L. Hennessy, David A. Patterson",
+            "tagline": "A Quantitive Approach",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Computer%20Architecture%2C%20Sixth%20Edition_%20A%20Quantitative%20Approach%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=5b2ceb5c-06bc-4a9e-8c2e-52bee153c170",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51HjJG5krmL.jpg",
+            "desc": "Computer Architecture: A Quantitative Approach, Sixth Edition has been considered essential reading by instructors, students and practitioners of computer design for over 20 years. The sixth edition of this classic textbook from Hennessy and Patterson, winners of the 2017 ACM A.M. Turing Award recognizing contributions of lasting and major technical importance to the computing field, is fully revised with the latest developments in processor and system architecture. The text now features examples from the RISC-V (RISC Five) instruction set architecture, a modern RISC instruction set developed and designed to be a free and openly adoptable standard. It also includes a new chapter on domain-specific architectures and an updated chapter on warehouse-scale computing that features the first public information on Google's newest WSC."
+        },
+        {
+            "id": 12,
+            "name": "Computer Graphics, C Version",
+            "author": "Donald Hearn, M. Pauline Baker",
+            "tagline": "Donald Baker, M. Pauline Hearn",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book6-71fc8.appspot.com/o/Computer%20Graphics%2C%20C%20Version%20by%20Donald%20Baker%2C%20M.%20Pauline%20Hearn%20(z-lib.org).pdf?alt=media&token=e0deed06-fcfa-4643-8c84-06d86e638306",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51R20C3M3SL.jpg",
+            "desc": "Reflecting the rapid expansion of the use of computer graphics and of C as a programming language of choice for implementation, this new version of the best-selling Hearn and Baker text converts all programming code into the C language. Assuming the reader has no prior familiarity with computer graphics, the authors present basic principles for design, use, and understanding of computer graphics systems. The authors are widely considered authorities in computer graphics, and are known for their accessible writing style. A free Open GL supplement is available via the texts Prentice Hall Catalog page."
+        },
+        {
+            "id": 13,
+            "name": "Computer Networking",
+            "author": "Kurose, Ross",
+            "tagline": "A Top-Down Approach",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book6-71fc8.appspot.com/o/Computer%20Networking%20A%20Top-Down%20Approach%2C%207th%20Edition%20by%20James%20Kurose%2C%20Keith%20Ross%20(z-lib.org).pdf?alt=media&token=fd62c631-d636-44db-907f-cbc9222cec58",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51xp1%2BoDRML._AC_UL600_SR486,600_.jpg",
+            "desc": "Unique among computer networking texts, the Seventh Edition of the popular Computer Networking: A Top Down Approach builds on the author’s long tradition of teaching this complex subject through a layered approach in a “top-down manner.” The text works its way from the application layer down toward the physical layer, motivating readers by exposing them to important concepts early in their study of networking. Focusing on the Internet and the fundamentally important issues of networking, this text provides an excellent foundation for readers interested in computer science and electrical engineering, without requiring extensive knowledge of programming or mathematics. The Seventh Edition has been updated to reflect the most important and exciting recent advances in networking."
+        },
+        {
+            "id": 14,
+            "name": "Cyber Operations",
+            "author": "Mike O'Leary",
+            "tagline": "Building, Defending, and Attacking Modern Computer Networks",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Cyber%20Operations_%20Building%2C%20Defending%2C%20and%20Attacking%20Modern%20Computer%20Networks%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=dda3c39c-8abb-4aa1-a44c-7f969653a176",
+            "image": "https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4842-4294-0",
+            "desc": "Cyber Operations walks you through all the processes to set up, defend, and attack computer networks. This book focuses on networks and real attacks, offers extensive coverage of offensive and defensive techniques, and is supported by a rich collection of exercises and resources. You'll learn how to configure your network from the ground up, starting by setting up your virtual test environment with basics like DNS and active directory, through common network services, and ending with complex web applications involving web servers and backend databases."
+        },
+        {
+            "id": 15,
+            "name": "Cyber Security",
+            "author": "Thomas A. Jhonson",
+            "tagline": "Protecting Critical Infrastructures from Cyber Attack and Cyber Warfare",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Cyber-security%20Protecting%20Critical%20Infrastructures%20from%20Cyber%20Attack%20and%20Cyber%20Warfare%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=27b93b37-6fe1-4bb5-b8ca-608263a2e2a4",
+            "image": "https://images.tandf.co.uk/common/jackets/agentjpg/978148223/9781482239225.jpg",
+            "desc": "The World Economic Forum regards the threat of cyber attack as one of the top five global risks confronting nations of the world today. Cyber attacks are increasingly targeting the core functions of the economies in nations throughout the world. The threat to attack critical infrastructures, disrupt critical services, and induce a wide range of dam."
+        },
+        {
+            "id": 16,
+            "name": "Beginning Modern Unix",
+            "author": "Manish Jain",
+            "tagline": "Learn to live comfortably in a modern Unix Environment",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Beginning%20Modern%20Unix_%20Learn%20to%20Live%20Comfortably%20in%20a%20Modern%20Unix%20Environment%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=7f5798ad-0ee9-4087-8ef9-acbde6a4bba3",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61iutBKmgWL.jpg",
+            "desc": "Discover how to leverage modern Unix even if you’ve never worked with Unix before. This book presents everything in conceptual terms that you can understand, rather than tips to be committed raw to memory."
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "cprog": [
+        {
+            "id": 1,
+            "name": "C How to Program",
+            "author": "Paul Deitel, Harvey Deitel",
+            "tagline": "With an Introduction to C++",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/C%20How%20to%20Program.%20%20With%20an%20Introduction%20to%20C%2B%2B%20by%20Paul%20Deitel%2C%20Harvey%20Deitel%20(z-lib.org).pdf?alt=media&token=6bec632c-a687-4d93-bce4-51fec34afc1d",
+            "image": "https://www.perlego.com/books/RM_Books/pearson_lm_vzezmkn/9781292110981.jpg",
+            "desc": "C How to Program is a comprehensive introduction to programming in C. Like other texts of the Deitels’ How to Program series, the book serves as a detailed beginner source of information for college students looking to embark on a career in coding, or instructors and software-development professionals seeking to learn how to program with C."
+        },
+        {
+            "id": 2,
+            "name": "C Primer Plus",
+            "author": "Stephen Prata",
+            "tagline": "Stephen Prata",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book8-67251.appspot.com/o/C%20Primer%20Plus%2C%206th%20Edition%20by%20Stephen%20Prata%20(z-lib.org)-compressed.pdf?alt=media&token=3e5545d9-d2b6-4ad1-88d2-26063e767d1f",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41iQWgMF6BL.jpg",
+            "desc": "C Primer Plus is a carefully tested, well-crafted, and complete tutorial on a subject core to programmers and developers. This computer science classic teaches principles of programming, including structured code and top-down design. Author and educator Stephen Prata has created an introduction to C that is instructive, clear, and insightful. Fundamental programming concepts are explained along with details of the C language. Many short, practical examples illustrate just one or two concepts at a time, encouraging readers to master new topics by immediately putting them to use."
+        },
+        {
+            "id": 3,
+            "name": "C The Complete Reference",
+            "author": "Herbert Schildt",
+            "tagline": "Herbert Schildt",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book8-67251.appspot.com/o/C%20the%20complete%20reference%20by%20Herbert%20Schildt%20(z-lib.org)-compressed.pdf?alt=media&token=7e7a4351-8995-4413-a96a-28d0c2c03900",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71mqdKj2O9L.jpg",
+            "desc": "Another gem from Herb Schildt--best-selling programming author with more than 2.5 million books sold! C: The Complete Reference, Fourth Edition gives you full details on C99, the New ANSI/ISO Standard for C. You'll get in-depth coverage of the C language and function libraries as well as all the newest C features, including restricted pointers, inline functions, variable-length arrays, and complex math. This jam-packed resource includes hundreds of examples and sample applications."
+        },
+        {
+            "id": 4,
+            "name": "Head First C",
+            "author": "David Griffiths, Dawn Griffiths",
+            "tagline": "David Griffiths, Dawn Griffiths",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book8-67251.appspot.com/o/Head%20First%20C%20by%20David%20Griffiths%2C%20Dawn%20Griffiths%20(z-lib.org)-compressed.pdf?alt=media&token=4359f7c1-d0c5-4b9f-84cb-91944e406f58",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71oTuwqLUSL.jpg",
+            "desc": "Ever wished there was an easier way to learn C from a book? Head First C is a complete learning experience that will show you how to create programs in the C language. This book helps you learn the C language with a unique method that goes beyond syntax and how-to manuals and helps you understand how to be a great programmer. You'll learn key areas such as language basics, pointers and pointer arithmeticand dynamic memory managementand with advanced topics such as multi-threading and network programming, Head First C can be used as an accessible text book for a college-level course."
+        },
+        {
+            "id": 5,
+            "name": "Learn C The Hard Way",
+            "author": "Zed A. Shaw",
+            "tagline": "Practical Exercises on the Computional Subjects You Keep Avoiding(Like C)",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book8-67251.appspot.com/o/Learn%20C%20the%20Hard%20Way%20Practical%20Exercises%20on%20the%20Computational%20Subjects%20You%20Keep%20Avoiding%20(Like%20C)%20by%20Zed%20A.%20Shaw%20(z-lib.org)-compressed.pdf?alt=media&token=b8ddacf7-5dd4-4a11-ac56-edd9a8b9e40f",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41QWCRvb4DL.jpg",
+            "desc": "In Learn C the Hard Way, you’ll learn C by working through 52 brilliantly crafted exercises. Watch Zed Shaw’s teaching video and read the exercise. Type his code precisely. (No copying and pasting!) Fix your mistakes. Watch the programs run. As you do, you’ll learn what good, modern C programs look like; how to think more effectively about code; and how to find and fix mistakes far more efficiently. Most importantly, you’ll master rigorous defensive programming techniques, so you can use any language to create software that protects itself from malicious activity and defects."
+        },
+        {
+            "id": 6,
+            "name": "Let Us C",
+            "author": "Yashvant Kanetkar",
+            "tagline": "Authentic Guide To C Programming Language",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book8-67251.appspot.com/o/Let%20Us%20C%20Authentic%20Guide%20to%20C%20PROGRAMMING%20Language%20(17th%20Edition)%20by%20Yashavant%20Kanetkar%20(z-lib.org)-compressed.pdf?alt=media&token=92232d8c-3744-476f-8319-dd22fb98e5ef",
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/51doGYi-0vL._SX342_SY445_QL70_ML2_.jpg",
+            "desc": "The new edition of this classic book has been thoroughly revamped, but remains faithful to the principles that have established it as a favourite amongst students, teachers and software professionals round the world. “Simplicity”- that has been the hallmark of this book in not only its previous sixteen English editions, but also in the Hindi, gujrati, Japanese, Korean, Chinese and us editions. This book doesn't assume any programming background. It begins with the basics and steadily builds the pace so that the reader finds it easy to handle advanced topics towards the end of the book."
+        }
+    ]
+}

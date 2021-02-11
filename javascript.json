@@ -1,0 +1,58 @@
+{
+    "javascript": [
+        {
+            "id": 1,
+            "name": "Full Stack JavaScript",
+            "author": "Azat Mardan",
+            "tagline": "Learn Backbone.js, Node.js, and MongoDB",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book2-aa723.appspot.com/o/Full%20Stack%20JavaScript%20Learn%20Backbone.js%2C%20Node.js%2C%20and%20MongoDB%2C%202nd%20Edition%20by%20Azat%20Mardan%20(z-lib.org)-compressed.pdf?alt=media&token=257fe445-6add-4914-9722-462465074adf",
+            "image": "https://m.media-amazon.com/images/I/41iNKSx9grL.jpg",
+            "desc": "Learn agile JavaScript web development using the latest cutting-edge front-end and back-end technologies including Node.js, MongoDB, Backbone.js, Parse.com, Heroku, and Microsoft Azure. Using a key project example of a message board app, you will learn the foundations of a typical web application: fetching data, displaying it, and submitting new data."
+        },
+        {
+            "id": 2,
+            "name": "Learning PHP, MySQL, & JavaScript",
+            "author": "Robin Nixon",
+            "tagline": "With JQuery, CSS & HTML5",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book2-aa723.appspot.com/o/Learning%20PHP%2C%20MySQL%20%20JavaScript%20-%20With%20jQuery%2C%20CSS%20%20HTML5%20by%20Robin%20Nixon%20(z-lib.org)-compressed.pdf?alt=media&token=fd2e5b74-83cc-4d6a-9352-fab75b0a46d3",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51H8DtU-WTL._SX379_BO1,204,203,200_.jpg",
+            "desc": "Build interactive, data driven websites with the potent combination of open source technologies and web standards, even if you have only basic HTML knowledge. In this update to this popular hands on guide, you’ll tackle dynamic web programming with the latest versions of today’s core technologies: PHP, MySQL, JavaScript, CSS, HTML5, and key jQuery libraries. Web designers will learn how to use these technologies together and pick up valuable web programming practices along the way—including how to optimize websites for mobile devices. At the end of the book, you’ll put everything together to build a fully functional social networking site suitable for both desktop and mobile browsers."
+        },
+        {
+            "id": 3,
+            "name": "JavaScript The Definitive Guide",
+            "author": "David Flanagan",
+            "tagline": "Master the World's Most-Used Programming Language",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/JavaScript%20The%20Definitive%20Guide%20Master%20the%20Worlds%20Most-Used%20Programming%20Language%20by%20David%20Flanagan%20(z-lib.org)-compressed.pdf?alt=media&token=ff81f1ca-898f-42d0-8ea4-f301344eb4bf",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91hUer84PpL.jpg",
+            "desc": "JavaScript is a simple programming language from Netscape that can be embedded in your HTML Web pages. It allows you to control the behavior of the Web browser, add dynamically created text to your Web pages, interact with the user through HTML forms (withoutCGI scripts), and, in version 3.0 of Netscape Navigator, even control and interact with Java applets and Navigator plugins."
+        },
+        {
+            "id": 4,
+            "name": "JavaScript And JQuery",
+            "author": "Jon Duckett",
+            "tagline": "Interactive Front-End Web Development",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book7-6cc4d.appspot.com/o/JavaScript%20and%20JQuery_%20Interactive%20Front-End%20Web%20Development%20(%20PDFDrive%20).pdf?alt=media&token=c0b60257-3dbf-4f53-be26-32390ae8ffe2",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71viHxTLKgL.jpg",
+            "desc": "This full-color book adopts a visual approach to teaching JavaScript & jQuery, showing you how to make web pages more interactive and interfaces more intuitive through the use of inspiring code examples, infographics, and photography. The content assumes no previous programming experience, other than knowing how to create a basic web page in HTML & CSS. You'll learn how to achieve techniques seen on many popular websites (such as adding animation, tabbed panels, content sliders, form validation, interactive galleries, and sorting data)"
+        },
+        {
+            "id": 5,
+            "name": "Secrets of The JavaScript Ninja",
+            "author": "John Resig, Bear Bibeault, Josip Maras",
+            "tagline": "Jhon Resig, Bear Bibeault, Josip Maras",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book7-6cc4d.appspot.com/o/Secrets%20of%20the%20JavaScript%20Ninja%2C%20Second%20Edition%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=5a78ac57-c047-4e6f-9457-013cdced283f",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71OcrNWJv3L.jpg",
+            "desc": "Secrets of the JavaScript Ninja, Second Edition uses practical examples to clearly illustrate each core concept and technique. This completely revised edition shows you how to master key JavaScript concepts such as functions, closures, objects, prototypes, and promises. It covers APIs such as the DOM, events, and timers. You’ll discover best practice techniques such as testing, and cross-browser development, all taught from the perspective of skilled JavaScript practitioners."
+        },
+        {
+            "id": 6,
+            "name": "Eloquent JavaScript",
+            "author": "Marijn Haverbeke",
+            "tagline": "A Modern Introduction to Programming",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book8-67251.appspot.com/o/Marijn%20Haverbeke%20-%20Eloquent%20JavaScript_%20A%20Modern%20Introduction%20to%20Programming%2C%203rd%20Edition-No%20Starch%20Press%20(2019)%20by%20Marijn%20Haverbeke%20(z-lib.org)-compressed.pdf?alt=media&token=8c277ae1-09ac-4764-b80a-49c17ffb6c40",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91q8Jx+j6iL.jpg",
+            "desc": "JavaScript lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications. This much anticipated and thoroughly revised third edition of Eloquent JavaScript dives deep into the JavaScript language to show you how to write beautiful, effective code. It has been updated to reflect the current state of Java¬Script and web browsers and includes brand-new material on features like class notation, arrow functions, iterators, async functions, template strings, and block scope. A host of new exercises have also been added to test your skills and keep you on track."
+        }
+    ]
+}

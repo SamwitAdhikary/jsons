@@ -1,0 +1,105 @@
+{
+    "cpp": [
+        {
+            "id": 1,
+            "name": "Optimized C++",
+            "author": "Kurt Guntheroth",
+            "tagline": "Proven Techniques for Heightened Performance",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/Optimized%20C%2B%2B%20Proven%20Techniques%20for%20Heightened%20Performance%20by%20Kurt%20Guntheroth%20(z-lib.org)-compressed.pdf?alt=media&token=b9df4c04-1517-4736-9f53-fa27f2be5c23",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51QvR0tcdOL._SX258_BO1,204,203,200_.jpg",
+            "desc": "In today’s fast and competitive world, a program’s performance is just as important to customers as the features it provides. This practical guide teaches developers performance-tuning principles that enable optimization in C++. You’ll learn how to make code that already embodies best practices of C++ design run faster and consume fewer resources on any computer—whether it’s a watch, phone, workstation, supercomputeror globe-spanning network of servers.",
+            "lang": "English"
+        },
+        {
+            "id": 1,
+            "name": "Modern C++ Programming Cookbook",
+            "author": "Marius Bancila",
+            "tagline": "Over 100 recipes to help you overcome your difficulties with C++",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/Modern%20C%2B%2B%20Programming%20Cookbook%20by%20Marius%20Bancila%20(z-lib.org)-compressed.pdf?alt=media&token=0f847770-b783-4275-b67e-5f61c023ce18",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51eEU2XlClL._SX404_BO1,204,203,200_.jpg",
+            "desc": "About the Author Marius Bancila is a software engineer with 14 years of experience in developing solutions for the industrial and financial sectors. He focuses on Microsoft technologies and mainly develops desktop applications with C++ and C#. Over the years, he has worked with other languages and technologies including Java, HTML/CSS, PHP, and JavaScript. Marius is passionate about sharing his technical expertise with others, and for that reason, he has been recognized as a Microsoft MVP for more than a decade. He has been an active contributor to forums and other developer communities where he has published many articles, for which he has won multiple awards. He also created and contributed to several open source libraries. He is a cofounder of Codexpert, a Romanian community for C++ developers. He is based in Timisoara, Romania, and works as a system architect, building accounting and logistic solutions for a major European software vendor. ",
+            "lang": "English"
+        },
+        {
+            "id": 1,
+            "name": "C How to Program",
+            "author": "Paul Deitel, Harvey Deitel",
+            "tagline": "With an Introduction to C++",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/C%20How%20to%20Program.%20%20With%20an%20Introduction%20to%20C%2B%2B%20by%20Paul%20Deitel%2C%20Harvey%20Deitel%20(z-lib.org).pdf?alt=media&token=6bec632c-a687-4d93-bce4-51fec34afc1d",
+            "image": "https://www.perlego.com/books/RM_Books/pearson_lm_vzezmkn/9781292110981.jpg",
+            "desc": "C How to Program is a comprehensive introduction to programming in C. Like other texts of the Deitels’ How to Program series, the book serves as a detailed beginner source of information for college students looking to embark on a career in coding, or instructors and software-development professionals seeking to learn how to program with C."
+        },
+        {
+            "id": 2,
+            "name": "C++ Programming",
+            "author": "Behrouz A. Forouzan, Richard F. Gilberg",
+            "tagline": "An Object Oriented Approach",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/C%2B%2B%20Programming%20An%20Object-Oriented%20Approach%20by%20Behrouz%20A.%20Forouzan%2C%20Richard%20Gilberg%20(z-lib.org)-compressed.pdf?alt=media&token=7f5dd8f0-516a-4796-afc7-fa7346a7339e",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/418Uy1lofCL.jpg",
+            "desc": "C++ Programming: An Object-Oriented Approach has two primary objectives: Teach the basic principles of programming as outlined in the ACM curriculum for a CS1 class and teach the basic constructs of the C++ language. While C++ is a complex and professional language, experience shows that beginning students can easily understand and use C++."
+        },
+        {
+            "id": 3,
+            "name": "Object Oriented Programming With C++",
+            "author": "E. Balagurusamy",
+            "tagline": "E. Balagurusamy",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/Object%20Oriented%20Programming%20With%20C%2B%2B%20by%20Balagurusamy%20(z-lib.org).pdf?alt=media&token=18ddd876-f189-4add-bee0-1522160a5a06",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51N4A59EAiL.jpg",
+            "desc": "Written by the most well known face of India's IT literacy movement, this book is designed for the first course in Object Oriented Programming with C++ taken by undergraduate students in Computers and Information Technology. It explores C++ in the light of its Object Oriented nature and simplifies it for novice programmers."
+        },
+        {
+            "id": 4,
+            "name": "C++ Crash Course",
+            "author": "Josh Lospinoso",
+            "tagline": "A Fast-Paced Introduction",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/C%2B%2B%20Crash%20Course%20A%20Fast-Paced%20Introduction%20by%20Josh%20Lospinoso%20(z-lib.org)-compressed.pdf?alt=media&token=9b6c5cc6-aee0-4786-8ecc-60ae6e6233a4",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81SUknrOYVL.jpg",
+            "desc": "A fast-paced, thorough introduction to modern C++ written for experienced programmers. After reading C++ Crash Course, you'll be proficient in the core language concepts, the C++ Standard Library, and the Boost Libraries. C++ is one of the most widely used languages for real-world software. In the hands of a knowledgeable programmer, C++ can produce small, efficient, and readable code that any programmer would be proud of."
+        },
+        {
+            "id": 5,
+            "name": "Practical C++ Design",
+            "author": "Adam B. Singer",
+            "tagline": "From Programming to Architecture",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Practical%20C%2B%2B%20Design_%20From%20Programming%20to%20Architecture%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=103e371c-b57a-4833-aedd-02e71d122620",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61wTlBF0dlL.jpg",
+            "desc": "Go from competent C++ developer to skilled designer or architect using this book as your C++ design master class. This title will guide you through the design and implementation of a fun, engaging case study. Starting with a quick exploration of the requirements for building the application, you'll delve into selecting an appropriate architecture, eventually designing and implementing all of the necessary modules to meet the project’s requirements."
+        },
+        {
+            "id": 6,
+            "name": "Effective Modern C++",
+            "author": "Scott Meyers",
+            "tagline": "42 Specific Ways To Improve Your Use Of C++11 and C++14",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book7-6cc4d.appspot.com/o/Effective%20Modern%20C%2B%2B%2042%20Specific%20Ways%20to%20Improve%20Your%20Use%20of%20C%2B%2B11%20and%20C%2B%2B14%20by%20Scott%20Meyers%20(z-lib.org)-compressed.pdf?alt=media&token=4d259ccf-474e-4657-8b7d-8dc9d3089622",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51ImEKUGQhL._SX379_BO1,204,203,200_.jpg",
+            "desc": "Coming to grips with C++11 and C++14 is more than a matter of familiarizing yourself with the features they introduce (e.g., auto type declarations, move semantics, lambda expressions, and concurrency support). The challenge is learning to use those features effectively—so that your software is correct, efficient, maintainable, and portable. That’s where this practical book comes in. It describes how to write truly great software using C++11 and C++14—i.e. using modern C++."
+        },
+        {
+            "id": 7,
+            "name": "The C++ Programming Language",
+            "author": "Bjarne Stroustrup",
+            "tagline": "Bjarne Stroustrup",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book7-6cc4d.appspot.com/o/The%20C%2B%2B%20Programming%20Language%2C%204th%20Edition%20by%20Stroustrup%20B.%20(z-lib.org).pdf?alt=media&token=a3240624-85d2-4d2a-90db-193f1050533d",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51Z-XJXiQnL._SX396_BO1,204,203,200_.jpg",
+            "desc": "Programming: Principles and Practice Using C++, Second Edition, is a programming textbook aimed at beginners who eventually want to become professionals. It is also be useful for people who have programmed a bit and want to improve their style and technique--or simply to learn modern C++. It teaches fundamental programming principles and techniques for building high-quality, real-world systems."
+        },
+        {
+            "id": 8,
+            "name": "C++ Primer",
+            "author": "Stanley B. Lippman, Josee Lajoie, Barbara E. Moo",
+            "tagline": "Stanley B. Lippman, Josée Lajoie, Barbara E. Moo",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book8-67251.appspot.com/o/C%2B%2B%20Primer%20by%20Stanley%20B.%20Lippman%2C%20Jos%C3%A9e%20Lajoie%2C%20Barbara%20E.%20Moo%20(z-lib.org).pdf?alt=media&token=e48f8ea8-27ea-4545-b9d8-9875dac0a16e",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41LSlra7GOL._SX377_BO1,204,203,200_.jpg",
+            "desc": "C++ Primer, Fifth Edition, introduces the C++ standard library from the outset, drawing on its common functions and facilities to help you write useful programs without first having to master every language detail. The book’s many examples have been revised to use the new language features and demonstrate how to make the best use of them. This book is a proven tutorial for those new to C++, an authoritative discussion of core C++ concepts and techniques, and a valuable resource for experienced programmers, especially those eager to see C++11 enhancements illuminated."
+        },
+        {
+            "id": 9,
+            "name": "Learning OpenCV 3",
+            "author": "Adrian Kaehler, Gary Bradski",
+            "tagline": "Computer Vision in C++ with the OpenCV Library",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Learning%20OpenCV%203_%20Computer%20Vision%20in%20C%2B%2B%20with%20the%20OpenCV%20Library%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=ff229106-7ef7-4ea4-a9b5-26bbfe90fb89",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91E0M-1ifnL.jpg",
+            "desc": "Learning OpenCV puts you in the middle of the rapidly expanding field of computer vision. Written by the creators of the free open source OpenCV library, this book introduces you to computer vision and demonstrates how you can quickly build applications that enable computers to 'see' and make decisions based on that data. Computer vision is everywhere-in security systems, manufacturing inspection systems, medical image analysis, Unmanned Aerial Vehicles, and more. It stitches Google maps and Google Earth together, checks the pixels on LCD screens, and makes sure the stitches in your shirt are sewn properly. OpenCV provides an easy-to-use computer vision framework and a comprehensive library with more than 500 functions that can run vision code in real time."
+        }
+    ]
+}

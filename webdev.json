@@ -1,0 +1,121 @@
+{
+    "webdev": [
+        {
+            "id": 1,
+            "name": "Flask Web Development",
+            "author": "Miguel Grinberg",
+            "tagline": "Developing Web Applications with Python",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Flask%20Web%20Development_%20Developing%20Web%20Applications%20with%20Python%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=e63a6e7f-4873-46ff-8c07-ef046b230a05",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/514Lbvt36zL._SX377_BO1,204,203,200_.jpg",
+            "desc": "Take full creative control of your web applications with Flask, the Python-based microframework. With the second edition of this hands-on book, you’ll learn the framework from the ground up by developing, step-by-step, a real-world project created by author Miguel Grinberg. This refreshed edition accounts for important technology changes that have occurred in the past three years."
+        },
+        {
+            "id": 2,
+            "name": "Web Development with Angular and Bootstrap",
+            "author": "Sridhar Rao Chivukula, Aki Iskandar",
+            "tagline": "Embrace responsive web design and build adaptive Angular web applications",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/Web%20Development%20with%20Angular%20and%20Bootstrap%20Embrace%20responsive%20web%20design%20and%20build%20adaptive%20Angular%20web%20applications%20by%20Sridhar%20Rao%20Chivukula%20Aki%20Iskandar%20(z-lib.org)-compressed.pdf?alt=media&token=6d503f91-6458-4146-b342-fbbeabcbedf6",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51kH-nnH14L._SX258_BO1,204,203,200_.jpg",
+            "desc": "Combine the power of Angular, Bootstrap 4, FlexLayout, and Angular Material Design to build elegant user interfaces Key Features Learn to combine Angular 6 with Bootstrap 4 to design highly intuitive and responsive web interfaces Explore the design principles for professional web layout with Angular Material, Flexbox, and Bootstrap Avoid potential stumbling blocks in web development with the help of expert tips Book DescriptionAngular and Bootstrap have undergone a major overhaul to embrace emerging web technologies that help developers build cutting-edge web applications. This book is for you if you're ready to enhance your web development skills beyond HTML and CSS. It begins with the basics of Angular and Bootstrap 4, along with an introduction to ES and TypeScript."
+        },
+        {
+            "id": 3,
+            "name": "Building Your Online Store with Wordpress and WooCommerce",
+            "author": "Lisa Sims",
+            "tagline": "Learn to Leverage the Critical Role Ecommerce Plays in Today's Competitive Marketplace",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Building%20Your%20Online%20Store%20with%20Wordpress%20and%20Woocommerce_%20Learn%20to%20Leverage%20the%20Critical%20Role%20Ecommerce%20Plays%20in%20Today%E2%80%99s%20Competitive%20Marketplace%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=43f125bb-5676-4ac5-8161-e316c8570caf",
+            "image": "https://images.springer.com/sgw/books/medium/9781484238455.jpg",
+            "desc": "Teaches you all about e-commerce and how to create your own online shop using WordPress and WooCommerce. Regardless of a business’s size, e-commerce helps level the playing field, increases a business’s exposure, allows companies to reach customers globally, and streamlines the fulfillment process. In the past, e-commerce websites were expensive, technically difficult, and time-consuming to create but not anymore. WordPress and WooCommerce together are a complete e-commerce solution that can be used to sell both physical and digital products online. You'll learn how to install WordPress and how to plan your e-commerce solution with WooCommerce as well as install, create, secure, test, and market a sample online store."
+        },
+        {
+            "id": 4,
+            "name": "eCommerce in the Cloud",
+            "author": "Kelly Goetsch",
+            "tagline": "Bringing Elasticity to Ecommerce",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/eCommerce%20in%20the%20Cloud_%20Bringing%20Elasticity%20to%20eCommerce%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=5bf36ca7-c732-431a-9cc0-910536468451",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91xBKSEFuvL._SL1500_.jpg",
+            "desc": "Is your eCommerce solution ready for the cloud? This practical guide shows experienced and aspiring web architects alike how to adopt cloud computing incrementally, using public Infrastructure-as-a-Service and Platform-as-a-Service. You will learn how to marshal as much capacity as you need to handle peak holiday or special-event traffic. Written by eCommerce expert Kelly Goetsch, this book helps architects leverage recent technological advances that have made it possible to run an entire enterprise-level eCommerce platform from a cloud."
+        },
+        {
+            "id": 5,
+            "name": "Learning Web Design",
+            "author": "Jennifer Niederst Robbins",
+            "tagline": "A Beginners's Guide to HTML, CSS, JavaScript, and Web Graphics",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Learning%20Web%20Design%20_%20A%20Beginner%E2%80%99s%20Guide%20to%20HTML%2C%20CSS%2C%20JavaScript%2C%20and%20Web%20Graphics%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=99c42eb9-6c03-4892-b922-696b46379bc2",
+            "image": "https://www.learningwebdesign.com/images/lwd5_cover.png",
+            "desc": "Do you want to build web pages but have no prior experience? This friendly guide is the perfect place to start. You’ll begin at square one, learning how the web and web pages work, and then steadily build from there. By the end of the book, you’ll have the skills to create a simple site with multicolumn pages that adapt for mobile devices. This thoroughly revised edition is ideal for students and professionals of all backgrounds and skill levels. It is simple and clear enough for beginners, yet thorough enough to be a useful reference for experienced developers keeping their skills up to date."
+        },
+        {
+            "id": 6,
+            "name": "Test-Driven Development with Python",
+            "author": "Harry J.W. Percival",
+            "tagline": "Obey the Testing Goat: Using Django, Selenium & JavaScript",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Test-Driven%20Development%20with%20Python%20Obey%20the%20Testing%20Goat%20Using%20Django%2C%20Selenium%2C%20and%20JavaScript%20by%20Percival%2C%20H.J.W.%20(z-lib.org)-compressed.pdf?alt=media&token=1a24dffa-fc0c-488d-8f25-7778dc12f6f6",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/717rz1yW-3L.jpg",
+            "desc": "By taking you through the development of a real web application from beginning to end, the second edition of this hands-on guide demonstrates the practical advantages of test-driven development (TDD) with Python. You’ll learn how to write and run tests before building each part of your app, and then develop the minimum amount of code required to pass those tests. The result? Clean code that works."
+        },
+        {
+            "id": 7,
+            "name": "MongoDB The Definitive Guide",
+            "author": "Shannon Bradshaw, Eoin Brazil, Kristina Chodorow",
+            "tagline": "Powerful and Scalable Data Storage",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book6-71fc8.appspot.com/o/MongoDB%20The%20Definitive%20Guide%20Powerful%20and%20Scalable%20Data%20Storage%203rd%20Edition%20by%20Kristina%20Chodorow%20Eoin%20Brazil%20Shannon%20Bradshaw%20(z-lib.org).epub-compressed.pdf?alt=media&token=0be01c22-d11d-4ffe-a397-e4554c4f727f",
+            "image": "https://m.media-amazon.com/images/I/51n4OPvZiWL.jpg",
+            "desc": "Manage your data with a system designed to support modern application development. Updated for MongoDB 4.2, the third edition of this authoritative and accessible guide shows you the advantages of using document-oriented databases. You’ll learn how this secure, high-performance system enables flexible data models, high availability, and horizontal scalability. Authors Shannon Bradshaw, Eoin Brazil, and Kristina Chodorow provide guidance for database developers, advanced configuration for system administrators, and use cases for a variety of projects. NoSQL newcomers and experienced MongoDB users will find updates on querying, indexing, aggregation, transactions, replica sets, ops management, sharding and data administration, durability, monitoring, and security."
+        },
+        {
+            "id": 8,
+            "name": "HTML & CSS",
+            "author": "Jon Duckett",
+            "tagline": "Design and Build Websites",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book8-67251.appspot.com/o/HTML%20and%20CSS%20Design%20and%20Build%20Websites%20by%20Jon%20Duckett%20(z-lib.org).pdf?alt=media&token=fa687049-d32c-473e-b2d5-5bc3c4ff4732",
+            "image": "https://media.wiley.com/product_data/coverImage300/42/11188716/1118871642.jpg",
+            "desc": "A full-color introduction to the basics of HTML and CSS from the publishers of Wrox! Every day, more and more people want to learn some HTML and CSS. Joining the professional web designers and programmers are new audiences who need to know a little bit of code at work (update a content management system or e-commerce store) and those who want to make their personal blogs more attractive. Many books teaching HTML and CSS are dry and only written for those who want to become programmers, which is why this book takes an entirely new approach."
+        },
+        {
+            "id": 9,
+            "name": "Cloud Native",
+            "author": "Boris Scholl, Trent Swanson, Peter Jausovec",
+            "tagline": "Using Containers, Functions, and Data to Build Next-Generation Applications",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book9-6aed0.appspot.com/o/Cloud%20Native%20Containers%2C%20Functions%2C%20Data%2C%20and%20Kubernetes%20How%20to%20Build%20a%20Blueprint%20for%20Next-Generation%20Applications%20by%20Boris%20Scholl%20Trent%20Swanson%20Peter%20Jausovec%20(z-lib.org).epub-compressed.pdf?alt=media&token=e95b12af-7d4c-48cb-81ac-4067f328b66d",
+            "image": "https://sun9-17.userapi.com/c848520/v848520141/17a5f0/bo57FhjpLpA.jpg",
+            "desc": "Developers often struggle when first encountering the cloud. Learning about distributed systems, becoming familiar with technologies such as containers and functions, and knowing how to put everything together can be daunting. With this practical guide, you’ll get up to speed on patterns for building cloud native applications and best practices for common tasks such as messaging, eventing, and DevOps."
+        },
+        {
+            "id": 10,
+            "name": "Cloud Native DevOps with Kubernetes",
+            "author": "John Arundel, Justin Domingus",
+            "tagline": "Building, Deploying and Scaling Modern Applications in the Cloud",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book9-6aed0.appspot.com/o/Cloud%20Native%20DevOps%20with%20Kubernetes%20by%20John%20Arundel%2C%20Justin%20Domingus%20(z-lib.org)-compressed.pdf?alt=media&token=453d2964-afcc-49e5-8c2c-6d4aed066741",
+            "image": "https://m.media-amazon.com/images/I/51YFRWk9jSL.jpg",
+            "desc": "Kubernetes is the operating system of the cloud-native world, providing a reliable and scalable platform for running containerized workloads. This book shows developers and operations staff how to apply industry-standard DevOps practices to Kubernetes in a cloud-native context. You’ll learn all about the Kubernetes ecosystem and discover battle-tested solutions to everyday problems. In this friendly, pragmatic book, cloud experts John Arundel and Justin Domingus show you what Kubernetes can do―and what you can do with it. You’ll build, step by step, an example cloud-native application and its supporting infrastructure, along with a development environment and continuous deployment pipeline that you can use for your own applications. Understand containers and Kubernetes from first principles―no experience necessary Run your own clusters or choose a managed Kubernetes service from Amazon, Google, and others Design your own cloud-native services and infrastructure Use Kubernetes to manage resource usage and the container lifecycle Optimize clusters for cost, performance, resilience, capacity, and scalability Learn the best tools for developing, testing, and deploying your applications Apply the latest industry practices for observability and monitoring Secure your containers and clusters in production Adopt DevOps principles to help make your development teams lean, fast, and effective"
+        },
+        {
+            "id": 11,
+            "name": "Angular 5 Projects",
+            "author": "Mark Clow",
+            "tagline": "Learn to Build Single Page Web Application Using 70+ Projects",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book2-aa723.appspot.com/o/Angular%205%20Projects_%20Learn%20to%20Build%20Single%20Page%20Web%20Applications%20Using%2070%2B%20Projects%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=9b031eb2-f58b-4c57-adeb-5f92241ea4de",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61TZ1MaQ4GL.jpg",
+            "desc": "Learn to build single page web apps using Angular 5 and TypeScript by working through 70+ mini-projects. With hundreds of code examples you gain a thorough understanding of the Angular 5 ecosystem and how to work within it. You'll begin by understanding the benefits of Angular 5 vs older versions, and how this benefits your applications. You'll then move onto mini-projects that teach you JavaScript, TypeScript, how to use editors, Node, CLI, components, modules, directives, Webpack, dependency injection, widgets, routes and navigation, observers, reactive programming, and RxJS."
+        },
+        {
+            "id": 12,
+            "name": "Pro Angular 9",
+            "author": "Adam Freeman",
+            "tagline": "Build Powerful and Dynamic Web Apps",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/Pro%20Angular%209%20Build%20Powerful%20and%20Dynamic%20Web%20Apps%20by%20Adam%20Freeman%20(z-lib.org)-compressed.pdf?alt=media&token=4f68e468-a4f9-41b6-9eee-35ec9b74f3a2",
+            "image": "https://m.media-amazon.com/images/I/51flRbqnrFL.jpg",
+            "desc": "Welcome to this one-stop-shop for learning Angular. Pro Angular is the most concise and comprehensive guide available, giving you the knowledge you need to take full advantage of this popular framework for building your own dynamic JavaScript applications. The fourth edition of this full-color guide explains how to get the most from Angular, starting with an in-depth overview of the MVC pattern and presenting the range of benefits it can offer. From there, you will begin learning how to use Angular in your projects, starting with the nuts-and-bolts concepts, and progressing on to more advanced and sophisticated features."
+        },
+        {
+            "id": 13,
+            "name": "The Full Stack Developer",
+            "author": "Chris Northwood",
+            "tagline": "Your Essential Guide to the Everyday Skills Expected of a Modern Full Stack Web Developer",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/The%20Full%20Stack%20Developer_%20Your%20Essential%20Guide%20to%20the%20Everyday%20Skills%20Expected%20of%20a%20Modern%20Full%20Stack%20Web%20Developer%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=cef4752d-e314-42c9-867f-d8a14cef5fcb",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41Leq5xMp7L.jpg",
+            "desc": "Understand the technical foundations, as well as the non-programming skills needed to be a successful full stack web developer. This book reveals the reasons why a truly successful full stack developer does more than write code. You will learn the principles of the topics needed to help a developer new to agile or full stack working—UX, project management, QA, product management, and more— all from the point of view of a developer."
+        }
+    ]
+}

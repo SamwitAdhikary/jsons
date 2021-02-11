@@ -1,0 +1,49 @@
+{
+    "appdev": [
+        {
+            "id": 1,
+            "name": "IOS 12 Programming Fundamental with Swift",
+            "author": "Matt Neuburg",
+            "tagline": "Swift, Xcode and Cocoa Basics",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/IOS%2012%20Programming%20Fundamentals%20with%20Swift_%20Swift%2C%20Xcode%2C%20and%20Cocoa%20Basics%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=0c3032eb-3343-45e0-8028-6dfd242c0950",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81fbLAHyuuL.jpg",
+            "desc": "If you're grounded in the basics of Swift, Xcode, and the Cocoa framework, this book provides a structured explanation of all essential real-world iOS app components. Through deep exploration and copious code examples, you'll learn how to create views, manipulate view controllers, and add features from iOS frameworks."
+        },
+        {
+            "id": 2,
+            "name": "Learn Android Studio 3 with Kotlin",
+            "author": "Ted Hagos",
+            "tagline": "Efficient Android App Development",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Learn%20Android%20Studio%203%20with%20Kotlin_%20Efficient%20Android%20App%20Development%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=f1fe995f-fe3d-4c5d-ba7f-af1a26b3c6f6",
+            "image": "https://m.media-amazon.com/images/I/41zkx0ipXiL.jpg",
+            "desc": "Build Android apps using the popular and efficient Android Studio 3 suite of tools, an integrated development environment (IDE) for Android developers using Java APIs. With this book, you’ll learn the latest and most productive tools in the Android tools ecosystem, ensuring quick Android app development and minimal effort on your part. Along the way, you’ll use Android Studio to develop Java-based Android apps, tier by tier through practical examples. These examples cover core Android topics such as notifications and toast; intents and broadcast receivers; and services. Then, you’ll learn how to publish your apps and sell them online and in the Google Play store."
+        },
+        {
+            "id": 3,
+            "name": "Flutter Recipes Mobile Development",
+            "author": "Fu Cheng",
+            "tagline": "Solutions for iOS and Android",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book2-aa723.appspot.com/o/Flutter%20Recipes%20Mobile%20Development%20Solutions%20for%20iOS%20and%20Android%20by%20Fu%20Cheng%20(z-lib.org)-compressed.pdf?alt=media&token=883e0f3d-f440-48ae-95b6-01b9eccddba5",
+            "image": "https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4842-4982-6",
+            "desc": "Take advantage of this comprehensive reference to solving common problems when developing with Flutter. Along with an introduction to the basic concepts of Flutter development, the recipes in this book cover all important aspects of this emerging technology, including development, testing, debugging, performance tuning, app publishing, and continuous integration."
+        },
+        {
+            "id": 4,
+            "name": "Google Flutter Mobile Development",
+            "author": "Prajyot Manikar, Salvatore Giordano",
+            "tagline": "Get up and running with iOS and Android mobile app development",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book2-aa723.appspot.com/o/Google%20Flutter%20Mobile%20Development%20Quick%20Start%20Guide%20by%20Prajyot%20Mainkar%20Salvatore%20Giordano%20(z-lib.org)-compressed.pdf?alt=media&token=dd39d164-c313-43cb-a4f8-96d17b780253",
+            "image": "https://m.media-amazon.com/images/I/519d88GR+kL._SX260_.jpg",
+            "desc": "Flutter is a cross-platform mobile application development framework. It uses the Dart programming language, which was created by Google, and aims to make development easier, faster, and more efficient. This book is going to be your guide, from introducing Flutter to successfully developing a cross platform application."
+        },
+        {
+            "id": 5,
+            "name": "Practical Flutter",
+            "author": "Frank Zammetti",
+            "tagline": "Improve your Mobile Development with Google's Latest Open-Source SDK",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/Practical%20Flutter%20Improve%20your%20Mobile%20Development%20with%20Google%E2%80%99s%20Latest%20Open-Source%20SDK%20by%20Frank%20Zammetti%20(z-lib.org)-compressed.pdf?alt=media&token=2d3d06eb-fe04-4df9-89f2-b0fb4f0b696e",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61bx00TGIfL.jpg",
+            "desc": "Explore what Flutter has to offer, where it came from, and where it’s going. Mobile development is progressing at a fast rate and with Flutter – an open-source mobile application development SDK created by Google – you can develop applications for Android and iOS, as well as Google Fuchsia.Learn to create three apps (a personal information manager, a chat system, and a game project) that you can install on your mobile devices and use for real. You will begin by getting a solid foundation of Flutter knowledge, and building on it immediately by constructing two more traditional productivity apps."
+        }
+    ]
+}

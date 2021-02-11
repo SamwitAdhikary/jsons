@@ -1,0 +1,104 @@
+{
+    "algo": [
+        {
+            "id": 1,
+            "name": "Data Structures and Algorithm Analysis in C++",
+            "author": "Clifford A. Shaffer",
+            "tagline": "Clifford A. Shaffer",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/Data%20Structures%20and%20Algorithm%20Analysis%20in%20C%2B%2B%2C%203rd%20Edition%20by%20Dr.%20Clifford%20A.%20Shaffer%20(z-lib.org)-compressed.pdf?alt=media&token=97070840-3e1e-43dd-be7f-36b1195de44f",
+            "image": "https://m.media-amazon.com/images/I/51CwhVoJdNL.jpg",
+            "desc": "With its focus on creating efficient data structures and algorithms, this comprehensive text helps readers understand how to select or design the tools that will best solve specific problems. It uses Microsoft C++ as the programming language and is suitable for second-year data structure courses and computer science courses in algorithm analysis. Techniques for representing data are presented within the context of assessing costs and benefits, promoting an understanding of the principles of algorithm analysis and the effects of a chosen physical medium. The text also explores tradeoff issues, familiarizes readers with the most commonly used data structures and their algorithms, and discusses matching appropriate data structures to applications. The author offers explicit coverage of design patterns encountered in the course of programming the book's basic data structures and algorithms. Numerous examples appear throughout the text.",
+            "lang": "English"
+        },
+        {
+            "id": 1,
+            "name": "Algorithms Unlocked",
+            "author": "Thomas H. Cormen",
+            "tagline": "Thomas H. Cormen",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Algorithms%20Unlocked%20by%20Thomas%20H.%20Cormen%20(z-lib.org)-compressed.pdf?alt=media&token=607a99f5-83ae-4ef3-881f-79fc439dd4e8",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71TVqky3k8L.jpg",
+            "desc": "For anyone who has ever wondered how computers solve problems, an engagingly written guide for nonexperts to the basics of computer algorithms. Have you ever wondered how your GPS can find the fastest way to your destination, selecting one route from seemingly countless possibilities in mere seconds? How your credit card account number is protected when you make a purchase over the Internet? The answer is algorithms. And how do these mathematical formulations translate themselves into your GPS, your laptop, or your smart phone? This book offers an engagingly written guide to the basics of computer algorithms. In Algorithms Unlocked, Thomas Cormen-coauthor of the leading college textbook on the subject-provides a general explanation, with limited mathematics, of how algorithms enable computers to solve problems. Readers will learn what computer algorithms are, how to describe them, and how to evaluate them."
+        },
+        {
+            "id": 2,
+            "name": "Introduction to Algorithms",
+            "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest , Clifford Stein",
+            "tagline": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest , Clifford Stein",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Introduction%20to%20algorithms%20by%20Thomas%20H.%20Cormen%2C%20Charles%20E.%20Leiserson%2C%20Ronald%20L.%20Rivest%2C%20Clifford%20Stein%20(z-lib.org).pdf?alt=media&token=89dccd7d-e90c-4d64-8ec8-1f2a41023c5d",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41T0iBxY8FL._SX440_BO1,204,203,200_.jpg",
+            "desc": "Some books on algorithms are rigorous but incomplete; others cover masses of material but lack rigor. Introduction to Algorithms uniquely combines rigor and comprehensiveness. The book covers a broad range of algorithms in depth, yet makes their design and analysis accessible to all levels of readers. Each chapter is relatively self-contained and can be used as a unit of study. The algorithms are described in English and in a pseudocode designed to be readable by anyone who has done a little programming. The explanations have been kept elementary without sacrificing depth of coverage or mathematical rigor."
+        },
+        {
+            "id": 3,
+            "name": "Data Structures and Algorithms in C++",
+            "author": "Adam Drozdek",
+            "tagline": "Adam Drozdek",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book2-aa723.appspot.com/o/Data%20Structures%20and%20Algorithms%20in%20C%2B%2B%20by%20Adam%20Drozdek%20(z-lib.org)-compressed.pdf?alt=media&token=f81e894b-ecfb-4c98-9579-1d6b7268c62a",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41RSZgyiIxL._SX402_BO1,204,203,200_.jpg",
+            "desc": "Strengthen your understanding of data structures and their algorithms for the foundation you need to successfully design, implement and maintain virtually any software system. Theoretical, yet practical, DATA STRUCUTRES AND ALGORITHMS IN C++, 4E by experienced author Adam Drosdek highlights the fundamental connection between data structures and their algorithms, giving equal weight to the practical implementation of data structures and the theoretical analysis of algorithms and their efficiency."
+        },
+        {
+            "id": 4,
+            "name": "Algorithms",
+            "author": "Robert Sedgewick, Kevin Wayne",
+            "tagline": "Essential Information about Algorithms and Data Structures",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book6-71fc8.appspot.com/o/Algorithms%2C%204th%20Edition%20Essential%20Information%20about%20Algorithms%20and%20Data%20Structures%20by%20Robert%20Sedgewick%2C%20Kevin%20Wayne%20(z-lib.org)-compressed.pdf?alt=media&token=6a5eb721-e66f-4910-9cdd-80412504a33f",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41HrMSnMfUL._SX400_BO1,204,203,200_.jpg",
+            "desc": "This fourth edition of Robert Sedgewick and Kevin Wayne’s Algorithms is the leading textbook on algorithms today and is widely used in colleges and universities worldwide. This book surveys the most important computer algorithms currently in use and provides a full treatment of data structures and algorithms for sorting, searching, graph processing, and string processing--including fifty algorithms every programmer should know. In this edition, new Java implementations are written in an accessible modular programming style, where all of the code is exposed to the reader and ready to use."
+        },
+        {
+            "id": 5,
+            "name": "Data Structure and Algorithmic Thinking with Python",
+            "author": "Narasimha Karumanchi",
+            "tagline": "Data Structure and Algorithmic Puzzels",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book9-6aed0.appspot.com/o/Data%20Structure%20and%20Algorithmic%20Thinking%20with%20Python%20%20Data%20Structure%20and%20Algorithmic%20Puzzles%20by%20Narasimha%20Karumanchi%20(z-lib.org).pdf?alt=media&token=9a1a0342-10ec-4eb6-8a9a-a4a389c0fd4e",
+            "image": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9788/1921/9788192107592.jpg",
+            "desc": "'Data Structure and Algorithmic Thinking with Python' is designed to give a jump-start to programmers, job hunters and those who are appearing for exams. All the code in this book are written in Python. It contains many programming puzzles that not only encourage analytical thinking, but also prepares readers for interviews. This book, with its focused and practical approach, can help readers quickly pick up the concepts and techniques for developing efficient and effective solutions to problems."
+        },
+        {
+            "id": 6,
+            "name": "Data Structures and Algorithms Made Easy",
+            "author": "Narasimha Karumanchi",
+            "tagline": "Data Structure and Algorithmic Puzzels",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book9-6aed0.appspot.com/o/Data%20Structures%20and%20Algorithms%20Made%20Easy%20Data%20Structures%20and%20Algorithmic%20Puzzles%20by%20Narasimha%20Karumanchi%20(z-lib.org)-compressed.pdf?alt=media&token=4a707ae8-46b6-428c-ae2f-2584946a6da0",
+            "image": "https://i2.wp.com/learnengineering.in/wp-content/uploads/2019/08/PDF-Data-Structures-and-Algorithms-Made-Easy-Data-Structures-and-Algorithmic-Puzzles-By-Narasimha-Karumanchi-Free-Download.jpg?fit=386%2C499&ssl=1",
+            "desc": "A handy guide of sorts for any computer Science professional, data structures and algorithms made easy: data structures and algorithmic puzzles is a solution Bank for various complex problems related to data structures and algorithms. It can be used as a reference manual by those readers in the computer Science industry. This book serves as guide to prepare for interviews, exams, and campus work. In short, this book offers solutions to various complex data structures and algorithmic problems."
+        },
+        {
+            "id": 7,
+            "name": "Data Structures and Algorithms with Python",
+            "author": "Kent D. Lee, Steve Hubbard",
+            "tagline": "Undergraduate Topics in Computer Science",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book9-6aed0.appspot.com/o/Data%20Structures%20and%20Algorithms%20with%20Python%20Undergraduate%20Topics%20in%20Computer%20Science%20by%20Kent%20Lee%2C%20Steve%20Hubbard%20(z-lib.org)-compressed.pdf?alt=media&token=d4b4d65d-ca2f-4d3d-9bef-68889928e649",
+            "image": "https://images.springer.com/sgw/books/medium/9783319130712.jpg",
+            "desc": "This textbook explains the concepts and techniques required to write programs that can handle large amounts of data efficiently. Project-oriented and classroom-tested, the book presents a number of important algorithms supported by examples that bring meaning to the problems faced by computer programmers. The idea of computational complexity is also introduced, demonstrating what can and cannot be computed efficiently so that the programmer can make informed judgements about the algorithms they use. Features: includes both introductory and advanced data structures and algorithms topics, with suggested chapter sequences for those respective courses provided in the preface; provides learning goals, review questions and programming exercises in each chapter, as well as numerous illustrative examples; offers downloadable programs and supplementary files at an associated website, with instructor materials available from the author; presents a primer on Python for those from a different language background."
+        },
+        {
+            "id": 8,
+            "name": "Fundamentals of Python",
+            "author": "Kenneth A. Lambert",
+            "tagline": "Data Structures",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book9-6aed0.appspot.com/o/Fundamentals%20Of%20Python%20Data%20Structures%20by%20Kenneth%20A.%20Lambert%20(z-lib.org)-compressed.pdf?alt=media&token=2fb5ad73-9339-4049-aa75-fea35a244dd4",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51VZWHfiW4L.jpg",
+            "desc": "Whether you are a computer programming student, hobbyist or professional, Lambert's FUNDAMENTALS OF PYTHON™: DATA STRUCTURES, 2E offers the perfect introduction to object-oriented design and data structures using the popular Python™ programming language. The level of instruction is ideal if you've had at least one semester of programming experience in an object-oriented language, such as Java™, C++ or Python™. Step-by-step explanations and focused exercises clearly explain the design of collection classes with polymorphism and inheritance and multiple implementations of collection interfaces. This edition also addresses the analysis of the space/time tradeoffs of different collection implementations and, specifically, array-based implementations and link-based implementations. You learn to work with collections, including sets, lists, stacks, queues, trees, dictionaries and graphs. Prepare for success with FUNDAMENTALS OF PYTHON™: DATA STRUCTURES, 2E."
+        },
+        {
+            "id": 9,
+            "name": "Hands-On Data Structures and Algorithms with Python",
+            "author": "Dr. Basant Agarwal, Benjamin Baka",
+            "tagline": "Write complex and powerful code using the latest features of Python 3.7",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book9-6aed0.appspot.com/o/Hands-On%20Data%20Structures%20and%20Algorithms%20with%20Python%20Write%20complex%20and%20powerful%20code%20using%20the%20latest%20features%20of%20Python%203.7%2C%202nd%20Edition%20by%20Dr.%20Basant%20Agarwal%2C%20Benjamin%20Baka%20(z-lib.org)-compressed.pdf?alt=media&token=1a533ccc-b0e3-42a9-9002-fce187424230",
+            "image": "https://m.media-amazon.com/images/I/51tCJmqOR5L._SX260_.jpg",
+            "desc": "Data structures allow you to store and organize data efficiently. They are critical to any problem, provide a complete solution, and act like reusable code. Hands-On Data Structures and Algorithms with Python teaches you the essential Python data structures and the most common algorithms for building easy and maintainable applications. This book helps you to understand the power of linked lists, double linked lists, and circular linked lists. You will learn to create complex data structures, such as graphs, stacks, and queues. As you make your way through the chapters, you will explore the application of binary searches and binary search trees, along with learning common techniques and structures used in tasks such as preprocessing, modeling, and transforming data. In the concluding chapters, you will get to grips with organizing your code in a manageable, consistent, and extendable way. You will also study how to bubble sort, selection sort, insertion sort, and merge sort algorithms in detail."
+        },
+        {
+            "id": 10,
+            "name": "JavaScript Data Structures and Algorithm",
+            "author": "Sammie Bae",
+            "tagline": "An Introduction to Understanding and Implementing Core Data Structure and Algoritm Fundamentals",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/JavaScript%20Data%20Structures%20and%20Algorithms_%20An%20Introduction%20to%20Understanding%20and%20Implementing%20Core%20Data%20Structure%20and%20Algorithm%20Fundamentals%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=48423d4a-c617-4121-ad8a-f2da934ff6ec",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61PzAMU7SGL.jpg",
+            "desc": "Explore data structures and algorithm concepts and their relation to everyday JavaScript development. A basic understanding of these ideas is essential to any JavaScript developer wishing to analyze and build great software solutions. You'll discover how to implement data structures such as hash tables, linked lists, stacks, queues, trees, and graphs. You'll also learn how a URL shortener, such as bit.ly, is developed and what is happening to the data as a PDF is uploaded to a webpage. This book covers the practical applications of data structures and algorithms to encryption, searching, sorting, and pattern matching."
+        }
+    ]
+}

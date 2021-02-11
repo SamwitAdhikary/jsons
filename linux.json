@@ -1,0 +1,58 @@
+{
+    "linux": [
+        {
+            "id": 1,
+            "name": "How Linux Works",
+            "author": "Brian Ward",
+            "tagline": "What Every Superuser Should Know",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/How%20Linux%20Works%20What%20Every%20Superuser%20Should%20Know%20by%20Brian%20Ward%20(z-lib.org)-compressed.pdf?alt=media&token=9f734df4-f544-4c88-8c8e-f8dc4777586b",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51LAvDkpwmL._SX375_BO1,204,203,200_.jpg",
+            "desc": "How Linux Works describes the inside of the Linux system for systems administrators, whether they maintain an extensive network in the office or one Linux box at home. Some books try to give you copy-and-paste instructions for how to deal with every single system issue that may arise, but How Linux Works actually shows you how the Linux system functions so that you can come up with your own solutions."
+        },
+        {
+            "id": 2,
+            "name": "Linux Basics for Hackers",
+            "author": "Occupytheweb",
+            "tagline": "Getting Started with Networking, Scripting, and Security in Kali",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book2-aa723.appspot.com/o/Linux%20Basics%20for%20Hackers%20Getting%20Started%20with%20Networking%2C%20Scripting%2C%20and%20Security%20in%20Kali%20by%20OccupyTheWeb%20(z-lib.org)-compressed.pdf?alt=media&token=eb7d18ac-2a69-4571-b8f5-e7733e7f34a4",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81TQ6G34JcL.jpg",
+            "desc": "This practical, tutorial-style book uses the Kali Linux distribution to teach Linux basics with a focus on how hackers would use them. Topics include Linux command line basics, filesystems, networking, BASH basics, package management, logging, and the Linux kernel and drivers. If you're getting started along the exciting path of hacking, cybersecurity, and pentesting, Linux Basics for Hackers is an excellent first step. Using Kali Linux, an advanced penetration testing distribution of Linux, you'll learn the basics of using the Linux operating system and acquire the tools and techniques you'll need to take control of a Linux environment."
+        },
+        {
+            "id": 3,
+            "name": "Linux For Beginners",
+            "author": "Adam Vardy",
+            "tagline": "The Ultimate Guide To The Linux Operating System & Linux",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/Linux%20For%20Beginners_%20The%20Ultimate%20Guide%20To%20The%20Linux%20Operating%20System%20%26%20Linux%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=d3b4abbc-dfdd-4d66-95ef-f4c4d4449607",
+            "image": "https://m.media-amazon.com/images/I/51U0NCOFVrL.jpg",
+            "desc": "Linux For Beginners! Updated April 2016 The Ultimate Beginners Crash Course To Learning & Mastering Linux Are You Ready To Learn How To Use, Master & Configure Linux? If So You've Come To The Right Place - Regardless Of How Little Experience You May Have! There's a ton of other technical guides out there that aren't clear and concise, and in my opinion use far too much jargon."
+        },
+        {
+            "id": 4,
+            "name": "Operating System Concepts and Basic Linux Command",
+            "author": "Shital Vivek Ghate",
+            "tagline": "Shital Vivek Ghate",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/Operating%20System%20Concepts%20and%20Basic%20Linux%20Commands%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=7b0c9d63-e2dd-448e-b390-fbc29fdaa2a0",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91EpbXTYh4L.jpg",
+            "desc": "This book contains the introductory information about the operating system and the basics of Linux commands for graduation level studies. This book provides the concepts of operating system. It contains the fundamental concepts which are applicable to various operating systems. Unit-I explains what is operating system and how the concepts of operating system has developed, contains resource management, structure of operating system, services provided by operating system, types of operating systemit contains the common features of the operating system."
+        },
+        {
+            "id": 5,
+            "name": "Kali Linux Revealed",
+            "author": "Raphael Hertzog, Jim O'Gorman, Mati Aharoni",
+            "tagline": "Mastering the Penetration Testing Distribution",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Kali%20Linux%20Revealed%20Mastering%20the%20Penetration%20Testing%20Distribution%20by%20Rapha%C3%ABl%20Hertzog%20Jim%20O%E2%80%99Gorman%20Mati%20Aharoni%20(z-lib.org)-compressed.pdf?alt=media&token=a37007fd-428a-4d6d-9272-e053487e4193",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71WlEeiwLTL.jpg",
+            "desc": "Kali Linux has not only become the information security professional's platform of choice, but evolved into an industrial-grade, and world-class operating system distribution--mature, secure, and enterprise-ready. Through the decade-long development process, Muts and his team, along with countless volunteers from the hacker community, have taken on the burden of streamlining and organizing our work environment, freeing us from much of the drudgery. They provided a secure and reliable foundation, allowing us to concentrate on securing our digital world."
+        },
+        {
+            "id": 6,
+            "name": "Wicked Cool Shell Scripts",
+            "author": "Dave Taylor, Brandon Perry",
+            "tagline": "101 Scripts for Linux, OS X, and Unix System",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Wicked%20Cool%20Shell%20Scripts%20101%20Scripts%20for%20Linux%2C%20OS%20X%2C%20and%20UNIX%20Systems%20by%20Dave%20Taylor%2C%20Brandon%20Perry%20(z-lib.org).pdf?alt=media&token=b8e0792d-4745-4094-8772-bbd815247eac",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91yPEGKwJ1L.jpg",
+            "desc": "All computers running Linux, Mac OS X, or Unix-like operating systems have a command line interface that gives users a powerful alternative to managing their computers and learning programming basics. Users can write small programs, or scripts, that run in the command line 'shell' to perform everyday tasks like renaming files or processing text. Like the best-selling first edition, this revision of Wicked Cool Shell Scripts provides the full source code for over 100 short shell scripts that solve common problems, can be used to personalize a user's computing environment, and are just plain entertaining. The tools include an interactive calculator, a stock tracker, a password manager, a weather checker, and a website search engine."
+        }
+    ]
+}
