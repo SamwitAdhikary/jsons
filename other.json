@@ -2,6 +2,15 @@
     "other": [
         {
             "id": 1,
+            "name": "Data Communication and Networking",
+            "author": "Behrouz A. Forouzan",
+            "tagline": "Behrouz A. Forouzan",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Data%20Communications%20and%20Network%20by%20Forouzan%2C%20Behrouz%20(z-lib.org)-compressed.pdf?alt=media&token=7f2ac55d-c409-42de-9d4b-c850dfd310d3",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/519vY7q7LJL._SX424_BO1,204,203,200_.jpg",
+            "desc": "Data Communications and Networking is designed to help students understand the basics of data communications and networking, and the protocols used in the Internet in particular by using the protocol layering of the Internet and TCP/IP protocol suite. Technologies related to data communication and networking may be the fastest growing in today's culture. The appearance of some new social networking applications is a testimony to this claim. In this Internet-oriented society, specialists need to be trained to run and manage the Internet, part of the Internet, or an organization's network that is connected to the Internet. As both the number and types of students are increasing, it is essential to have a textbook that provides coverage of the latest advances, while presenting the material in a way that is accessible to students with little or no background in the field."
+        },
+        {
+            "id": 1,
             "name": "Clean Code",
             "author": "Robert C. Martin",
             "tagline": "A Handbook of Agile Software Craftsmanship",
