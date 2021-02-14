@@ -1,6 +1,36 @@
 {
     "other": [
         {
+            "id": 88,
+            "name": "Learning React",
+            "author": "Alex Banks, Eve Porcello",
+            "tagline": "Functional Web Development With React And Flux",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book7-6cc4d.appspot.com/o/Learning%20React%20Functional%20Web%20Development%20with%20React%20and%20Redux%20by%20Alex%20Banks%2C%20Eve%20Porcello%20(z-lib.org)-compressed.pdf?alt=media&token=51dd36b9-1e03-447e-b018-1fac07a2ab0e",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91gJrDrQuCL.jpg",
+            "desc": "If you want to learn how to build efficient React applications, this is your book. Ideal for web developers and software engineers who understand how JavaScript, CSS, and HTML work in the browser, this updated edition provides best practices and patterns for writing modern React code. No prior knowledge of React or functional JavaScript is necessary. With their learning road map, authors Alex Banks and Eve Porcello show you how to create UIs that can deftly display changes without page reloads on large-scale, data-driven websites. You’ll also discover how to work with functional programming and the latest ECMAScript features. Once you learn how to build React components with this hands-on guide, you’ll understand just how useful React can be in your organization.",
+            "lang": "English"
+        },
+        {
+            "id": 82,
+            "name": "The TCP/IP Guide",
+            "author": "Charles M. Kozeirok",
+            "tagline": "A Comprehensive, Illustrated Internet Protocols Reference",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book6-71fc8.appspot.com/o/The%20TCPIP%20Guide%20A%20Comprehensive%2C%20Illustrated%20Internet%20Protocols%20Reference%20by%20Charles%20M.%20Kozierok%20(z-lib.org).pdf?alt=media&token=a7f0b0c3-70ec-4f12-8bf5-d4f022f06215",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71057rOKsIL.jpg",
+            "desc": "From Charles M. Kozierok, the creator of the highly regarded www.pcguide.com, comes The TCP/IP Guide. This completely up-to-date, encyclopedic reference on the TCP/IP protocol suite will appeal to newcomers and the seasoned professional alike. Kozierok details the core protocols that make TCP/IP internetworks function and the most important classic TCP/IP applications, integrating IPv6 coverage throughout. Over 350 illustrations and hundreds of tables help to explain the finer points of this complex topic. The book’s personal, user-friendly writing style lets readers of all levels understand the dozens of protocols and technologies that run the Internet, with full coverage of PPP, ARP, IP, IPv6, IP NAT, IPSec, Mobile IP, ICMP, RIP, BGP, TCP, UDP, DNS, DHCP, SNMP, FTP, SMTP, NNTP, HTTP, Telnet, and much more.",
+            "lang": "English"
+        },
+        {
+            "id": 81,
+            "name": "The Road to Learn React",
+            "author": "Robin Wieruch",
+            "tagline": "Your journey to Master Plain Yet Pragmatic React.js",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book6-71fc8.appspot.com/o/The%20Road%20to%20learn%20React%20Your%20journey%20to%20master%20plain%20yet%20pragmatic%20React.js%20by%20Robin%20Wieruch%20(z-lib.org)-compressed.pdf?alt=media&token=b6f21610-72ad-4309-bf12-31287beca52c",
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/411PLvo%2BcxL._SX342_SY445_QL70_ML2_.jpg",
+            "desc": "In 'The Road to React' you will learn about all the fundamentals of React.js with Hooks while building a full-blown React application step by step. While you create the React application, every chapter will introduce you to a new React key feature. However, there is more than only the fundamentals: The book dives into related topics (e.g. React with TypeScript, Testing, Performance Optimizations) and advanced feature implementations like client- and server-side searching. At the end of the book, you will have a fully working deployed React application.",
+            "lang": "English"
+        },
+        {
             "id": 1,
             "name": "Data Communication and Networking",
             "author": "Behrouz A. Forouzan",
