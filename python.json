@@ -1,6 +1,16 @@
 {
     "python": [
         {
+            "id": 42,
+            "name": "Mastering Object-Oriented Python",
+            "author": "Steven F. Lott",
+            "tagline": "Build powerful applications with resuable code using OOP design pattern and Python 3.7",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book3-ba8d8.appspot.com/o/mastering%20object-oriented%20python%20by%20steven%20F.Lott%20(z-lib.org)-compressed.pdf?alt=media&token=d319867d-2789-43ed-83f9-f5050c7119ba",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/613hsHAlYwL.jpg",
+            "desc": "Gain comprehensive insights into programming practices, and code portability and reuse to build flexible and maintainable apps using object-oriented principles Key Features Extend core OOP techniques to increase integration of classes created with Python Explore various Python libraries for handling persistence and object serialization Learn alternative approaches for solving programming problems, with different attributes to address your problem domain Book DescriptionObject-oriented programming (OOP) is a relatively complex discipline to master, and it can be difficult to see how general principles apply to each language's unique features. With the help of the latest edition of Mastering Objected-Oriented Python, you'll be shown how to effectively implement OOP in Python, and even explore Python 3.x. Complete with practical examples, the book guides you through the advanced concepts of OOP in Python, and demonstrates how you can apply them to solve complex problems in OOP. You will learn how to create high-quality Python programs by exploring design alternatives and determining which design offers the best performance. Next, you'll work through special methods for handling simple object conversions and also learn about hashing and comparison of objects.",
+            "lang": "English"
+        },
+        {
             "id": 1,
             "name": "Automte the boring stuff with python",
             "author": "Al Sweigart",

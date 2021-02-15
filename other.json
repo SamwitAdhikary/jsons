@@ -1,6 +1,26 @@
 {
     "other": [
         {
+            "id": 112,
+            "name": "Kubernetes In Action",
+            "author": "Marko Luksa",
+            "tagline": "Marko Luksa",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book9-6aed0.appspot.com/o/Kubernetes%20in%20Action%20by%20Marko%20Luksa%20(z-lib.org)-compressed.pdf?alt=media&token=2026c548-5594-4c0f-ad6d-ed0304027b36",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71W457XxK4L.jpg",
+            "desc": "Kubernetes in Action teaches you to use Kubernetes to deploy container-based distributed applications. You'll start with an overview of Docker and Kubernetes before building your first Kubernetes cluster. You'll gradually expand your initial application, adding features and deepening your knowledge of Kubernetes architecture and operation. As you navigate this comprehensive guide, you'll explore high-value topics like monitoring, tuning, and scaling.",
+            "lang": "English"
+        },
+        {
+            "id": 60,
+            "name": "Beginning PHP and MySQL",
+            "author": "Frank M. Kromann",
+            "tagline": "From Novice to Professional",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Beginning%20PHP%20and%20MySQL_%20From%20Novice%20to%20Professional%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=3ca09ed9-da15-4e96-bb25-68b5aff1eeb2",
+            "image": "https://images.springer.com/sgw/books/medium/9781430260431.jpg",
+            "desc": "Written for the budding web developer searching for a powerful, low-cost solution for building flexible, dynamic web sites. Essentially three books in one: provides thorough introductions to the PHP language and the MySQL database, and shows you how these two technologies can be effectively integrated to build powerful websites.",
+            "lang": "English"
+        },
+        {
             "id": 88,
             "name": "Learning React",
             "author": "Alex Banks, Eve Porcello",
