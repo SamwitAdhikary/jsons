@@ -1,6 +1,24 @@
 {
     "other": [
         {
+            "id": 1,
+            "name": "Computer Networks and Internets",
+            "author": "Douglas E. Comer",
+            "tagline": "Douglas E. Comer",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Computer%20Networks%20And%20Internets%20(%20PDFDrive%20).pdf?alt=media&token=62997c97-b8ef-4bc7-b237-b500aba3f8fd",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51jAWnd1rxL._SX377_BO1,204,203,200_.jpg",
+            "desc": "Leading networking authority Douglas Comer presents a wide-ranging, self-contained tour of the concepts, principles, and technologies that enable today’s Internet to support applications ranging from web browsing to telephony and multimedia. This Fifth Edition has been thoroughly reorganized, revised, and updated: it includes extensive new coverage of topics ranging from wireless protocols to network performance, while reducing or eliminating coverage of older protocols and technologies. Comer begins by illuminating the applications and facilities offered by today’s Internet. Next, he systematically introduces the underlying network technologies and protocols that make them possible: low-level data communications; packet switching, LAN, and WAN technologies; and Internet protocols such as TCP, IP, UDP, and IPv6. With these concepts and technologies established, he introduces several of the most important contemporary issues faced by network implementers and managers, including quality of service, Internet telephony, multimedia, network security, and network management. Comer has carefully designed this book to support both top-down and bottom-up teaching approaches. Students need no background in operating systems, and no sophisticated math: Comer relies throughout on figures, drawings, examples, and analogies, not mathematical proofs."
+        },
+        {
+            "id": 1,
+            "name": "Computer Networks",
+            "author": "Tanebbaum, Wetherall",
+            "tagline": "Tanenbaum, Wetherall",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Computer%20networks%20(%20PDFDrive%20).pdf?alt=media&token=056ac742-6c42-4bbf-b26e-b58b97af6ed9",
+            "image": "https://www.pearsonhighered.com/assets/bigcovers/0/1/3/2/0132126958.jpg",
+            "desc": "Computer Networks, 5/e is appropriate for Computer Networking or Introduction to Networking courses at both the undergraduate and graduate level in Computer Science, Electrical Engineering, CIS, MIS, and Business Departments. Tanenbaum takes a structured approach to explaining how networks work from the inside out. He starts with an explanation of the physical layer of networking, computer hardware and transmission systems; then works his way up to network applications. Tanenbaum's in-depth application coverage includes email; the domain name system; the World Wide Web (both client- and server-side); and multimedia (including voice over IP, Internet radio video on demand, video conferencing, and streaming media. Each chapter follows a consistent approach: Tanenbaum presents key principles, then illustrates them utilizing real-world example networks that run through the entire book―the Internet, and wireless networks, including Wireless LANs, broadband wireless and Bluetooth. The Fifth Edition includes a chapter devoted exclusively to network security. The textbook is supplemented by a Solutions Manual, as well as a Website containing PowerPoint slides, art in various forms, and other tools for instruction, including a protocol simulator whereby students can develop and test their own network protocols."
+        },
+        {
             "id": 112,
             "name": "Kubernetes In Action",
             "author": "Marko Luksa",
