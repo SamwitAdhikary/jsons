@@ -2,6 +2,60 @@
     "books": [
         {
             "id": 1,
+            "name": "UNIX Concepts and Applications",
+            "author": "Sumitabha Das",
+            "tagline": "Sumitabha Das",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/UNIX%20Concepts%20and%20Applications%20by%20Sumitabha%20Das%20(z-lib.org).pdf?alt=media&token=e4799273-9522-4ae8-8583-66ab412f1372",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71s1RNvWpsL.jpg",
+            "desc": "This book is both an exhaustive reference and an outstanding guide for the beginner. Real-world examples make new concepts easy to grasp while the practice exercises take comprehension to a new level by forcing the user to think. An unparalleled reference apparatus, this is a book that users will reach for now and for years to come."
+        },
+        {
+            "id": 1,
+            "name": "Programming in Python",
+            "author": "Dr. Pooja Sharma",
+            "tagline": "Elementary support for students, programmers, researchers, and software developers",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Programming%20in%20Python%20by%20Pooja%20Sharma%20(z-lib.org).epub.pdf?alt=media&token=37102bd7-618b-42fe-8c48-05df6fbdd65e",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51I0DgTejwL._SX331_BO1,204,203,200_.jpg",
+            "desc": "This Book is meant for wide range of readers who wish to learn the basics of Python programming language. It can be helpful for students, programmers, researchers, and software developers. The basic concepts of python programming are dealt in detail. The various concepts of python language such as object-oriented features, operators, native data types, control structures, functions, exception handling, file handling, etc are discussed in detail with the authentic programming illustration of each. presently, python programming is a hot topic among academician’s researchers, and program developers. As a result, the book is designed to give an in-depth knowledge of programming in python. This book can be used as handbook as well as a guide for students of all computer science stream at any grade beginning from 10+1 to Research in PhD. To conclude, we hope that the readers will find this book a helpful guide and valuable source of information about python programming."
+        },
+        {
+            "id": 1,
+            "name": "Learning the Unix Operating System",
+            "author": "Jerry Peek, Grace Todino, John Strang",
+            "tagline": "A Concise Guide for the New User",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Learning%20the%20UNIX%20Operating%20System%20by%20Jerry%20Peek%2C%20Grace%20Todino-Gonguet%2C%20John%20Strang%20(z-lib.org).pdf?alt=media&token=dfacbc61-dde5-45ea-91ab-7279f95d71dd",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71YmasvWRQL.jpg",
+            "desc": "If you are new to Unix, this concise book will tell you just what you need to get started and no more. Unix was one of the first operating systems written in C, a high-level programming language, and its natural portability and low price made it a popular choice among universities. Initially, two main dialects of Unix existed: one produced by AT&T known as System V, and one developed at UC Berkeley and known as BSD. In recent years, many other dialects have been created, including the highly popular Linux operating system and the new Mac OS X (a derivative of BSD).Learning the Unix Operating System is a handy book for someone just starting with Unix or Linux, and it's an ideal primer for Mac and PC users of the Internet who need to know a little about Unix on the systems they visit. The fifth edition is the most effective introduction to Unix in print, covering Internet usage for email, file transfers, web browsing, and many major and minor updates to help the reader navigate the ever-expanding capabilities of the operating system."
+        },
+        {
+            "id": 1,
+            "name": "Learning Python",
+            "author": "Mark Lutz",
+            "tagline": "Powerful Object-Oriented Programming",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Learning%20Python%2C%205th%20Edition%20by%20Mark%20Lutz%20(z-lib.org).pdf?alt=media&token=374d3965-a3a5-489e-b28f-8c0f4fa95b7b",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/913y-CTsAvL.jpg",
+            "desc": "Get a comprehensive, in-depth introduction to the core Python language with this hands-on book. Based on author Mark Lutz’s popular training course, this updated fifth edition will help you quickly write efficient, high-quality code with Python. It’s an ideal way to begin, whether you’re new to programming or a professional developer versed in other languages. Complete with quizzes, exercises, and helpful illustrations, this easy-to-follow, self-paced tutorial gets you started with both Python 2.7 and 3.3— the latest releases in the 3.X and 2.X lines—plus all other releases in common use today. You’ll also learn some advanced language features that recently have become more common in Python code."
+        },
+        {
+            "id": 1,
+            "name": "Essential System Administration",
+            "author": "Æleen Frisch",
+            "tagline": "Tools and Techniques for Linux and Unix Administration",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Essential%20System%20Administration%20Tools%20and%20Techniques%20for%20Linux%20and%20Unix%20Administration%2C%203rd%20Edition%20by%20%C3%86leen%20Frisch%20(z-lib.org).pdf?alt=media&token=9bf59193-3adb-457a-ba89-6be76f562f69",
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/515GfW1AEfL._SX342_SY445_QL70_ML2_.jpg",
+            "desc": "Essential System Administration,3rd Edition is the definitive guide for Unix system administration, covering all the fundamental and essential tasks required to run such divergent Unix systems as AIX, FreeBSD, HP-UX, Linux, Solaris, Tru64 and more. Essential System Administration provides a clear, concise, practical guide to the real-world issues that anyone responsible for a Unix system faces daily.The new edition of this indispensable reference has been fully updated for all the latest operating systems. Even more importantly, it has been extensively revised and expanded to consider the current system administrative topics that administrators need most. Essential System Administration,3rd Edition covers: DHCP, USB devices, the latest automation tools, SNMP and network management, LDAP, PAM, and recent security tools and techniques.Essential System Administration is comprehensive."
+        },
+        {
+            "id": 1,
+            "name": "Database System Concepts",
+            "author": "Silberschatz, Korth, Sudarshan",
+            "tagline": "Silberschatz, Korth, Sudarshan",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Database%20System%20Concepts%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=31a4c023-a79a-4040-85e5-6c8fac317779",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41+cspJiqCL._SX258_BO1,204,203,200_.jpg",
+            "desc": "The book commences with a basic introduction, which discusses fundamental topics like Database Languages, Database Users and Administrators, Database Design, and Data Storage and Querying. Then, the book is segregated into ten section. Relational Databases, System Architecture, Speciality Databases, and Transaction Management are a few. Chapters like Object-Relational Mapping, Relevance Ranking Using Terms, and Distributed Data Storage are discussed in detail. This edition also provides a revised coverage of SQL, with greater attention to variants of SQL in actual systems and SQL features. There is also new material on support vector machines, and validation of classifiers."
+        },
+        {
+            "id": 1,
             "name": "Computer Networks and Internets",
             "author": "Douglas E. Comer",
             "tagline": "Douglas E. Comer",
