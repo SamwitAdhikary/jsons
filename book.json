@@ -2,6 +2,15 @@
     "books": [
         {
             "id": 1,
+            "name": "Programming in ANSI C",
+            "author": "E. Balagurusamy",
+            "tagline": "E. Balagurusamy",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Programming%20in%20ANSI%20C%20by%20E%20Balagurusamy%20(z-lib.org).pdf?alt=media&token=a1473ce4-6b36-4343-b2da-d4b6d3db4e52",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71S-p+5smhL.jpg",
+            "desc": "The book ‘Programming in ANSI C’ has been developed specifically to meet the needs of a first-time learner who is keen to be a programmer. Distinguished as one of the bestsellers in the market, the book is taking forward another step in pursuit of perfection with this new edition. It follows a hierarchical approach by explaining the concepts from elementary to advanced level. The exhaustive coverage of critical concepts, such as Arrays, Strings, Functions, Pointers, Self-referential Structures, Dynamic Memory Allocation, etc. makes this title a complete reference guide for the beginners as well as life-long learners. Rich pedagogy, challenging programming problems, and concretely curated appendices enhance the utility of the book and make it a lasting resource for students and instructors."
+        },
+        {
+            "id": 1,
             "name": "UNIX Concepts and Applications",
             "author": "Sumitabha Das",
             "tagline": "Sumitabha Das",
