@@ -1,0 +1,31 @@
+{
+    "unix": [
+        {
+            "id": 1,
+            "name": "UNIX Concepts and Applications",
+            "author": "Sumitabha Das",
+            "tagline": "Sumitabha Das",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/UNIX%20Concepts%20and%20Applications%20by%20Sumitabha%20Das%20(z-lib.org).pdf?alt=media&token=e4799273-9522-4ae8-8583-66ab412f1372",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71s1RNvWpsL.jpg",
+            "desc": "This book is both an exhaustive reference and an outstanding guide for the beginner. Real-world examples make new concepts easy to grasp while the practice exercises take comprehension to a new level by forcing the user to think. An unparalleled reference apparatus, this is a book that users will reach for now and for years to come."
+        },
+        {
+            "id": 1,
+            "name": "Learning the Unix Operating System",
+            "author": "Jerry Peek, Grace Todino, John Strang",
+            "tagline": "A Concise Guide for the New User",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Learning%20the%20UNIX%20Operating%20System%20by%20Jerry%20Peek%2C%20Grace%20Todino-Gonguet%2C%20John%20Strang%20(z-lib.org).pdf?alt=media&token=dfacbc61-dde5-45ea-91ab-7279f95d71dd",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71YmasvWRQL.jpg",
+            "desc": "If you are new to Unix, this concise book will tell you just what you need to get started and no more. Unix was one of the first operating systems written in C, a high-level programming language, and its natural portability and low price made it a popular choice among universities. Initially, two main dialects of Unix existed: one produced by AT&T known as System V, and one developed at UC Berkeley and known as BSD. In recent years, many other dialects have been created, including the highly popular Linux operating system and the new Mac OS X (a derivative of BSD).Learning the Unix Operating System is a handy book for someone just starting with Unix or Linux, and it's an ideal primer for Mac and PC users of the Internet who need to know a little about Unix on the systems they visit. The fifth edition is the most effective introduction to Unix in print, covering Internet usage for email, file transfers, web browsing, and many major and minor updates to help the reader navigate the ever-expanding capabilities of the operating system."
+        },
+        {
+            "id": 16,
+            "name": "Beginning Modern Unix",
+            "author": "Manish Jain",
+            "tagline": "Learn to live comfortably in a modern Unix Environment",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Beginning%20Modern%20Unix_%20Learn%20to%20Live%20Comfortably%20in%20a%20Modern%20Unix%20Environment%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=7f5798ad-0ee9-4087-8ef9-acbde6a4bba3",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61iutBKmgWL.jpg",
+            "desc": "Discover how to leverage modern Unix even if you’ve never worked with Unix before. This book presents everything in conceptual terms that you can understand, rather than tips to be committed raw to memory."
+        }
+    ]
+}

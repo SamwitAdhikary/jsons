@@ -1,0 +1,31 @@
+{
+    "hacking": [
+        {
+            "id": 7,
+            "name": "Hacking",
+            "author": "Jon Erikson",
+            "tagline": "The Art Of Exploitation",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book7-6cc4d.appspot.com/o/Hacking%20The%20Art%20of%20Exploitation%20by%20Jon%20Erickson%20(z-lib.org)-compressed.pdf?alt=media&token=e104f621-dde4-446e-b3dc-1e3c5cadf563",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91UlU666haL.jpg",
+            "desc": "Hacking is the art of creative problem solving, whether that means finding an unconventional solution to a difficult problem or exploiting holes in sloppy programming. Many people call themselves hackers, but few have the strong technical foundation needed to really push the envelope. Rather than merely showing how to run existing exploits, author Jon Erickson explains how arcane hacking techniques actually work. To share the art and science of hacking in a way that is accessible to everyone, Hacking: The Art of Exploitation, 2nd Edition introduces the fundamentals of C programming from a hacker's perspective."
+        },
+        {
+            "id": 14,
+            "name": "Cyber Operations",
+            "author": "Mike O'Leary",
+            "tagline": "Building, Defending, and Attacking Modern Computer Networks",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Cyber%20Operations_%20Building%2C%20Defending%2C%20and%20Attacking%20Modern%20Computer%20Networks%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=dda3c39c-8abb-4aa1-a44c-7f969653a176",
+            "image": "https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4842-4294-0",
+            "desc": "Cyber Operations walks you through all the processes to set up, defend, and attack computer networks. This book focuses on networks and real attacks, offers extensive coverage of offensive and defensive techniques, and is supported by a rich collection of exercises and resources. You'll learn how to configure your network from the ground up, starting by setting up your virtual test environment with basics like DNS and active directory, through common network services, and ending with complex web applications involving web servers and backend databases."
+        },
+        {
+            "id": 15,
+            "name": "Cyber Security",
+            "author": "Thomas A. Jhonson",
+            "tagline": "Protecting Critical Infrastructures from Cyber Attack and Cyber Warfare",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Cyber-security%20Protecting%20Critical%20Infrastructures%20from%20Cyber%20Attack%20and%20Cyber%20Warfare%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=27b93b37-6fe1-4bb5-b8ca-608263a2e2a4",
+            "image": "https://images.tandf.co.uk/common/jackets/agentjpg/978148223/9781482239225.jpg",
+            "desc": "The World Economic Forum regards the threat of cyber attack as one of the top five global risks confronting nations of the world today. Cyber attacks are increasingly targeting the core functions of the economies in nations throughout the world. The threat to attack critical infrastructures, disrupt critical services, and induce a wide range of dam."
+        }
+    ]
+}

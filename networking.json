@@ -1,0 +1,50 @@
+{
+    "networking": [
+        {
+            "id": 1,
+            "name": "Computer Networks and Internets",
+            "author": "Douglas E. Comer",
+            "tagline": "Douglas E. Comer",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Computer%20Networks%20And%20Internets%20(%20PDFDrive%20).pdf?alt=media&token=62997c97-b8ef-4bc7-b237-b500aba3f8fd",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51jAWnd1rxL._SX377_BO1,204,203,200_.jpg",
+            "desc": "Leading networking authority Douglas Comer presents a wide-ranging, self-contained tour of the concepts, principles, and technologies that enable today’s Internet to support applications ranging from web browsing to telephony and multimedia. This Fifth Edition has been thoroughly reorganized, revised, and updated: it includes extensive new coverage of topics ranging from wireless protocols to network performance, while reducing or eliminating coverage of older protocols and technologies. Comer begins by illuminating the applications and facilities offered by today’s Internet. Next, he systematically introduces the underlying network technologies and protocols that make them possible: low-level data communications; packet switching, LAN, and WAN technologies; and Internet protocols such as TCP, IP, UDP, and IPv6. With these concepts and technologies established, he introduces several of the most important contemporary issues faced by network implementers and managers, including quality of service, Internet telephony, multimedia, network security, and network management. Comer has carefully designed this book to support both top-down and bottom-up teaching approaches. Students need no background in operating systems, and no sophisticated math: Comer relies throughout on figures, drawings, examples, and analogies, not mathematical proofs."
+        },
+        {
+            "id": 1,
+            "name": "Computer Networks",
+            "author": "Tanebbaum, Wetherall",
+            "tagline": "Tanenbaum, Wetherall",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Computer%20networks%20(%20PDFDrive%20).pdf?alt=media&token=056ac742-6c42-4bbf-b26e-b58b97af6ed9",
+            "image": "https://www.pearsonhighered.com/assets/bigcovers/0/1/3/2/0132126958.jpg",
+            "desc": "Computer Networks, 5/e is appropriate for Computer Networking or Introduction to Networking courses at both the undergraduate and graduate level in Computer Science, Electrical Engineering, CIS, MIS, and Business Departments. Tanenbaum takes a structured approach to explaining how networks work from the inside out. He starts with an explanation of the physical layer of networking, computer hardware and transmission systems; then works his way up to network applications. Tanenbaum's in-depth application coverage includes email; the domain name system; the World Wide Web (both client- and server-side); and multimedia (including voice over IP, Internet radio video on demand, video conferencing, and streaming media. Each chapter follows a consistent approach: Tanenbaum presents key principles, then illustrates them utilizing real-world example networks that run through the entire book―the Internet, and wireless networks, including Wireless LANs, broadband wireless and Bluetooth. The Fifth Edition includes a chapter devoted exclusively to network security. The textbook is supplemented by a Solutions Manual, as well as a Website containing PowerPoint slides, art in various forms, and other tools for instruction, including a protocol simulator whereby students can develop and test their own network protocols."
+        },
+        {
+            "id": 82,
+            "name": "The TCP/IP Guide",
+            "author": "Charles M. Kozeirok",
+            "tagline": "A Comprehensive, Illustrated Internet Protocols Reference",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book6-71fc8.appspot.com/o/The%20TCPIP%20Guide%20A%20Comprehensive%2C%20Illustrated%20Internet%20Protocols%20Reference%20by%20Charles%20M.%20Kozierok%20(z-lib.org).pdf?alt=media&token=a7f0b0c3-70ec-4f12-8bf5-d4f022f06215",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71057rOKsIL.jpg",
+            "desc": "From Charles M. Kozierok, the creator of the highly regarded www.pcguide.com, comes The TCP/IP Guide. This completely up-to-date, encyclopedic reference on the TCP/IP protocol suite will appeal to newcomers and the seasoned professional alike. Kozierok details the core protocols that make TCP/IP internetworks function and the most important classic TCP/IP applications, integrating IPv6 coverage throughout. Over 350 illustrations and hundreds of tables help to explain the finer points of this complex topic. The book’s personal, user-friendly writing style lets readers of all levels understand the dozens of protocols and technologies that run the Internet, with full coverage of PPP, ARP, IP, IPv6, IP NAT, IPSec, Mobile IP, ICMP, RIP, BGP, TCP, UDP, DNS, DHCP, SNMP, FTP, SMTP, NNTP, HTTP, Telnet, and much more.",
+            "lang": "English"
+        },
+        {
+            "id": 1,
+            "name": "Data Communication and Networking",
+            "author": "Behrouz A. Forouzan",
+            "tagline": "Behrouz A. Forouzan",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Data%20Communications%20and%20Network%20by%20Forouzan%2C%20Behrouz%20(z-lib.org)-compressed.pdf?alt=media&token=7f2ac55d-c409-42de-9d4b-c850dfd310d3",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/519vY7q7LJL._SX424_BO1,204,203,200_.jpg",
+            "desc": "Data Communications and Networking is designed to help students understand the basics of data communications and networking, and the protocols used in the Internet in particular by using the protocol layering of the Internet and TCP/IP protocol suite. Technologies related to data communication and networking may be the fastest growing in today's culture. The appearance of some new social networking applications is a testimony to this claim. In this Internet-oriented society, specialists need to be trained to run and manage the Internet, part of the Internet, or an organization's network that is connected to the Internet. As both the number and types of students are increasing, it is essential to have a textbook that provides coverage of the latest advances, while presenting the material in a way that is accessible to students with little or no background in the field."
+        },
+        {
+            "id": 13,
+            "name": "Computer Networking",
+            "author": "Kurose, Ross",
+            "tagline": "A Top-Down Approach",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book6-71fc8.appspot.com/o/Computer%20Networking%20A%20Top-Down%20Approach%2C%207th%20Edition%20by%20James%20Kurose%2C%20Keith%20Ross%20(z-lib.org).pdf?alt=media&token=fd62c631-d636-44db-907f-cbc9222cec58",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51xp1%2BoDRML._AC_UL600_SR486,600_.jpg",
+            "desc": "Unique among computer networking texts, the Seventh Edition of the popular Computer Networking: A Top Down Approach builds on the author’s long tradition of teaching this complex subject through a layered approach in a “top-down manner.” The text works its way from the application layer down toward the physical layer, motivating readers by exposing them to important concepts early in their study of networking. Focusing on the Internet and the fundamentally important issues of networking, this text provides an excellent foundation for readers interested in computer science and electrical engineering, without requiring extensive knowledge of programming or mathematics. The Seventh Edition has been updated to reflect the most important and exciting recent advances in networking."
+        }
+    ]
+}

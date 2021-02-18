@@ -2,48 +2,12 @@
     "other": [
         {
             "id": 1,
-            "name": "UNIX Concepts and Applications",
-            "author": "Sumitabha Das",
-            "tagline": "Sumitabha Das",
-            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/UNIX%20Concepts%20and%20Applications%20by%20Sumitabha%20Das%20(z-lib.org).pdf?alt=media&token=e4799273-9522-4ae8-8583-66ab412f1372",
-            "image": "https://images-na.ssl-images-amazon.com/images/I/71s1RNvWpsL.jpg",
-            "desc": "This book is both an exhaustive reference and an outstanding guide for the beginner. Real-world examples make new concepts easy to grasp while the practice exercises take comprehension to a new level by forcing the user to think. An unparalleled reference apparatus, this is a book that users will reach for now and for years to come."
-        },
-        {
-            "id": 1,
-            "name": "Learning the Unix Operating System",
-            "author": "Jerry Peek, Grace Todino, John Strang",
-            "tagline": "A Concise Guide for the New User",
-            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Learning%20the%20UNIX%20Operating%20System%20by%20Jerry%20Peek%2C%20Grace%20Todino-Gonguet%2C%20John%20Strang%20(z-lib.org).pdf?alt=media&token=dfacbc61-dde5-45ea-91ab-7279f95d71dd",
-            "image": "https://images-na.ssl-images-amazon.com/images/I/71YmasvWRQL.jpg",
-            "desc": "If you are new to Unix, this concise book will tell you just what you need to get started and no more. Unix was one of the first operating systems written in C, a high-level programming language, and its natural portability and low price made it a popular choice among universities. Initially, two main dialects of Unix existed: one produced by AT&T known as System V, and one developed at UC Berkeley and known as BSD. In recent years, many other dialects have been created, including the highly popular Linux operating system and the new Mac OS X (a derivative of BSD).Learning the Unix Operating System is a handy book for someone just starting with Unix or Linux, and it's an ideal primer for Mac and PC users of the Internet who need to know a little about Unix on the systems they visit. The fifth edition is the most effective introduction to Unix in print, covering Internet usage for email, file transfers, web browsing, and many major and minor updates to help the reader navigate the ever-expanding capabilities of the operating system."
-        },
-        {
-            "id": 1,
             "name": "Database System Concepts",
             "author": "Silberschatz, Korth, Sudarshan",
             "tagline": "Silberschatz, Korth, Sudarshan",
             "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Database%20System%20Concepts%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=31a4c023-a79a-4040-85e5-6c8fac317779",
             "image": "https://images-na.ssl-images-amazon.com/images/I/41+cspJiqCL._SX258_BO1,204,203,200_.jpg",
             "desc": "The book commences with a basic introduction, which discusses fundamental topics like Database Languages, Database Users and Administrators, Database Design, and Data Storage and Querying. Then, the book is segregated into ten section. Relational Databases, System Architecture, Speciality Databases, and Transaction Management are a few. Chapters like Object-Relational Mapping, Relevance Ranking Using Terms, and Distributed Data Storage are discussed in detail. This edition also provides a revised coverage of SQL, with greater attention to variants of SQL in actual systems and SQL features. There is also new material on support vector machines, and validation of classifiers."
-        },
-        {
-            "id": 1,
-            "name": "Computer Networks and Internets",
-            "author": "Douglas E. Comer",
-            "tagline": "Douglas E. Comer",
-            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Computer%20Networks%20And%20Internets%20(%20PDFDrive%20).pdf?alt=media&token=62997c97-b8ef-4bc7-b237-b500aba3f8fd",
-            "image": "https://images-na.ssl-images-amazon.com/images/I/51jAWnd1rxL._SX377_BO1,204,203,200_.jpg",
-            "desc": "Leading networking authority Douglas Comer presents a wide-ranging, self-contained tour of the concepts, principles, and technologies that enable today’s Internet to support applications ranging from web browsing to telephony and multimedia. This Fifth Edition has been thoroughly reorganized, revised, and updated: it includes extensive new coverage of topics ranging from wireless protocols to network performance, while reducing or eliminating coverage of older protocols and technologies. Comer begins by illuminating the applications and facilities offered by today’s Internet. Next, he systematically introduces the underlying network technologies and protocols that make them possible: low-level data communications; packet switching, LAN, and WAN technologies; and Internet protocols such as TCP, IP, UDP, and IPv6. With these concepts and technologies established, he introduces several of the most important contemporary issues faced by network implementers and managers, including quality of service, Internet telephony, multimedia, network security, and network management. Comer has carefully designed this book to support both top-down and bottom-up teaching approaches. Students need no background in operating systems, and no sophisticated math: Comer relies throughout on figures, drawings, examples, and analogies, not mathematical proofs."
-        },
-        {
-            "id": 1,
-            "name": "Computer Networks",
-            "author": "Tanebbaum, Wetherall",
-            "tagline": "Tanenbaum, Wetherall",
-            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Computer%20networks%20(%20PDFDrive%20).pdf?alt=media&token=056ac742-6c42-4bbf-b26e-b58b97af6ed9",
-            "image": "https://www.pearsonhighered.com/assets/bigcovers/0/1/3/2/0132126958.jpg",
-            "desc": "Computer Networks, 5/e is appropriate for Computer Networking or Introduction to Networking courses at both the undergraduate and graduate level in Computer Science, Electrical Engineering, CIS, MIS, and Business Departments. Tanenbaum takes a structured approach to explaining how networks work from the inside out. He starts with an explanation of the physical layer of networking, computer hardware and transmission systems; then works his way up to network applications. Tanenbaum's in-depth application coverage includes email; the domain name system; the World Wide Web (both client- and server-side); and multimedia (including voice over IP, Internet radio video on demand, video conferencing, and streaming media. Each chapter follows a consistent approach: Tanenbaum presents key principles, then illustrates them utilizing real-world example networks that run through the entire book―the Internet, and wireless networks, including Wireless LANs, broadband wireless and Bluetooth. The Fifth Edition includes a chapter devoted exclusively to network security. The textbook is supplemented by a Solutions Manual, as well as a Website containing PowerPoint slides, art in various forms, and other tools for instruction, including a protocol simulator whereby students can develop and test their own network protocols."
         },
         {
             "id": 112,
@@ -64,45 +28,6 @@
             "image": "https://images.springer.com/sgw/books/medium/9781430260431.jpg",
             "desc": "Written for the budding web developer searching for a powerful, low-cost solution for building flexible, dynamic web sites. Essentially three books in one: provides thorough introductions to the PHP language and the MySQL database, and shows you how these two technologies can be effectively integrated to build powerful websites.",
             "lang": "English"
-        },
-        {
-            "id": 88,
-            "name": "Learning React",
-            "author": "Alex Banks, Eve Porcello",
-            "tagline": "Functional Web Development With React And Flux",
-            "url": "https://firebasestorage.googleapis.com/v0/b/book7-6cc4d.appspot.com/o/Learning%20React%20Functional%20Web%20Development%20with%20React%20and%20Redux%20by%20Alex%20Banks%2C%20Eve%20Porcello%20(z-lib.org)-compressed.pdf?alt=media&token=51dd36b9-1e03-447e-b018-1fac07a2ab0e",
-            "image": "https://images-na.ssl-images-amazon.com/images/I/91gJrDrQuCL.jpg",
-            "desc": "If you want to learn how to build efficient React applications, this is your book. Ideal for web developers and software engineers who understand how JavaScript, CSS, and HTML work in the browser, this updated edition provides best practices and patterns for writing modern React code. No prior knowledge of React or functional JavaScript is necessary. With their learning road map, authors Alex Banks and Eve Porcello show you how to create UIs that can deftly display changes without page reloads on large-scale, data-driven websites. You’ll also discover how to work with functional programming and the latest ECMAScript features. Once you learn how to build React components with this hands-on guide, you’ll understand just how useful React can be in your organization.",
-            "lang": "English"
-        },
-        {
-            "id": 82,
-            "name": "The TCP/IP Guide",
-            "author": "Charles M. Kozeirok",
-            "tagline": "A Comprehensive, Illustrated Internet Protocols Reference",
-            "url": "https://firebasestorage.googleapis.com/v0/b/book6-71fc8.appspot.com/o/The%20TCPIP%20Guide%20A%20Comprehensive%2C%20Illustrated%20Internet%20Protocols%20Reference%20by%20Charles%20M.%20Kozierok%20(z-lib.org).pdf?alt=media&token=a7f0b0c3-70ec-4f12-8bf5-d4f022f06215",
-            "image": "https://images-na.ssl-images-amazon.com/images/I/71057rOKsIL.jpg",
-            "desc": "From Charles M. Kozierok, the creator of the highly regarded www.pcguide.com, comes The TCP/IP Guide. This completely up-to-date, encyclopedic reference on the TCP/IP protocol suite will appeal to newcomers and the seasoned professional alike. Kozierok details the core protocols that make TCP/IP internetworks function and the most important classic TCP/IP applications, integrating IPv6 coverage throughout. Over 350 illustrations and hundreds of tables help to explain the finer points of this complex topic. The book’s personal, user-friendly writing style lets readers of all levels understand the dozens of protocols and technologies that run the Internet, with full coverage of PPP, ARP, IP, IPv6, IP NAT, IPSec, Mobile IP, ICMP, RIP, BGP, TCP, UDP, DNS, DHCP, SNMP, FTP, SMTP, NNTP, HTTP, Telnet, and much more.",
-            "lang": "English"
-        },
-        {
-            "id": 81,
-            "name": "The Road to Learn React",
-            "author": "Robin Wieruch",
-            "tagline": "Your journey to Master Plain Yet Pragmatic React.js",
-            "url": "https://firebasestorage.googleapis.com/v0/b/book6-71fc8.appspot.com/o/The%20Road%20to%20learn%20React%20Your%20journey%20to%20master%20plain%20yet%20pragmatic%20React.js%20by%20Robin%20Wieruch%20(z-lib.org)-compressed.pdf?alt=media&token=b6f21610-72ad-4309-bf12-31287beca52c",
-            "image": "https://images-eu.ssl-images-amazon.com/images/I/411PLvo%2BcxL._SX342_SY445_QL70_ML2_.jpg",
-            "desc": "In 'The Road to React' you will learn about all the fundamentals of React.js with Hooks while building a full-blown React application step by step. While you create the React application, every chapter will introduce you to a new React key feature. However, there is more than only the fundamentals: The book dives into related topics (e.g. React with TypeScript, Testing, Performance Optimizations) and advanced feature implementations like client- and server-side searching. At the end of the book, you will have a fully working deployed React application.",
-            "lang": "English"
-        },
-        {
-            "id": 1,
-            "name": "Data Communication and Networking",
-            "author": "Behrouz A. Forouzan",
-            "tagline": "Behrouz A. Forouzan",
-            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Data%20Communications%20and%20Network%20by%20Forouzan%2C%20Behrouz%20(z-lib.org)-compressed.pdf?alt=media&token=7f2ac55d-c409-42de-9d4b-c850dfd310d3",
-            "image": "https://images-na.ssl-images-amazon.com/images/I/519vY7q7LJL._SX424_BO1,204,203,200_.jpg",
-            "desc": "Data Communications and Networking is designed to help students understand the basics of data communications and networking, and the protocols used in the Internet in particular by using the protocol layering of the Internet and TCP/IP protocol suite. Technologies related to data communication and networking may be the fastest growing in today's culture. The appearance of some new social networking applications is a testimony to this claim. In this Internet-oriented society, specialists need to be trained to run and manage the Internet, part of the Internet, or an organization's network that is connected to the Internet. As both the number and types of students are increasing, it is essential to have a textbook that provides coverage of the latest advances, while presenting the material in a way that is accessible to students with little or no background in the field."
         },
         {
             "id": 1,
@@ -159,15 +84,6 @@
             "desc": "Widely considered one of the best practical guides to programming, Steve McConnell’s original CODE COMPLETE has been helping developers write better software for more than a decade. Now this classic book has been fully updated and revised with leading-edge practices—and hundreds of new code samples—illustrating the art and science of software construction. Capturing the body of knowledge available from research, academia, and everyday commercial practice, McConnell synthesizes the most effective techniques and must-know principles into clear, pragmatic guidance. No matter what your experience level, development environment, or project size, this book will inform and stimulate your thinking—and help you build the highest quality code."
         },
         {
-            "id": 7,
-            "name": "Hacking",
-            "author": "Jon Erikson",
-            "tagline": "The Art Of Exploitation",
-            "url": "https://firebasestorage.googleapis.com/v0/b/book7-6cc4d.appspot.com/o/Hacking%20The%20Art%20of%20Exploitation%20by%20Jon%20Erickson%20(z-lib.org)-compressed.pdf?alt=media&token=e104f621-dde4-446e-b3dc-1e3c5cadf563",
-            "image": "https://images-na.ssl-images-amazon.com/images/I/91UlU666haL.jpg",
-            "desc": "Hacking is the art of creative problem solving, whether that means finding an unconventional solution to a difficult problem or exploiting holes in sloppy programming. Many people call themselves hackers, but few have the strong technical foundation needed to really push the envelope. Rather than merely showing how to run existing exploits, author Jon Erickson explains how arcane hacking techniques actually work. To share the art and science of hacking in a way that is accessible to everyone, Hacking: The Art of Exploitation, 2nd Edition introduces the fundamentals of C programming from a hacker's perspective."
-        },
-        {
             "id": 8,
             "name": "Refactoring",
             "author": "Martin Fowler",
@@ -212,42 +128,6 @@
             "url": "https://firebasestorage.googleapis.com/v0/b/book6-71fc8.appspot.com/o/Computer%20Graphics%2C%20C%20Version%20by%20Donald%20Baker%2C%20M.%20Pauline%20Hearn%20(z-lib.org).pdf?alt=media&token=e0deed06-fcfa-4643-8c84-06d86e638306",
             "image": "https://images-na.ssl-images-amazon.com/images/I/51R20C3M3SL.jpg",
             "desc": "Reflecting the rapid expansion of the use of computer graphics and of C as a programming language of choice for implementation, this new version of the best-selling Hearn and Baker text converts all programming code into the C language. Assuming the reader has no prior familiarity with computer graphics, the authors present basic principles for design, use, and understanding of computer graphics systems. The authors are widely considered authorities in computer graphics, and are known for their accessible writing style. A free Open GL supplement is available via the texts Prentice Hall Catalog page."
-        },
-        {
-            "id": 13,
-            "name": "Computer Networking",
-            "author": "Kurose, Ross",
-            "tagline": "A Top-Down Approach",
-            "url": "https://firebasestorage.googleapis.com/v0/b/book6-71fc8.appspot.com/o/Computer%20Networking%20A%20Top-Down%20Approach%2C%207th%20Edition%20by%20James%20Kurose%2C%20Keith%20Ross%20(z-lib.org).pdf?alt=media&token=fd62c631-d636-44db-907f-cbc9222cec58",
-            "image": "https://images-na.ssl-images-amazon.com/images/I/51xp1%2BoDRML._AC_UL600_SR486,600_.jpg",
-            "desc": "Unique among computer networking texts, the Seventh Edition of the popular Computer Networking: A Top Down Approach builds on the author’s long tradition of teaching this complex subject through a layered approach in a “top-down manner.” The text works its way from the application layer down toward the physical layer, motivating readers by exposing them to important concepts early in their study of networking. Focusing on the Internet and the fundamentally important issues of networking, this text provides an excellent foundation for readers interested in computer science and electrical engineering, without requiring extensive knowledge of programming or mathematics. The Seventh Edition has been updated to reflect the most important and exciting recent advances in networking."
-        },
-        {
-            "id": 14,
-            "name": "Cyber Operations",
-            "author": "Mike O'Leary",
-            "tagline": "Building, Defending, and Attacking Modern Computer Networks",
-            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Cyber%20Operations_%20Building%2C%20Defending%2C%20and%20Attacking%20Modern%20Computer%20Networks%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=dda3c39c-8abb-4aa1-a44c-7f969653a176",
-            "image": "https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4842-4294-0",
-            "desc": "Cyber Operations walks you through all the processes to set up, defend, and attack computer networks. This book focuses on networks and real attacks, offers extensive coverage of offensive and defensive techniques, and is supported by a rich collection of exercises and resources. You'll learn how to configure your network from the ground up, starting by setting up your virtual test environment with basics like DNS and active directory, through common network services, and ending with complex web applications involving web servers and backend databases."
-        },
-        {
-            "id": 15,
-            "name": "Cyber Security",
-            "author": "Thomas A. Jhonson",
-            "tagline": "Protecting Critical Infrastructures from Cyber Attack and Cyber Warfare",
-            "url": "https://firebasestorage.googleapis.com/v0/b/book4-49721.appspot.com/o/Cyber-security%20Protecting%20Critical%20Infrastructures%20from%20Cyber%20Attack%20and%20Cyber%20Warfare%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=27b93b37-6fe1-4bb5-b8ca-608263a2e2a4",
-            "image": "https://images.tandf.co.uk/common/jackets/agentjpg/978148223/9781482239225.jpg",
-            "desc": "The World Economic Forum regards the threat of cyber attack as one of the top five global risks confronting nations of the world today. Cyber attacks are increasingly targeting the core functions of the economies in nations throughout the world. The threat to attack critical infrastructures, disrupt critical services, and induce a wide range of dam."
-        },
-        {
-            "id": 16,
-            "name": "Beginning Modern Unix",
-            "author": "Manish Jain",
-            "tagline": "Learn to live comfortably in a modern Unix Environment",
-            "url": "https://firebasestorage.googleapis.com/v0/b/book-bb9de.appspot.com/o/Beginning%20Modern%20Unix_%20Learn%20to%20Live%20Comfortably%20in%20a%20Modern%20Unix%20Environment%20(%20PDFDrive%20)-compressed.pdf?alt=media&token=7f5798ad-0ee9-4087-8ef9-acbde6a4bba3",
-            "image": "https://images-na.ssl-images-amazon.com/images/I/61iutBKmgWL.jpg",
-            "desc": "Discover how to leverage modern Unix even if you’ve never worked with Unix before. This book presents everything in conceptual terms that you can understand, rather than tips to be committed raw to memory."
         }
     ]
 }
