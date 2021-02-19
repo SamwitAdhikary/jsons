@@ -2,6 +2,15 @@
     "linux": [
         {
             "id": 1,
+            "name": "Linux Command Line and Shell Scripting Bible",
+            "author": "Richard Blum, Christine Bresnahan",
+            "tagline": "The Comprehensive, Tutorial Resource",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/Linux%20Command%20Line%20and%20Shell%20Scripting%20Bible%20by%20Richard%20Blum%2C%20Christine%20Bresnahan%20(z-lib.org)-compressed.pdf?alt=media&token=90289fd1-8358-4ab2-99ea-fac44baaef05",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81v597C82KL.jpg",
+            "desc": "Linux Command Line and Shell Scripting Bible is your essential Linux guide. With detailed instruction and abundant examples, this book teaches you how to bypass the graphical interface and communicate directly with your computer, saving time and expanding capability. This third edition incorporates thirty pages of new functional examples that are fully updated to align with the latest Linux features. Beginning with command line fundamentals, the book moves into shell scripting and shows you the practical application of commands in automating frequently performed functions. This guide includes useful tutorials, and a desk reference value of numerous examples."
+        },
+        {
+            "id": 1,
             "name": "Essential System Administration",
             "author": "Æleen Frisch",
             "tagline": "Tools and Techniques for Linux and Unix Administration",

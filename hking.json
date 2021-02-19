@@ -1,6 +1,15 @@
 {
     "hacking": [
         {
+            "id": 1,
+            "name": "Computer Hacking for Beginners",
+            "author": "Dr. Kevin James",
+            "tagline": "Dr. Kevin James",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/Computer%20Hacking%20for%20Beginners%20by%20Kevin%20James%20(z-lib.org).epub-compressed.pdf?alt=media&token=b14014df-0071-4379-8c7e-a71ffd32a91c",
+            "image": "https://b6t4d8w4.rocketcdn.me/wp-content/uploads/2020/04/Computer-Hacking-for-Beginners-1st-Edition.jpg",
+            "desc": "If you want to learn how to build efficient user interfaces with React, this is your book. Authors Alex Banks and Eve Porcello show you how to create UIs with this small JavaScript library that can deftly display data changes on large-scale, data-driven websites without page reloads. Along the way, you'll learn how to work with functional programming and the latest ECMAScript features. Developed by Facebook, and used by companies including Netflix, Walmart, and The New York Times for large parts of their web interfaces, React is quickly growing in use. By learning how to build React components with this hands-on guide, you'll fully understand how useful React can be in your organization. Learn key functional programming concepts with JavaScript Peek under the hood to understand how React runs in the browser Create application presentation layers by mounting and composing React components Use component trees to manage data and reduce the time you spend debugging applications Explore React's component lifecycle and use it to load data and improve UI performance Use a routing solution for browser history, bookmarks, and other features of single-page applications Learn how to structure React applications with servers in mind."
+        },
+        {
             "id": 7,
             "name": "Hacking",
             "author": "Jon Erikson",
