@@ -1,15 +1,6 @@
 {
     "react": [
         {
-            "id": 1,
-            "name": "Learning React",
-            "author": "Alex Banks, Eve Porcello",
-            "tagline": "Functional Web Development with React and Flux",
-            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/Learning%20React%20Functional%20Web%20Development%20with%20React%20and%20Redux%20by%20Alex%20Banks%2C%20Eve%20Porcello%20(z-lib.org)-compressed.pdf?alt=media&token=7ae66022-39ab-439f-960f-7fb608e8c97c",
-            "image": "https://images-na.ssl-images-amazon.com/images/I/7169mYAhsmL.jpg",
-            "desc": "If you want to learn how to build efficient user interfaces with React, this is your book. Authors Alex Banks and Eve Porcello show you how to create UIs with this small JavaScript library that can deftly display data changes on large-scale, data-driven websites without page reloads. Along the way, you'll learn how to work with functional programming and the latest ECMAScript features. Developed by Facebook, and used by companies including Netflix, Walmart, and The New York Times for large parts of their web interfaces, React is quickly growing in use. By learning how to build React components with this hands-on guide, you'll fully understand how useful React can be in your organization. Learn key functional programming concepts with JavaScript Peek under the hood to understand how React runs in the browser Create application presentation layers by mounting and composing React components Use component trees to manage data and reduce the time you spend debugging applications Explore React's component lifecycle and use it to load data and improve UI performance Use a routing solution for browser history, bookmarks, and other features of single-page applications Learn how to structure React applications with servers in mind."
-        },
-        {
             "id": 88,
             "name": "Learning React",
             "author": "Alex Banks, Eve Porcello",
