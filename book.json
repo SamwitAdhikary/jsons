@@ -2,6 +2,132 @@
     "books": [
         {
             "id": 1,
+            "name": "Java The Complete Reference",
+            "author": "Helbert Schildt",
+            "tagline": "Comprehensive Coverage of the Java Language",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/java-the-complete-reference-eleventh-edition.pdf?alt=media&token=3aac624b-08b2-423c-be92-33bcd19b96ad",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61+jPzV1gyL.jpg",
+            "desc": "Fully updated for Java SE 11, Java: The Complete Reference, Eleventh Edition explains how to develop, compile, debug, and run Java programs. Best-selling programming author Herb Schildt covers the entire Java language, including its syntax, keywords, and fundamental programming principles. You’ll also find information on key portions of the Java API library, such as I/O, the Collections Framework, the stream library, and the concurrency utilities. Swing, JavaBeans, and servlets are examined and numerous examples demonstrate Java in action. Of course, the very important module system is discussed in detail. This Oracle Press resource also offers an introduction to JShell, Java’s interactive programming tool. Best of all, the book is written in the clear, crisp, uncompromising style that has made Schildt the choice of millions worldwide."
+        },
+        {
+            "id": 1,
+            "name": "The Illustrated Network",
+            "author": "Walter Goralski",
+            "tagline": "How TCP/IP Works in a Modern Network",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/The%20Illustrated%20Network_%20How%20TCP_IP%20Works%20in%20a%20Modern%20Network%20(%20PDFDrive%20).pdf?alt=media&token=133eeb9e-6777-4288-a634-a3d250209440",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51-M9b-plTL._SX404_BO1,204,203,200_.jpg",
+            "desc": "The Illustrated Network: How TCP/IP Works in a Modern Network, Second Edition presents an illustrated explanation on how TCP/IP works, using consistent examples from a working network configuration that includes servers, routers and workstations. Diagnostic traces allow the reader to follow the discussion with unprecedented clarity and precision. True to its title, there are 330+ diagrams and screenshots, as well as topology diagrams and a unique repeating chapter opening diagram. Illustrations are also used as end-of-chapter questions. Based on examples of a complete and modern network, all the material comes from real objects connected and running on the network."
+        },
+        {
+            "id": 1,
+            "name": "The Hacker Playbook 3",
+            "author": "Peter Kim",
+            "tagline": "Practical Guide To Penetration Testing",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/The%20Hacker%20Playbook%203%20Practical%20Guide%20To%20Penetration%20Testing%20by%20Peter%20Kim%20(z-lib.org).epub-compressed.pdf?alt=media&token=6b0c8a98-919a-4281-a9c1-d7aa82c6dbfd",
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/51ub94TBqPL._SX342_SY445_QL70_ML2_.jpg",
+            "desc": "The main purpose of this book is to answer questions as to why things are still broken. For instance, with all the different security products, secure code reviews, defense in depth, and penetration testing requirements, how are we still seeing massive security breaches happening to major corporations and governments? The real question we need to ask ourselves is, are all the safeguards we are putting in place working? This is what The Hacker Playbook 3 - Red Team Edition is all about."
+        },
+        {
+            "id": 1,
+            "name": "The Code Book",
+            "author": "Simon Singh",
+            "tagline": "How To Make It, Break It, Hack It, Crack It",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/The%20Code%20Book%20How%20to%20Make%20It%2C%20Break%20It%2C%20Hack%20It%2C%20Crack%20It%20by%20Simon%20Singh%20(z-lib.org)-compressed.pdf?alt=media&token=8282cdf6-716f-4556-a7b9-6b8efa391592",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51Q0KH7E1FL.jpg",
+            "desc": "It’s known as the science of secrecy. Cryptography: the encoding and decoding of private information. And it is history’s most fascinating story of intrigue and cunning. From Julius Caesar and his Caesar Cipher to the code used by Mary Queen of Scots and her conspiracy to the use of the Engima machine during the Second World War, Simon Singh follows the evolution of secret writing."
+        },
+        {
+            "id": 1,
+            "name": "React Native in Action",
+            "author": "Nader Dabit",
+            "tagline": "Developing iOS and Android apps with JavaScript",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/React%20Native%20in%20Action%20by%20Nader%20Dabit%20(z-lib.org)-compressed.pdf?alt=media&token=6c73c423-fd56-45b7-822d-042909f88f8f",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41f9GANmKrL._SX397_BO1,204,203,200_.jpg",
+            "desc": "React Native in Action teaches you to build high-quality cross-platform mobile and web apps. In this hands-on guide, you'll jump right into building a complete app with the help ofclear, easy-to-follow instructions. As you build your skills, you'll drill down to more-advanced topics like styling, APIs, animations, data architecture, and more! You'll also learn how to maximize code reuse without sacrificing native platform look-and-feel."
+        },
+        {
+            "id": 1,
+            "name": "React Native for Mobile Development",
+            "author": "Akshat Paul, Abhiskek Nalwaya",
+            "tagline": "Harness the Power of React Native to Create Stunning iOS and Android Applications",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/React%20Native%20for%20Mobile%20Development%20Harness%20the%20Power%20of%20React%20Native%20to%20Create%20Stunning%20iOS%20and%20Android%20Applications%20by%20Akshat%20Paul%2C%20Abhishek%20Nalwaya%20(z-lib.org)-compressed.pdf?alt=media&token=c21d08a2-8faa-483d-adc5-ad66b5d0ed89",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/419zfhlE6ZL._SX348_BO1,204,203,200_.jpg",
+            "desc": "You will start by setting up React Native and exploring the anatomy of React Native apps. You'll then move on to Redux data flow, how it differs from flux, and how you can include it in your React Native project to solve state management differently and efficiently. You will also learn how to boost your development by including popular packages developed by the React Native community that will help you write less; do more. Finally, you'll learn to how write test cases using Jest and submit your application to the App Store."
+        },
+        {
+            "id": 1,
+            "name": "React: Cross-Platform Application Development with React Native",
+            "author": "Emilio Rodriguez Martinez",
+            "tagline": "Build 4 Real World Apps with React Native",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/React%20Cross-Platform%20Application%20Development%20with%20React%20Native%20by%20Emilio%20Rodriguez%20Martinez%20%5BEmilio%20Rodriguez%20Martinez%5D%20(z-lib.org).epub-compressed.pdf?alt=media&token=4a7b80e3-a138-41a5-9d23-d2733cc34cc4",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41NhSaj+oOL._SX384_BO1,204,203,200_.jpg",
+            "desc": "React Native helps web and mobile developers to build cross-platform apps that perform at the same level as any other natively developed app. The range of apps that can be built using this library is huge. From e-commerce to games, React Native is a good fit for any mobile project due to its flexibility and extendable nature. This project-based book consists of four standalone projects. Each project will help you gain a sound understanding of the framework and build mobile apps with native user experience. Starting with a simple standalone car booking app, you will progressively move on to building advanced apps by adding connectivity with external APIs, using native features, such as the camera or microphone, in the mobile device, integrating with state management libraries such as Redux or MobX, or leveraging React Native's performance by building a full-featured game."
+        },
+        {
+            "id": 1,
+            "name": "Practical React Native",
+            "author": "Frank Zammetti",
+            "tagline": "Build Two Full Projects and One Full Game using React Native",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/Practical%20React%20Native%20Build%20Two%20Full%20Projects%20and%20One%20Full%20Game%20using%20React%20Native%20by%20Frank%20Zammetti%20(z-lib.org)-compressed.pdf?alt=media&token=c04bcdbf-2904-4cf1-b653-6a73122bc033",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41Oy2Zz4qPL._SX348_BO1,204,203,200_.jpg",
+            "desc": "You'll begin with a solid foundation of practical knowledge, and then build on it immediately by constructing three different apps. You'll learn how to use each feature of React Native by working on two full projects and one full game. These aren’t just simple React Native Hello World examples (although you’ll naturally start there!) but are apps that you can, if you so choose, install on your mobile devices and use for real."
+        },
+        {
+            "id": 1,
+            "name": "Learning React Native",
+            "author": "Bonnie Eisenman",
+            "tagline": "Building Native Mobile Apps with Javascript",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/Learning%20React%20Native%20Building%20Native%20Mobile%20Apps%20with%20JavaScript%20by%20Bonnie%20Eisenman%20(z-lib.org)-compressed.pdf?alt=media&token=8430c5da-0565-4a9d-971b-d53fd1439b7b",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71nR-qrWVnL.jpg",
+            "desc": "The second edition of this hands-on guide shows you how to build applications that target iOS, Android, and other mobile platforms instead of browsers that can access platform features such as the camera, user location, and local storage. Through code examples and step-by-step instructions, web developers and front end engineers familiar with react will learn how to build and style interfaces, use mobile components, and debug and deploy apps. You’ll learn how to extend react Native using third-party libraries or your own Java and Objective-C libraries."
+        },
+        {
+            "id": 1,
+            "name": "Learning Algorithms Through Programming and Puzzel Solving",
+            "author": "Alexander Kulikov, Pavel Pevzner",
+            "tagline": "Alexander Kulikov, Pavel Pevzner",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/Learning%20Algorithms%20Through%20Programming%20and%20Puzzle%20Solving%20(%20PDFDrive.com%20)-compressed.pdf?alt=media&token=9bae4e07-1782-45a7-a82d-e7f2d9a35554",
+            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537966946l/42074781._SX318_.jpg",
+            "desc": "This book powers our popular Data Structures and Algorithms online specialization on Coursera and the online MicroMasters program on edX. Since the launch of our online courses in 2016, hundreds of thousands students tried to solve many programming challenges and algorithmic puzzles described in this book."
+        },
+        {
+            "id": 1,
+            "name": "Design Patterns with React Native",
+            "author": "Mateusz Grzesiukiewicz",
+            "tagline": "Hacking Practical Guide for Beginners",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/Hands-On%20Design%20Patterns%20with%20React%20Native%20by%20Mateusz%20Grzesiukiewicz%20(z-lib.org).epub-compressed.pdf?alt=media&token=d57ec9af-b6b9-4777-8ffb-3b456cecd763",
+            "image": "https://m.media-amazon.com/images/I/51MzIfZkVNL._SX260_.jpg",
+            "desc": "React Native helps developers reuse code across different mobile platforms like iOS and Android. This book will show you effective design patterns in the React Native world and will make you ready for professional development in big teams. The book will focus only on the patterns that are relevant to JavaScript, ECMAScript, React and React Native. However, you can successfully transfer a lot of the skills and techniques to other languages. I call them “Idea patterns”. This book will start with the most standard development patterns in React like component building patterns, styling patterns in React Native and then extend these patterns to your mobile application using real world practical examples. Each chapter comes with full, separate source code of applications that you can build and run on your phone."
+        },
+        {
+            "id": 1,
+            "name": "Hacking",
+            "author": "Jeff Simon",
+            "tagline": "Hacking Practical Guide for Beginners",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/Hacking%20%20Hacking%20Practical%20Guide%20for%20Beginners%20(Hacking%20With%20Python)%20by%20Jeff%20Simon%20(z-lib.org)-compressed.pdf?alt=media&token=0e8fab81-9954-4e92-9a0f-a75947b435e7",
+            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474195716l/32069271._SY475_.jpg",
+            "desc": "The first chapter of this book explains the basics of hacking and the different types of hackers. The second chapter has a detailed study plan for budding hackers. That study plan will help you improve your skills in a short period of time. The third chapter will teach you how to write your own codes using the Python programming language. The rest of the book contains detailed instructions on how you can become a skilled hacker and penetration tester."
+        },
+        {
+            "id": 1,
+            "name": "Coding Thoery",
+            "author": "Andre Neubauer, Jurgen Freudenberger, Volker Kuhn",
+            "tagline": "Algorithms, Architectures and Applications",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/Coding_Theory_-_Algorithms__Architectures__and_Applications__Andre_Neubauer_et_al.__2007.pdf.pdf?alt=media&token=5914eb40-0ce9-4a7d-9649-c7d9888bb954",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41MeCY0LLUL._SX328_BO1,204,203,200_.jpg",
+            "desc": "One of the most important key technologies for digital communication systems as well as storage media is coding theory. It provides a means to transmit information across time and space over noisy and unreliable communication channels. Coding Theory: Algorithms, Architectures and Applications provides a concise overview of channel coding theory and practice, as well as the accompanying signal processing architectures. The book is unique in presenting algorithms, architectures, and applications of coding theory in a unified framework. It covers the basics of coding theory before moving on to discuss algebraic linear block and cyclic codes, turbo codes and low density parity check codes and space-time codes. Coding Theory provides algorithms and architectures used for implementing coding and decoding strategies as well as coding schemes used in practice especially in communication systems."
+        },
+        {
+            "id": 1,
+            "name": "Black Hat Python",
+            "author": "Justin Seitz",
+            "tagline": "Python Programming for Hackers and Pentesters",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/Black%20Hat%20Python%20Python%20Programming%20for%20Hackers%20and%20Pentesters%20by%20Justin%20Seitz%20(z-lib.org)-compressed.pdf?alt=media&token=c44723aa-ee8a-49d0-9314-d7e7b48f630b",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/A1+3VAjQftL.jpg",
+            "desc": "When it comes to creating powerful and effective hacking tools, Python is the language of choice for most security analysts. But just how does the magic happen? In Black Hat Python, the latest from Justin Seitz (author of the best-selling Gray Hat Python), you'll explore the darker side of Python's capabilities—writing network sniffers, manipulating packets, infecting virtual machines, creating stealthy trojans, and more."
+        },
+        {
+            "id": 1,
             "name": "Linux Command Line and Shell Scripting Bible",
             "author": "Richard Blum, Christine Bresnahan",
             "tagline": "The Comprehensive, Tutorial Resource",

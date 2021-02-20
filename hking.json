@@ -2,6 +2,42 @@
     "hacking": [
         {
             "id": 1,
+            "name": "The Hacker Playbook 3",
+            "author": "Peter Kim",
+            "tagline": "Practical Guide To Penetration Testing",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/The%20Hacker%20Playbook%203%20Practical%20Guide%20To%20Penetration%20Testing%20by%20Peter%20Kim%20(z-lib.org).epub-compressed.pdf?alt=media&token=6b0c8a98-919a-4281-a9c1-d7aa82c6dbfd",
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/51ub94TBqPL._SX342_SY445_QL70_ML2_.jpg",
+            "desc": "The main purpose of this book is to answer questions as to why things are still broken. For instance, with all the different security products, secure code reviews, defense in depth, and penetration testing requirements, how are we still seeing massive security breaches happening to major corporations and governments? The real question we need to ask ourselves is, are all the safeguards we are putting in place working? This is what The Hacker Playbook 3 - Red Team Edition is all about."
+        },
+        {
+            "id": 1,
+            "name": "The Code Book",
+            "author": "Simon Singh",
+            "tagline": "How To Make It, Break It, Hack It, Crack It",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/The%20Code%20Book%20How%20to%20Make%20It%2C%20Break%20It%2C%20Hack%20It%2C%20Crack%20It%20by%20Simon%20Singh%20(z-lib.org)-compressed.pdf?alt=media&token=8282cdf6-716f-4556-a7b9-6b8efa391592",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51Q0KH7E1FL.jpg",
+            "desc": "It’s known as the science of secrecy. Cryptography: the encoding and decoding of private information. And it is history’s most fascinating story of intrigue and cunning. From Julius Caesar and his Caesar Cipher to the code used by Mary Queen of Scots and her conspiracy to the use of the Engima machine during the Second World War, Simon Singh follows the evolution of secret writing."
+        },
+        {
+            "id": 1,
+            "name": "Hacking",
+            "author": "Jeff Simon",
+            "tagline": "Hacking Practical Guide for Beginners",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/Hacking%20%20Hacking%20Practical%20Guide%20for%20Beginners%20(Hacking%20With%20Python)%20by%20Jeff%20Simon%20(z-lib.org)-compressed.pdf?alt=media&token=0e8fab81-9954-4e92-9a0f-a75947b435e7",
+            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474195716l/32069271._SY475_.jpg",
+            "desc": "The first chapter of this book explains the basics of hacking and the different types of hackers. The second chapter has a detailed study plan for budding hackers. That study plan will help you improve your skills in a short period of time. The third chapter will teach you how to write your own codes using the Python programming language. The rest of the book contains detailed instructions on how you can become a skilled hacker and penetration tester."
+        },
+        {
+            "id": 1,
+            "name": "Black Hat Python",
+            "author": "Justin Seitz",
+            "tagline": "Python Programming for Hackers and Pentesters",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/Black%20Hat%20Python%20Python%20Programming%20for%20Hackers%20and%20Pentesters%20by%20Justin%20Seitz%20(z-lib.org)-compressed.pdf?alt=media&token=c44723aa-ee8a-49d0-9314-d7e7b48f630b",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/A1+3VAjQftL.jpg",
+            "desc": "When it comes to creating powerful and effective hacking tools, Python is the language of choice for most security analysts. But just how does the magic happen? In Black Hat Python, the latest from Justin Seitz (author of the best-selling Gray Hat Python), you'll explore the darker side of Python's capabilities—writing network sniffers, manipulating packets, infecting virtual machines, creating stealthy trojans, and more."
+        },
+        {
+            "id": 1,
             "name": "Computer Hacking for Beginners",
             "author": "Dr. Kevin James",
             "tagline": "Dr. Kevin James",

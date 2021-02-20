@@ -2,6 +2,15 @@
     "networking": [
         {
             "id": 1,
+            "name": "The Illustrated Network",
+            "author": "Walter Goralski",
+            "tagline": "How TCP/IP Works in a Modern Network",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/The%20Illustrated%20Network_%20How%20TCP_IP%20Works%20in%20a%20Modern%20Network%20(%20PDFDrive%20).pdf?alt=media&token=133eeb9e-6777-4288-a634-a3d250209440",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51-M9b-plTL._SX404_BO1,204,203,200_.jpg",
+            "desc": "The Illustrated Network: How TCP/IP Works in a Modern Network, Second Edition presents an illustrated explanation on how TCP/IP works, using consistent examples from a working network configuration that includes servers, routers and workstations. Diagnostic traces allow the reader to follow the discussion with unprecedented clarity and precision. True to its title, there are 330+ diagrams and screenshots, as well as topology diagrams and a unique repeating chapter opening diagram. Illustrations are also used as end-of-chapter questions. Based on examples of a complete and modern network, all the material comes from real objects connected and running on the network."
+        },
+        {
+            "id": 1,
             "name": "Computer Networks and Internets",
             "author": "Douglas E. Comer",
             "tagline": "Douglas E. Comer",

@@ -2,6 +2,24 @@
     "algo": [
         {
             "id": 1,
+            "name": "Learning Algorithms Through Programming and Puzzel Solving",
+            "author": "Alexander Kulikov, Pavel Pevzner",
+            "tagline": "Alexander Kulikov, Pavel Pevzner",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/Learning%20Algorithms%20Through%20Programming%20and%20Puzzle%20Solving%20(%20PDFDrive.com%20)-compressed.pdf?alt=media&token=9bae4e07-1782-45a7-a82d-e7f2d9a35554",
+            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537966946l/42074781._SX318_.jpg",
+            "desc": "This book powers our popular Data Structures and Algorithms online specialization on Coursera and the online MicroMasters program on edX. Since the launch of our online courses in 2016, hundreds of thousands students tried to solve many programming challenges and algorithmic puzzles described in this book."
+        },
+        {
+            "id": 1,
+            "name": "Coding Thoery",
+            "author": "Andre Neubauer, Jurgen Freudenberger, Volker Kuhn",
+            "tagline": "Algorithms, Architectures and Applications",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/Coding_Theory_-_Algorithms__Architectures__and_Applications__Andre_Neubauer_et_al.__2007.pdf.pdf?alt=media&token=5914eb40-0ce9-4a7d-9649-c7d9888bb954",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41MeCY0LLUL._SX328_BO1,204,203,200_.jpg",
+            "desc": "One of the most important key technologies for digital communication systems as well as storage media is coding theory. It provides a means to transmit information across time and space over noisy and unreliable communication channels. Coding Theory: Algorithms, Architectures and Applications provides a concise overview of channel coding theory and practice, as well as the accompanying signal processing architectures. The book is unique in presenting algorithms, architectures, and applications of coding theory in a unified framework. It covers the basics of coding theory before moving on to discuss algebraic linear block and cyclic codes, turbo codes and low density parity check codes and space-time codes. Coding Theory provides algorithms and architectures used for implementing coding and decoding strategies as well as coding schemes used in practice especially in communication systems."
+        },
+        {
+            "id": 1,
             "name": "Data Structures and Algorithm Analysis in C++",
             "author": "Clifford A. Shaffer",
             "tagline": "Clifford A. Shaffer",
