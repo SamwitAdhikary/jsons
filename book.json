@@ -2,6 +2,33 @@
     "books": [
         {
             "id": 1,
+            "name": "Sams Teach Yourself HTML, CSS & JavaScript Web Publishing",
+            "author": "Laura Lemay, Rafe Colbum, Jennifer Kyrnin",
+            "tagline": "In One Hour a Day",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/Sams%20Teach%20Yourself%20HTML%2C%20CSS%20%20JavaScript%20Web%20Publishing%20in%20One%20Hour%20a%20Day%20by%20Laura%20Lemay%2C%20Rafe%20Colburn%2C%20Jennifer%20Kyrnin%20(z-lib.org)-compressed.pdf?alt=media&token=92fb438d-5cfb-46ef-92cd-5fa912925f80",
+            "image": "https://m.media-amazon.com/images/I/51YyJJ199TL._SX260_.jpg",
+            "desc": "Thoroughly revised and updated with examples rewritten to conform to HTML5, CSS3, and contemporary web development practices, this easy-to-understand, step-by-step tutorial helps you quickly master the basics of HTML and CSS before moving on to more advanced topics such as graphics, video, and interactivity with JavaScript and jQuery."
+        },
+        {
+            "id": 1,
+            "name": "Penetration Testing",
+            "author": "Georgia Weidman",
+            "tagline": "A Hands-On Introduction to Hacking",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/Penetration%20Testing%20A%20Hands-On%20Introduction%20to%20Hacking%20by%20Georgia%20Weidman%20(z-lib.org)-compressed.pdf?alt=media&token=3d25b73c-2504-4fb0-99ce-c7b106d81fbe",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/910SUwUs39L.jpg",
+            "desc": "In Penetration Testing, security expert, researcher, and trainer Georgia Weidman introduces you to the core skills and techniques that every pentester needs. Using a virtual machine–based lab that includes Kali Linux and vulnerable operating systems, you’ll run through a series of practical lessons with tools like Wireshark, Nmap, and Burp Suite. As you follow along with the labs and launch attacks, you’ll experience the key stages of an actual assessment—including information gathering, finding exploitable vulnerabilities, gaining access to systems, post exploitation, and more."
+        },
+        {
+            "id": 1,
+            "name": "Gray Hat Python",
+            "author": "Justin Seitz",
+            "tagline": "Python Programming for Hackers and Reverse Engineers",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/Gray%20Hat%20Python%20Python%20Programming%20for%20Hackers%20and%20Reverse%20Engineers%20by%20Justin%20Seitz%20(z-lib.org)-compressed.pdf?alt=media&token=888e2f13-44be-42d5-97ec-06fec70644b5",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51miNZHVYmL._SX376_BO1,204,203,200_.jpg",
+            "desc": "Gray Hat Python explains the concepts behind hacking tools and techniques like debuggers, trojans, fuzzers, and emulators. But author Justin Seitz goes beyond theory, showing you how to harness existing Python-based security tools—and how to build your own when the pre-built ones won't cut it."
+        },
+        {
+            "id": 1,
             "name": "Learning JavaScript",
             "author": "Ethan Brown",
             "tagline": "Javascript Essential for Modern Application Development",

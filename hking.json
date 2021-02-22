@@ -2,6 +2,24 @@
     "hacking": [
         {
             "id": 1,
+            "name": "Penetration Testing",
+            "author": "Georgia Weidman",
+            "tagline": "A Hands-On Introduction to Hacking",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/Penetration%20Testing%20A%20Hands-On%20Introduction%20to%20Hacking%20by%20Georgia%20Weidman%20(z-lib.org)-compressed.pdf?alt=media&token=3d25b73c-2504-4fb0-99ce-c7b106d81fbe",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/910SUwUs39L.jpg",
+            "desc": "In Penetration Testing, security expert, researcher, and trainer Georgia Weidman introduces you to the core skills and techniques that every pentester needs. Using a virtual machine–based lab that includes Kali Linux and vulnerable operating systems, you’ll run through a series of practical lessons with tools like Wireshark, Nmap, and Burp Suite. As you follow along with the labs and launch attacks, you’ll experience the key stages of an actual assessment—including information gathering, finding exploitable vulnerabilities, gaining access to systems, post exploitation, and more."
+        },
+        {
+            "id": 1,
+            "name": "Gray Hat Python",
+            "author": "Justin Seitz",
+            "tagline": "Python Programming for Hackers and Reverse Engineers",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/Gray%20Hat%20Python%20Python%20Programming%20for%20Hackers%20and%20Reverse%20Engineers%20by%20Justin%20Seitz%20(z-lib.org)-compressed.pdf?alt=media&token=888e2f13-44be-42d5-97ec-06fec70644b5",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51miNZHVYmL._SX376_BO1,204,203,200_.jpg",
+            "desc": "Gray Hat Python explains the concepts behind hacking tools and techniques like debuggers, trojans, fuzzers, and emulators. But author Justin Seitz goes beyond theory, showing you how to harness existing Python-based security tools—and how to build your own when the pre-built ones won't cut it."
+        },
+        {
+            "id": 1,
             "name": "The Hacker Playbook 3",
             "author": "Peter Kim",
             "tagline": "Practical Guide To Penetration Testing",

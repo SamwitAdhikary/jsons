@@ -2,6 +2,15 @@
     "webdev": [
         {
             "id": 1,
+            "name": "Sams Teach Yourself HTML, CSS & JavaScript Web Publishing",
+            "author": "Laura Lemay, Rafe Colbum, Jennifer Kyrnin",
+            "tagline": "In One Hour a Day",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/Sams%20Teach%20Yourself%20HTML%2C%20CSS%20%20JavaScript%20Web%20Publishing%20in%20One%20Hour%20a%20Day%20by%20Laura%20Lemay%2C%20Rafe%20Colburn%2C%20Jennifer%20Kyrnin%20(z-lib.org)-compressed.pdf?alt=media&token=92fb438d-5cfb-46ef-92cd-5fa912925f80",
+            "image": "https://m.media-amazon.com/images/I/51YyJJ199TL._SX260_.jpg",
+            "desc": "Thoroughly revised and updated with examples rewritten to conform to HTML5, CSS3, and contemporary web development practices, this easy-to-understand, step-by-step tutorial helps you quickly master the basics of HTML and CSS before moving on to more advanced topics such as graphics, video, and interactivity with JavaScript and jQuery."
+        },
+        {
+            "id": 1,
             "name": "Flask Web Development",
             "author": "Miguel Grinberg",
             "tagline": "Developing Web Applications with Python",
