@@ -2,6 +2,15 @@
     "books": [
         {
             "id": 1,
+            "name": "Designing Web APIs",
+            "author": "Brenda Jin, Saurabh Sahni, Amir Shevat",
+            "tagline": "Buildin APIs that Developers Love",
+            "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/Designing%20Web%20APIs%20Building%20APIs%20That%20Developers%20Love%20by%20Brenda%20Jin%20Saurabh%20Sahni%20Amir%20Shevat%20(z-lib.org)-compressed.pdf?alt=media&token=fe2703b7-c436-421a-a2d0-33d4690f9c7c",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/719GCXQY0kL.jpg",
+            "desc": "Designing an API is complicated to begin with, but evolving your API design over time makes the process even more difficult. There are several books on the topic, but none that guide you through key decisions for designing and building APIs for specific audiences and types of products. Well, until now, that is. Using case studies from companies such as Slack, Stripe, Facebook, and Github, this practical guide shows you how to navigate complex decisions when building, scaling, and evolving your own APIs. You’ll learn best practices for designing APIs that developers will love, and discover how to evolve your APIs as your product grows. Developers, architects, tech leads, product managers, and engineering managers will: Examine strategies to expose data through web APIs, using webhooks, websockets, and HTTP Learn how to evolve APIs while keeping them consistent Be able to scale APIs with pagination and rate limiting Handle security, performance, monitoring, and testing Build a thriving ecosystem around your API."
+        },
+        {
+            "id": 1,
             "name": "Sams Teach Yourself HTML, CSS & JavaScript Web Publishing",
             "author": "Laura Lemay, Rafe Colbum, Jennifer Kyrnin",
             "tagline": "In One Hour a Day",
