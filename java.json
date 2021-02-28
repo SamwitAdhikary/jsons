@@ -2,6 +2,24 @@
     "java": [
         {
             "id": 1,
+            "name": "Modern Java in Action",
+            "author": "Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft",
+            "tagline": "Lambdas, streams, functional and reactive programming",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Modern%20Java%20in%20Action%20Lambda%2C%20streams%2C%20functional%20and%20reactive%20programming%20by%20Raoul-Gabriel%20Urma%20Mario%20Fusco%20Alan%20Mycroft%20(z-lib.org).pdf?alt=media&token=a7616d29-d1f5-4b94-8fc9-0206e29aeeb5",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71G3KyGaQuL.jpg",
+            "desc": "Modern Java in Action connects new features of the Java language with their practical applications. Using crystal-clear examples and careful attention to detail, this book respects your time. It will help you expand your existing knowledge of core Java as you master modern additions like the Streams API and the Java Module System, explore new approaches to concurrency, and learn how functional concepts can help you write code that's easier to read and maintain."
+        },
+        {
+            "id": 1,
+            "name": "Elements of Programming Interviews in Java",
+            "author": "Adnan Aziz, Tsung-Hsien Lee, Amit Prakash",
+            "tagline": "The Insider's Guide",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Elements%20of%20Programming%20Interviews%20in%20Java%20The%20Insiders%E2%80%99%20Guide%20by%20Adnan%20Aziz%2C%20Tsung-Hsien%20Lee%2C%20Amit%20Prakash%20(z-lib.org)-compressed.pdf?alt=media&token=df5777eb-a3c1-4e94-af40-5e76a61eb12a",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51cUz8hC8iL._SX348_BO1,204,203,200_.jpg",
+            "desc": "If so, you need to read Elements of Programming Interviews (EPI). EPI is your comprehensive guide to interviewing for software development roles. The core of EPI is a collection of over 250 problems with detailed solutions. The problems are representative of interview questions asked at leading software companies. The problems are illustrated with 200 figures, 300 tested programs, and 150 additional variants. The book begins with a summary of the nontechnical aspects of interviewing, such as strategies for a great interview, common mistakes, perspectives from the other side of the table, tips on negotiating the best offer, and a guide to the best ways to use EPI. We also provide a summary of data structures, algorithms, and problem solving patterns."
+        },
+        {
+            "id": 1,
             "name": "Java The Complete Reference",
             "author": "Helbert Schildt",
             "tagline": "Comprehensive Coverage of the Java Language",

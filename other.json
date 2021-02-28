@@ -2,6 +2,33 @@
     "other": [
         {
             "id": 1,
+            "name": "Think Like A Programmer",
+            "author": "V. Anton Spraul",
+            "tagline": "An Introduction to Creative Problem Solving",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Think%20Like%20a%20Programmer%20An%20Introduction%20to%20Creative%20Problem%20Solving%20by%20V.%20Anton%20Spraul%20(z-lib.org)-compressed.pdf?alt=media&token=f106f0f3-a62a-4be1-98bd-636bfdae8322",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81KcsnpAvWL.jpg",
+            "desc": "The real challenge of programming isn't learning a language's syntax—it's learning to creatively solve problems so you can build something great. In this one-of-a-kind text, author V. Anton Spraul breaks down the ways that programmers solve problems and teaches you what other introductory books often ignore: how to Think Like a Programmer. Each chapter tackles a single programming concept, like classes, pointers, and recursion, and open-ended exercises throughout challenge you to apply your knowledge."
+        },
+        {
+            "id": 1,
+            "name": "Software Engineering at Google",
+            "author": "Titus Winters, Tom Manshreck, Hyrum Wright",
+            "tagline": "Lessons Learned from Programming Over Time",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Software%20Engineering%20at%20Google%20by%20Hyrum%20Wright%2C%20Tom%20Manshreck%2C%20Titus%20Winters%20(z-lib.org)-compressed.pdf?alt=media&token=37fb8a44-0f7f-4177-92d3-5a37cd94533f",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41oiI3x67dL._SX379_BO1,204,203,200_.jpg",
+            "desc": "Today, software engineers need to know not only how to program effectively but also how to develop proper engineering practices to make their codebase sustainable and healthy. This book emphasizes this difference between programming and software engineering. How can software engineers manage a living codebase that evolves and responds to changing requirements and demands over the length of its life? Based on their experience at Google, software engineers Titus Winters and Hyrum Wright, along with technical writer Tom Manshreck, present a candid and insightful look at how some of the world’s leading practitioners construct and maintain software. This book covers Google’s unique engineering culture, processes, and tools and how these aspects contribute to the effectiveness of an engineering organization. You’ll explore three fundamental principles that software organizations should keep in mind when designing, architecting, writing, and maintaining code: How time affects the sustainability of software and how to make your code resilient over time How scale affects the viability of software practices within an engineering organization What trade-offs a typical engineer needs to make when evaluating design and development decisions."
+        },
+        {
+            "id": 1,
+            "name": "Practical SQL",
+            "author": "Anthony Debarros",
+            "tagline": "A beginner's guide to Storytelling with Data",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Practical%20SQL%20A%20Beginner%E2%80%99s%20Guide%20to%20Storytelling%20with%20Data%20by%20DeBarros%20Anthony%20(z-lib.org)-compressed.pdf?alt=media&token=189bebb7-d1db-4e8b-bd5f-ca3cfac28874",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/9180gXazc8L.jpg",
+            "desc": "Practical SQL is an approachable and fast-paced guide to SQL (Structured Query Language), the standard programming language for defining, organizing, and exploring data in relational databases. The book focuses on using SQL to find the story your data tells, with the popular open-source database PostgreSQL and the pgAdmin interface as its primary tools. You’ll first cover the fundamentals of databases and the SQL language, then build skills by analyzing data from the U.S. Census and other federal and state government agencies. With exercises and real-world examples in each chapter, this book will teach even those who have never programmed before all the tools necessary to build powerful databases and access information quickly and efficiently."
+        },
+        {
+            "id": 1,
             "name": "Database System Concepts",
             "author": "Silberschatz, Korth, Sudarshan",
             "tagline": "Silberschatz, Korth, Sudarshan",

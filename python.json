@@ -2,6 +2,15 @@
     "python": [
         {
             "id": 1,
+            "name": "Python Playground",
+            "author": "Mahesh Venkitachalam",
+            "tagline": "Geeky projects for the Curious Programmer",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Python%20Playground%20Geeky%20Projects%20for%20the%20Curious%20Programmer%20by%20Mahesh%20Venkitachalam%20(z-lib.org)-compressed.pdf?alt=media&token=d14f9983-14e2-47bc-b177-2dfde571cedd",
+            "image": "https://m.media-amazon.com/images/I/51296rvlbqL.jpg",
+            "desc": "Python Playground is a collection of imaginative programming projects that will inspire you to use Python to make art and music, build simulations of real-world phenomena, and interact with hardware like the Arduino and Raspberry Pi. You’ll learn to use common Python tools and libraries like numpy, matplotlib, and pygame to do things like: Generate Spirograph-like patterns using parametric equations and the turtle module, Create music on your computer by simulating frequency overtones, Translate graphical images into ASCII art, Write an autostereogram program that produces 3D images hidden beneath random patterns, Make realistic animations with OpenGL shaders by exploring particle systems, transparency, and billboarding techniques, Construct 3D visualizations using data from CT and MRI scans, Build a laser show that responds to music by hooking up your computer to an Arduino."
+        },
+        {
+            "id": 1,
             "name": "Programming in Python",
             "author": "Dr. Pooja Sharma",
             "tagline": "Elementary support for students, programmers, researchers, and software developers",

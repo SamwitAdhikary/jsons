@@ -2,9 +2,81 @@
     "books": [
         {
             "id": 1,
+            "name": "Think Like A Programmer",
+            "author": "V. Anton Spraul",
+            "tagline": "An Introduction to Creative Problem Solving",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Think%20Like%20a%20Programmer%20An%20Introduction%20to%20Creative%20Problem%20Solving%20by%20V.%20Anton%20Spraul%20(z-lib.org)-compressed.pdf?alt=media&token=f106f0f3-a62a-4be1-98bd-636bfdae8322",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81KcsnpAvWL.jpg",
+            "desc": "The real challenge of programming isn't learning a language's syntax—it's learning to creatively solve problems so you can build something great. In this one-of-a-kind text, author V. Anton Spraul breaks down the ways that programmers solve problems and teaches you what other introductory books often ignore: how to Think Like a Programmer. Each chapter tackles a single programming concept, like classes, pointers, and recursion, and open-ended exercises throughout challenge you to apply your knowledge."
+        },
+        {
+            "id": 1,
+            "name": "Software Engineering at Google",
+            "author": "Titus Winters, Tom Manshreck, Hyrum Wright",
+            "tagline": "Lessons Learned from Programming Over Time",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Software%20Engineering%20at%20Google%20by%20Hyrum%20Wright%2C%20Tom%20Manshreck%2C%20Titus%20Winters%20(z-lib.org)-compressed.pdf?alt=media&token=37fb8a44-0f7f-4177-92d3-5a37cd94533f",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41oiI3x67dL._SX379_BO1,204,203,200_.jpg",
+            "desc": "Today, software engineers need to know not only how to program effectively but also how to develop proper engineering practices to make their codebase sustainable and healthy. This book emphasizes this difference between programming and software engineering. How can software engineers manage a living codebase that evolves and responds to changing requirements and demands over the length of its life? Based on their experience at Google, software engineers Titus Winters and Hyrum Wright, along with technical writer Tom Manshreck, present a candid and insightful look at how some of the world’s leading practitioners construct and maintain software. This book covers Google’s unique engineering culture, processes, and tools and how these aspects contribute to the effectiveness of an engineering organization. You’ll explore three fundamental principles that software organizations should keep in mind when designing, architecting, writing, and maintaining code: How time affects the sustainability of software and how to make your code resilient over time How scale affects the viability of software practices within an engineering organization What trade-offs a typical engineer needs to make when evaluating design and development decisions."
+        },
+        {
+            "id": 1,
+            "name": "Python Playground",
+            "author": "Mahesh Venkitachalam",
+            "tagline": "Geeky projects for the Curious Programmer",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Python%20Playground%20Geeky%20Projects%20for%20the%20Curious%20Programmer%20by%20Mahesh%20Venkitachalam%20(z-lib.org)-compressed.pdf?alt=media&token=d14f9983-14e2-47bc-b177-2dfde571cedd",
+            "image": "https://m.media-amazon.com/images/I/51296rvlbqL.jpg",
+            "desc": "Python Playground is a collection of imaginative programming projects that will inspire you to use Python to make art and music, build simulations of real-world phenomena, and interact with hardware like the Arduino and Raspberry Pi. You’ll learn to use common Python tools and libraries like numpy, matplotlib, and pygame to do things like: Generate Spirograph-like patterns using parametric equations and the turtle module, Create music on your computer by simulating frequency overtones, Translate graphical images into ASCII art, Write an autostereogram program that produces 3D images hidden beneath random patterns, Make realistic animations with OpenGL shaders by exploring particle systems, transparency, and billboarding techniques, Construct 3D visualizations using data from CT and MRI scans, Build a laser show that responds to music by hooking up your computer to an Arduino."
+        },
+        {
+            "id": 1,
+            "name": "Practical SQL",
+            "author": "Anthony Debarros",
+            "tagline": "A beginner's guide to Storytelling with Data",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Practical%20SQL%20A%20Beginner%E2%80%99s%20Guide%20to%20Storytelling%20with%20Data%20by%20DeBarros%20Anthony%20(z-lib.org)-compressed.pdf?alt=media&token=189bebb7-d1db-4e8b-bd5f-ca3cfac28874",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/9180gXazc8L.jpg",
+            "desc": "Practical SQL is an approachable and fast-paced guide to SQL (Structured Query Language), the standard programming language for defining, organizing, and exploring data in relational databases. The book focuses on using SQL to find the story your data tells, with the popular open-source database PostgreSQL and the pgAdmin interface as its primary tools. You’ll first cover the fundamentals of databases and the SQL language, then build skills by analyzing data from the U.S. Census and other federal and state government agencies. With exercises and real-world examples in each chapter, this book will teach even those who have never programmed before all the tools necessary to build powerful databases and access information quickly and efficiently."
+        },
+        {
+            "id": 1,
+            "name": "Modern Java in Action",
+            "author": "Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft",
+            "tagline": "Lambdas, streams, functional and reactive programming",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Modern%20Java%20in%20Action%20Lambda%2C%20streams%2C%20functional%20and%20reactive%20programming%20by%20Raoul-Gabriel%20Urma%20Mario%20Fusco%20Alan%20Mycroft%20(z-lib.org).pdf?alt=media&token=a7616d29-d1f5-4b94-8fc9-0206e29aeeb5",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71G3KyGaQuL.jpg",
+            "desc": "Modern Java in Action connects new features of the Java language with their practical applications. Using crystal-clear examples and careful attention to detail, this book respects your time. It will help you expand your existing knowledge of core Java as you master modern additions like the Streams API and the Java Module System, explore new approaches to concurrency, and learn how functional concepts can help you write code that's easier to read and maintain."
+        },
+        {
+            "id": 1,
+            "name": "JavaScript Everywhere",
+            "author": "Adam D. Scott",
+            "tagline": "Building Cross-Platform Applicaions with GraphQL, React, React Native, and Electron",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/JavaScript%20Everywhere%20Building%20Cross-Platform%20Applications%20with%20GraphQL%2C%20React%2C%20React%20Native%2C%20and%20Electron%20by%20Adam%20D.%20Scott%20(z-lib.org)-compressed.pdf?alt=media&token=949303dd-3be7-4363-afb0-e2693f7d96ab",
+            "image": "https://m.media-amazon.com/images/I/513dKkbff-L.jpg",
+            "desc": "JavaScript is the little scripting language that could. Once used chiefly to add interactivity to web browser windows, JavaScript is now a primary building block of powerful and robust applications. In this practical book, new and experienced JavaScript developers will learn how to use this language to create APIs as well as web, mobile, and desktop applications. Author and engineering leader Adam D. Scott covers technologies such as Node.js, GraphQL, React, React Native, and Electron. Ideal for developers who want to build full stack applications and ambitious web development beginners looking to bootstrap a startup, this book shows you how to create a single CRUD-style application that will work across several platforms."
+        },
+        {
+            "id": 1,
+            "name": "Elements of Programming Interviews in Java",
+            "author": "Adnan Aziz, Tsung-Hsien Lee, Amit Prakash",
+            "tagline": "The Insider's Guide",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Elements%20of%20Programming%20Interviews%20in%20Java%20The%20Insiders%E2%80%99%20Guide%20by%20Adnan%20Aziz%2C%20Tsung-Hsien%20Lee%2C%20Amit%20Prakash%20(z-lib.org)-compressed.pdf?alt=media&token=df5777eb-a3c1-4e94-af40-5e76a61eb12a",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51cUz8hC8iL._SX348_BO1,204,203,200_.jpg",
+            "desc": "If so, you need to read Elements of Programming Interviews (EPI). EPI is your comprehensive guide to interviewing for software development roles. The core of EPI is a collection of over 250 problems with detailed solutions. The problems are representative of interview questions asked at leading software companies. The problems are illustrated with 200 figures, 300 tested programs, and 150 additional variants. The book begins with a summary of the nontechnical aspects of interviewing, such as strategies for a great interview, common mistakes, perspectives from the other side of the table, tips on negotiating the best offer, and a guide to the best ways to use EPI. We also provide a summary of data structures, algorithms, and problem solving patterns."
+        },
+        {
+            "id": 1,
+            "name": "Django 3 By Example",
+            "author": "Antonio Melé",
+            "tagline": "Build powerful and reliable Python web applications from scratch",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Django%203%20By%20Example%20Build%20powerful%20and%20reliable%20Python%20web%20applications%20from%20scratch%20by%20Antonio%20Mel%C3%A9%20(z-lib.org)-compressed.pdf?alt=media&token=f0dab94b-6472-46ee-ba0d-61a074ec8553",
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/71GPx%2BGNQ6L._AC_UL600_SR486,600_.jpg",
+            "desc": "If you want to learn the entire process of developing professional web applications with Python and Django, then this book is for you. In the process of building four professional Django projects, you will learn about Django 3 features, how to solve common web development problems, how to implement best practices, and how to successfully deploy your applications. In this book, you will build a blog application, a social image bookmarking website, an online shop, and an e-learning platform. Step-by-step guidance will teach you how to integrate popular technologies, enhance your applications with AJAX, create RESTful APIs, and set up a production environment for your Django projects."
+        },
+        {
+            "id": 1,
             "name": "Designing Web APIs",
             "author": "Brenda Jin, Saurabh Sahni, Amir Shevat",
-            "tagline": "Buildin APIs that Developers Love",
+            "tagline": "Building APIs that Developers Love",
             "url": "https://firebasestorage.googleapis.com/v0/b/flutter-app-2ee6b.appspot.com/o/Designing%20Web%20APIs%20Building%20APIs%20That%20Developers%20Love%20by%20Brenda%20Jin%20Saurabh%20Sahni%20Amir%20Shevat%20(z-lib.org)-compressed.pdf?alt=media&token=fe2703b7-c436-421a-a2d0-33d4690f9c7c",
             "image": "https://images-na.ssl-images-amazon.com/images/I/719GCXQY0kL.jpg",
             "desc": "Designing an API is complicated to begin with, but evolving your API design over time makes the process even more difficult. There are several books on the topic, but none that guide you through key decisions for designing and building APIs for specific audiences and types of products. Well, until now, that is. Using case studies from companies such as Slack, Stripe, Facebook, and Github, this practical guide shows you how to navigate complex decisions when building, scaling, and evolving your own APIs. You’ll learn best practices for designing APIs that developers will love, and discover how to evolve your APIs as your product grows. Developers, architects, tech leads, product managers, and engineering managers will: Examine strategies to expose data through web APIs, using webhooks, websockets, and HTTP Learn how to evolve APIs while keeping them consistent Be able to scale APIs with pagination and rate limiting Handle security, performance, monitoring, and testing Build a thriving ecosystem around your API."
