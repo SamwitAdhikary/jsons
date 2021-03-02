@@ -2,6 +2,15 @@
     "webdev": [
         {
             "id": 1,
+            "name": "Responsive Web Design with HTLM5 & CSS",
+            "author": "Ben Frain",
+            "tagline": "Develop future-proof responsive websites using latest HTML5 and CSS techniques",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Responsive%20Web%20Design%20with%20HTML5%20and%20CSS%20Develop%20future-proof%20responsive%20websites%20using%20the%20latest%20HTML5%20and%20CSS%20techniques%20by%20Ben%20Frain%20(z-lib.org)-compressed.pdf?alt=media&token=effb5683-5897-4c08-b70a-ac01adc7c2ff",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51xVH6uW6kL._SX258_BO1,204,203,200_.jpg",
+            "desc": "Responsive Web Design with HTML5 and CSS, Third Edition is a renewed and extended version of one of the most comprehensive and bestselling books on the latest HTML5 and CSS tools and techniques for responsive web design. Written in the author's signature friendly and informal style, this edition covers all the newest developments and improvements in responsive web design including better user accessibility, variable fonts and font loading, CSS Scroll Snap, and much, much more. With a new chapter dedicated to CSS Grid, you will understand how it differs from the Flexbox layout mechanism and when you should use one over the other."
+        },
+        {
+            "id": 1,
             "name": "Django 3 By Example",
             "author": "Antonio Melé",
             "tagline": "Build powerful and reliable Python web applications from scratch",

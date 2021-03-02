@@ -2,6 +2,15 @@
     "java": [
         {
             "id": 1,
+            "name": "Head First Java",
+            "author": "Kathy Sierra, Bert Bates",
+            "tagline": "A Brain-Friendly Guide",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Head%20First%20Java%2C%202nd%20Edition%20by%20Kathy%20Sierra%2C%20Bert%20Bates%20(z-lib.org)-compressed.pdf?alt=media&token=667f8044-b963-4cf5-98be-ebd513ce3cbf",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/819TQgUGNsL.jpg",
+            "desc": "Computer programming language Java is not easy to understand. It takes lot of time and practice to understand the complex programming language. But this book takes an interactive and fun approach for better understanding of different fundamentals of Java. The book offers multi-sensory and fun learning experience for new programmers, so they can easily pick up the new language. Human brain responds and remembers unusual situations, images or incidents. Keeping that in mind, this revised second edition of the book has been presented with lots of humorous images, memorable analogies and mind-bending exercises. The language in which the book is written is also casual for better understanding of the difficult computer programming language."
+        },
+        {
+            "id": 1,
             "name": "Modern Java in Action",
             "author": "Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft",
             "tagline": "Lambdas, streams, functional and reactive programming",

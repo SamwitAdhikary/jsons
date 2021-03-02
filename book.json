@@ -2,6 +2,78 @@
     "books": [
         {
             "id": 1,
+            "name": "Responsive Web Design with HTLM5 & CSS",
+            "author": "Ben Frain",
+            "tagline": "Develop future-proof responsive websites using latest HTML5 and CSS techniques",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Responsive%20Web%20Design%20with%20HTML5%20and%20CSS%20Develop%20future-proof%20responsive%20websites%20using%20the%20latest%20HTML5%20and%20CSS%20techniques%20by%20Ben%20Frain%20(z-lib.org)-compressed.pdf?alt=media&token=effb5683-5897-4c08-b70a-ac01adc7c2ff",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51xVH6uW6kL._SX258_BO1,204,203,200_.jpg",
+            "desc": "Responsive Web Design with HTML5 and CSS, Third Edition is a renewed and extended version of one of the most comprehensive and bestselling books on the latest HTML5 and CSS tools and techniques for responsive web design. Written in the author's signature friendly and informal style, this edition covers all the newest developments and improvements in responsive web design including better user accessibility, variable fonts and font loading, CSS Scroll Snap, and much, much more. With a new chapter dedicated to CSS Grid, you will understand how it differs from the Flexbox layout mechanism and when you should use one over the other."
+        },
+        {
+            "id": 1,
+            "name": "Python Tricks The Book",
+            "author": "Dan Bader",
+            "tagline": "A Buffet of Awesome Python Features",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Python%20Tricks%20A%20Buffet%20of%20Awesome%20Python%20Features%20by%20Dan%20Bader%20(z-lib.org)-compressed.pdf?alt=media&token=39bbcca0-2b44-487c-88c8-48ebf765b622",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61Z3-s-zwLL.jpg",
+            "desc": "With Python Tricks: The Book you'll discover Python's best practices and the power of beautiful & Pythonic code with simple examples and a step-by-step narrative. You'll get one step closer to mastering Python, so you can write beautiful and idiomatic code that comes to you naturally. Learning the ins and outs of Python is difficult-and with this book you'll be able to focus on the practical skills that really matter. Discover the 'hidden gold' in Python's standard library and start writing clean and Pythonic code today."
+        },
+        {
+            "id": 1,
+            "name": "Practices of the Python Pro",
+            "author": "Dane Hillard",
+            "tagline": "Dane Hillard",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Practices%20of%20the%20Python%20Pro%20by%20Dane%20Hillard%20(z-lib.org)-compressed.pdf?alt=media&token=58385aff-779a-4c6c-bb24-56afec88f0cc",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/810-++VvRQL.jpg",
+            "desc": "Practices of the Python Pro teaches you to design and write professional-quality software that’s understandable, maintainable, and extensible. Dane Hillard is a Python pro who has helped many dozens of developers make this step, and he knows what it takes. With helpful examples and exercises, he teaches you when, why, and how to modularize your code, how to improve quality by reducing complexity, and much more. Embrace these core principles, and your code will become easier for you and others to read, maintain, and reuse."
+        },
+        {
+            "id": 1,
+            "name": "Operating System Concepts",
+            "author": "Abraham Silberschatz, Peter Baer Galvin, Greg Gagne",
+            "tagline": "Abraham Silberschatz, Peter Baer Galvin, Greg Gagne",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Operating%20System%20Concepts%20by%20Abraham%20Silberschatz%2C%20Greg%20Gagne%2C%20Peter%20B.%20Galvin%20(z-lib.org)-compressed.pdf?alt=media&token=177c84a2-33c4-4186-a6a4-b13344fe2107",
+            "image": "https://m.media-amazon.com/images/I/51tezjsttsL._SX260_.jpg",
+            "desc": "The tenth edition of Operating System Concepts has been revised to keep it fresh and up-to-date with contemporary examples of how operating systems function, as well as enhanced interactive elements to improve learning and the student’s experience with the material. It combines instruction on concepts with real-world applications so that students can understand the practical usage of the content. End-of-chapter problems, exercises, review questions, and programming exercises help to further reinforce important concepts. New interactive self-assessment problems are provided throughout the text to help students monitor their level of understanding and progress. A Linux virtual machine (including C and Java source code and development tools) allows students to complete programming exercises that help them engage further with the material."
+        },
+        {
+            "id": 1,
+            "name": "Learning SQL",
+            "author": "Alan Beaulieu",
+            "tagline": "Generate, Manipulate, and Retrieve Data",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Learning%20SQL%20Generate%2C%20Manipulate%2C%20and%20Retrieve%20Data%20by%20Alan%20Beaulieu%20(z-lib.org).epub-compressed.pdf?alt=media&token=37bdb63e-d73e-4f2c-9438-2dbe6df79dbd",
+            "image": "https://m.media-amazon.com/images/I/41A-KL8Y1vL.jpg",
+            "desc": "As data floods into your company, you need to put it to work right away—and SQL is the best tool for the job. With the latest edition of this introductory guide, author Alan Beaulieu helps developers get up to speed with SQL fundamentals for writing database applications, performing administrative tasks, and generating reports. You’ll find new chapters on SQL and big data, analytic functions, and working with very large databases."
+        },
+        {
+            "id": 1,
+            "name": "Head First Java",
+            "author": "Kathy Sierra, Bert Bates",
+            "tagline": "A Brain-Friendly Guide",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Head%20First%20Java%2C%202nd%20Edition%20by%20Kathy%20Sierra%2C%20Bert%20Bates%20(z-lib.org)-compressed.pdf?alt=media&token=667f8044-b963-4cf5-98be-ebd513ce3cbf",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/819TQgUGNsL.jpg",
+            "desc": "Computer programming language Java is not easy to understand. It takes lot of time and practice to understand the complex programming language. But this book takes an interactive and fun approach for better understanding of different fundamentals of Java. The book offers multi-sensory and fun learning experience for new programmers, so they can easily pick up the new language. Human brain responds and remembers unusual situations, images or incidents. Keeping that in mind, this revised second edition of the book has been presented with lots of humorous images, memorable analogies and mind-bending exercises. The language in which the book is written is also casual for better understanding of the difficult computer programming language."
+        },
+        {
+            "id": 1,
+            "name": "Elements of Programming Interviews",
+            "author": "Adnan Aziz, Tsung-Hsien Lee, Amit Prakash",
+            "tagline": "The Insider's Guide",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Elements%20of%20Programming%20Interviews%20The%20Insiders%E2%80%99%20Guide%20by%20Adnan%20Aziz%2C%20Tsung-Hsien%20Lee%2C%20Amit%20Prakash%20(z-lib.org)-compressed.pdf?alt=media&token=53ad6662-8c92-4c03-a9e0-8be91b66b704",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61T-KyQ-RGL.jpg",
+            "desc": "The core of EPI is a collection of over 250 problems with detailed solutions. The problems are representative of interview questions asked at leading software companies. The problems are illustrated with 200 figures, 300 tested programs, and 150 additional variants. The book begins with a summary of the nontechnical aspects of interviewing, such as strategies for a great interview, common mistakes, perspectives from the other side of the table, tips on negotiating the best offer, and a guide to the best ways to use EPI. We also provide a summary of data structures, algorithms, and problem solving patterns."
+        },
+        {
+            "id": 1,
+            "name": "Dynamic Programming For Coding Interviews",
+            "author": "Meenakshi, Kamal Rawat",
+            "tagline": "A Bottom-Up Approach to Problem Solving",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Dynamic%20Programming%20for%20Coding%20Interviews%20A%20Bottom-Up%20Approach%20to%20Problem%20Solving%20by%20Meenakshi%20%2C%20Kamal%20Rawat%20(z-lib.org)-compressed.pdf?alt=media&token=bbcfb244-3999-42fe-8e51-b266453076aa",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71wPCszEvfL.jpg",
+            "desc": "Kamal Rawat is a software developer, trainer, author and an entrepreneur. He has first-hand experience of implementing full life cycle of large scale desktop, Cloud and Mobile applications across various domains and platforms. He had been a technical architect in complex projects like Microsoft OneNote, Adobe Photoshop and Samsung GalaxyConnect. He has also been in the core interview panel of Microsoft, Adobe and many start-ups."
+        },
+        {
+            "id": 1,
             "name": "Think Like A Programmer",
             "author": "V. Anton Spraul",
             "tagline": "An Introduction to Creative Problem Solving",

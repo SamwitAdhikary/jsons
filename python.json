@@ -2,6 +2,24 @@
     "python": [
         {
             "id": 1,
+            "name": "Python Tricks The Book",
+            "author": "Dan Bader",
+            "tagline": "A Buffet of Awesome Python Features",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Python%20Tricks%20A%20Buffet%20of%20Awesome%20Python%20Features%20by%20Dan%20Bader%20(z-lib.org)-compressed.pdf?alt=media&token=39bbcca0-2b44-487c-88c8-48ebf765b622",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61Z3-s-zwLL.jpg",
+            "desc": "With Python Tricks: The Book you'll discover Python's best practices and the power of beautiful & Pythonic code with simple examples and a step-by-step narrative. You'll get one step closer to mastering Python, so you can write beautiful and idiomatic code that comes to you naturally. Learning the ins and outs of Python is difficult-and with this book you'll be able to focus on the practical skills that really matter. Discover the 'hidden gold' in Python's standard library and start writing clean and Pythonic code today."
+        },
+        {
+            "id": 1,
+            "name": "Practices of the Python Pro",
+            "author": "Dane Hillard",
+            "tagline": "Dane Hillard",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Practices%20of%20the%20Python%20Pro%20by%20Dane%20Hillard%20(z-lib.org)-compressed.pdf?alt=media&token=58385aff-779a-4c6c-bb24-56afec88f0cc",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/810-++VvRQL.jpg",
+            "desc": "Practices of the Python Pro teaches you to design and write professional-quality software that’s understandable, maintainable, and extensible. Dane Hillard is a Python pro who has helped many dozens of developers make this step, and he knows what it takes. With helpful examples and exercises, he teaches you when, why, and how to modularize your code, how to improve quality by reducing complexity, and much more. Embrace these core principles, and your code will become easier for you and others to read, maintain, and reuse."
+        },
+        {
+            "id": 1,
             "name": "Python Playground",
             "author": "Mahesh Venkitachalam",
             "tagline": "Geeky projects for the Curious Programmer",
