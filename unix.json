@@ -2,6 +2,15 @@
     "unix": [
         {
             "id": 1,
+            "name": "The Linux Programming Interface",
+            "author": "Michael Kerrisk",
+            "tagline": "A Linux and UNIX System Programming Handbook",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/The%20Linux%20programming%20interface%20a%20Linux%20and%20UNIX%20system%20programming%20handbook%20by%20Michael%20Kerrisk%20(z-lib.org).pdf?alt=media&token=de92a892-9bc7-43ae-bdbb-dfd940e4e3dc",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71ANvp6Tk4L.jpg",
+            "desc": "The Linux Programming Interface (TLPI) is the definitive guide to the Linux and UNIX programming interface—the interface employed by nearly every application that runs on a Linux or UNIX system. While The Linux Programming Interface covers a wealth of Linux-specific features, including epoll, inotify, and the /proc file system, its emphasis on UNIX standards (POSIX.1-2001/SUSv3 and POSIX.1-2008/SUSv4) makes it equally valuable to programmers working on other UNIX platforms. The Linux Programming Interface is the most comprehensive single-volume work on the Linux and UNIX programming interface, and a book that's destined to become a new classic."
+        },
+        {
+            "id": 1,
             "name": "UNIX Concepts and Applications",
             "author": "Sumitabha Das",
             "tagline": "Sumitabha Das",

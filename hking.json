@@ -1,6 +1,24 @@
 {
     "hacking": [
         {
+            "id": 2,
+            "name": "Linux Basics for Hackers",
+            "author": "Occupytheweb",
+            "tagline": "Getting Started with Networking, Scripting, and Security in Kali",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book2-aa723.appspot.com/o/Linux%20Basics%20for%20Hackers%20Getting%20Started%20with%20Networking%2C%20Scripting%2C%20and%20Security%20in%20Kali%20by%20OccupyTheWeb%20(z-lib.org)-compressed.pdf?alt=media&token=eb7d18ac-2a69-4571-b8f5-e7733e7f34a4",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81TQ6G34JcL.jpg",
+            "desc": "This practical, tutorial-style book uses the Kali Linux distribution to teach Linux basics with a focus on how hackers would use them. Topics include Linux command line basics, filesystems, networking, BASH basics, package management, logging, and the Linux kernel and drivers. If you're getting started along the exciting path of hacking, cybersecurity, and pentesting, Linux Basics for Hackers is an excellent first step. Using Kali Linux, an advanced penetration testing distribution of Linux, you'll learn the basics of using the Linux operating system and acquire the tools and techniques you'll need to take control of a Linux environment."
+        },
+        {
+            "id": 1,
+            "name": "The Web Application Hacker's Handbook",
+            "author": "Dafydd Stuttard, Marcus Pinto",
+            "tagline": "Finding and Exploiting Security Flaws",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/The%20web%20application%20hacker%E2%80%99s%20handbook%20finding%20and%20exploiting%20security%20flaws%20by%20Dafydd%20Stuttard%2C%20Marcus%20Pinto%20(z-lib.org).epub.pdf?alt=media&token=a063a8b0-7018-4121-ab03-493627908fff",
+            "image": "https://m.media-amazon.com/images/I/51mzEbU-nBL._SX260_.jpg",
+            "desc": "The highly successful security book returns with a new edition, completely updated Web applications are the front door to most organizations, exposing them to attacks that may disclose personal information, execute fraudulent transactions, or compromise ordinary users. This practical book has been completely updated and revised to discuss the latest step-by-step techniques for attacking and defending the range of ever-evolving web applications. You'll explore the various new technologies employed in web applications that have appeared since the first edition and review the new attack techniques that have been developed, particularly in relation to the client side."
+        },
+        {
             "id": 1,
             "name": "Penetration Testing",
             "author": "Georgia Weidman",
