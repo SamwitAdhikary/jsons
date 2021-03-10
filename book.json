@@ -2,6 +2,15 @@
     "books": [
         {
             "id": 1,
+            "name": "Android Cookbook",
+            "author": "Ian F. Darwin",
+            "tagline": "Problem And Solutions for Andrid Developers",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Android%20Cookbook%20Problems%20and%20Solutions%20for%20Android%20Developers%20by%20Ian%20F.%20Darwin%20(z-lib.org)-compressed.pdf?alt=media&token=a2166323-3ced-410a-8972-b10edcf1f6fd",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81H6xDv2DxL.jpg",
+            "desc": "This cookbook doesn't just teach you how to build Android apps; it also gives you the recipes you need to build real-world applications. Written by the author of the best-selling Java Cookbook and with contributions from many members of the Android community, this book shows you how to do everything: working with multitouch, dealing with the phone (and the camera, accelerometer, GPS and other built-in devices), working with web services, packaging an app for sale in the Android Market and more. This revised second edition includes new recipes on JSON, material design and Android Studio IDE. If this book doesn't show you how to do it, you probably don't need it. The Android is gradually overtaking the iPhone as the hottest platform in mobile computing. Make sure you're on the bandwagon."
+        },
+        {
+            "id": 1,
             "name": "The Web Application Hacker's Handbook",
             "author": "Dafydd Stuttard, Marcus Pinto",
             "tagline": "Finding and Exploiting Security Flaws",
