@@ -2,6 +2,15 @@
     "appdev": [
         {
             "id": 1,
+            "name": "Head First Android Development",
+            "author": "Dawn Griffiths, David Griffiths",
+            "tagline": "A Brain-Friendly Guide",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Head%20First%20Android%20Development%20A%20Brain-Friendly%20Guide%20by%20Dawn%20Griffiths%2C%20David%20Griffiths%20(z-lib.org)%20(1)-compressed.pdf?alt=media&token=5c0c1e0a-8f23-4126-b46b-1a5598af14a9",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51aH7pmXn1L.jpg",
+            "desc": "If you have an idea for a killer Android app, this fully revised and updated edition will help you build your first working application in a jiffy. Youíll learn hands-on how to structure your app, design flexible and interactive interfaces, run services in the background, make your app work on various smartphones and tablets, and much more. Itís like having an experienced Android developer sitting right next to you! All you need to get started is some Java know-how."
+        },
+        {
+            "id": 1,
             "name": "Android Cookbook",
             "author": "Ian F. Darwin",
             "tagline": "Problem And Solutions for Andrid Developers",

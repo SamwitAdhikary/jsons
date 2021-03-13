@@ -2,6 +2,15 @@
     "other": [
         {
             "id": 1,
+            "name": "How Software Works",
+            "author": "V. Anton Spraul",
+            "tagline": "The Magic Behind Encryption, CGI, Search Engines, and Other Everyday Technologies",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/How%20software%20works%20%20the%20magic%20behind%20encryption%2C%20CGI%2C%20search%20engines%2C%20and%20other%20everyday%20technologies%20by%20Hyde%2C%20Randall%20Spraul%2C%20V.%20Anton%20(z-lib.org)-compressed.pdf?alt=media&token=a0f399de-07b1-43a0-9c3a-e7a9487f83d7",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/814G5Vp+raL.jpg",
+            "desc": "We use software every day to perform all kinds of magical, powerful tasks. It's the force behind stunning CGI graphics, safe online shopping, and speedy Google searches. Software drives the modern world, but its inner workings remain a mystery to many. How Software Works explains how computers perform common-yet-amazing tasks that we take for granted every day."
+        },
+        {
+            "id": 1,
             "name": "Operating System Concepts",
             "author": "Abraham Silberschatz, Peter Baer Galvin, Greg Gagne",
             "tagline": "Abraham Silberschatz, Peter Baer Galvin, Greg Gagne",

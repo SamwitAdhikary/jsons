@@ -2,6 +2,33 @@
     "linux": [
         {
             "id": 1,
+            "name": "Ubuntu Made Easy",
+            "author": "Rickford Grant, Phil Bull",
+            "tagline": "A Project-Based Introduction to Linux",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Ubuntu%20Made%20Easy%20A%20Project-Based%20Introduction%20to%20Linux%20by%20Rickford%20Grant%2C%20Phil%20Bull%20(z-lib.org)-compressed.pdf?alt=media&token=a7f59f4d-206e-42d6-9ff2-4f2c3369d49e",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51PgSJ6BT3L.jpg",
+            "desc": "Ubuntu brings Linux to the masses, but it can still be intimidating for newbies, neophytes, and geeks-in-training. With Ubuntu Made Easy by your side you'll be ready to face any challenge, and you'll discover just how fun Linux can be. Packed with tips, tricks, and helpful pointers, Ubuntu Made Easy will get you up and running with the world's most popular free operating system. Authors Rickford Grant and Phil Bull walk you through common tasks like installing and playing games, accessing your favorite social networks, troubleshooting hardware and software problems, interacting with your Windows installation, and more.."
+        },
+        {
+            "id": 1,
+            "name": "Linux System Programming",
+            "author": "Robert Love",
+            "tagline": "Talking Directly to the Kernel and C Library",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Linux%20system%20programming%20talking%20directly%20to%20the%20kernel%20and%20C%20library%20by%20Robert%20Love%20(z-lib.org)-compressed.pdf?alt=media&token=c912a6dc-cb39-4761-8999-c7e4a7f4ce27",
+            "image": "https://m.media-amazon.com/images/I/51tB8RZgU6L.jpg",
+            "desc": "Write software that draws directly on services offered by the Linux kernel and core system libraries. With this comprehensive book, Linux kernel contributor Robert Love provides you with a tutorial on Linux system programming, a reference manual on Linux system calls, and an insider’s guide to writing smarter, faster code."
+        },
+        {
+            "id": 1,
+            "name": "Linux Firewalls",
+            "author": "Michael Rash",
+            "tagline": "Attack Detetion and Response with IPTABLES, PSAD, and FWSNORT",
+            "url": "https://firebasestorage.googleapis.com/v0/b/the-radio-94e73.appspot.com/o/Linux%20Firewalls%20Attack%20Detection%20and%20Response%20with%20iptables%2C%20psad%2C%20and%20fwsnort%20by%20Michael%20Rash%20(z-lib.org)-compressed.pdf?alt=media&token=37dd9d81-6781-431a-8f6a-dc0dd14f8b6a",
+            "image": "https://m.media-amazon.com/images/I/519DVcaoL8L.jpg",
+            "desc": "System administrators need to stay ahead of new security vulnerabilities that leave their networks exposed every day. A firewall and an intrusion detection systems (IDS) are two important weapons in that fight, enabling you to proactively deny access and monitor network traffic for signs of an attack. Linux Firewalls discusses the technical details of the iptables firewall and the Netfilter framework that are built into the Linux kernel, and it explains how they provide strong filtering, Network Address Translation (NAT), state tracking, and application layer inspection capabilities that rival many commercial tools. You'll learn how to deploy iptables as an IDS with psad and fwsnort and how to build a strong, passive authentication layer around iptables with fwknop."
+        },
+        {
+            "id": 1,
             "name": "The Linux Programming Interface",
             "author": "Michael Kerrisk",
             "tagline": "A Linux and UNIX System Programming Handbook",
