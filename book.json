@@ -2,6 +2,15 @@
     "books": [
         {
             "id": 1,
+            "name": "Python By Example",
+            "author": "Nichola Lacey",
+            "tagline": "Learning to Program in 150 Challenges",
+            "url": "https://firebasestorage.googleapis.com/v0/b/online-market-796d7.appspot.com/o/Python%20by%20Example%20Learning%20to%20Program%20in%20150%20Challenges%20%5BtruePDF%5D%20by%20Nichola%20Lacey%20(z-lib.org).pdf?alt=media&token=5fa3b2a2-b80e-4142-ad9c-2fb4ff15ba18",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51Fz+EWNwmL._SX395_BO1,204,203,200_.jpg",
+            "desc": "Python is today's fastest growing programming language. This engaging and refreshingly different guide breaks down the skills into clear step-by-step chunks and explains the theory using brief easy-to-understand language. Rather than bamboozling readers with pages of mind-numbing technical jargon, this book includes 150 practical challenges, putting the power in the reader's hands. Through creating programs to solve these challenges the reader will quickly progress from mastering the basics to confidently using subroutines, a graphical user interface, and linking to external text, csv and SQL files. This book is perfect for anyone who wants to learn how to program with Python. In particular, students starting out in computer science and teachers who want to improve their confidence in Python will find here a set of ready-made challenges for classroom use."
+        },
+        {
+            "id": 1,
             "name": "The Pentester Blueprint",
             "author": "Philip L. Wylie, Kim Crawley",
             "tagline": "Starting a Career as an Ethical Hacker",
