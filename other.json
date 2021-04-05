@@ -2,6 +2,24 @@
     "other": [
         {
             "id": 1,
+            "name": "Introduction to Database Management System",
+            "author": "Atul Kahate",
+            "tagline": "Atul Kahate",
+            "url": "https://firebasestorage.googleapis.com/v0/b/online-market-796d7.appspot.com/o/Introduction%20To%20Database%20Management%20System%20by%20Atul%20Kahate%20(z-lib.org).pdf?alt=media&token=9a7f03f8-f7d6-42fb-a4c9-3fed70b2196a",
+            "image": "https://m.media-amazon.com/images/I/51hwRjHOuJL.jpg",
+            "desc": "Introduction to Database Management Systems is designed specifically for a single semester, namely, the first course on Database Systems. The book covers all the essential aspects of database systems, and also covers the areas of RDBMS. The book in"
+        },
+        {
+            "id": 1,
+            "name": "Fundamentals of Database Systems",
+            "author": "Elmasri, Navathe",
+            "tagline": "Elmasri, Navathe",
+            "url": "https://firebasestorage.googleapis.com/v0/b/online-market-796d7.appspot.com/o/Fundamentals%20of%20Database%20Systems%20by%20Ramez%20Elmasri%2C%20Shamkant%20B.%20Navathe%20(z-lib.org).pdf?alt=media&token=fee2a117-1b10-4c88-9756-a61d6b02f0e5",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91Se3g7PINL.jpg",
+            "desc": "Clear explanations of theory and design, broad coverage of models and real systems, and an up-to-date introduction to modern database technologies result in a leading introduction to database systems. Intended for computer science majors, Fundamentals of Database Systems, 6/e emphasizes math models, design issues, relational algebra, and relational calculus. A lab manual and problems give students opportunities to practice the fundamentals of design and implementation. Real-world examples serve as engaging, practical illustrations of database concepts. The Sixth Edition maintains its coverage of the most popular database topics, including SQL, security, and data mining, and features increased emphasis on XML and semi-structured data."
+        },
+        {
+            "id": 1,
             "name": "How Software Works",
             "author": "V. Anton Spraul",
             "tagline": "The Magic Behind Encryption, CGI, Search Engines, and Other Everyday Technologies",
