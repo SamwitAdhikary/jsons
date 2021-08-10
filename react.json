@@ -10,7 +10,7 @@
             "desc": "React Native in Action teaches you to build high-quality cross-platform mobile and web apps. In this hands-on guide, you'll jump right into building a complete app with the help ofclear, easy-to-follow instructions. As you build your skills, you'll drill down to more-advanced topics like styling, APIs, animations, data architecture, and more! You'll also learn how to maximize code reuse without sacrificing native platform look-and-feel."
         },
         {
-            "id": 1,
+            "id": 2,
             "name": "React Native for Mobile Development",
             "author": "Akshat Paul, Abhiskek Nalwaya",
             "tagline": "Harness the Power of React Native to Create Stunning iOS and Android Applications",
@@ -19,7 +19,7 @@
             "desc": "You will start by setting up React Native and exploring the anatomy of React Native apps. You'll then move on to Redux data flow, how it differs from flux, and how you can include it in your React Native project to solve state management differently and efficiently. You will also learn how to boost your development by including popular packages developed by the React Native community that will help you write less; do more. Finally, you'll learn to how write test cases using Jest and submit your application to the App Store."
         },
         {
-            "id": 1,
+            "id": 3,
             "name": "React Cross Platform Application Development with React Native",
             "author": "Emilio Rodriguez Martinez",
             "tagline": "Build 4 Real World Apps with React Native",
@@ -28,7 +28,7 @@
             "desc": "React Native helps web and mobile developers to build cross-platform apps that perform at the same level as any other natively developed app. The range of apps that can be built using this library is huge. From e-commerce to games, React Native is a good fit for any mobile project due to its flexibility and extendable nature. This project-based book consists of four standalone projects. Each project will help you gain a sound understanding of the framework and build mobile apps with native user experience. Starting with a simple standalone car booking app, you will progressively move on to building advanced apps by adding connectivity with external APIs, using native features, such as the camera or microphone, in the mobile device, integrating with state management libraries such as Redux or MobX, or leveraging React Native's performance by building a full-featured game."
         },
         {
-            "id": 1,
+            "id": 4,
             "name": "Practical React Native",
             "author": "Frank Zammetti",
             "tagline": "Build Two Full Projects and One Full Game using React Native",
@@ -37,7 +37,7 @@
             "desc": "You'll begin with a solid foundation of practical knowledge, and then build on it immediately by constructing three different apps. You'll learn how to use each feature of React Native by working on two full projects and one full game. These aren’t just simple React Native Hello World examples (although you’ll naturally start there!) but are apps that you can, if you so choose, install on your mobile devices and use for real."
         },
         {
-            "id": 1,
+            "id": 5,
             "name": "Learning React Native",
             "author": "Bonnie Eisenman",
             "tagline": "Building Native Mobile Apps with Javascript",
@@ -46,7 +46,7 @@
             "desc": "The second edition of this hands-on guide shows you how to build applications that target iOS, Android, and other mobile platforms instead of browsers that can access platform features such as the camera, user location, and local storage. Through code examples and step-by-step instructions, web developers and front end engineers familiar with react will learn how to build and style interfaces, use mobile components, and debug and deploy apps. You’ll learn how to extend react Native using third-party libraries or your own Java and Objective-C libraries."
         },
         {
-            "id": 1,
+            "id": 6,
             "name": "Design Patterns with React Native",
             "author": "Mateusz Grzesiukiewicz",
             "tagline": "Hacking Practical Guide for Beginners",
@@ -55,7 +55,7 @@
             "desc": "React Native helps developers reuse code across different mobile platforms like iOS and Android. This book will show you effective design patterns in the React Native world and will make you ready for professional development in big teams. The book will focus only on the patterns that are relevant to JavaScript, ECMAScript, React and React Native. However, you can successfully transfer a lot of the skills and techniques to other languages. I call them “Idea patterns”. This book will start with the most standard development patterns in React like component building patterns, styling patterns in React Native and then extend these patterns to your mobile application using real world practical examples. Each chapter comes with full, separate source code of applications that you can build and run on your phone."
         },
         {
-            "id": 88,
+            "id": 7,
             "name": "Learning React",
             "author": "Alex Banks, Eve Porcello",
             "tagline": "Functional Web Development With React And Flux",
@@ -65,7 +65,7 @@
             "lang": "English"
         },
         {
-            "id": 81,
+            "id": 8,
             "name": "The Road to Learn React",
             "author": "Robin Wieruch",
             "tagline": "Your journey to Master Plain Yet Pragmatic React.js",

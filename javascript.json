@@ -10,7 +10,7 @@
             "desc": "JavaScript is the little scripting language that could. Once used chiefly to add interactivity to web browser windows, JavaScript is now a primary building block of powerful and robust applications. In this practical book, new and experienced JavaScript developers will learn how to use this language to create APIs as well as web, mobile, and desktop applications. Author and engineering leader Adam D. Scott covers technologies such as Node.js, GraphQL, React, React Native, and Electron. Ideal for developers who want to build full stack applications and ambitious web development beginners looking to bootstrap a startup, this book shows you how to create a single CRUD-style application that will work across several platforms."
         },
         {
-            "id": 1,
+            "id": 2,
             "name": "Learning JavaScript",
             "author": "Ethan Brown",
             "tagline": "Javascript Essential for Modern Application Development",
@@ -19,7 +19,7 @@
             "desc": "This is an exciting time to learn JavaScript. Now that the latest JavaScript specification—ECMAScript 6.0 (ES6)—has been finalized, learning how to develop high-quality applications with this language is easier and more satisfying than ever. This practical book takes programmers (amateurs and pros alike) on a no-nonsense tour of ES6, along with some related tools and techniques."
         },
         {
-            "id": 1,
+            "id": 3,
             "name": "Full Stack JavaScript",
             "author": "Azat Mardan",
             "tagline": "Learn Backbone.js, Node.js, and MongoDB",
@@ -28,7 +28,7 @@
             "desc": "Learn agile JavaScript web development using the latest cutting-edge front-end and back-end technologies including Node.js, MongoDB, Backbone.js, Parse.com, Heroku, and Microsoft Azure. Using a key project example of a message board app, you will learn the foundations of a typical web application: fetching data, displaying it, and submitting new data."
         },
         {
-            "id": 2,
+            "id": 4,
             "name": "Learning PHP, MySQL, & JavaScript",
             "author": "Robin Nixon",
             "tagline": "With JQuery, CSS & HTML5",
@@ -37,7 +37,7 @@
             "desc": "Build interactive, data driven websites with the potent combination of open source technologies and web standards, even if you have only basic HTML knowledge. In this update to this popular hands on guide, you’ll tackle dynamic web programming with the latest versions of today’s core technologies: PHP, MySQL, JavaScript, CSS, HTML5, and key jQuery libraries. Web designers will learn how to use these technologies together and pick up valuable web programming practices along the way—including how to optimize websites for mobile devices. At the end of the book, you’ll put everything together to build a fully functional social networking site suitable for both desktop and mobile browsers."
         },
         {
-            "id": 3,
+            "id": 5,
             "name": "JavaScript The Definitive Guide",
             "author": "David Flanagan",
             "tagline": "Master the World's Most-Used Programming Language",
@@ -46,7 +46,7 @@
             "desc": "JavaScript is a simple programming language from Netscape that can be embedded in your HTML Web pages. It allows you to control the behavior of the Web browser, add dynamically created text to your Web pages, interact with the user through HTML forms (withoutCGI scripts), and, in version 3.0 of Netscape Navigator, even control and interact with Java applets and Navigator plugins."
         },
         {
-            "id": 4,
+            "id": 6,
             "name": "JavaScript And JQuery",
             "author": "Jon Duckett",
             "tagline": "Interactive Front-End Web Development",
@@ -55,7 +55,7 @@
             "desc": "This full-color book adopts a visual approach to teaching JavaScript & jQuery, showing you how to make web pages more interactive and interfaces more intuitive through the use of inspiring code examples, infographics, and photography. The content assumes no previous programming experience, other than knowing how to create a basic web page in HTML & CSS. You'll learn how to achieve techniques seen on many popular websites (such as adding animation, tabbed panels, content sliders, form validation, interactive galleries, and sorting data)"
         },
         {
-            "id": 5,
+            "id": 7,
             "name": "Secrets of The JavaScript Ninja",
             "author": "John Resig, Bear Bibeault, Josip Maras",
             "tagline": "Jhon Resig, Bear Bibeault, Josip Maras",
@@ -64,7 +64,7 @@
             "desc": "Secrets of the JavaScript Ninja, Second Edition uses practical examples to clearly illustrate each core concept and technique. This completely revised edition shows you how to master key JavaScript concepts such as functions, closures, objects, prototypes, and promises. It covers APIs such as the DOM, events, and timers. You’ll discover best practice techniques such as testing, and cross-browser development, all taught from the perspective of skilled JavaScript practitioners."
         },
         {
-            "id": 6,
+            "id": 8,
             "name": "Eloquent JavaScript",
             "author": "Marijn Haverbeke",
             "tagline": "A Modern Introduction to Programming",

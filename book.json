@@ -10,7 +10,7 @@
             "desc": "Introduction to Database Management Systems is designed specifically for a single semester, namely, the first course on Database Systems. The book covers all the essential aspects of database systems, and also covers the areas of RDBMS. The book in"
         },
         {
-            "id": 1,
+            "id": 2,
             "name": "Fundamentals of Database Systems",
             "author": "Elmasri, Navathe",
             "tagline": "Elmasri, Navathe",
@@ -19,7 +19,7 @@
             "desc": "Clear explanations of theory and design, broad coverage of models and real systems, and an up-to-date introduction to modern database technologies result in a leading introduction to database systems. Intended for computer science majors, Fundamentals of Database Systems, 6/e emphasizes math models, design issues, relational algebra, and relational calculus. A lab manual and problems give students opportunities to practice the fundamentals of design and implementation. Real-world examples serve as engaging, practical illustrations of database concepts. The Sixth Edition maintains its coverage of the most popular database topics, including SQL, security, and data mining, and features increased emphasis on XML and semi-structured data."
         },
         {
-            "id": 1,
+            "id": 3,
             "name": "Python By Example",
             "author": "Nichola Lacey",
             "tagline": "Learning to Program in 150 Challenges",
@@ -28,7 +28,7 @@
             "desc": "Python is today's fastest growing programming language. This engaging and refreshingly different guide breaks down the skills into clear step-by-step chunks and explains the theory using brief easy-to-understand language. Rather than bamboozling readers with pages of mind-numbing technical jargon, this book includes 150 practical challenges, putting the power in the reader's hands. Through creating programs to solve these challenges the reader will quickly progress from mastering the basics to confidently using subroutines, a graphical user interface, and linking to external text, csv and SQL files. This book is perfect for anyone who wants to learn how to program with Python. In particular, students starting out in computer science and teachers who want to improve their confidence in Python will find here a set of ready-made challenges for classroom use."
         },
         {
-            "id": 1,
+            "id": 4,
             "name": "The Pentester Blueprint",
             "author": "Philip L. Wylie, Kim Crawley",
             "tagline": "Starting a Career as an Ethical Hacker",
@@ -37,7 +37,7 @@
             "desc": "The Pentester BluePrint: Your Guide to Being a Pentester offers readers a chance to delve deeply into the world of the ethical, or 'white-hat' hacker. Accomplished pentester and author Phillip L. Wylie and cybersecurity researcher Kim Crawley walk you through the basic and advanced topics necessary to understand how to make a career out of finding vulnerabilities in systems, networks, and applications. You'll learn about the role of a penetration tester, what a pentest involves, and the prerequisite knowledge you'll need to start the educational journey of becoming a pentester. Discover how to develop a plan by assessing your current skillset and finding a starting place to begin growing your knowledge and skills. Finally, find out how to become employed as a pentester by using social media, networking strategies, and community involvement."
         },
         {
-            "id": 1,
+            "id": 5,
             "name": "Ubuntu Made Easy",
             "author": "Rickford Grant, Phil Bull",
             "tagline": "A Project-Based Introduction to Linux",
@@ -46,7 +46,7 @@
             "desc": "Ubuntu brings Linux to the masses, but it can still be intimidating for newbies, neophytes, and geeks-in-training. With Ubuntu Made Easy by your side you'll be ready to face any challenge, and you'll discover just how fun Linux can be. Packed with tips, tricks, and helpful pointers, Ubuntu Made Easy will get you up and running with the world's most popular free operating system. Authors Rickford Grant and Phil Bull walk you through common tasks like installing and playing games, accessing your favorite social networks, troubleshooting hardware and software problems, interacting with your Windows installation, and more.."
         },
         {
-            "id": 1,
+            "id": 6,
             "name": "Linux System Programming",
             "author": "Robert Love",
             "tagline": "Talking Directly to the Kernel and C Library",
@@ -55,7 +55,7 @@
             "desc": "Write software that draws directly on services offered by the Linux kernel and core system libraries. With this comprehensive book, Linux kernel contributor Robert Love provides you with a tutorial on Linux system programming, a reference manual on Linux system calls, and an insider’s guide to writing smarter, faster code."
         },
         {
-            "id": 1,
+            "id": 7,
             "name": "Linux Firewalls",
             "author": "Michael Rash",
             "tagline": "Attack Detetion and Response with IPTABLES, PSAD, and FWSNORT",
@@ -64,7 +64,7 @@
             "desc": "System administrators need to stay ahead of new security vulnerabilities that leave their networks exposed every day. A firewall and an intrusion detection systems (IDS) are two important weapons in that fight, enabling you to proactively deny access and monitor network traffic for signs of an attack. Linux Firewalls discusses the technical details of the iptables firewall and the Netfilter framework that are built into the Linux kernel, and it explains how they provide strong filtering, Network Address Translation (NAT), state tracking, and application layer inspection capabilities that rival many commercial tools. You'll learn how to deploy iptables as an IDS with psad and fwsnort and how to build a strong, passive authentication layer around iptables with fwknop."
         },
         {
-            "id": 1,
+            "id": 8,
             "name": "How Software Works",
             "author": "V. Anton Spraul",
             "tagline": "The Magic Behind Encryption, CGI, Search Engines, and Other Everyday Technologies",
@@ -73,7 +73,7 @@
             "desc": "We use software every day to perform all kinds of magical, powerful tasks. It's the force behind stunning CGI graphics, safe online shopping, and speedy Google searches. Software drives the modern world, but its inner workings remain a mystery to many. How Software Works explains how computers perform common-yet-amazing tasks that we take for granted every day."
         },
         {
-            "id": 1,
+            "id": 9,
             "name": "Head First Android Development",
             "author": "Dawn Griffiths, David Griffiths",
             "tagline": "A Brain-Friendly Guide",
@@ -82,7 +82,7 @@
             "desc": "If you have an idea for a killer Android app, this fully revised and updated edition will help you build your first working application in a jiffy. Youíll learn hands-on how to structure your app, design flexible and interactive interfaces, run services in the background, make your app work on various smartphones and tablets, and much more. Itís like having an experienced Android developer sitting right next to you! All you need to get started is some Java know-how."
         },
         {
-            "id": 1,
+            "id": 10,
             "name": "Android Cookbook",
             "author": "Ian F. Darwin",
             "tagline": "Problem And Solutions for Andrid Developers",
@@ -91,7 +91,7 @@
             "desc": "This cookbook doesn't just teach you how to build Android apps; it also gives you the recipes you need to build real-world applications. Written by the author of the best-selling Java Cookbook and with contributions from many members of the Android community, this book shows you how to do everything: working with multitouch, dealing with the phone (and the camera, accelerometer, GPS and other built-in devices), working with web services, packaging an app for sale in the Android Market and more. This revised second edition includes new recipes on JSON, material design and Android Studio IDE. If this book doesn't show you how to do it, you probably don't need it. The Android is gradually overtaking the iPhone as the hottest platform in mobile computing. Make sure you're on the bandwagon."
         },
         {
-            "id": 1,
+            "id": 11,
             "name": "The Web Application Hacker's Handbook",
             "author": "Dafydd Stuttard, Marcus Pinto",
             "tagline": "Finding and Exploiting Security Flaws",
@@ -100,7 +100,7 @@
             "desc": "The highly successful security book returns with a new edition, completely updated Web applications are the front door to most organizations, exposing them to attacks that may disclose personal information, execute fraudulent transactions, or compromise ordinary users. This practical book has been completely updated and revised to discuss the latest step-by-step techniques for attacking and defending the range of ever-evolving web applications. You'll explore the various new technologies employed in web applications that have appeared since the first edition and review the new attack techniques that have been developed, particularly in relation to the client side."
         },
         {
-            "id": 1,
+            "id": 12,
             "name": "The Linux Programming Interface",
             "author": "Michael Kerrisk",
             "tagline": "A Linux and UNIX System Programming Handbook",
@@ -109,7 +109,7 @@
             "desc": "The Linux Programming Interface (TLPI) is the definitive guide to the Linux and UNIX programming interface—the interface employed by nearly every application that runs on a Linux or UNIX system. While The Linux Programming Interface covers a wealth of Linux-specific features, including epoll, inotify, and the /proc file system, its emphasis on UNIX standards (POSIX.1-2001/SUSv3 and POSIX.1-2008/SUSv4) makes it equally valuable to programmers working on other UNIX platforms. The Linux Programming Interface is the most comprehensive single-volume work on the Linux and UNIX programming interface, and a book that's destined to become a new classic."
         },
         {
-            "id": 1,
+            "id": 13,
             "name": "Responsive Web Design with HTLM5 & CSS",
             "author": "Ben Frain",
             "tagline": "Develop future-proof responsive websites using latest HTML5 and CSS techniques",
@@ -118,7 +118,7 @@
             "desc": "Responsive Web Design with HTML5 and CSS, Third Edition is a renewed and extended version of one of the most comprehensive and bestselling books on the latest HTML5 and CSS tools and techniques for responsive web design. Written in the author's signature friendly and informal style, this edition covers all the newest developments and improvements in responsive web design including better user accessibility, variable fonts and font loading, CSS Scroll Snap, and much, much more. With a new chapter dedicated to CSS Grid, you will understand how it differs from the Flexbox layout mechanism and when you should use one over the other."
         },
         {
-            "id": 1,
+            "id": 14,
             "name": "Python Tricks The Book",
             "author": "Dan Bader",
             "tagline": "A Buffet of Awesome Python Features",
@@ -127,7 +127,7 @@
             "desc": "With Python Tricks: The Book you'll discover Python's best practices and the power of beautiful & Pythonic code with simple examples and a step-by-step narrative. You'll get one step closer to mastering Python, so you can write beautiful and idiomatic code that comes to you naturally. Learning the ins and outs of Python is difficult-and with this book you'll be able to focus on the practical skills that really matter. Discover the 'hidden gold' in Python's standard library and start writing clean and Pythonic code today."
         },
         {
-            "id": 1,
+            "id": 15,
             "name": "Practices of the Python Pro",
             "author": "Dane Hillard",
             "tagline": "Dane Hillard",
@@ -136,7 +136,7 @@
             "desc": "Practices of the Python Pro teaches you to design and write professional-quality software that’s understandable, maintainable, and extensible. Dane Hillard is a Python pro who has helped many dozens of developers make this step, and he knows what it takes. With helpful examples and exercises, he teaches you when, why, and how to modularize your code, how to improve quality by reducing complexity, and much more. Embrace these core principles, and your code will become easier for you and others to read, maintain, and reuse."
         },
         {
-            "id": 1,
+            "id": 16,
             "name": "Operating System Concepts",
             "author": "Abraham Silberschatz, Peter Baer Galvin, Greg Gagne",
             "tagline": "Abraham Silberschatz, Peter Baer Galvin, Greg Gagne",
@@ -145,7 +145,7 @@
             "desc": "The tenth edition of Operating System Concepts has been revised to keep it fresh and up-to-date with contemporary examples of how operating systems function, as well as enhanced interactive elements to improve learning and the student’s experience with the material. It combines instruction on concepts with real-world applications so that students can understand the practical usage of the content. End-of-chapter problems, exercises, review questions, and programming exercises help to further reinforce important concepts. New interactive self-assessment problems are provided throughout the text to help students monitor their level of understanding and progress. A Linux virtual machine (including C and Java source code and development tools) allows students to complete programming exercises that help them engage further with the material."
         },
         {
-            "id": 1,
+            "id": 17,
             "name": "Learning SQL",
             "author": "Alan Beaulieu",
             "tagline": "Generate, Manipulate, and Retrieve Data",
@@ -154,7 +154,7 @@
             "desc": "As data floods into your company, you need to put it to work right away—and SQL is the best tool for the job. With the latest edition of this introductory guide, author Alan Beaulieu helps developers get up to speed with SQL fundamentals for writing database applications, performing administrative tasks, and generating reports. You’ll find new chapters on SQL and big data, analytic functions, and working with very large databases."
         },
         {
-            "id": 1,
+            "id": 18,
             "name": "Head First Java",
             "author": "Kathy Sierra, Bert Bates",
             "tagline": "A Brain-Friendly Guide",
@@ -163,7 +163,7 @@
             "desc": "Computer programming language Java is not easy to understand. It takes lot of time and practice to understand the complex programming language. But this book takes an interactive and fun approach for better understanding of different fundamentals of Java. The book offers multi-sensory and fun learning experience for new programmers, so they can easily pick up the new language. Human brain responds and remembers unusual situations, images or incidents. Keeping that in mind, this revised second edition of the book has been presented with lots of humorous images, memorable analogies and mind-bending exercises. The language in which the book is written is also casual for better understanding of the difficult computer programming language."
         },
         {
-            "id": 1,
+            "id": 19,
             "name": "Elements of Programming Interviews",
             "author": "Adnan Aziz, Tsung-Hsien Lee, Amit Prakash",
             "tagline": "The Insider's Guide",
@@ -172,7 +172,7 @@
             "desc": "The core of EPI is a collection of over 250 problems with detailed solutions. The problems are representative of interview questions asked at leading software companies. The problems are illustrated with 200 figures, 300 tested programs, and 150 additional variants. The book begins with a summary of the nontechnical aspects of interviewing, such as strategies for a great interview, common mistakes, perspectives from the other side of the table, tips on negotiating the best offer, and a guide to the best ways to use EPI. We also provide a summary of data structures, algorithms, and problem solving patterns."
         },
         {
-            "id": 1,
+            "id": 20,
             "name": "Dynamic Programming For Coding Interviews",
             "author": "Meenakshi, Kamal Rawat",
             "tagline": "A Bottom-Up Approach to Problem Solving",
@@ -181,7 +181,7 @@
             "desc": "Kamal Rawat is a software developer, trainer, author and an entrepreneur. He has first-hand experience of implementing full life cycle of large scale desktop, Cloud and Mobile applications across various domains and platforms. He had been a technical architect in complex projects like Microsoft OneNote, Adobe Photoshop and Samsung GalaxyConnect. He has also been in the core interview panel of Microsoft, Adobe and many start-ups."
         },
         {
-            "id": 1,
+            "id": 21,
             "name": "Think Like A Programmer",
             "author": "V. Anton Spraul",
             "tagline": "An Introduction to Creative Problem Solving",
@@ -190,7 +190,7 @@
             "desc": "The real challenge of programming isn't learning a language's syntax—it's learning to creatively solve problems so you can build something great. In this one-of-a-kind text, author V. Anton Spraul breaks down the ways that programmers solve problems and teaches you what other introductory books often ignore: how to Think Like a Programmer. Each chapter tackles a single programming concept, like classes, pointers, and recursion, and open-ended exercises throughout challenge you to apply your knowledge."
         },
         {
-            "id": 1,
+            "id": 22,
             "name": "Software Engineering at Google",
             "author": "Titus Winters, Tom Manshreck, Hyrum Wright",
             "tagline": "Lessons Learned from Programming Over Time",
@@ -199,7 +199,7 @@
             "desc": "Today, software engineers need to know not only how to program effectively but also how to develop proper engineering practices to make their codebase sustainable and healthy. This book emphasizes this difference between programming and software engineering. How can software engineers manage a living codebase that evolves and responds to changing requirements and demands over the length of its life? Based on their experience at Google, software engineers Titus Winters and Hyrum Wright, along with technical writer Tom Manshreck, present a candid and insightful look at how some of the world’s leading practitioners construct and maintain software. This book covers Google’s unique engineering culture, processes, and tools and how these aspects contribute to the effectiveness of an engineering organization. You’ll explore three fundamental principles that software organizations should keep in mind when designing, architecting, writing, and maintaining code: How time affects the sustainability of software and how to make your code resilient over time How scale affects the viability of software practices within an engineering organization What trade-offs a typical engineer needs to make when evaluating design and development decisions."
         },
         {
-            "id": 1,
+            "id": 23,
             "name": "Python Playground",
             "author": "Mahesh Venkitachalam",
             "tagline": "Geeky projects for the Curious Programmer",
@@ -208,7 +208,7 @@
             "desc": "Python Playground is a collection of imaginative programming projects that will inspire you to use Python to make art and music, build simulations of real-world phenomena, and interact with hardware like the Arduino and Raspberry Pi. You’ll learn to use common Python tools and libraries like numpy, matplotlib, and pygame to do things like: Generate Spirograph-like patterns using parametric equations and the turtle module, Create music on your computer by simulating frequency overtones, Translate graphical images into ASCII art, Write an autostereogram program that produces 3D images hidden beneath random patterns, Make realistic animations with OpenGL shaders by exploring particle systems, transparency, and billboarding techniques, Construct 3D visualizations using data from CT and MRI scans, Build a laser show that responds to music by hooking up your computer to an Arduino."
         },
         {
-            "id": 1,
+            "id": 24,
             "name": "Practical SQL",
             "author": "Anthony Debarros",
             "tagline": "A beginner's guide to Storytelling with Data",
@@ -217,7 +217,7 @@
             "desc": "Practical SQL is an approachable and fast-paced guide to SQL (Structured Query Language), the standard programming language for defining, organizing, and exploring data in relational databases. The book focuses on using SQL to find the story your data tells, with the popular open-source database PostgreSQL and the pgAdmin interface as its primary tools. You’ll first cover the fundamentals of databases and the SQL language, then build skills by analyzing data from the U.S. Census and other federal and state government agencies. With exercises and real-world examples in each chapter, this book will teach even those who have never programmed before all the tools necessary to build powerful databases and access information quickly and efficiently."
         },
         {
-            "id": 1,
+            "id": 25,
             "name": "Modern Java in Action",
             "author": "Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft",
             "tagline": "Lambdas, streams, functional and reactive programming",
@@ -226,7 +226,7 @@
             "desc": "Modern Java in Action connects new features of the Java language with their practical applications. Using crystal-clear examples and careful attention to detail, this book respects your time. It will help you expand your existing knowledge of core Java as you master modern additions like the Streams API and the Java Module System, explore new approaches to concurrency, and learn how functional concepts can help you write code that's easier to read and maintain."
         },
         {
-            "id": 1,
+            "id": 26,
             "name": "JavaScript Everywhere",
             "author": "Adam D. Scott",
             "tagline": "Building Cross-Platform Applicaions with GraphQL, React, React Native, and Electron",
@@ -235,7 +235,7 @@
             "desc": "JavaScript is the little scripting language that could. Once used chiefly to add interactivity to web browser windows, JavaScript is now a primary building block of powerful and robust applications. In this practical book, new and experienced JavaScript developers will learn how to use this language to create APIs as well as web, mobile, and desktop applications. Author and engineering leader Adam D. Scott covers technologies such as Node.js, GraphQL, React, React Native, and Electron. Ideal for developers who want to build full stack applications and ambitious web development beginners looking to bootstrap a startup, this book shows you how to create a single CRUD-style application that will work across several platforms."
         },
         {
-            "id": 1,
+            "id": 27,
             "name": "Elements of Programming Interviews in Java",
             "author": "Adnan Aziz, Tsung-Hsien Lee, Amit Prakash",
             "tagline": "The Insider's Guide",
@@ -244,7 +244,7 @@
             "desc": "If so, you need to read Elements of Programming Interviews (EPI). EPI is your comprehensive guide to interviewing for software development roles. The core of EPI is a collection of over 250 problems with detailed solutions. The problems are representative of interview questions asked at leading software companies. The problems are illustrated with 200 figures, 300 tested programs, and 150 additional variants. The book begins with a summary of the nontechnical aspects of interviewing, such as strategies for a great interview, common mistakes, perspectives from the other side of the table, tips on negotiating the best offer, and a guide to the best ways to use EPI. We also provide a summary of data structures, algorithms, and problem solving patterns."
         },
         {
-            "id": 1,
+            "id": 28,
             "name": "Django 3 By Example",
             "author": "Antonio Melé",
             "tagline": "Build powerful and reliable Python web applications from scratch",
@@ -253,7 +253,7 @@
             "desc": "If you want to learn the entire process of developing professional web applications with Python and Django, then this book is for you. In the process of building four professional Django projects, you will learn about Django 3 features, how to solve common web development problems, how to implement best practices, and how to successfully deploy your applications. In this book, you will build a blog application, a social image bookmarking website, an online shop, and an e-learning platform. Step-by-step guidance will teach you how to integrate popular technologies, enhance your applications with AJAX, create RESTful APIs, and set up a production environment for your Django projects."
         },
         {
-            "id": 1,
+            "id": 29,
             "name": "Designing Web APIs",
             "author": "Brenda Jin, Saurabh Sahni, Amir Shevat",
             "tagline": "Building APIs that Developers Love",
@@ -262,7 +262,7 @@
             "desc": "Designing an API is complicated to begin with, but evolving your API design over time makes the process even more difficult. There are several books on the topic, but none that guide you through key decisions for designing and building APIs for specific audiences and types of products. Well, until now, that is. Using case studies from companies such as Slack, Stripe, Facebook, and Github, this practical guide shows you how to navigate complex decisions when building, scaling, and evolving your own APIs. You’ll learn best practices for designing APIs that developers will love, and discover how to evolve your APIs as your product grows. Developers, architects, tech leads, product managers, and engineering managers will: Examine strategies to expose data through web APIs, using webhooks, websockets, and HTTP Learn how to evolve APIs while keeping them consistent Be able to scale APIs with pagination and rate limiting Handle security, performance, monitoring, and testing Build a thriving ecosystem around your API."
         },
         {
-            "id": 1,
+            "id": 30,
             "name": "Sams Teach Yourself HTML, CSS & JavaScript Web Publishing",
             "author": "Laura Lemay, Rafe Colbum, Jennifer Kyrnin",
             "tagline": "In One Hour a Day",
@@ -271,7 +271,7 @@
             "desc": "Thoroughly revised and updated with examples rewritten to conform to HTML5, CSS3, and contemporary web development practices, this easy-to-understand, step-by-step tutorial helps you quickly master the basics of HTML and CSS before moving on to more advanced topics such as graphics, video, and interactivity with JavaScript and jQuery."
         },
         {
-            "id": 1,
+            "id": 31,
             "name": "Penetration Testing",
             "author": "Georgia Weidman",
             "tagline": "A Hands-On Introduction to Hacking",
@@ -280,7 +280,7 @@
             "desc": "In Penetration Testing, security expert, researcher, and trainer Georgia Weidman introduces you to the core skills and techniques that every pentester needs. Using a virtual machine–based lab that includes Kali Linux and vulnerable operating systems, you’ll run through a series of practical lessons with tools like Wireshark, Nmap, and Burp Suite. As you follow along with the labs and launch attacks, you’ll experience the key stages of an actual assessment—including information gathering, finding exploitable vulnerabilities, gaining access to systems, post exploitation, and more."
         },
         {
-            "id": 1,
+            "id": 32,
             "name": "Gray Hat Python",
             "author": "Justin Seitz",
             "tagline": "Python Programming for Hackers and Reverse Engineers",
@@ -289,7 +289,7 @@
             "desc": "Gray Hat Python explains the concepts behind hacking tools and techniques like debuggers, trojans, fuzzers, and emulators. But author Justin Seitz goes beyond theory, showing you how to harness existing Python-based security tools—and how to build your own when the pre-built ones won't cut it."
         },
         {
-            "id": 1,
+            "id": 33,
             "name": "Learning JavaScript",
             "author": "Ethan Brown",
             "tagline": "Javascript Essential for Modern Application Development",
@@ -298,7 +298,7 @@
             "desc": "This is an exciting time to learn JavaScript. Now that the latest JavaScript specification—ECMAScript 6.0 (ES6)—has been finalized, learning how to develop high-quality applications with this language is easier and more satisfying than ever. This practical book takes programmers (amateurs and pros alike) on a no-nonsense tour of ES6, along with some related tools and techniques."
         },
         {
-            "id": 1,
+            "id": 34,
             "name": "Java The Complete Reference",
             "author": "Helbert Schildt",
             "tagline": "Comprehensive Coverage of the Java Language",
@@ -307,7 +307,7 @@
             "desc": "Fully updated for Java SE 11, Java: The Complete Reference, Eleventh Edition explains how to develop, compile, debug, and run Java programs. Best-selling programming author Herb Schildt covers the entire Java language, including its syntax, keywords, and fundamental programming principles. You’ll also find information on key portions of the Java API library, such as I/O, the Collections Framework, the stream library, and the concurrency utilities. Swing, JavaBeans, and servlets are examined and numerous examples demonstrate Java in action. Of course, the very important module system is discussed in detail. This Oracle Press resource also offers an introduction to JShell, Java’s interactive programming tool. Best of all, the book is written in the clear, crisp, uncompromising style that has made Schildt the choice of millions worldwide."
         },
         {
-            "id": 1,
+            "id": 35,
             "name": "The Illustrated Network",
             "author": "Walter Goralski",
             "tagline": "How TCP/IP Works in a Modern Network",
@@ -316,7 +316,7 @@
             "desc": "The Illustrated Network: How TCP/IP Works in a Modern Network, Second Edition presents an illustrated explanation on how TCP/IP works, using consistent examples from a working network configuration that includes servers, routers and workstations. Diagnostic traces allow the reader to follow the discussion with unprecedented clarity and precision. True to its title, there are 330+ diagrams and screenshots, as well as topology diagrams and a unique repeating chapter opening diagram. Illustrations are also used as end-of-chapter questions. Based on examples of a complete and modern network, all the material comes from real objects connected and running on the network."
         },
         {
-            "id": 1,
+            "id": 36,
             "name": "The Hacker Playbook 3",
             "author": "Peter Kim",
             "tagline": "Practical Guide To Penetration Testing",
@@ -325,7 +325,7 @@
             "desc": "The main purpose of this book is to answer questions as to why things are still broken. For instance, with all the different security products, secure code reviews, defense in depth, and penetration testing requirements, how are we still seeing massive security breaches happening to major corporations and governments? The real question we need to ask ourselves is, are all the safeguards we are putting in place working? This is what The Hacker Playbook 3 - Red Team Edition is all about."
         },
         {
-            "id": 1,
+            "id": 37,
             "name": "The Code Book",
             "author": "Simon Singh",
             "tagline": "How To Make It, Break It, Hack It, Crack It",
@@ -334,7 +334,7 @@
             "desc": "It’s known as the science of secrecy. Cryptography: the encoding and decoding of private information. And it is history’s most fascinating story of intrigue and cunning. From Julius Caesar and his Caesar Cipher to the code used by Mary Queen of Scots and her conspiracy to the use of the Engima machine during the Second World War, Simon Singh follows the evolution of secret writing."
         },
         {
-            "id": 1,
+            "id": 38,
             "name": "React Native in Action",
             "author": "Nader Dabit",
             "tagline": "Developing iOS and Android apps with JavaScript",
@@ -343,7 +343,7 @@
             "desc": "React Native in Action teaches you to build high-quality cross-platform mobile and web apps. In this hands-on guide, you'll jump right into building a complete app with the help ofclear, easy-to-follow instructions. As you build your skills, you'll drill down to more-advanced topics like styling, APIs, animations, data architecture, and more! You'll also learn how to maximize code reuse without sacrificing native platform look-and-feel."
         },
         {
-            "id": 1,
+            "id": 49,
             "name": "React Native for Mobile Development",
             "author": "Akshat Paul, Abhiskek Nalwaya",
             "tagline": "Harness the Power of React Native to Create Stunning iOS and Android Applications",
@@ -352,7 +352,7 @@
             "desc": "You will start by setting up React Native and exploring the anatomy of React Native apps. You'll then move on to Redux data flow, how it differs from flux, and how you can include it in your React Native project to solve state management differently and efficiently. You will also learn how to boost your development by including popular packages developed by the React Native community that will help you write less; do more. Finally, you'll learn to how write test cases using Jest and submit your application to the App Store."
         },
         {
-            "id": 1,
+            "id": 40,
             "name": "React Cross Platform Application Development with React Native",
             "author": "Emilio Rodriguez Martinez",
             "tagline": "Build 4 Real World Apps with React Native",
@@ -361,7 +361,7 @@
             "desc": "React Native helps web and mobile developers to build cross-platform apps that perform at the same level as any other natively developed app. The range of apps that can be built using this library is huge. From e-commerce to games, React Native is a good fit for any mobile project due to its flexibility and extendable nature. This project-based book consists of four standalone projects. Each project will help you gain a sound understanding of the framework and build mobile apps with native user experience. Starting with a simple standalone car booking app, you will progressively move on to building advanced apps by adding connectivity with external APIs, using native features, such as the camera or microphone, in the mobile device, integrating with state management libraries such as Redux or MobX, or leveraging React Native's performance by building a full-featured game."
         },
         {
-            "id": 1,
+            "id": 41,
             "name": "Practical React Native",
             "author": "Frank Zammetti",
             "tagline": "Build Two Full Projects and One Full Game using React Native",
@@ -370,7 +370,7 @@
             "desc": "You'll begin with a solid foundation of practical knowledge, and then build on it immediately by constructing three different apps. You'll learn how to use each feature of React Native by working on two full projects and one full game. These aren’t just simple React Native Hello World examples (although you’ll naturally start there!) but are apps that you can, if you so choose, install on your mobile devices and use for real."
         },
         {
-            "id": 1,
+            "id": 42,
             "name": "Learning React Native",
             "author": "Bonnie Eisenman",
             "tagline": "Building Native Mobile Apps with Javascript",
@@ -379,7 +379,7 @@
             "desc": "The second edition of this hands-on guide shows you how to build applications that target iOS, Android, and other mobile platforms instead of browsers that can access platform features such as the camera, user location, and local storage. Through code examples and step-by-step instructions, web developers and front end engineers familiar with react will learn how to build and style interfaces, use mobile components, and debug and deploy apps. You’ll learn how to extend react Native using third-party libraries or your own Java and Objective-C libraries."
         },
         {
-            "id": 1,
+            "id": 43,
             "name": "Learning Algorithms Through Programming and Puzzle Solving",
             "author": "Alexander Kulikov, Pavel Pevzner",
             "tagline": "Alexander Kulikov, Pavel Pevzner",
@@ -388,7 +388,7 @@
             "desc": "This book powers our popular Data Structures and Algorithms online specialization on Coursera and the online MicroMasters program on edX. Since the launch of our online courses in 2016, hundreds of thousands students tried to solve many programming challenges and algorithmic puzzles described in this book."
         },
         {
-            "id": 1,
+            "id": 44,
             "name": "Design Patterns with React Native",
             "author": "Mateusz Grzesiukiewicz",
             "tagline": "Hacking Practical Guide for Beginners",
@@ -397,7 +397,7 @@
             "desc": "React Native helps developers reuse code across different mobile platforms like iOS and Android. This book will show you effective design patterns in the React Native world and will make you ready for professional development in big teams. The book will focus only on the patterns that are relevant to JavaScript, ECMAScript, React and React Native. However, you can successfully transfer a lot of the skills and techniques to other languages. I call them “Idea patterns”. This book will start with the most standard development patterns in React like component building patterns, styling patterns in React Native and then extend these patterns to your mobile application using real world practical examples. Each chapter comes with full, separate source code of applications that you can build and run on your phone."
         },
         {
-            "id": 1,
+            "id": 45,
             "name": "Hacking",
             "author": "Jeff Simon",
             "tagline": "Hacking Practical Guide for Beginners",
@@ -406,7 +406,7 @@
             "desc": "The first chapter of this book explains the basics of hacking and the different types of hackers. The second chapter has a detailed study plan for budding hackers. That study plan will help you improve your skills in a short period of time. The third chapter will teach you how to write your own codes using the Python programming language. The rest of the book contains detailed instructions on how you can become a skilled hacker and penetration tester."
         },
         {
-            "id": 1,
+            "id": 46,
             "name": "Coding Thoery",
             "author": "Andre Neubauer, Jurgen Freudenberger, Volker Kuhn",
             "tagline": "Algorithms, Architectures and Applications",
@@ -415,7 +415,7 @@
             "desc": "One of the most important key technologies for digital communication systems as well as storage media is coding theory. It provides a means to transmit information across time and space over noisy and unreliable communication channels. Coding Theory: Algorithms, Architectures and Applications provides a concise overview of channel coding theory and practice, as well as the accompanying signal processing architectures. The book is unique in presenting algorithms, architectures, and applications of coding theory in a unified framework. It covers the basics of coding theory before moving on to discuss algebraic linear block and cyclic codes, turbo codes and low density parity check codes and space-time codes. Coding Theory provides algorithms and architectures used for implementing coding and decoding strategies as well as coding schemes used in practice especially in communication systems."
         },
         {
-            "id": 1,
+            "id": 47,
             "name": "Black Hat Python",
             "author": "Justin Seitz",
             "tagline": "Python Programming for Hackers and Pentesters",
@@ -424,7 +424,7 @@
             "desc": "When it comes to creating powerful and effective hacking tools, Python is the language of choice for most security analysts. But just how does the magic happen? In Black Hat Python, the latest from Justin Seitz (author of the best-selling Gray Hat Python), you'll explore the darker side of Python's capabilities—writing network sniffers, manipulating packets, infecting virtual machines, creating stealthy trojans, and more."
         },
         {
-            "id": 1,
+            "id": 48,
             "name": "Linux Command Line and Shell Scripting Bible",
             "author": "Richard Blum, Christine Bresnahan",
             "tagline": "The Comprehensive, Tutorial Resource",
@@ -433,7 +433,7 @@
             "desc": "Linux Command Line and Shell Scripting Bible is your essential Linux guide. With detailed instruction and abundant examples, this book teaches you how to bypass the graphical interface and communicate directly with your computer, saving time and expanding capability. This third edition incorporates thirty pages of new functional examples that are fully updated to align with the latest Linux features. Beginning with command line fundamentals, the book moves into shell scripting and shows you the practical application of commands in automating frequently performed functions. This guide includes useful tutorials, and a desk reference value of numerous examples."
         },
         {
-            "id": 1,
+            "id": 49,
             "name": "Computer Hacking for Beginners",
             "author": "Dr. Kevin James",
             "tagline": "Dr. Kevin James",
@@ -442,7 +442,7 @@
             "desc": "If you want to learn how to build efficient user interfaces with React, this is your book. Authors Alex Banks and Eve Porcello show you how to create UIs with this small JavaScript library that can deftly display data changes on large-scale, data-driven websites without page reloads. Along the way, you'll learn how to work with functional programming and the latest ECMAScript features. Developed by Facebook, and used by companies including Netflix, Walmart, and The New York Times for large parts of their web interfaces, React is quickly growing in use. By learning how to build React components with this hands-on guide, you'll fully understand how useful React can be in your organization. Learn key functional programming concepts with JavaScript Peek under the hood to understand how React runs in the browser Create application presentation layers by mounting and composing React components Use component trees to manage data and reduce the time you spend debugging applications Explore React's component lifecycle and use it to load data and improve UI performance Use a routing solution for browser history, bookmarks, and other features of single-page applications Learn how to structure React applications with servers in mind."
         },
         {
-            "id": 1,
+            "id": 50,
             "name": "Programming in ANSI C",
             "author": "E. Balagurusamy",
             "tagline": "E. Balagurusamy",
@@ -451,7 +451,7 @@
             "desc": "The book ‘Programming in ANSI C’ has been developed specifically to meet the needs of a first-time learner who is keen to be a programmer. Distinguished as one of the bestsellers in the market, the book is taking forward another step in pursuit of perfection with this new edition. It follows a hierarchical approach by explaining the concepts from elementary to advanced level. The exhaustive coverage of critical concepts, such as Arrays, Strings, Functions, Pointers, Self-referential Structures, Dynamic Memory Allocation, etc. makes this title a complete reference guide for the beginners as well as life-long learners. Rich pedagogy, challenging programming problems, and concretely curated appendices enhance the utility of the book and make it a lasting resource for students and instructors."
         },
         {
-            "id": 1,
+            "id": 51,
             "name": "UNIX Concepts and Applications",
             "author": "Sumitabha Das",
             "tagline": "Sumitabha Das",
@@ -460,7 +460,7 @@
             "desc": "This book is both an exhaustive reference and an outstanding guide for the beginner. Real-world examples make new concepts easy to grasp while the practice exercises take comprehension to a new level by forcing the user to think. An unparalleled reference apparatus, this is a book that users will reach for now and for years to come."
         },
         {
-            "id": 1,
+            "id": 52,
             "name": "Programming in Python",
             "author": "Dr. Pooja Sharma",
             "tagline": "Elementary support for students, programmers, researchers, and software developers",
@@ -469,7 +469,7 @@
             "desc": "This Book is meant for wide range of readers who wish to learn the basics of Python programming language. It can be helpful for students, programmers, researchers, and software developers. The basic concepts of python programming are dealt in detail. The various concepts of python language such as object-oriented features, operators, native data types, control structures, functions, exception handling, file handling, etc are discussed in detail with the authentic programming illustration of each. presently, python programming is a hot topic among academician’s researchers, and program developers. As a result, the book is designed to give an in-depth knowledge of programming in python. This book can be used as handbook as well as a guide for students of all computer science stream at any grade beginning from 10+1 to Research in PhD. To conclude, we hope that the readers will find this book a helpful guide and valuable source of information about python programming."
         },
         {
-            "id": 1,
+            "id": 53,
             "name": "Learning the Unix Operating System",
             "author": "Jerry Peek, Grace Todino, John Strang",
             "tagline": "A Concise Guide for the New User",
@@ -478,7 +478,7 @@
             "desc": "If you are new to Unix, this concise book will tell you just what you need to get started and no more. Unix was one of the first operating systems written in C, a high-level programming language, and its natural portability and low price made it a popular choice among universities. Initially, two main dialects of Unix existed: one produced by AT&T known as System V, and one developed at UC Berkeley and known as BSD. In recent years, many other dialects have been created, including the highly popular Linux operating system and the new Mac OS X (a derivative of BSD).Learning the Unix Operating System is a handy book for someone just starting with Unix or Linux, and it's an ideal primer for Mac and PC users of the Internet who need to know a little about Unix on the systems they visit. The fifth edition is the most effective introduction to Unix in print, covering Internet usage for email, file transfers, web browsing, and many major and minor updates to help the reader navigate the ever-expanding capabilities of the operating system."
         },
         {
-            "id": 1,
+            "id": 54,
             "name": "Learning Python",
             "author": "Mark Lutz",
             "tagline": "Powerful Object-Oriented Programming",
@@ -487,7 +487,7 @@
             "desc": "Get a comprehensive, in-depth introduction to the core Python language with this hands-on book. Based on author Mark Lutz’s popular training course, this updated fifth edition will help you quickly write efficient, high-quality code with Python. It’s an ideal way to begin, whether you’re new to programming or a professional developer versed in other languages. Complete with quizzes, exercises, and helpful illustrations, this easy-to-follow, self-paced tutorial gets you started with both Python 2.7 and 3.3— the latest releases in the 3.X and 2.X lines—plus all other releases in common use today. You’ll also learn some advanced language features that recently have become more common in Python code."
         },
         {
-            "id": 1,
+            "id": 55,
             "name": "Essential System Administration",
             "author": "Æleen Frisch",
             "tagline": "Tools and Techniques for Linux and Unix Administration",
@@ -496,7 +496,7 @@
             "desc": "Essential System Administration,3rd Edition is the definitive guide for Unix system administration, covering all the fundamental and essential tasks required to run such divergent Unix systems as AIX, FreeBSD, HP-UX, Linux, Solaris, Tru64 and more. Essential System Administration provides a clear, concise, practical guide to the real-world issues that anyone responsible for a Unix system faces daily.The new edition of this indispensable reference has been fully updated for all the latest operating systems. Even more importantly, it has been extensively revised and expanded to consider the current system administrative topics that administrators need most. Essential System Administration,3rd Edition covers: DHCP, USB devices, the latest automation tools, SNMP and network management, LDAP, PAM, and recent security tools and techniques.Essential System Administration is comprehensive."
         },
         {
-            "id": 1,
+            "id": 56,
             "name": "Database System Concepts",
             "author": "Silberschatz, Korth, Sudarshan",
             "tagline": "Silberschatz, Korth, Sudarshan",
@@ -505,7 +505,7 @@
             "desc": "The book commences with a basic introduction, which discusses fundamental topics like Database Languages, Database Users and Administrators, Database Design, and Data Storage and Querying. Then, the book is segregated into ten section. Relational Databases, System Architecture, Speciality Databases, and Transaction Management are a few. Chapters like Object-Relational Mapping, Relevance Ranking Using Terms, and Distributed Data Storage are discussed in detail. This edition also provides a revised coverage of SQL, with greater attention to variants of SQL in actual systems and SQL features. There is also new material on support vector machines, and validation of classifiers."
         },
         {
-            "id": 1,
+            "id": 57,
             "name": "Computer Networks and Internets",
             "author": "Douglas E. Comer",
             "tagline": "Douglas E. Comer",
@@ -514,7 +514,7 @@
             "desc": "Leading networking authority Douglas Comer presents a wide-ranging, self-contained tour of the concepts, principles, and technologies that enable today’s Internet to support applications ranging from web browsing to telephony and multimedia. This Fifth Edition has been thoroughly reorganized, revised, and updated: it includes extensive new coverage of topics ranging from wireless protocols to network performance, while reducing or eliminating coverage of older protocols and technologies. Comer begins by illuminating the applications and facilities offered by today’s Internet. Next, he systematically introduces the underlying network technologies and protocols that make them possible: low-level data communications; packet switching, LAN, and WAN technologies; and Internet protocols such as TCP, IP, UDP, and IPv6. With these concepts and technologies established, he introduces several of the most important contemporary issues faced by network implementers and managers, including quality of service, Internet telephony, multimedia, network security, and network management. Comer has carefully designed this book to support both top-down and bottom-up teaching approaches. Students need no background in operating systems, and no sophisticated math: Comer relies throughout on figures, drawings, examples, and analogies, not mathematical proofs."
         },
         {
-            "id": 1,
+            "id": 58,
             "name": "Computer Networks",
             "author": "Tanebbaum, Wetherall",
             "tagline": "Tanenbaum, Wetherall",
@@ -523,7 +523,7 @@
             "desc": "Computer Networks, 5/e is appropriate for Computer Networking or Introduction to Networking courses at both the undergraduate and graduate level in Computer Science, Electrical Engineering, CIS, MIS, and Business Departments. Tanenbaum takes a structured approach to explaining how networks work from the inside out. He starts with an explanation of the physical layer of networking, computer hardware and transmission systems; then works his way up to network applications. Tanenbaum's in-depth application coverage includes email; the domain name system; the World Wide Web (both client- and server-side); and multimedia (including voice over IP, Internet radio video on demand, video conferencing, and streaming media. Each chapter follows a consistent approach: Tanenbaum presents key principles, then illustrates them utilizing real-world example networks that run through the entire book―the Internet, and wireless networks, including Wireless LANs, broadband wireless and Bluetooth. The Fifth Edition includes a chapter devoted exclusively to network security. The textbook is supplemented by a Solutions Manual, as well as a Website containing PowerPoint slides, art in various forms, and other tools for instruction, including a protocol simulator whereby students can develop and test their own network protocols."
         },
         {
-            "id": 1,
+            "id": 59,
             "name": "Data Communication and Networking",
             "author": "Behrouz A. Forouzan",
             "tagline": "Behrouz A. Forouzan",
@@ -532,7 +532,7 @@
             "desc": "Data Communications and Networking is designed to help students understand the basics of data communications and networking, and the protocols used in the Internet in particular by using the protocol layering of the Internet and TCP/IP protocol suite. Technologies related to data communication and networking may be the fastest growing in today's culture. The appearance of some new social networking applications is a testimony to this claim. In this Internet-oriented society, specialists need to be trained to run and manage the Internet, part of the Internet, or an organization's network that is connected to the Internet. As both the number and types of students are increasing, it is essential to have a textbook that provides coverage of the latest advances, while presenting the material in a way that is accessible to students with little or no background in the field."
         },
         {
-            "id": 1,
+            "id": 60,
             "name": "Artificial Intelligence",
             "author": "Stuart J. Russel, Peter Norvig",
             "tagline": "A Modern Approach",
@@ -541,7 +541,7 @@
             "desc": "Artificial Intelligence: A Modern Approach, 3e offers the most comprehensive, up-to-date introduction to the theory and practice of artificial intelligence. Number one in its field, this textbook is ideal for one or two-semester, undergraduate or graduate-level courses in Artificial Intelligence."
         },
         {
-            "id": 1,
+            "id": 61,
             "name": "Optimized C++",
             "author": "Kurt Guntheroth",
             "tagline": "Proven Techniques for Heightened Performance",
@@ -551,7 +551,7 @@
             "lang": "English"
         },
         {
-            "id": 1,
+            "id": 62,
             "name": "Modern C++ Programming Cookbook",
             "author": "Marius Bancila",
             "tagline": "Over 100 recipes to help you overcome your difficulties with C++",
@@ -561,7 +561,7 @@
             "lang": "English"
         },
         {
-            "id": 1,
+            "id": 63,
             "name": "Java Cookbook",
             "author": "Ian F. Darwin",
             "tagline": "Problems and Solutions for Java Developers",
@@ -571,7 +571,7 @@
             "lang": "English"
         },
         {
-            "id": 1,
+            "id": 64,
             "name": "Data Structures and Algorithm Analysis in C++",
             "author": "Clifford A. Shaffer",
             "tagline": "Clifford A. Shaffer",
@@ -581,7 +581,7 @@
             "lang": "English"
         },
         {
-            "id": 1,
+            "id": 65,
             "name": "Algorithms Unlocked",
             "author": "Thomas H. Cormen",
             "tagline": "Thomas H. Cormen",
@@ -591,7 +591,7 @@
             "lang": "English"
         },
         {
-            "id": 2,
+            "id": 66,
             "name": "Automate the boring stuff with python",
             "author": "Al Sweigart",
             "tagline": "Practical Programming for complete beginners",
@@ -601,7 +601,7 @@
             "lang": "English"
         },
         {
-            "id": 3,
+            "id": 67,
             "name": "Beginning Modern Unix",
             "author": "Manish Jain",
             "tagline": "Learn to live comfortably in a modern Unix Environment",
@@ -611,7 +611,7 @@
             "lang": "English"
         },
         {
-            "id": 4,
+            "id": 68,
             "name": "C How to Program",
             "author": "Paul Deitel, Harvey Deitel",
             "tagline": "With an Introduction to C++",
@@ -621,7 +621,7 @@
             "lang": "English"
         },
         {
-            "id": 5,
+            "id": 69,
             "name": "C++ Programming",
             "author": "Behrouz A. Forouzan, Richard F. Gilberg",
             "tagline": "An Object Oriented Approach",
@@ -631,7 +631,7 @@
             "lang": "English"
         },
         {
-            "id": 6,
+            "id": 70,
             "name": "Clean Code",
             "author": "Robert C. Martin",
             "tagline": "A Handbook of Agile Software Craftsmanship",
@@ -641,7 +641,7 @@
             "lang": "English"
         },
         {
-            "id": 7,
+            "id": 71,
             "name": "Computer Systems",
             "author": "Ata Elahi",
             "tagline": "Digital Design, Fundamentals of Computer Architecture",
@@ -651,7 +651,7 @@
             "lang": "English"
         },
         {
-            "id": 8,
+            "id": 72,
             "name": "Cracking Codes With Python",
             "author":"Al Sweigart",
             "tagline": "An Introduction to Builsing and Breaking Ciphers",
@@ -661,7 +661,7 @@
             "lang": "English"
         },
         {
-            "id": 9,
+            "id": 73,
             "name": "Data Science from Scratch",
             "author": "Joel Grus",
             "tagline": "First Principles with Python",
@@ -671,7 +671,7 @@
             "lang": "English"
         },
         {
-            "id": 10,
+            "id": 74,
             "name": "Flask Web Development",
             "author": "Miguel Grinberg",
             "tagline": "Developing Web Applications with Python",
@@ -681,7 +681,7 @@
             "lang": "English"
         },
         {
-            "id": 11,
+            "id": 75,
             "name": "Fundamentals of Software Engineering",
             "author": "Rajib Mall",
             "tagline": "Rajib Mall",
@@ -691,7 +691,7 @@
             "lang": "English"
         },
         {
-            "id": 12,
+            "id": 76,
             "name": "How Linux Works",
             "author": "Brian Ward",
             "tagline": "What Every Superuser Should Know",
@@ -701,7 +701,7 @@
             "lang": "English"
         },
         {
-            "id": 13,
+            "id": 77,
             "name": "IOS 12 Programming Fundamental with Swift",
             "author": "Matt Neuburg",
             "tagline": "Swift, Xcode and Cocoa Basics",
@@ -711,7 +711,7 @@
             "lang": "English"
         },
         {
-            "id": 14,
+            "id": 78,
             "name": "Introduction to Algorithms",
             "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest , Clifford Stein",
             "tagline": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest , Clifford Stein",
@@ -721,7 +721,7 @@
             "lang": "English"
         },
         {
-            "id": 15,
+            "id": 79,
             "name": "Java for Absolute Beginners",
             "author": "Luliana Cosmina",
             "tagline": "Learn to Program the Fundamentals",
@@ -731,7 +731,7 @@
             "lang": "English"
         },
         {
-            "id": 16,
+            "id": 80,
             "name": "Learn Android Studio 3 with Kotlin",
             "author": "Ted Hagos",
             "tagline": "Efficient Android App Development",
@@ -741,7 +741,7 @@
             "lang": "English"
         },
         {
-            "id": 17,
+            "id": 81,
             "name": "Machine Learning",
             "author": "Rudolph Russel",
             "tagline": "Step-by-Step Guide To Implement Machine Learning Algorithm with Python",
@@ -751,7 +751,7 @@
             "lang": "English"
         },
         {
-            "id": 18,
+            "id": 82,
             "name": "Mastering Machine Learning with Python in Six Steps",
             "author": "Manohar Swamynathan",
             "tagline": "A Practical Implementation Guide to Predictive Data Analytics",
@@ -761,7 +761,7 @@
             "lang": "English"
         },
         {
-            "id": 19,
+            "id": 83,
             "name": "Python Crash Course",
             "author": "Eric Matthes",
             "tagline": "A Hands On, Project Based Introduction to Programming",
@@ -771,7 +771,7 @@
             "lang": "English"
         },
         {
-            "id": 20,
+            "id": 84,
             "name": "Python Pocket Reference 5th Edition",
             "author": "Mark Lutz",
             "tagline": "Python in Your Pocket",
@@ -781,7 +781,7 @@
             "lang": "English"
         },
         {
-            "id": 21,
+            "id": 85,
             "name": "Angular 5 Projects",
             "author": "Mark Clow",
             "tagline": "Learn to Build Single Page Web Application Using 70+ Projects",
@@ -791,7 +791,7 @@
             "lang": "English"
         },
         {
-            "id": 22,
+            "id": 86,
             "name": "Data Structures and Algorithms in C++",
             "author": "Adam Drozdek",
             "tagline": "Adam Drozdek",
@@ -801,7 +801,7 @@
             "lang": "English"
         },
         {
-            "id": 23,
+            "id": 87,
             "name": "Flutter Recipes Mobile Development",
             "author": "Fu Cheng",
             "tagline": "Solutions for iOS and Android",
@@ -811,7 +811,7 @@
             "lang": "English"
         },
         {
-            "id": 24,
+            "id": 88,
             "name": "Full Stack JavaScript",
             "author": "Azat Mardan",
             "tagline": "Learn Backbone.js, Node.js, and MongoDB",
@@ -821,7 +821,7 @@
             "lang": "English"
         },
         {
-            "id": 25,
+            "id": 89,
             "name": "Google Flutter Mobile Development",
             "author": "Prajyot Manikar, Salvatore Giordano",
             "tagline": "Get up and running with iOS and Android mobile app development",
@@ -831,7 +831,7 @@
             "lang": "English"
         },
         {
-            "id": 26,
+            "id": 90,
             "name": "Learning PHP, MySQL, & JavaScript",
             "author": "Robin Nixon",
             "tagline": "With JQuery, CSS & HTML5",
@@ -841,7 +841,7 @@
             "lang": "English"
         },
         {
-            "id": 27,
+            "id": 91,
             "name": "Linux Basics for Hackers",
             "author": "Occupytheweb",
             "tagline": "Getting Started with Networking, Scripting, and Security in Kali",
@@ -851,7 +851,7 @@
             "lang": "English"
         },
         {
-            "id": 28,
+            "id": 92,
             "name": "Java How to Program Early Objects",
             "author": "Paul Deitel, Harvey Deitel",
             "tagline": "Paul Deitel, Harvey Deitel",
@@ -861,7 +861,7 @@
             "lang": "English"
         },
         {
-            "id": 29,
+            "id": 93,
             "name": "Java Program Design",
             "author": "Edward Sciore",
             "tagline": "Principles, Polymorphism, and Patterns",
@@ -871,7 +871,7 @@
             "lang": "English"
         },
         {
-            "id": 30,
+            "id": 94,
             "name": "JavaScript Data Structures and Algorithm",
             "author": "Sammie Bae",
             "tagline": "An Introduction to Understanding and Implementing Core Data Structure and Algoritm Fundamentals",
@@ -881,7 +881,7 @@
             "lang": "English"
         },
         {
-            "id": 31,
+            "id": 95,
             "name": "Learn Keras for Deep Neural Networks",
             "author": "Jojo Moolayil",
             "tagline": "A Fast-Track Approach to Modern Deep Learning with Python",
@@ -891,7 +891,7 @@
             "lang": "English"
         },
         {
-            "id": 32,
+            "id": 96,
             "name": "Learn Python 3 The Hard Way",
             "author": "Zed Shaw",
             "tagline": "A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code",
@@ -901,7 +901,7 @@
             "lang": "English"
         },
         {
-            "id": 33,
+            "id": 97,
             "name": "Linux For Beginners",
             "author": "Adam Vardy",
             "tagline": "The Ultimate Guide To The Linux Operating System & Linux",
@@ -911,7 +911,7 @@
             "lang": "English"
         },
         {
-            "id": 34,
+            "id": 98,
             "name": "Machine Learning with Python Cookbook",
             "author": "Chris Albon",
             "tagline": "Practical Solutions from Preprocessing to Deep Learning",
@@ -921,7 +921,7 @@
             "lang": "English"
         },
         {
-            "id": 35,
+            "id": 99,
             "name": "Object Oriented Programming With C++",
             "author": "E. Balagurusamy",
             "tagline": "E. Balagurusamy",
@@ -931,7 +931,7 @@
             "lang": "English"
         },
         {
-            "id": 36,
+            "id": 100,
             "name": "Operating System Concepts and Basic Linux Command",
             "author": "Shital Vivek Ghate",
             "tagline": "Shital Vivek Ghate",
@@ -941,7 +941,7 @@
             "lang": "English"
         },
         {
-            "id": 37,
+            "id": 101,
             "name": "Practical Flutter",
             "author": "Frank Zammetti",
             "tagline": "Improve your Mobile Development with Google's Latest Open-Source SDK",
@@ -951,7 +951,7 @@
             "lang": "English"
         },
         {
-            "id": 38,
+            "id": 102,
             "name": "Pro Angular 9",
             "author": "Adam Freeman",
             "tagline": "Build Powerful and Dynamic Web Apps",
@@ -961,7 +961,7 @@
             "lang": "English"
         },
         {
-            "id": 39,
+            "id": 103,
             "name": "Serious Python",
             "author": "Julien Danjou",
             "tagline": "Black-Belt Advice on Deployment, Scalability, Testing, and More",
@@ -971,7 +971,7 @@
             "lang": "English"
         },
         {
-            "id": 40,
+            "id": 104,
             "name": "The Full Stack Developer",
             "author": "Chris Northwood",
             "tagline": "Your Essential Guide to the Everyday Skills Expected of a Modern Full Stack Web Developer",
@@ -981,7 +981,7 @@
             "lang": "English"
         },
         {
-            "id": 41,
+            "id": 105,
             "name": "Web Development with Angular and Bootstrap",
             "author": "Sridhar Rao Chivukula, Aki Iskandar",
             "tagline": "Embrace responsive web design and build adaptive Angular web applications",
@@ -991,7 +991,7 @@
             "lang": "English"
         },
         {
-            "id": 42,
+            "id": 106,
             "name": "Mastering Object-Oriented Python",
             "author": "Steven F. Lott",
             "tagline": "Build powerful applications with resuable code using OOP design pattern and Python 3.7",
@@ -1001,7 +1001,7 @@
             "lang": "English"
         },
         {
-            "id": 43,
+            "id": 107,
             "name": "Beyond Artificial Intelligence",
             "author": "Alain Cardon",
             "tagline": "From Human Consciousness to Artificial Consciousness",
@@ -1011,7 +1011,7 @@
             "lang": "English"
         },
         {
-            "id": 44,
+            "id": 108,
             "name": "Building Your Online Store with Wordpress and WooCommerce",
             "author": "Lisa Sims",
             "tagline": "Learn to Leverage the Critical Role Ecommerce Plays in Today's Competitive Marketplace",
@@ -1021,7 +1021,7 @@
             "lang": "English"
         },
         {
-            "id": 45,
+            "id": 109,
             "name": "C++ Crash Course",
             "author": "Josh Lospinoso",
             "tagline": "A Fast-Paced Introduction",
@@ -1031,7 +1031,7 @@
             "lang": "English"
         },
         {
-            "id": 46,
+            "id": 110,
             "name": "Clean Architecture",
             "author": "Robert C. Martin",
             "tagline": "A Craftsman's Guide to Software Structures and Design",
@@ -1041,7 +1041,7 @@
             "lang": "English"
         },
         {
-            "id": 47,
+            "id": 111,
             "name": "Cyber Operations",
             "author": "Mike O'Leary",
             "tagline": "Building, Defending, and Attacking Modern Computer Networks",
@@ -1051,7 +1051,7 @@
             "lang": "English"
         },
         {
-            "id": 48,
+            "id": 112,
             "name": "Cyber Security",
             "author": "Thomas A. Jhonson",
             "tagline": "Protecting Critical Infrastructures from Cyber Attack and Cyber Warfare",
@@ -1061,7 +1061,7 @@
             "lang": "English"
         },
         {
-            "id": 49,
+            "id": 113,
             "name": "Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow",
             "author": "Aurelien Géron",
             "tagline": "Concepts, Tools, and Techniques to Build Intelligent Systems",
@@ -1071,7 +1071,7 @@
             "lang": "English"
         },
         {
-            "id": 50,
+            "id": 114,
             "name": "Impractical Python Projects",
             "author": "Lee Vaughan",
             "tagline": "Playful Programming Activities to Make You Smarter",
@@ -1081,7 +1081,7 @@
             "lang": "English"
         },
         {
-            "id": 51,
+            "id": 115,
             "name": "Invent Your Own Computer Games with Python",
             "author": "Al Sweigart",
             "tagline": "Al Sweigart",
@@ -1091,7 +1091,7 @@
             "lang": "English"
         },
         {
-            "id": 52,
+            "id": 116,
             "name": "Kali Linux Revealed",
             "author": "Raphael Hertzog, Jim O'Gorman, Mati Aharoni",
             "tagline": "Mastering the Penetration Testing Distribution",
@@ -1101,7 +1101,7 @@
             "lang": "English"
         },
         {
-            "id": 53,
+            "id": 117,
             "name": "Learn Java The Easy Way",
             "author": "Bryson Payne",
             "tagline": "A Hands-on Introduction to Programming",
@@ -1111,7 +1111,7 @@
             "lang": "English"
         },
         {
-            "id": 54,
+            "id": 118,
             "name": "Math Adventures With Python",
             "author": "Peter Farrell",
             "tagline": "An Illustrated Guide to Exploring Math with Code",
@@ -1121,7 +1121,7 @@
             "lang": "English"
         },
         {
-            "id": 55,
+            "id": 119,
             "name": "Numerical Python",
             "author": "Robert Johansson",
             "tagline": "Scientific Computing and Data Science Application with Numpy, SciPy and Matplotlib",
@@ -1131,7 +1131,7 @@
             "lang": "English"
         },
         {
-            "id": 56,
+            "id": 120,
             "name": "Pro Deep Learning with TensorFlow",
             "author": "Santanu Pattanayak",
             "tagline": "A Mathematical Approach to Advanced Artificial Intelligence in Python",
@@ -1141,7 +1141,7 @@
             "lang": "English"
         },
         {
-            "id": 57,
+            "id": 121,
             "name": "Python Artificial Intelligence Projects for Beginners",
             "author": "Joshua Eckorth",
             "tagline": "Get up and running with Artificial Intelligence using 8 smart and exciting AI applications",
@@ -1151,7 +1151,7 @@
             "lang": "English"
         },
         {
-            "id": 58,
+            "id": 122,
             "name": "Wicked Cool Shell Scripts",
             "author": "Dave Taylor, Brandon Perry",
             "tagline": "101 Scripts for Linux, OS X, and Unix System",
@@ -1161,7 +1161,7 @@
             "lang": "English"
         },
         {
-            "id": 59,
+            "id": 123,
             "name": "eCommerce in the Cloud",
             "author": "Kelly Goetsch",
             "tagline": "Bringing Elasticity to Ecommerce",
@@ -1171,7 +1171,7 @@
             "lang": "English"
         },
         {
-            "id": 60,
+            "id": 124,
             "name": "Beginning PHP and MySQL",
             "author": "Frank M. Kromann",
             "tagline": "From Novice to Professional",
@@ -1181,7 +1181,7 @@
             "lang": "English"
         },
         {
-            "id": 61,
+            "id": 125,
             "name": "Building Chatbots with Python",
             "author": "Sumit Raj",
             "tagline": "Using Natural Language Processing and Machine Learning",
@@ -1191,7 +1191,7 @@
             "lang": "English"
         },
         {
-            "id": 62,
+            "id": 126,
             "name": "Computer Architecture",
             "author": "John L. Hennessy, David A. Patterson",
             "tagline": "A Quantitive Approach",
@@ -1201,7 +1201,7 @@
             "lang": "English"
         },
         {
-            "id": 63,
+            "id": 127,
             "name": "Deep Learning for Coders with fastai & PyTorch",
             "author": "Jeremy Howard, Sylvain Gugger",
             "tagline": "AI Applications Without a PhD",
@@ -1211,7 +1211,7 @@
             "lang": "English"
         },
         {
-            "id": 64,
+            "id": 128,
             "name": "JavaScript The Definitive Guide",
             "author": "David Flanagan",
             "tagline": "Master the World's Most-Used Programming Language",
@@ -1221,7 +1221,7 @@
             "lang": "English"
         },
         {
-            "id": 65,
+            "id": 129,
             "name": "Learning OpenCV 3",
             "author": "Adrian Kaehler, Gary Bradski",
             "tagline": "Computer Vision in C++ with the OpenCV Library",
@@ -1231,7 +1231,7 @@
             "lang": "English"
         },
         {
-            "id": 66,
+            "id": 130,
             "name": "Learning Web Design",
             "author": "Jennifer Niederst Robbins",
             "tagline": "A Beginners's Guide to HTML, CSS, JavaScript, and Web Graphics",
@@ -1241,7 +1241,7 @@
             "lang": "English"
         },
         {
-            "id": 67,
+            "id": 131,
             "name": "Machine Learning Applications Using Python",
             "author": "Puneet Mathur",
             "tagline": "Cases Studies from Healthcare, Retail, and Finance",
@@ -1251,7 +1251,7 @@
             "lang": "English"
         },
         {
-            "id": 68,
+            "id": 132,
             "name": "Microservies Patterns",
             "author": "Chris Richardson",
             "tagline": "With Examples in Java",
@@ -1261,7 +1261,7 @@
             "lang": "English"
         },
         {
-            "id": 69,
+            "id": 133,
             "name": "Natural Language Processing Recipes",
             "author": "Akshay Kulkarni, Adarsha Shivananda",
             "tagline": "Unlocking Text Data with Machine Learning and Deep Learning using Python",
@@ -1271,7 +1271,7 @@
             "lang": "English"
         },
         {
-            "id": 70,
+            "id": 134,
             "name": "Practical C++ Design",
             "author": "Adam B. Singer",
             "tagline": "From Programming to Architecture",
@@ -1281,7 +1281,7 @@
             "lang": "English"
         },
         {
-            "id": 71,
+            "id": 135,
             "name": "Test-Driven Development with Python",
             "author": "Harry J.W. Percival",
             "tagline": "Obey the Testing Goat: Using Django, Selenium & JavaScript",
@@ -1291,7 +1291,7 @@
             "lang": "English"
         },
         {
-            "id": 72,
+            "id": 136,
             "name": "Web Scraping with Python",
             "author": "Ryan Mitchell",
             "tagline": "Collecting More Data from the Modern Web",
@@ -1301,7 +1301,7 @@
             "lang": "English"
         },
         {
-            "id": 73,
+            "id": 137,
             "name": "Algorithms",
             "author": "Robert Sedgewick, Kevin Wayne",
             "tagline": "Essential Information about Algorithms and Data Structures",
@@ -1311,7 +1311,7 @@
             "lang": "English"
         },
         {
-            "id": 74,
+            "id": 138,
             "name": "Computer Graphics, C Version",
             "author": "Donald Hearn, M. Pauline Baker",
             "tagline": "Donald Baker, M. Pauline Hearn",
@@ -1321,7 +1321,7 @@
             "lang": "English"
         },
         {
-            "id": 75,
+            "id": 139,
             "name": "Computer Networking",
             "author": "Kurose, Ross",
             "tagline": "A Top-Down Approach",
@@ -1331,7 +1331,7 @@
             "lang": "English"
         },
         {
-            "id": 76,
+            "id": 140,
             "name": "Cracking Coding Interview",
             "author": "Gayle Laakmann Mcdowell",
             "tagline": "189 Programming Questions & Solutions",
@@ -1341,7 +1341,7 @@
             "lang": "English"
         },
         {
-            "id": 77,
+            "id": 141,
             "name": "Deep Learning from Scratch",
             "author": "Seth Weidmon",
             "tagline": "Building with Python from First Principles",
@@ -1351,7 +1351,7 @@
             "lang": "English"
         },
         {
-            "id": 78,
+            "id": 142,
             "name": "Doing Math with Python",
             "author": "Amit Saha",
             "tagline": "Use Programming to Explore Algebra, Statistics, Calculus, and More",
@@ -1361,7 +1361,7 @@
             "lang": "English"
         },
         {
-            "id": 79,
+            "id": 143,
             "name": "Fluent Python",
             "author": "Luciano Ramalho",
             "tagline": "Clear, Concise, and Effecive Programming",
@@ -1371,7 +1371,7 @@
             "lang": "English"
         },
         {
-            "id": 80,
+            "id": 144,
             "name": "MongoDB The Definitive Guide",
             "author": "Shannon Bradshaw, Eoin Brazil, Kristina Chodorow",
             "tagline": "Powerful and Scalable Data Storage",
@@ -1381,7 +1381,7 @@
             "lang": "English"
         },
         {
-            "id": 81,
+            "id": 145,
             "name": "The Road to Learn React",
             "author": "Robin Wieruch",
             "tagline": "Your journey to Master Plain Yet Pragmatic React.js",
@@ -1391,7 +1391,7 @@
             "lang": "English"
         },
         {
-            "id": 82,
+            "id": 146,
             "name": "The TCP/IP Guide",
             "author": "Charles M. Kozeirok",
             "tagline": "A Comprehensive, Illustrated Internet Protocols Reference",
@@ -1401,7 +1401,7 @@
             "lang": "English"
         },
         {
-            "id": 83,
+            "id": 147,
             "name": "Classic Computer Science Problems in Python",
             "author": "David Kopec",
             "tagline": "David Kopec",
@@ -1411,7 +1411,7 @@
             "lang": "English"
         },
         {
-            "id": 84,
+            "id": 148,
             "name": "Code Complete",
             "author": "Steve McConnell",
             "tagline": "A Practical Handbook of Software Construction",
@@ -1421,7 +1421,7 @@
             "lang": "English"
         },
         {
-            "id": 85,
+            "id": 149,
             "name": "Effective Modern C++",
             "author": "Scott Meyers",
             "tagline": "42 Specific Ways To Improve Your Use Of C++11 and C++14",
@@ -1431,7 +1431,7 @@
             "lang": "English"
         },
         {
-            "id": 86,
+            "id": 150,
             "name": "Hacking",
             "author": "Jon Erikson",
             "tagline": "The Art Of Exploitation",
@@ -1441,7 +1441,7 @@
             "lang": "English"
         },
         {
-            "id": 87,
+            "id": 151,
             "name": "JavaScript And JQuery",
             "author": "Jon Duckett",
             "tagline": "Interactive Front-End Web Development",
@@ -1451,7 +1451,7 @@
             "lang": "English"
         },
         {
-            "id": 88,
+            "id": 152,
             "name": "Learning React",
             "author": "Alex Banks, Eve Porcello",
             "tagline": "Functional Web Development With React And Flux",
@@ -1461,7 +1461,7 @@
             "lang": "English"
         },
         {
-            "id": 89,
+            "id": 153,
             "name": "Refactoring",
             "author": "Martin Fowler",
             "tagline": "Improving The Design of Existing Code",
@@ -1471,7 +1471,7 @@
             "lang": "English"
         },
         {
-            "id": 90,
+            "id": 154,
             "name": "Secrets of The JavaScript Ninja",
             "author": "John Resig, Bear Bibeault, Josip Maras",
             "tagline": "Jhon Resig, Bear Bibeault, Josip Maras",
@@ -1481,7 +1481,7 @@
             "lang": "English"
         },
         {
-            "id": 91,
+            "id": 155,
             "name": "The C++ Programming Language",
             "author": "Bjarne Stroustrup",
             "tagline": "Bjarne Stroustrup",
@@ -1491,7 +1491,7 @@
             "lang": "English"
         },
         {
-            "id": 92,
+            "id": 156,
             "name": "The Pragmatic Programmer",
             "author": "David Thomas, Andrew Hunt",
             "tagline": "Your Journey To Mastery",
@@ -1501,7 +1501,7 @@
             "lang": "English"
         },
         {
-            "id": 93,
+            "id": 157,
             "name": "The Clean Coder",
             "author": "Robert C. Martin",
             "tagline": "A Code of Conduct for Professional Programmers",
@@ -1511,7 +1511,7 @@
             "lang": "English"
         },
         {
-            "id": 94,
+            "id": 158,
             "name": "C Primer Plus",
             "author": "Stephen Prata",
             "tagline": "Stephen Prata",
@@ -1521,7 +1521,7 @@
             "lang": "English"
         },
         {
-            "id": 95,
+            "id": 159,
             "name": "C The Complete Reference",
             "author": "Herbert Schildt",
             "tagline": "Herbert Schildt",
@@ -1531,7 +1531,7 @@
             "lang": "English"
         },
         {
-            "id": 96,
+            "id": 160,
             "name": "C++ Primer",
             "author": "Stanley B. Lippman, Josee Lajoie, Barbara E. Moo",
             "tagline": "Stanley B. Lippman, Josée Lajoie, Barbara E. Moo",
@@ -1541,7 +1541,7 @@
             "lang": "English"
         },
         {
-            "id": 97,
+            "id": 161,
             "name": "HTML & CSS",
             "author": "Jon Duckett",
             "tagline": "Design and Build Websites",
@@ -1551,7 +1551,7 @@
             "lang": "English"
         },
         {
-            "id": 98,
+            "id": 162,
             "name": "Head First C",
             "author": "David Griffiths, Dawn Griffiths",
             "tagline": "David Griffiths, Dawn Griffiths",
@@ -1561,7 +1561,7 @@
             "lang": "English"
         },
         {
-            "id": 99,
+            "id": 163,
             "name": "Learn C The Hard Way",
             "author": "Zed A. Shaw",
             "tagline": "Practical Exercises on the Computional Subjects You Keep Avoiding(Like C)",
@@ -1571,7 +1571,7 @@
             "lang": "English"
         },
         {
-            "id": 100,
+            "id": 164,
             "name": "Let Us C",
             "author": "Yashvant Kanetkar",
             "tagline": "Authentic Guide To C Programming Language",
@@ -1581,7 +1581,7 @@
             "lang": "English"
         },
         {
-            "id": 101,
+            "id": 165,
             "name": "Eloquent JavaScript",
             "author": "Marijn Haverbeke",
             "tagline": "A Modern Introduction to Programming",
@@ -1591,7 +1591,7 @@
             "lang": "English"
         },
         {
-            "id": 102,
+            "id": 166,
             "name": "Big Data Analytics",
             "author": "Arshdeep Bahga, Vijay Madisetti",
             "tagline": "A Hands-On Approach",
@@ -1601,7 +1601,7 @@
             "lang": "English"
         },
         {
-            "id": 103,
+            "id": 167,
             "name": "Cloud Native",
             "author": "Boris Scholl, Trent Swanson, Peter Jausovec",
             "tagline": "Using Containers, Functions, and Data to Build Next-Generation Applications",
@@ -1611,7 +1611,7 @@
             "lang": "English"
         },
         {
-            "id": 104,
+            "id": 168,
             "name": "Cloud Native DevOps with Kubernetes",
             "author": "John Arundel, Justin Domingus",
             "tagline": "Building, Deploying and Scaling Modern Applications in the Cloud",
@@ -1621,7 +1621,7 @@
             "lang": "English"
         },
         {
-            "id": 105,
+            "id": 169,
             "name": "Data Analytics",
             "author": "Arthur Zhang",
             "tagline": "Practical Guide to Leveraging the Power of Algoriths, Data Science, Data Mining, Statistics, Big Data, and Predictive Analysis to Improve Business, Work, and Life",
@@ -1631,7 +1631,7 @@
             "lang": "English"
         },
         {
-            "id": 106,
+            "id": 170,
             "name": "Data Structure and Algorithmic Thinking with Python",
             "author": "Narasimha Karumanchi",
             "tagline": "Data Structure and Algorithmic Puzzels",
@@ -1641,7 +1641,7 @@
             "lang": "English"
         },
         {
-            "id": 107,
+            "id": 171,
             "name": "Data Structures and Algorithms Made Easy",
             "author": "Narasimha Karumanchi",
             "tagline": "Data Structure and Algorithmic Puzzels",
@@ -1651,7 +1651,7 @@
             "lang": "English"
         },
         {
-            "id": 108,
+            "id": 172,
             "name": "Data Structures and Algorithms with Python",
             "author": "Kent D. Lee, Steve Hubbard",
             "tagline": "Undergraduate Topics in Computer Science",
@@ -1661,7 +1661,7 @@
             "lang": "English"
         },
         {
-            "id": 109,
+            "id": 173,
             "name": "Data Visualization",
             "author": "Kieran Healy",
             "tagline": "A Practical Introduction",
@@ -1671,7 +1671,7 @@
             "lang": "English"
         },
         {
-            "id": 110,
+            "id": 174,
             "name": "Fundamentals of Python",
             "author": "Kenneth A. Lambert",
             "tagline": "Data Structures",
@@ -1681,7 +1681,7 @@
             "lang": "English"
         },
         {
-            "id": 111,
+            "id": 175,
             "name": "Hands-On Data Structures and Algorithms with Python",
             "author": "Dr. Basant Agarwal, Benjamin Baka",
             "tagline": "Write complex and powerful code using the latest features of Python 3.7",
@@ -1691,7 +1691,7 @@
             "lang": "English"
         },
         {
-            "id": 112,
+            "id": 176,
             "name": "Kubernetes In Action",
             "author": "Marko Luksa",
             "tagline": "Marko Luksa",
@@ -1701,7 +1701,7 @@
             "lang": "English"
         },
         {
-            "id": 113,
+            "id": 177,
             "name": "Pandas for Everyone",
             "author": "Daniel Y. Chen",
             "tagline": "Python Data Analysis",
@@ -1711,7 +1711,7 @@
             "lang": "English"
         },
         {
-            "id": 114,
+            "id": 178,
             "name": "Practical Statistics for Data Scientists",
             "author": "Peter Bruce, Andrew Bruce, Peter Gedeck",
             "tagline": "50+ Essential Concepts Using R and Python",
@@ -1721,7 +1721,7 @@
             "lang": "English"
         },
         {
-            "id": 115,
+            "id": 179,
             "name": "Problem Solving and Python Programming",
             "author": "E. Balagurusamy",
             "tagline": "E. Balagurusamy",
@@ -1731,7 +1731,7 @@
             "lang": "English"
         },
         {
-            "id": 116,
+            "id": 180,
             "name": "Programming with Java A Primer",
             "author": "E. Balagurusamy",
             "tagline": "E. Balagurusamy",

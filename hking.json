@@ -19,7 +19,7 @@
             "desc": "This practical, tutorial-style book uses the Kali Linux distribution to teach Linux basics with a focus on how hackers would use them. Topics include Linux command line basics, filesystems, networking, BASH basics, package management, logging, and the Linux kernel and drivers. If you're getting started along the exciting path of hacking, cybersecurity, and pentesting, Linux Basics for Hackers is an excellent first step. Using Kali Linux, an advanced penetration testing distribution of Linux, you'll learn the basics of using the Linux operating system and acquire the tools and techniques you'll need to take control of a Linux environment."
         },
         {
-            "id": 1,
+            "id": 3,
             "name": "The Web Application Hacker's Handbook",
             "author": "Dafydd Stuttard, Marcus Pinto",
             "tagline": "Finding and Exploiting Security Flaws",
@@ -28,7 +28,7 @@
             "desc": "The highly successful security book returns with a new edition, completely updated Web applications are the front door to most organizations, exposing them to attacks that may disclose personal information, execute fraudulent transactions, or compromise ordinary users. This practical book has been completely updated and revised to discuss the latest step-by-step techniques for attacking and defending the range of ever-evolving web applications. You'll explore the various new technologies employed in web applications that have appeared since the first edition and review the new attack techniques that have been developed, particularly in relation to the client side."
         },
         {
-            "id": 1,
+            "id": 4,
             "name": "Penetration Testing",
             "author": "Georgia Weidman",
             "tagline": "A Hands-On Introduction to Hacking",
@@ -37,7 +37,7 @@
             "desc": "In Penetration Testing, security expert, researcher, and trainer Georgia Weidman introduces you to the core skills and techniques that every pentester needs. Using a virtual machine–based lab that includes Kali Linux and vulnerable operating systems, you’ll run through a series of practical lessons with tools like Wireshark, Nmap, and Burp Suite. As you follow along with the labs and launch attacks, you’ll experience the key stages of an actual assessment—including information gathering, finding exploitable vulnerabilities, gaining access to systems, post exploitation, and more."
         },
         {
-            "id": 1,
+            "id": 5,
             "name": "Gray Hat Python",
             "author": "Justin Seitz",
             "tagline": "Python Programming for Hackers and Reverse Engineers",
@@ -46,7 +46,7 @@
             "desc": "Gray Hat Python explains the concepts behind hacking tools and techniques like debuggers, trojans, fuzzers, and emulators. But author Justin Seitz goes beyond theory, showing you how to harness existing Python-based security tools—and how to build your own when the pre-built ones won't cut it."
         },
         {
-            "id": 1,
+            "id": 6,
             "name": "The Hacker Playbook 3",
             "author": "Peter Kim",
             "tagline": "Practical Guide To Penetration Testing",
@@ -55,7 +55,7 @@
             "desc": "The main purpose of this book is to answer questions as to why things are still broken. For instance, with all the different security products, secure code reviews, defense in depth, and penetration testing requirements, how are we still seeing massive security breaches happening to major corporations and governments? The real question we need to ask ourselves is, are all the safeguards we are putting in place working? This is what The Hacker Playbook 3 - Red Team Edition is all about."
         },
         {
-            "id": 1,
+            "id": 7,
             "name": "The Code Book",
             "author": "Simon Singh",
             "tagline": "How To Make It, Break It, Hack It, Crack It",
@@ -64,7 +64,7 @@
             "desc": "It’s known as the science of secrecy. Cryptography: the encoding and decoding of private information. And it is history’s most fascinating story of intrigue and cunning. From Julius Caesar and his Caesar Cipher to the code used by Mary Queen of Scots and her conspiracy to the use of the Engima machine during the Second World War, Simon Singh follows the evolution of secret writing."
         },
         {
-            "id": 1,
+            "id": 8,
             "name": "Hacking",
             "author": "Jeff Simon",
             "tagline": "Hacking Practical Guide for Beginners",
@@ -73,7 +73,7 @@
             "desc": "The first chapter of this book explains the basics of hacking and the different types of hackers. The second chapter has a detailed study plan for budding hackers. That study plan will help you improve your skills in a short period of time. The third chapter will teach you how to write your own codes using the Python programming language. The rest of the book contains detailed instructions on how you can become a skilled hacker and penetration tester."
         },
         {
-            "id": 1,
+            "id": 9,
             "name": "Black Hat Python",
             "author": "Justin Seitz",
             "tagline": "Python Programming for Hackers and Pentesters",
@@ -82,7 +82,7 @@
             "desc": "When it comes to creating powerful and effective hacking tools, Python is the language of choice for most security analysts. But just how does the magic happen? In Black Hat Python, the latest from Justin Seitz (author of the best-selling Gray Hat Python), you'll explore the darker side of Python's capabilities—writing network sniffers, manipulating packets, infecting virtual machines, creating stealthy trojans, and more."
         },
         {
-            "id": 1,
+            "id": 10,
             "name": "Computer Hacking for Beginners",
             "author": "Dr. Kevin James",
             "tagline": "Dr. Kevin James",
@@ -91,7 +91,7 @@
             "desc": "If you want to learn how to build efficient user interfaces with React, this is your book. Authors Alex Banks and Eve Porcello show you how to create UIs with this small JavaScript library that can deftly display data changes on large-scale, data-driven websites without page reloads. Along the way, you'll learn how to work with functional programming and the latest ECMAScript features. Developed by Facebook, and used by companies including Netflix, Walmart, and The New York Times for large parts of their web interfaces, React is quickly growing in use. By learning how to build React components with this hands-on guide, you'll fully understand how useful React can be in your organization. Learn key functional programming concepts with JavaScript Peek under the hood to understand how React runs in the browser Create application presentation layers by mounting and composing React components Use component trees to manage data and reduce the time you spend debugging applications Explore React's component lifecycle and use it to load data and improve UI performance Use a routing solution for browser history, bookmarks, and other features of single-page applications Learn how to structure React applications with servers in mind."
         },
         {
-            "id": 7,
+            "id": 11,
             "name": "Hacking",
             "author": "Jon Erikson",
             "tagline": "The Art Of Exploitation",
@@ -100,7 +100,7 @@
             "desc": "Hacking is the art of creative problem solving, whether that means finding an unconventional solution to a difficult problem or exploiting holes in sloppy programming. Many people call themselves hackers, but few have the strong technical foundation needed to really push the envelope. Rather than merely showing how to run existing exploits, author Jon Erickson explains how arcane hacking techniques actually work. To share the art and science of hacking in a way that is accessible to everyone, Hacking: The Art of Exploitation, 2nd Edition introduces the fundamentals of C programming from a hacker's perspective."
         },
         {
-            "id": 14,
+            "id": 12,
             "name": "Cyber Operations",
             "author": "Mike O'Leary",
             "tagline": "Building, Defending, and Attacking Modern Computer Networks",
@@ -109,7 +109,7 @@
             "desc": "Cyber Operations walks you through all the processes to set up, defend, and attack computer networks. This book focuses on networks and real attacks, offers extensive coverage of offensive and defensive techniques, and is supported by a rich collection of exercises and resources. You'll learn how to configure your network from the ground up, starting by setting up your virtual test environment with basics like DNS and active directory, through common network services, and ending with complex web applications involving web servers and backend databases."
         },
         {
-            "id": 15,
+            "id": 13,
             "name": "Cyber Security",
             "author": "Thomas A. Jhonson",
             "tagline": "Protecting Critical Infrastructures from Cyber Attack and Cyber Warfare",

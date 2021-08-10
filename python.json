@@ -10,7 +10,7 @@
             "desc": "Python is today's fastest growing programming language. This engaging and refreshingly different guide breaks down the skills into clear step-by-step chunks and explains the theory using brief easy-to-understand language. Rather than bamboozling readers with pages of mind-numbing technical jargon, this book includes 150 practical challenges, putting the power in the reader's hands. Through creating programs to solve these challenges the reader will quickly progress from mastering the basics to confidently using subroutines, a graphical user interface, and linking to external text, csv and SQL files. This book is perfect for anyone who wants to learn how to program with Python. In particular, students starting out in computer science and teachers who want to improve their confidence in Python will find here a set of ready-made challenges for classroom use."
         },
         {
-            "id": 1,
+            "id": 2,
             "name": "Python Tricks The Book",
             "author": "Dan Bader",
             "tagline": "A Buffet of Awesome Python Features",
@@ -19,7 +19,7 @@
             "desc": "With Python Tricks: The Book you'll discover Python's best practices and the power of beautiful & Pythonic code with simple examples and a step-by-step narrative. You'll get one step closer to mastering Python, so you can write beautiful and idiomatic code that comes to you naturally. Learning the ins and outs of Python is difficult-and with this book you'll be able to focus on the practical skills that really matter. Discover the 'hidden gold' in Python's standard library and start writing clean and Pythonic code today."
         },
         {
-            "id": 1,
+            "id": 3,
             "name": "Practices of the Python Pro",
             "author": "Dane Hillard",
             "tagline": "Dane Hillard",
@@ -28,7 +28,7 @@
             "desc": "Practices of the Python Pro teaches you to design and write professional-quality software that’s understandable, maintainable, and extensible. Dane Hillard is a Python pro who has helped many dozens of developers make this step, and he knows what it takes. With helpful examples and exercises, he teaches you when, why, and how to modularize your code, how to improve quality by reducing complexity, and much more. Embrace these core principles, and your code will become easier for you and others to read, maintain, and reuse."
         },
         {
-            "id": 1,
+            "id": 4,
             "name": "Python Playground",
             "author": "Mahesh Venkitachalam",
             "tagline": "Geeky projects for the Curious Programmer",
@@ -37,7 +37,7 @@
             "desc": "Python Playground is a collection of imaginative programming projects that will inspire you to use Python to make art and music, build simulations of real-world phenomena, and interact with hardware like the Arduino and Raspberry Pi. You’ll learn to use common Python tools and libraries like numpy, matplotlib, and pygame to do things like: Generate Spirograph-like patterns using parametric equations and the turtle module, Create music on your computer by simulating frequency overtones, Translate graphical images into ASCII art, Write an autostereogram program that produces 3D images hidden beneath random patterns, Make realistic animations with OpenGL shaders by exploring particle systems, transparency, and billboarding techniques, Construct 3D visualizations using data from CT and MRI scans, Build a laser show that responds to music by hooking up your computer to an Arduino."
         },
         {
-            "id": 1,
+            "id": 5,
             "name": "Programming in Python",
             "author": "Dr. Pooja Sharma",
             "tagline": "Elementary support for students, programmers, researchers, and software developers",
@@ -46,7 +46,7 @@
             "desc": "This Book is meant for wide range of readers who wish to learn the basics of Python programming language. It can be helpful for students, programmers, researchers, and software developers. The basic concepts of python programming are dealt in detail. The various concepts of python language such as object-oriented features, operators, native data types, control structures, functions, exception handling, file handling, etc are discussed in detail with the authentic programming illustration of each. presently, python programming is a hot topic among academician’s researchers, and program developers. As a result, the book is designed to give an in-depth knowledge of programming in python. This book can be used as handbook as well as a guide for students of all computer science stream at any grade beginning from 10+1 to Research in PhD. To conclude, we hope that the readers will find this book a helpful guide and valuable source of information about python programming."
         },
         {
-            "id": 1,
+            "id": 6,
             "name": "Learning Python",
             "author": "Mark Lutz",
             "tagline": "Powerful Object-Oriented Programming",
@@ -55,7 +55,7 @@
             "desc": "Get a comprehensive, in-depth introduction to the core Python language with this hands-on book. Based on author Mark Lutz’s popular training course, this updated fifth edition will help you quickly write efficient, high-quality code with Python. It’s an ideal way to begin, whether you’re new to programming or a professional developer versed in other languages. Complete with quizzes, exercises, and helpful illustrations, this easy-to-follow, self-paced tutorial gets you started with both Python 2.7 and 3.3— the latest releases in the 3.X and 2.X lines—plus all other releases in common use today. You’ll also learn some advanced language features that recently have become more common in Python code."
         },
         {
-            "id": 42,
+            "id": 7,
             "name": "Mastering Object-Oriented Python",
             "author": "Steven F. Lott",
             "tagline": "Build powerful applications with resuable code using OOP design pattern and Python 3.7",
@@ -65,7 +65,7 @@
             "lang": "English"
         },
         {
-            "id": 1,
+            "id": 8,
             "name": "Automte the boring stuff with python",
             "author": "Al Sweigart",
             "tagline": "Practical Programming for Complete Beginners",
@@ -74,7 +74,7 @@
             "desc": "In Automate the Boring Stuff with Python, you'll learn how to use Python to write programs that do in minutes what would take you hours to do by hand-no prior programming experience required. Once you've mastered the basics of programming, you'll create Python programs that effortlessly perform useful and impressive feats of automation."
         },
         {
-            "id": 2,
+            "id": 9,
             "name": "Cracking Codes With Python",
             "author":"Al Sweigart",
             "tagline": "An Introduction to Builsing and Breaking Ciphers",
@@ -83,7 +83,7 @@
             "desc": "After a crash course in Python programming basics, you’ll learn to make, test, and hack programs that encrypt text with classical ciphers like the transposition cipher and Vigenère cipher. You’ll begin with simple programs for the reverse and Caesar ciphers and then work your way up to public key cryptography, the type of encryption used to secure today’s online transactions, including digital signatures, email, and Bitcoin."
         },
         {
-            "id": 3,
+            "id": 10,
             "name": "Python Crash Course",
             "author": "Eric Matthes",
             "tagline": "A Hands On, Project Based Introduction to Programming",
@@ -92,7 +92,7 @@
             "desc": "Python Crash Course is a fast-paced, thorough introduction to Python that will have you writing programs, solving problems, and making things that work in no time. In the first half of the book, you’ll learn about basic programming concepts, such as lists, dictionaries, classes, and loops, and practice writing clean and readable code with exercises for each topic. You’ll also learn how to make your programs interactive and how to test your code safely before adding it to a project."
         },
         {
-            "id": 4,
+            "id": 11,
             "name": "Python Pocket Reference 5th Edition",
             "author": "Mark Lutz",
             "tagline": "Python in Your Pocket",
@@ -101,7 +101,7 @@
             "desc": "Updated for both Python 3.4 and 2.7, this convenient pocket guide is the perfect on-the-job quick reference. You’ll find concise, need-to-know information on Python types and statements, special method names, built-in functions and exceptions, commonly used standard library modules, and other prominent Python tools. The handy index lets you pinpoint exactly what you need."
         },
         {
-            "id": 5,
+            "id": 12,
             "name": "Learn Python 3 The Hard Way",
             "author": "Zed Shaw",
             "tagline": "A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code",
@@ -110,7 +110,7 @@
             "desc": "In Learn Python 3 the Hard Way, you’ll learn Python by working through 52 brilliantly crafted exercises. Read them. Type their code precisely. (No copying and pasting!) Fix your mistakes. Watch the programs run. As you do, you’ll learn how a computer works; what good programs look like; and how to read, write, and think about code. Zed then teaches you even more in 5+ hours of video where he shows you how to break, fix, and debug your code—live, as he’s doing the exercises."
         },
         {
-            "id": 6,
+            "id": 13,
             "name": "Serious Python",
             "author": "Julien Danjou",
             "tagline": "Black-Belt Advice on Deployment, Scalability, Testing, and More",
@@ -119,7 +119,7 @@
             "desc": "An indispensable collection of practical tips and real-world advice for tackling common Python problems and taking your code to the next level. Features interviews with high-profile Python developers who share their tips, tricks, best practices, and real-world advice gleaned from years of experience. Sharpen your Python skills as you dive deep into the Python programming language with Serious Python. You'll cover a range of advanced topics like multithreading and memorization, get advice from experts on things like designing APIs and dealing with databases, and learn Python internals to help you gain a deeper understanding of the language itself."
         },
         {
-            "id": 7,
+            "id": 14,
             "name": "Impractical Python Projects",
             "author": "Lee Vaughan",
             "tagline": "Playful Programming Activities to Make You Smarter",
@@ -128,7 +128,7 @@
             "desc": "Impractical Python Projects is a collection of fun and educational projects designed to entertain programmers while enhancing their Python skills. It picks up where the complete beginner books leave off, expanding on existing concepts and introducing new tools that you'll use every day. And to keep things interesting, each project includes a zany twist featuring historical incidents, pop culture references, and literary allusions."
         },
         {
-            "id": 8,
+            "id": 15,
             "name": "Invent Your Own Computer Games with Python",
             "author": "Al Sweigart",
             "tagline": "Al Sweigart",
@@ -137,7 +137,7 @@
             "desc": "Invent Your Own Computer Games with Python will teach you how to make computer games using the popular Python programming language—even if you’ve never programmed before! Begin by building classic games like Hangman, Guess the Number, and Tic-Tac-Toe, and then work your way up to more advanced games, like a text-based treasure hunting game and an animated collision-dodging game with sound effects. Along the way, you’ll learn key programming and math concepts that will help you take your game programming to the next level."
         },
         {
-            "id": 9,
+            "id": 16,
             "name": "Math Adventures With Python",
             "author": "Peter Farrell",
             "tagline": "An Illustrated Guide to Exploring Math with Code",
@@ -146,7 +146,7 @@
             "desc": "Learn math by getting creative with code! Use the Python programming language to transform learning high school-level math topics like algebra, geometry, trigonometry, and calculus! Math Adventures with Python will show you how to harness the power of programming to keep math relevant and fun. With the aid of the Python programming language, you'll learn how to visualize solutions to a range of math problems as you use code to explore key mathematical concepts like algebra, trigonometry, matrices, and cellular automata."
         },
         {
-            "id": 10,
+            "id": 17,
             "name": "Web Scraping with Python",
             "author": "Ryan Mitchell",
             "tagline": "Collecting More Data from the Modern Web",
@@ -155,7 +155,7 @@
             "desc": "If programming is magic then web scraping is surely a form of wizardry. By writing a simple automated program, you can query web servers, request data and parse it to extract the information you need. The expanded edition of this practical book not only introduces you web scraping, but also serves as a comprehensive guide to scraping almost every type of data from the modern web."
         },
         {
-            "id": 11,
+            "id": 18,
             "name": "Doing Math with Python",
             "author": "Amit Saha",
             "tagline": "Use Programming to Explore Algebra, Statistics, Calculus, and More",
@@ -164,7 +164,7 @@
             "desc": "Doing Math with Python shows you how to use Python to delve into high school—level math topics like statistics, geometry, probability, and calculus. You'll start with simple projects, like a factoring program and a quadratic-equation solver, and then create more complex projects once you've gotten the hang of things. Along the way, you'll discover new ways to explore math and gain valuable programming skills that you'll use throughout your study of math and computer science."
         },
         {
-            "id": 12,
+            "id": 19,
             "name": "Fluent Python",
             "author": "Luciano Ramalho",
             "tagline": "Clear, Concise, and Effecive Programming",
@@ -173,7 +173,7 @@
             "desc": "Python’s simplicity lets you become productive quickly, but this often means you aren’t using everything it has to offer. With this hands-on guide, you’ll learn how to write effective, idiomatic Python code by leveraging its best—and possibly most neglected—features. Author Luciano Ramalho takes you through Python’s core language features and libraries, and shows you how to make your code shorter, faster, and more readable at the same time. Many experienced programmers try to bend Python to fit patterns they learned from other languages, and never discover Python features outside of their experience. With this book, those Python programmers will thoroughly learn how to become proficient in Python 3."
         },
         {
-            "id": 13,
+            "id": 20,
             "name": "Classic Computer Science Problems in Python",
             "author": "David Kopec",
             "tagline": "David Kopec",
@@ -182,7 +182,7 @@
             "desc": "Programming problems that seem new or unique are usually rooted in well-known engineering principles. Classic Computer Science Problems in Python guides you through time-tested scenarios, exercises, and algorithms that will prepare you for the “new” problems you’ll face when you start your next project. In this amazing book, you'll tackle dozens of coding challenges, ranging from simple tasks like binary search algorithms to clustering data using k-means. As you work through examples for web development, machine learning, and more, you'll remember important things you've forgotten and discover classic solutions that will save you hours of time."
         },
         {
-            "id": 14,
+            "id": 21,
             "name": "Problem Solving and Python Programming",
             "author": "E. Balagurusamy",
             "tagline": "E. Balagurusamy",

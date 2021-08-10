@@ -10,7 +10,7 @@
             "desc": "If you have an idea for a killer Android app, this fully revised and updated edition will help you build your first working application in a jiffy. Youíll learn hands-on how to structure your app, design flexible and interactive interfaces, run services in the background, make your app work on various smartphones and tablets, and much more. Itís like having an experienced Android developer sitting right next to you! All you need to get started is some Java know-how."
         },
         {
-            "id": 1,
+            "id": 2,
             "name": "Android Cookbook",
             "author": "Ian F. Darwin",
             "tagline": "Problem And Solutions for Andrid Developers",
@@ -19,7 +19,7 @@
             "desc": "This cookbook doesn't just teach you how to build Android apps; it also gives you the recipes you need to build real-world applications. Written by the author of the best-selling Java Cookbook and with contributions from many members of the Android community, this book shows you how to do everything: working with multitouch, dealing with the phone (and the camera, accelerometer, GPS and other built-in devices), working with web services, packaging an app for sale in the Android Market and more. This revised second edition includes new recipes on JSON, material design and Android Studio IDE. If this book doesn't show you how to do it, you probably don't need it. The Android is gradually overtaking the iPhone as the hottest platform in mobile computing. Make sure you're on the bandwagon."
         },
         {
-            "id": 1,
+            "id": 3,
             "name": "IOS 12 Programming Fundamental with Swift",
             "author": "Matt Neuburg",
             "tagline": "Swift, Xcode and Cocoa Basics",
@@ -28,7 +28,7 @@
             "desc": "If you're grounded in the basics of Swift, Xcode, and the Cocoa framework, this book provides a structured explanation of all essential real-world iOS app components. Through deep exploration and copious code examples, you'll learn how to create views, manipulate view controllers, and add features from iOS frameworks."
         },
         {
-            "id": 2,
+            "id": 4,
             "name": "Learn Android Studio 3 with Kotlin",
             "author": "Ted Hagos",
             "tagline": "Efficient Android App Development",
@@ -37,7 +37,7 @@
             "desc": "Build Android apps using the popular and efficient Android Studio 3 suite of tools, an integrated development environment (IDE) for Android developers using Java APIs. With this book, you’ll learn the latest and most productive tools in the Android tools ecosystem, ensuring quick Android app development and minimal effort on your part. Along the way, you’ll use Android Studio to develop Java-based Android apps, tier by tier through practical examples. These examples cover core Android topics such as notifications and toast; intents and broadcast receivers; and services. Then, you’ll learn how to publish your apps and sell them online and in the Google Play store."
         },
         {
-            "id": 3,
+            "id": 5,
             "name": "Flutter Recipes Mobile Development",
             "author": "Fu Cheng",
             "tagline": "Solutions for iOS and Android",
@@ -46,7 +46,7 @@
             "desc": "Take advantage of this comprehensive reference to solving common problems when developing with Flutter. Along with an introduction to the basic concepts of Flutter development, the recipes in this book cover all important aspects of this emerging technology, including development, testing, debugging, performance tuning, app publishing, and continuous integration."
         },
         {
-            "id": 4,
+            "id": 6,
             "name": "Google Flutter Mobile Development",
             "author": "Prajyot Manikar, Salvatore Giordano",
             "tagline": "Get up and running with iOS and Android mobile app development",
@@ -55,7 +55,7 @@
             "desc": "Flutter is a cross-platform mobile application development framework. It uses the Dart programming language, which was created by Google, and aims to make development easier, faster, and more efficient. This book is going to be your guide, from introducing Flutter to successfully developing a cross platform application."
         },
         {
-            "id": 5,
+            "id": 7,
             "name": "Practical Flutter",
             "author": "Frank Zammetti",
             "tagline": "Improve your Mobile Development with Google's Latest Open-Source SDK",

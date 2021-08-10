@@ -10,7 +10,7 @@
             "desc": "The Illustrated Network: How TCP/IP Works in a Modern Network, Second Edition presents an illustrated explanation on how TCP/IP works, using consistent examples from a working network configuration that includes servers, routers and workstations. Diagnostic traces allow the reader to follow the discussion with unprecedented clarity and precision. True to its title, there are 330+ diagrams and screenshots, as well as topology diagrams and a unique repeating chapter opening diagram. Illustrations are also used as end-of-chapter questions. Based on examples of a complete and modern network, all the material comes from real objects connected and running on the network."
         },
         {
-            "id": 1,
+            "id": 2,
             "name": "Computer Networks and Internets",
             "author": "Douglas E. Comer",
             "tagline": "Douglas E. Comer",
@@ -19,7 +19,7 @@
             "desc": "Leading networking authority Douglas Comer presents a wide-ranging, self-contained tour of the concepts, principles, and technologies that enable today’s Internet to support applications ranging from web browsing to telephony and multimedia. This Fifth Edition has been thoroughly reorganized, revised, and updated: it includes extensive new coverage of topics ranging from wireless protocols to network performance, while reducing or eliminating coverage of older protocols and technologies. Comer begins by illuminating the applications and facilities offered by today’s Internet. Next, he systematically introduces the underlying network technologies and protocols that make them possible: low-level data communications; packet switching, LAN, and WAN technologies; and Internet protocols such as TCP, IP, UDP, and IPv6. With these concepts and technologies established, he introduces several of the most important contemporary issues faced by network implementers and managers, including quality of service, Internet telephony, multimedia, network security, and network management. Comer has carefully designed this book to support both top-down and bottom-up teaching approaches. Students need no background in operating systems, and no sophisticated math: Comer relies throughout on figures, drawings, examples, and analogies, not mathematical proofs."
         },
         {
-            "id": 1,
+            "id": 3,
             "name": "Computer Networks",
             "author": "Tanebbaum, Wetherall",
             "tagline": "Tanenbaum, Wetherall",
@@ -28,7 +28,7 @@
             "desc": "Computer Networks, 5/e is appropriate for Computer Networking or Introduction to Networking courses at both the undergraduate and graduate level in Computer Science, Electrical Engineering, CIS, MIS, and Business Departments. Tanenbaum takes a structured approach to explaining how networks work from the inside out. He starts with an explanation of the physical layer of networking, computer hardware and transmission systems; then works his way up to network applications. Tanenbaum's in-depth application coverage includes email; the domain name system; the World Wide Web (both client- and server-side); and multimedia (including voice over IP, Internet radio video on demand, video conferencing, and streaming media. Each chapter follows a consistent approach: Tanenbaum presents key principles, then illustrates them utilizing real-world example networks that run through the entire book―the Internet, and wireless networks, including Wireless LANs, broadband wireless and Bluetooth. The Fifth Edition includes a chapter devoted exclusively to network security. The textbook is supplemented by a Solutions Manual, as well as a Website containing PowerPoint slides, art in various forms, and other tools for instruction, including a protocol simulator whereby students can develop and test their own network protocols."
         },
         {
-            "id": 82,
+            "id": 4,
             "name": "The TCP/IP Guide",
             "author": "Charles M. Kozeirok",
             "tagline": "A Comprehensive, Illustrated Internet Protocols Reference",
@@ -38,7 +38,7 @@
             "lang": "English"
         },
         {
-            "id": 1,
+            "id": 5,
             "name": "Data Communication and Networking",
             "author": "Behrouz A. Forouzan",
             "tagline": "Behrouz A. Forouzan",
@@ -47,7 +47,7 @@
             "desc": "Data Communications and Networking is designed to help students understand the basics of data communications and networking, and the protocols used in the Internet in particular by using the protocol layering of the Internet and TCP/IP protocol suite. Technologies related to data communication and networking may be the fastest growing in today's culture. The appearance of some new social networking applications is a testimony to this claim. In this Internet-oriented society, specialists need to be trained to run and manage the Internet, part of the Internet, or an organization's network that is connected to the Internet. As both the number and types of students are increasing, it is essential to have a textbook that provides coverage of the latest advances, while presenting the material in a way that is accessible to students with little or no background in the field."
         },
         {
-            "id": 13,
+            "id": 6,
             "name": "Computer Networking",
             "author": "Kurose, Ross",
             "tagline": "A Top-Down Approach",

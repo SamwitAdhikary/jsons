@@ -10,7 +10,7 @@
             "desc": "Introduction to Database Management Systems is designed specifically for a single semester, namely, the first course on Database Systems. The book covers all the essential aspects of database systems, and also covers the areas of RDBMS. The book in"
         },
         {
-            "id": 1,
+            "id": 2,
             "name": "Fundamentals of Database Systems",
             "author": "Elmasri, Navathe",
             "tagline": "Elmasri, Navathe",
@@ -19,7 +19,7 @@
             "desc": "Clear explanations of theory and design, broad coverage of models and real systems, and an up-to-date introduction to modern database technologies result in a leading introduction to database systems. Intended for computer science majors, Fundamentals of Database Systems, 6/e emphasizes math models, design issues, relational algebra, and relational calculus. A lab manual and problems give students opportunities to practice the fundamentals of design and implementation. Real-world examples serve as engaging, practical illustrations of database concepts. The Sixth Edition maintains its coverage of the most popular database topics, including SQL, security, and data mining, and features increased emphasis on XML and semi-structured data."
         },
         {
-            "id": 1,
+            "id": 3,
             "name": "How Software Works",
             "author": "V. Anton Spraul",
             "tagline": "The Magic Behind Encryption, CGI, Search Engines, and Other Everyday Technologies",
@@ -28,7 +28,7 @@
             "desc": "We use software every day to perform all kinds of magical, powerful tasks. It's the force behind stunning CGI graphics, safe online shopping, and speedy Google searches. Software drives the modern world, but its inner workings remain a mystery to many. How Software Works explains how computers perform common-yet-amazing tasks that we take for granted every day."
         },
         {
-            "id": 1,
+            "id": 4,
             "name": "Operating System Concepts",
             "author": "Abraham Silberschatz, Peter Baer Galvin, Greg Gagne",
             "tagline": "Abraham Silberschatz, Peter Baer Galvin, Greg Gagne",
@@ -37,7 +37,7 @@
             "desc": "The tenth edition of Operating System Concepts has been revised to keep it fresh and up-to-date with contemporary examples of how operating systems function, as well as enhanced interactive elements to improve learning and the student’s experience with the material. It combines instruction on concepts with real-world applications so that students can understand the practical usage of the content. End-of-chapter problems, exercises, review questions, and programming exercises help to further reinforce important concepts. New interactive self-assessment problems are provided throughout the text to help students monitor their level of understanding and progress. A Linux virtual machine (including C and Java source code and development tools) allows students to complete programming exercises that help them engage further with the material."
         },
         {
-            "id": 1,
+            "id": 5,
             "name": "Learning SQL",
             "author": "Alan Beaulieu",
             "tagline": "Generate, Manipulate, and Retrieve Data",
@@ -46,7 +46,7 @@
             "desc": "As data floods into your company, you need to put it to work right away—and SQL is the best tool for the job. With the latest edition of this introductory guide, author Alan Beaulieu helps developers get up to speed with SQL fundamentals for writing database applications, performing administrative tasks, and generating reports. You’ll find new chapters on SQL and big data, analytic functions, and working with very large databases."
         },
         {
-            "id": 1,
+            "id": 6,
             "name": "Dynamic Programming For Coding Interviews",
             "author": "Meenakshi, Kamal Rawat",
             "tagline": "A Bottom-Up Approach to Problem Solving",
@@ -55,7 +55,7 @@
             "desc": "Kamal Rawat is a software developer, trainer, author and an entrepreneur. He has first-hand experience of implementing full life cycle of large scale desktop, Cloud and Mobile applications across various domains and platforms. He had been a technical architect in complex projects like Microsoft OneNote, Adobe Photoshop and Samsung GalaxyConnect. He has also been in the core interview panel of Microsoft, Adobe and many start-ups."
         },
         {
-            "id": 1,
+            "id": 7,
             "name": "Think Like A Programmer",
             "author": "V. Anton Spraul",
             "tagline": "An Introduction to Creative Problem Solving",
@@ -64,7 +64,7 @@
             "desc": "The real challenge of programming isn't learning a language's syntax—it's learning to creatively solve problems so you can build something great. In this one-of-a-kind text, author V. Anton Spraul breaks down the ways that programmers solve problems and teaches you what other introductory books often ignore: how to Think Like a Programmer. Each chapter tackles a single programming concept, like classes, pointers, and recursion, and open-ended exercises throughout challenge you to apply your knowledge."
         },
         {
-            "id": 1,
+            "id": 8,
             "name": "Software Engineering at Google",
             "author": "Titus Winters, Tom Manshreck, Hyrum Wright",
             "tagline": "Lessons Learned from Programming Over Time",
@@ -73,7 +73,7 @@
             "desc": "Today, software engineers need to know not only how to program effectively but also how to develop proper engineering practices to make their codebase sustainable and healthy. This book emphasizes this difference between programming and software engineering. How can software engineers manage a living codebase that evolves and responds to changing requirements and demands over the length of its life? Based on their experience at Google, software engineers Titus Winters and Hyrum Wright, along with technical writer Tom Manshreck, present a candid and insightful look at how some of the world’s leading practitioners construct and maintain software. This book covers Google’s unique engineering culture, processes, and tools and how these aspects contribute to the effectiveness of an engineering organization. You’ll explore three fundamental principles that software organizations should keep in mind when designing, architecting, writing, and maintaining code: How time affects the sustainability of software and how to make your code resilient over time How scale affects the viability of software practices within an engineering organization What trade-offs a typical engineer needs to make when evaluating design and development decisions."
         },
         {
-            "id": 1,
+            "id": 9,
             "name": "Practical SQL",
             "author": "Anthony Debarros",
             "tagline": "A beginner's guide to Storytelling with Data",
@@ -82,7 +82,7 @@
             "desc": "Practical SQL is an approachable and fast-paced guide to SQL (Structured Query Language), the standard programming language for defining, organizing, and exploring data in relational databases. The book focuses on using SQL to find the story your data tells, with the popular open-source database PostgreSQL and the pgAdmin interface as its primary tools. You’ll first cover the fundamentals of databases and the SQL language, then build skills by analyzing data from the U.S. Census and other federal and state government agencies. With exercises and real-world examples in each chapter, this book will teach even those who have never programmed before all the tools necessary to build powerful databases and access information quickly and efficiently."
         },
         {
-            "id": 1,
+            "id": 10,
             "name": "Database System Concepts",
             "author": "Silberschatz, Korth, Sudarshan",
             "tagline": "Silberschatz, Korth, Sudarshan",
@@ -91,7 +91,7 @@
             "desc": "The book commences with a basic introduction, which discusses fundamental topics like Database Languages, Database Users and Administrators, Database Design, and Data Storage and Querying. Then, the book is segregated into ten section. Relational Databases, System Architecture, Speciality Databases, and Transaction Management are a few. Chapters like Object-Relational Mapping, Relevance Ranking Using Terms, and Distributed Data Storage are discussed in detail. This edition also provides a revised coverage of SQL, with greater attention to variants of SQL in actual systems and SQL features. There is also new material on support vector machines, and validation of classifiers."
         },
         {
-            "id": 112,
+            "id": 11,
             "name": "Kubernetes In Action",
             "author": "Marko Luksa",
             "tagline": "Marko Luksa",
@@ -101,7 +101,7 @@
             "lang": "English"
         },
         {
-            "id": 60,
+            "id": 12,
             "name": "Beginning PHP and MySQL",
             "author": "Frank M. Kromann",
             "tagline": "From Novice to Professional",
@@ -111,7 +111,7 @@
             "lang": "English"
         },
         {
-            "id": 1,
+            "id": 13,
             "name": "Clean Code",
             "author": "Robert C. Martin",
             "tagline": "A Handbook of Agile Software Craftsmanship",
@@ -120,7 +120,7 @@
             "desc": "Even bad code can function. But if code isn't clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn't have to be that way."
         },
         {
-            "id": 2,
+            "id": 14,
             "name": "Computer Systems",
             "author": "Ata Elahi",
             "tagline": "Digital Design, Fundamentals of Computer Architecture",
@@ -129,7 +129,7 @@
             "desc": "This textbook covers digital design, fundamentals of computer architecture, and assembly language. The book starts by introducing basic number systems, character coding, basic knowledge in digital design, and components of a computer. The book goes on to discuss information representation in computing; Boolean algebra and logic gates; sequential logic; input/output; and CPU performance."
         },
         {
-            "id": 3,
+            "id": 15,
             "name": "Fundamentals of Software Engineering",
             "author": "Rajib Mall",
             "tagline": "Rajib Mall",
@@ -138,7 +138,7 @@
             "desc": "Now in its fourth edition, this text has been restructured and revised to incorporate the latest advances in the field. It not only incorporates the latest and enhanced software engineering techniques and practices, but also shows how these techniques are applied into the practical software assignments. Chapters now incorporate illustrative examples to add an analytical insight on the subject."
         },
         {
-            "id": 4,
+            "id": 16,
             "name": "Clean Architecture",
             "author": "Robert C. Martin",
             "tagline": "A Craftsman's Guide to Software Structures and Design",
@@ -147,7 +147,7 @@
             "desc": "Practical Software Architecture Solutions from the Legendary Robert C. Martin (“Uncle Bob”) By applying universal rules of software architecture, you can dramatically improve developer productivity throughout the life of any software system. Now, building upon the success of his best-selling books Clean Code and The Clean Coder, legendary software craftsman Robert C. Martin (“Uncle Bob”) reveals those rules and helps you apply them. Martin’s Clean Architecture doesn’t merely present options. Drawing on over a half-century of experience in software environments of every imaginable type, Martin tells you what choices to make and why they are critical to your success. As you’ve come to expect from Uncle Bob, this book is packed with direct, no-nonsense solutions for the real challenges you’ll face—the ones that will make or break your projects. Learn what software architects need to achieve—and core disciplines and practices for achieving it Master essential software design principles for addressing function, component separation, and data management See how programming paradigms impose discipline by restricting what developers can do Understand what’s critically important and what’s merely a “detail” Implement optimal, high-level structures for web, database, thick-client, console, and embedded applications Define appropriate boundaries and layers, and organize components and services."
         },
         {
-            "id": 5,
+            "id": 17,
             "name": "Cracking Coding Interview",
             "author": "Gayle Laakmann Mcdowell",
             "tagline": "189 Programming Questions & Solutions",
@@ -156,7 +156,7 @@
             "desc": "189 programming interview questions, ranging from the basics to the trickiest algorithm problems. - A walk-through of how to derive each solution, so that you can learn how to get there yourself. - Hints on how to solve each of the 189 questions, just like what you would get in a real interview. - Five proven strategies to tackle algorithm questions, so that you can solve questions you haven't seen. - Extensive coverage of essential topics, such as big O time, data structures, and core algorithms. - A behind the scenes look at how top companies like Google and Facebook hire developers. - Techniques to prepare for and ace the soft side of the interview: behavioral questions. - For interviewers and companies: details on what makes a good interview question and hiring process."
         },
         {
-            "id": 6,
+            "id": 18,
             "name": "Code Complete",
             "author": "Steve McConnell",
             "tagline": "A Practical Handbook of Software Construction",
@@ -165,7 +165,7 @@
             "desc": "Widely considered one of the best practical guides to programming, Steve McConnell’s original CODE COMPLETE has been helping developers write better software for more than a decade. Now this classic book has been fully updated and revised with leading-edge practices—and hundreds of new code samples—illustrating the art and science of software construction. Capturing the body of knowledge available from research, academia, and everyday commercial practice, McConnell synthesizes the most effective techniques and must-know principles into clear, pragmatic guidance. No matter what your experience level, development environment, or project size, this book will inform and stimulate your thinking—and help you build the highest quality code."
         },
         {
-            "id": 8,
+            "id": 19,
             "name": "Refactoring",
             "author": "Martin Fowler",
             "tagline": "Improving The Design of Existing Code",
@@ -175,7 +175,7 @@
             "lang": "English"
         },
         {
-            "id": 9,
+            "id": 20,
             "name": "The Pragmatic Programmer",
             "author": "David Thomas, Andrew Hunt",
             "tagline": "Your Journey To Mastery",
@@ -184,7 +184,7 @@
             "desc": "The Pragmatic Programmer is one of those rare tech books you’ll read, re-read, and read again over the years. Whether you’re new to the field or an experienced practitioner, you’ll come away with fresh insights each and every time. Dave Thomas and Andy Hunt wrote the first edition of this influential book in 1999 to help their clients create better software and rediscover the joy of coding. These lessons have helped a generation of programmers examine the very essence of software development, independent of any particular language, framework, or methodology, and the Pragmatic philosophy has spawned hundreds of books, screencasts, and audio books, as well as thousands of careers and success stories."
         },
         {
-            "id": 10,
+            "id": 21,
             "name": "The Clean Coder",
             "author": "Robert C. Martin",
             "tagline": "A Code of Conduct for Professional Programmers",
@@ -193,7 +193,7 @@
             "desc": "In The Clean Coder: A Code of Conduct for Professional Programmers, legendary software expert Robert C. Martin introduces the disciplines, techniques, tools, and practices of true software craftsmanship. This book is packed with practical advice–about everything from estimating and coding to refactoring and testing. It covers much more than technique: It is about attitude. Martin shows how to approach software development with honor, self-respect, and pride; work well and work clean; communicate and estimate faithfully; face difficult decisions with clarity and honesty; and understand that deep knowledge comes with a responsibility to act."
         },
         {
-            "id": 11,
+            "id": 22,
             "name": "Computer Architecture",
             "author": "John L. Hennessy, David A. Patterson",
             "tagline": "A Quantitive Approach",
@@ -202,7 +202,7 @@
             "desc": "Computer Architecture: A Quantitative Approach, Sixth Edition has been considered essential reading by instructors, students and practitioners of computer design for over 20 years. The sixth edition of this classic textbook from Hennessy and Patterson, winners of the 2017 ACM A.M. Turing Award recognizing contributions of lasting and major technical importance to the computing field, is fully revised with the latest developments in processor and system architecture. The text now features examples from the RISC-V (RISC Five) instruction set architecture, a modern RISC instruction set developed and designed to be a free and openly adoptable standard. It also includes a new chapter on domain-specific architectures and an updated chapter on warehouse-scale computing that features the first public information on Google's newest WSC."
         },
         {
-            "id": 12,
+            "id": 23,
             "name": "Computer Graphics, C Version",
             "author": "Donald Hearn, M. Pauline Baker",
             "tagline": "Donald Baker, M. Pauline Hearn",

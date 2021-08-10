@@ -10,7 +10,7 @@
             "desc": "Ubuntu brings Linux to the masses, but it can still be intimidating for newbies, neophytes, and geeks-in-training. With Ubuntu Made Easy by your side you'll be ready to face any challenge, and you'll discover just how fun Linux can be. Packed with tips, tricks, and helpful pointers, Ubuntu Made Easy will get you up and running with the world's most popular free operating system. Authors Rickford Grant and Phil Bull walk you through common tasks like installing and playing games, accessing your favorite social networks, troubleshooting hardware and software problems, interacting with your Windows installation, and more.."
         },
         {
-            "id": 1,
+            "id": 2,
             "name": "Linux System Programming",
             "author": "Robert Love",
             "tagline": "Talking Directly to the Kernel and C Library",
@@ -19,7 +19,7 @@
             "desc": "Write software that draws directly on services offered by the Linux kernel and core system libraries. With this comprehensive book, Linux kernel contributor Robert Love provides you with a tutorial on Linux system programming, a reference manual on Linux system calls, and an insider’s guide to writing smarter, faster code."
         },
         {
-            "id": 1,
+            "id": 3,
             "name": "Linux Firewalls",
             "author": "Michael Rash",
             "tagline": "Attack Detetion and Response with IPTABLES, PSAD, and FWSNORT",
@@ -28,7 +28,7 @@
             "desc": "System administrators need to stay ahead of new security vulnerabilities that leave their networks exposed every day. A firewall and an intrusion detection systems (IDS) are two important weapons in that fight, enabling you to proactively deny access and monitor network traffic for signs of an attack. Linux Firewalls discusses the technical details of the iptables firewall and the Netfilter framework that are built into the Linux kernel, and it explains how they provide strong filtering, Network Address Translation (NAT), state tracking, and application layer inspection capabilities that rival many commercial tools. You'll learn how to deploy iptables as an IDS with psad and fwsnort and how to build a strong, passive authentication layer around iptables with fwknop."
         },
         {
-            "id": 1,
+            "id": 4,
             "name": "The Linux Programming Interface",
             "author": "Michael Kerrisk",
             "tagline": "A Linux and UNIX System Programming Handbook",
@@ -37,7 +37,7 @@
             "desc": "The Linux Programming Interface (TLPI) is the definitive guide to the Linux and UNIX programming interface—the interface employed by nearly every application that runs on a Linux or UNIX system. While The Linux Programming Interface covers a wealth of Linux-specific features, including epoll, inotify, and the /proc file system, its emphasis on UNIX standards (POSIX.1-2001/SUSv3 and POSIX.1-2008/SUSv4) makes it equally valuable to programmers working on other UNIX platforms. The Linux Programming Interface is the most comprehensive single-volume work on the Linux and UNIX programming interface, and a book that's destined to become a new classic."
         },
         {
-            "id": 1,
+            "id": 5,
             "name": "Linux Command Line and Shell Scripting Bible",
             "author": "Richard Blum, Christine Bresnahan",
             "tagline": "The Comprehensive, Tutorial Resource",
@@ -46,7 +46,7 @@
             "desc": "Linux Command Line and Shell Scripting Bible is your essential Linux guide. With detailed instruction and abundant examples, this book teaches you how to bypass the graphical interface and communicate directly with your computer, saving time and expanding capability. This third edition incorporates thirty pages of new functional examples that are fully updated to align with the latest Linux features. Beginning with command line fundamentals, the book moves into shell scripting and shows you the practical application of commands in automating frequently performed functions. This guide includes useful tutorials, and a desk reference value of numerous examples."
         },
         {
-            "id": 1,
+            "id": 6,
             "name": "Essential System Administration",
             "author": "Æleen Frisch",
             "tagline": "Tools and Techniques for Linux and Unix Administration",
@@ -55,7 +55,7 @@
             "desc": "Essential System Administration,3rd Edition is the definitive guide for Unix system administration, covering all the fundamental and essential tasks required to run such divergent Unix systems as AIX, FreeBSD, HP-UX, Linux, Solaris, Tru64 and more. Essential System Administration provides a clear, concise, practical guide to the real-world issues that anyone responsible for a Unix system faces daily.The new edition of this indispensable reference has been fully updated for all the latest operating systems. Even more importantly, it has been extensively revised and expanded to consider the current system administrative topics that administrators need most. Essential System Administration,3rd Edition covers: DHCP, USB devices, the latest automation tools, SNMP and network management, LDAP, PAM, and recent security tools and techniques.Essential System Administration is comprehensive."
         },
         {
-            "id": 1,
+            "id": 7,
             "name": "How Linux Works",
             "author": "Brian Ward",
             "tagline": "What Every Superuser Should Know",
@@ -64,7 +64,7 @@
             "desc": "How Linux Works describes the inside of the Linux system for systems administrators, whether they maintain an extensive network in the office or one Linux box at home. Some books try to give you copy-and-paste instructions for how to deal with every single system issue that may arise, but How Linux Works actually shows you how the Linux system functions so that you can come up with your own solutions."
         },
         {
-            "id": 2,
+            "id": 8,
             "name": "Linux Basics for Hackers",
             "author": "Occupytheweb",
             "tagline": "Getting Started with Networking, Scripting, and Security in Kali",
@@ -73,7 +73,7 @@
             "desc": "This practical, tutorial-style book uses the Kali Linux distribution to teach Linux basics with a focus on how hackers would use them. Topics include Linux command line basics, filesystems, networking, BASH basics, package management, logging, and the Linux kernel and drivers. If you're getting started along the exciting path of hacking, cybersecurity, and pentesting, Linux Basics for Hackers is an excellent first step. Using Kali Linux, an advanced penetration testing distribution of Linux, you'll learn the basics of using the Linux operating system and acquire the tools and techniques you'll need to take control of a Linux environment."
         },
         {
-            "id": 3,
+            "id": 9,
             "name": "Linux For Beginners",
             "author": "Adam Vardy",
             "tagline": "The Ultimate Guide To The Linux Operating System & Linux",
@@ -82,7 +82,7 @@
             "desc": "Linux For Beginners! Updated April 2016 The Ultimate Beginners Crash Course To Learning & Mastering Linux Are You Ready To Learn How To Use, Master & Configure Linux? If So You've Come To The Right Place - Regardless Of How Little Experience You May Have! There's a ton of other technical guides out there that aren't clear and concise, and in my opinion use far too much jargon."
         },
         {
-            "id": 4,
+            "id": 10,
             "name": "Operating System Concepts and Basic Linux Command",
             "author": "Shital Vivek Ghate",
             "tagline": "Shital Vivek Ghate",
@@ -91,7 +91,7 @@
             "desc": "This book contains the introductory information about the operating system and the basics of Linux commands for graduation level studies. This book provides the concepts of operating system. It contains the fundamental concepts which are applicable to various operating systems. Unit-I explains what is operating system and how the concepts of operating system has developed, contains resource management, structure of operating system, services provided by operating system, types of operating systemit contains the common features of the operating system."
         },
         {
-            "id": 5,
+            "id": 11,
             "name": "Kali Linux Revealed",
             "author": "Raphael Hertzog, Jim O'Gorman, Mati Aharoni",
             "tagline": "Mastering the Penetration Testing Distribution",
@@ -100,7 +100,7 @@
             "desc": "Kali Linux has not only become the information security professional's platform of choice, but evolved into an industrial-grade, and world-class operating system distribution--mature, secure, and enterprise-ready. Through the decade-long development process, Muts and his team, along with countless volunteers from the hacker community, have taken on the burden of streamlining and organizing our work environment, freeing us from much of the drudgery. They provided a secure and reliable foundation, allowing us to concentrate on securing our digital world."
         },
         {
-            "id": 6,
+            "id": 12,
             "name": "Wicked Cool Shell Scripts",
             "author": "Dave Taylor, Brandon Perry",
             "tagline": "101 Scripts for Linux, OS X, and Unix System",

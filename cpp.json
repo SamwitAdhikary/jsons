@@ -10,7 +10,7 @@
             "desc": "The core of EPI is a collection of over 250 problems with detailed solutions. The problems are representative of interview questions asked at leading software companies. The problems are illustrated with 200 figures, 300 tested programs, and 150 additional variants. The book begins with a summary of the nontechnical aspects of interviewing, such as strategies for a great interview, common mistakes, perspectives from the other side of the table, tips on negotiating the best offer, and a guide to the best ways to use EPI. We also provide a summary of data structures, algorithms, and problem solving patterns."
         },
         {
-            "id": 1,
+            "id": 2,
             "name": "Optimized C++",
             "author": "Kurt Guntheroth",
             "tagline": "Proven Techniques for Heightened Performance",
@@ -20,7 +20,7 @@
             "lang": "English"
         },
         {
-            "id": 1,
+            "id": 3,
             "name": "Modern C++ Programming Cookbook",
             "author": "Marius Bancila",
             "tagline": "Over 100 recipes to help you overcome your difficulties with C++",
@@ -30,7 +30,7 @@
             "lang": "English"
         },
         {
-            "id": 1,
+            "id": 4,
             "name": "C How to Program",
             "author": "Paul Deitel, Harvey Deitel",
             "tagline": "With an Introduction to C++",
@@ -39,7 +39,7 @@
             "desc": "C How to Program is a comprehensive introduction to programming in C. Like other texts of the Deitels’ How to Program series, the book serves as a detailed beginner source of information for college students looking to embark on a career in coding, or instructors and software-development professionals seeking to learn how to program with C."
         },
         {
-            "id": 2,
+            "id": 5,
             "name": "C++ Programming",
             "author": "Behrouz A. Forouzan, Richard F. Gilberg",
             "tagline": "An Object Oriented Approach",
@@ -48,7 +48,7 @@
             "desc": "C++ Programming: An Object-Oriented Approach has two primary objectives: Teach the basic principles of programming as outlined in the ACM curriculum for a CS1 class and teach the basic constructs of the C++ language. While C++ is a complex and professional language, experience shows that beginning students can easily understand and use C++."
         },
         {
-            "id": 3,
+            "id": 6,
             "name": "Object Oriented Programming With C++",
             "author": "E. Balagurusamy",
             "tagline": "E. Balagurusamy",
@@ -57,7 +57,7 @@
             "desc": "Written by the most well known face of India's IT literacy movement, this book is designed for the first course in Object Oriented Programming with C++ taken by undergraduate students in Computers and Information Technology. It explores C++ in the light of its Object Oriented nature and simplifies it for novice programmers."
         },
         {
-            "id": 4,
+            "id": 7,
             "name": "C++ Crash Course",
             "author": "Josh Lospinoso",
             "tagline": "A Fast-Paced Introduction",
@@ -66,7 +66,7 @@
             "desc": "A fast-paced, thorough introduction to modern C++ written for experienced programmers. After reading C++ Crash Course, you'll be proficient in the core language concepts, the C++ Standard Library, and the Boost Libraries. C++ is one of the most widely used languages for real-world software. In the hands of a knowledgeable programmer, C++ can produce small, efficient, and readable code that any programmer would be proud of."
         },
         {
-            "id": 5,
+            "id": 8,
             "name": "Practical C++ Design",
             "author": "Adam B. Singer",
             "tagline": "From Programming to Architecture",
@@ -75,7 +75,7 @@
             "desc": "Go from competent C++ developer to skilled designer or architect using this book as your C++ design master class. This title will guide you through the design and implementation of a fun, engaging case study. Starting with a quick exploration of the requirements for building the application, you'll delve into selecting an appropriate architecture, eventually designing and implementing all of the necessary modules to meet the project’s requirements."
         },
         {
-            "id": 6,
+            "id": 9,
             "name": "Effective Modern C++",
             "author": "Scott Meyers",
             "tagline": "42 Specific Ways To Improve Your Use Of C++11 and C++14",
@@ -84,7 +84,7 @@
             "desc": "Coming to grips with C++11 and C++14 is more than a matter of familiarizing yourself with the features they introduce (e.g., auto type declarations, move semantics, lambda expressions, and concurrency support). The challenge is learning to use those features effectively—so that your software is correct, efficient, maintainable, and portable. That’s where this practical book comes in. It describes how to write truly great software using C++11 and C++14—i.e. using modern C++."
         },
         {
-            "id": 7,
+            "id": 10,
             "name": "The C++ Programming Language",
             "author": "Bjarne Stroustrup",
             "tagline": "Bjarne Stroustrup",
@@ -93,7 +93,7 @@
             "desc": "Programming: Principles and Practice Using C++, Second Edition, is a programming textbook aimed at beginners who eventually want to become professionals. It is also be useful for people who have programmed a bit and want to improve their style and technique--or simply to learn modern C++. It teaches fundamental programming principles and techniques for building high-quality, real-world systems."
         },
         {
-            "id": 8,
+            "id": 11,
             "name": "C++ Primer",
             "author": "Stanley B. Lippman, Josee Lajoie, Barbara E. Moo",
             "tagline": "Stanley B. Lippman, Josée Lajoie, Barbara E. Moo",
@@ -102,7 +102,7 @@
             "desc": "C++ Primer, Fifth Edition, introduces the C++ standard library from the outset, drawing on its common functions and facilities to help you write useful programs without first having to master every language detail. The book’s many examples have been revised to use the new language features and demonstrate how to make the best use of them. This book is a proven tutorial for those new to C++, an authoritative discussion of core C++ concepts and techniques, and a valuable resource for experienced programmers, especially those eager to see C++11 enhancements illuminated."
         },
         {
-            "id": 9,
+            "id": 12,
             "name": "Learning OpenCV 3",
             "author": "Adrian Kaehler, Gary Bradski",
             "tagline": "Computer Vision in C++ with the OpenCV Library",

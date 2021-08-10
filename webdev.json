@@ -10,7 +10,7 @@
             "desc": "Responsive Web Design with HTML5 and CSS, Third Edition is a renewed and extended version of one of the most comprehensive and bestselling books on the latest HTML5 and CSS tools and techniques for responsive web design. Written in the author's signature friendly and informal style, this edition covers all the newest developments and improvements in responsive web design including better user accessibility, variable fonts and font loading, CSS Scroll Snap, and much, much more. With a new chapter dedicated to CSS Grid, you will understand how it differs from the Flexbox layout mechanism and when you should use one over the other."
         },
         {
-            "id": 1,
+            "id": 2,
             "name": "Django 3 By Example",
             "author": "Antonio Melé",
             "tagline": "Build powerful and reliable Python web applications from scratch",
@@ -19,7 +19,7 @@
             "desc": "If you want to learn the entire process of developing professional web applications with Python and Django, then this book is for you. In the process of building four professional Django projects, you will learn about Django 3 features, how to solve common web development problems, how to implement best practices, and how to successfully deploy your applications. In this book, you will build a blog application, a social image bookmarking website, an online shop, and an e-learning platform. Step-by-step guidance will teach you how to integrate popular technologies, enhance your applications with AJAX, create RESTful APIs, and set up a production environment for your Django projects."
         },
         {
-            "id": 1,
+            "id": 3,
             "name": "Designing Web APIs",
             "author": "Brenda Jin, Saurabh Sahni, Amir Shevat",
             "tagline": "Building APIs that Developers Love",
@@ -28,7 +28,7 @@
             "desc": "Designing an API is complicated to begin with, but evolving your API design over time makes the process even more difficult. There are several books on the topic, but none that guide you through key decisions for designing and building APIs for specific audiences and types of products. Well, until now, that is. Using case studies from companies such as Slack, Stripe, Facebook, and Github, this practical guide shows you how to navigate complex decisions when building, scaling, and evolving your own APIs. You’ll learn best practices for designing APIs that developers will love, and discover how to evolve your APIs as your product grows. Developers, architects, tech leads, product managers, and engineering managers will: Examine strategies to expose data through web APIs, using webhooks, websockets, and HTTP Learn how to evolve APIs while keeping them consistent Be able to scale APIs with pagination and rate limiting Handle security, performance, monitoring, and testing Build a thriving ecosystem around your API."
         },
         {
-            "id": 1,
+            "id": 4,
             "name": "Sams Teach Yourself HTML, CSS & JavaScript Web Publishing",
             "author": "Laura Lemay, Rafe Colbum, Jennifer Kyrnin",
             "tagline": "In One Hour a Day",
@@ -37,7 +37,7 @@
             "desc": "Thoroughly revised and updated with examples rewritten to conform to HTML5, CSS3, and contemporary web development practices, this easy-to-understand, step-by-step tutorial helps you quickly master the basics of HTML and CSS before moving on to more advanced topics such as graphics, video, and interactivity with JavaScript and jQuery."
         },
         {
-            "id": 1,
+            "id": 5,
             "name": "Flask Web Development",
             "author": "Miguel Grinberg",
             "tagline": "Developing Web Applications with Python",
@@ -46,7 +46,7 @@
             "desc": "Take full creative control of your web applications with Flask, the Python-based microframework. With the second edition of this hands-on book, you’ll learn the framework from the ground up by developing, step-by-step, a real-world project created by author Miguel Grinberg. This refreshed edition accounts for important technology changes that have occurred in the past three years."
         },
         {
-            "id": 2,
+            "id": 6,
             "name": "Web Development with Angular and Bootstrap",
             "author": "Sridhar Rao Chivukula, Aki Iskandar",
             "tagline": "Embrace responsive web design and build adaptive Angular web applications",
@@ -55,7 +55,7 @@
             "desc": "Combine the power of Angular, Bootstrap 4, FlexLayout, and Angular Material Design to build elegant user interfaces Key Features Learn to combine Angular 6 with Bootstrap 4 to design highly intuitive and responsive web interfaces Explore the design principles for professional web layout with Angular Material, Flexbox, and Bootstrap Avoid potential stumbling blocks in web development with the help of expert tips Book DescriptionAngular and Bootstrap have undergone a major overhaul to embrace emerging web technologies that help developers build cutting-edge web applications. This book is for you if you're ready to enhance your web development skills beyond HTML and CSS. It begins with the basics of Angular and Bootstrap 4, along with an introduction to ES and TypeScript."
         },
         {
-            "id": 3,
+            "id": 7,
             "name": "Building Your Online Store with Wordpress and WooCommerce",
             "author": "Lisa Sims",
             "tagline": "Learn to Leverage the Critical Role Ecommerce Plays in Today's Competitive Marketplace",
@@ -64,7 +64,7 @@
             "desc": "Teaches you all about e-commerce and how to create your own online shop using WordPress and WooCommerce. Regardless of a business’s size, e-commerce helps level the playing field, increases a business’s exposure, allows companies to reach customers globally, and streamlines the fulfillment process. In the past, e-commerce websites were expensive, technically difficult, and time-consuming to create but not anymore. WordPress and WooCommerce together are a complete e-commerce solution that can be used to sell both physical and digital products online. You'll learn how to install WordPress and how to plan your e-commerce solution with WooCommerce as well as install, create, secure, test, and market a sample online store."
         },
         {
-            "id": 4,
+            "id": 8,
             "name": "eCommerce in the Cloud",
             "author": "Kelly Goetsch",
             "tagline": "Bringing Elasticity to Ecommerce",
@@ -73,7 +73,7 @@
             "desc": "Is your eCommerce solution ready for the cloud? This practical guide shows experienced and aspiring web architects alike how to adopt cloud computing incrementally, using public Infrastructure-as-a-Service and Platform-as-a-Service. You will learn how to marshal as much capacity as you need to handle peak holiday or special-event traffic. Written by eCommerce expert Kelly Goetsch, this book helps architects leverage recent technological advances that have made it possible to run an entire enterprise-level eCommerce platform from a cloud."
         },
         {
-            "id": 5,
+            "id": 9,
             "name": "Learning Web Design",
             "author": "Jennifer Niederst Robbins",
             "tagline": "A Beginners's Guide to HTML, CSS, JavaScript, and Web Graphics",
@@ -82,7 +82,7 @@
             "desc": "Do you want to build web pages but have no prior experience? This friendly guide is the perfect place to start. You’ll begin at square one, learning how the web and web pages work, and then steadily build from there. By the end of the book, you’ll have the skills to create a simple site with multicolumn pages that adapt for mobile devices. This thoroughly revised edition is ideal for students and professionals of all backgrounds and skill levels. It is simple and clear enough for beginners, yet thorough enough to be a useful reference for experienced developers keeping their skills up to date."
         },
         {
-            "id": 6,
+            "id": 10,
             "name": "Test-Driven Development with Python",
             "author": "Harry J.W. Percival",
             "tagline": "Obey the Testing Goat: Using Django, Selenium & JavaScript",
@@ -91,7 +91,7 @@
             "desc": "By taking you through the development of a real web application from beginning to end, the second edition of this hands-on guide demonstrates the practical advantages of test-driven development (TDD) with Python. You’ll learn how to write and run tests before building each part of your app, and then develop the minimum amount of code required to pass those tests. The result? Clean code that works."
         },
         {
-            "id": 7,
+            "id": 11,
             "name": "MongoDB The Definitive Guide",
             "author": "Shannon Bradshaw, Eoin Brazil, Kristina Chodorow",
             "tagline": "Powerful and Scalable Data Storage",
@@ -100,7 +100,7 @@
             "desc": "Manage your data with a system designed to support modern application development. Updated for MongoDB 4.2, the third edition of this authoritative and accessible guide shows you the advantages of using document-oriented databases. You’ll learn how this secure, high-performance system enables flexible data models, high availability, and horizontal scalability. Authors Shannon Bradshaw, Eoin Brazil, and Kristina Chodorow provide guidance for database developers, advanced configuration for system administrators, and use cases for a variety of projects. NoSQL newcomers and experienced MongoDB users will find updates on querying, indexing, aggregation, transactions, replica sets, ops management, sharding and data administration, durability, monitoring, and security."
         },
         {
-            "id": 8,
+            "id": 12,
             "name": "HTML & CSS",
             "author": "Jon Duckett",
             "tagline": "Design and Build Websites",
@@ -109,7 +109,7 @@
             "desc": "A full-color introduction to the basics of HTML and CSS from the publishers of Wrox! Every day, more and more people want to learn some HTML and CSS. Joining the professional web designers and programmers are new audiences who need to know a little bit of code at work (update a content management system or e-commerce store) and those who want to make their personal blogs more attractive. Many books teaching HTML and CSS are dry and only written for those who want to become programmers, which is why this book takes an entirely new approach."
         },
         {
-            "id": 9,
+            "id": 13,
             "name": "Cloud Native",
             "author": "Boris Scholl, Trent Swanson, Peter Jausovec",
             "tagline": "Using Containers, Functions, and Data to Build Next-Generation Applications",
@@ -118,7 +118,7 @@
             "desc": "Developers often struggle when first encountering the cloud. Learning about distributed systems, becoming familiar with technologies such as containers and functions, and knowing how to put everything together can be daunting. With this practical guide, you’ll get up to speed on patterns for building cloud native applications and best practices for common tasks such as messaging, eventing, and DevOps."
         },
         {
-            "id": 10,
+            "id": 14,
             "name": "Cloud Native DevOps with Kubernetes",
             "author": "John Arundel, Justin Domingus",
             "tagline": "Building, Deploying and Scaling Modern Applications in the Cloud",
@@ -127,7 +127,7 @@
             "desc": "Kubernetes is the operating system of the cloud-native world, providing a reliable and scalable platform for running containerized workloads. This book shows developers and operations staff how to apply industry-standard DevOps practices to Kubernetes in a cloud-native context. You’ll learn all about the Kubernetes ecosystem and discover battle-tested solutions to everyday problems. In this friendly, pragmatic book, cloud experts John Arundel and Justin Domingus show you what Kubernetes can do―and what you can do with it. You’ll build, step by step, an example cloud-native application and its supporting infrastructure, along with a development environment and continuous deployment pipeline that you can use for your own applications. Understand containers and Kubernetes from first principles―no experience necessary Run your own clusters or choose a managed Kubernetes service from Amazon, Google, and others Design your own cloud-native services and infrastructure Use Kubernetes to manage resource usage and the container lifecycle Optimize clusters for cost, performance, resilience, capacity, and scalability Learn the best tools for developing, testing, and deploying your applications Apply the latest industry practices for observability and monitoring Secure your containers and clusters in production Adopt DevOps principles to help make your development teams lean, fast, and effective"
         },
         {
-            "id": 11,
+            "id": 15,
             "name": "Angular 5 Projects",
             "author": "Mark Clow",
             "tagline": "Learn to Build Single Page Web Application Using 70+ Projects",
@@ -136,7 +136,7 @@
             "desc": "Learn to build single page web apps using Angular 5 and TypeScript by working through 70+ mini-projects. With hundreds of code examples you gain a thorough understanding of the Angular 5 ecosystem and how to work within it. You'll begin by understanding the benefits of Angular 5 vs older versions, and how this benefits your applications. You'll then move onto mini-projects that teach you JavaScript, TypeScript, how to use editors, Node, CLI, components, modules, directives, Webpack, dependency injection, widgets, routes and navigation, observers, reactive programming, and RxJS."
         },
         {
-            "id": 12,
+            "id": 16,
             "name": "Pro Angular 9",
             "author": "Adam Freeman",
             "tagline": "Build Powerful and Dynamic Web Apps",
@@ -145,7 +145,7 @@
             "desc": "Welcome to this one-stop-shop for learning Angular. Pro Angular is the most concise and comprehensive guide available, giving you the knowledge you need to take full advantage of this popular framework for building your own dynamic JavaScript applications. The fourth edition of this full-color guide explains how to get the most from Angular, starting with an in-depth overview of the MVC pattern and presenting the range of benefits it can offer. From there, you will begin learning how to use Angular in your projects, starting with the nuts-and-bolts concepts, and progressing on to more advanced and sophisticated features."
         },
         {
-            "id": 13,
+            "id": 17,
             "name": "The Full Stack Developer",
             "author": "Chris Northwood",
             "tagline": "Your Essential Guide to the Everyday Skills Expected of a Modern Full Stack Web Developer",

@@ -10,7 +10,7 @@
             "desc": "The book ‘Programming in ANSI C’ has been developed specifically to meet the needs of a first-time learner who is keen to be a programmer. Distinguished as one of the bestsellers in the market, the book is taking forward another step in pursuit of perfection with this new edition. It follows a hierarchical approach by explaining the concepts from elementary to advanced level. The exhaustive coverage of critical concepts, such as Arrays, Strings, Functions, Pointers, Self-referential Structures, Dynamic Memory Allocation, etc. makes this title a complete reference guide for the beginners as well as life-long learners. Rich pedagogy, challenging programming problems, and concretely curated appendices enhance the utility of the book and make it a lasting resource for students and instructors."
         },
         {
-            "id": 1,
+            "id": 2,
             "name": "C How to Program",
             "author": "Paul Deitel, Harvey Deitel",
             "tagline": "With an Introduction to C++",
@@ -19,7 +19,7 @@
             "desc": "C How to Program is a comprehensive introduction to programming in C. Like other texts of the Deitels’ How to Program series, the book serves as a detailed beginner source of information for college students looking to embark on a career in coding, or instructors and software-development professionals seeking to learn how to program with C."
         },
         {
-            "id": 2,
+            "id": 3,
             "name": "C Primer Plus",
             "author": "Stephen Prata",
             "tagline": "Stephen Prata",
@@ -28,7 +28,7 @@
             "desc": "C Primer Plus is a carefully tested, well-crafted, and complete tutorial on a subject core to programmers and developers. This computer science classic teaches principles of programming, including structured code and top-down design. Author and educator Stephen Prata has created an introduction to C that is instructive, clear, and insightful. Fundamental programming concepts are explained along with details of the C language. Many short, practical examples illustrate just one or two concepts at a time, encouraging readers to master new topics by immediately putting them to use."
         },
         {
-            "id": 3,
+            "id": 4,
             "name": "C The Complete Reference",
             "author": "Herbert Schildt",
             "tagline": "Herbert Schildt",
@@ -37,7 +37,7 @@
             "desc": "Another gem from Herb Schildt--best-selling programming author with more than 2.5 million books sold! C: The Complete Reference, Fourth Edition gives you full details on C99, the New ANSI/ISO Standard for C. You'll get in-depth coverage of the C language and function libraries as well as all the newest C features, including restricted pointers, inline functions, variable-length arrays, and complex math. This jam-packed resource includes hundreds of examples and sample applications."
         },
         {
-            "id": 4,
+            "id": 5,
             "name": "Head First C",
             "author": "David Griffiths, Dawn Griffiths",
             "tagline": "David Griffiths, Dawn Griffiths",
@@ -46,7 +46,7 @@
             "desc": "Ever wished there was an easier way to learn C from a book? Head First C is a complete learning experience that will show you how to create programs in the C language. This book helps you learn the C language with a unique method that goes beyond syntax and how-to manuals and helps you understand how to be a great programmer. You'll learn key areas such as language basics, pointers and pointer arithmeticand dynamic memory managementand with advanced topics such as multi-threading and network programming, Head First C can be used as an accessible text book for a college-level course."
         },
         {
-            "id": 5,
+            "id": 6,
             "name": "Learn C The Hard Way",
             "author": "Zed A. Shaw",
             "tagline": "Practical Exercises on the Computional Subjects You Keep Avoiding(Like C)",
@@ -55,7 +55,7 @@
             "desc": "In Learn C the Hard Way, you’ll learn C by working through 52 brilliantly crafted exercises. Watch Zed Shaw’s teaching video and read the exercise. Type his code precisely. (No copying and pasting!) Fix your mistakes. Watch the programs run. As you do, you’ll learn what good, modern C programs look like; how to think more effectively about code; and how to find and fix mistakes far more efficiently. Most importantly, you’ll master rigorous defensive programming techniques, so you can use any language to create software that protects itself from malicious activity and defects."
         },
         {
-            "id": 6,
+            "id": 7,
             "name": "Let Us C",
             "author": "Yashvant Kanetkar",
             "tagline": "Authentic Guide To C Programming Language",

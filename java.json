@@ -10,7 +10,7 @@
             "desc": "Computer programming language Java is not easy to understand. It takes lot of time and practice to understand the complex programming language. But this book takes an interactive and fun approach for better understanding of different fundamentals of Java. The book offers multi-sensory and fun learning experience for new programmers, so they can easily pick up the new language. Human brain responds and remembers unusual situations, images or incidents. Keeping that in mind, this revised second edition of the book has been presented with lots of humorous images, memorable analogies and mind-bending exercises. The language in which the book is written is also casual for better understanding of the difficult computer programming language."
         },
         {
-            "id": 1,
+            "id": 2,
             "name": "Modern Java in Action",
             "author": "Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft",
             "tagline": "Lambdas, streams, functional and reactive programming",
@@ -19,7 +19,7 @@
             "desc": "Modern Java in Action connects new features of the Java language with their practical applications. Using crystal-clear examples and careful attention to detail, this book respects your time. It will help you expand your existing knowledge of core Java as you master modern additions like the Streams API and the Java Module System, explore new approaches to concurrency, and learn how functional concepts can help you write code that's easier to read and maintain."
         },
         {
-            "id": 1,
+            "id": 3,
             "name": "Elements of Programming Interviews in Java",
             "author": "Adnan Aziz, Tsung-Hsien Lee, Amit Prakash",
             "tagline": "The Insider's Guide",
@@ -28,7 +28,7 @@
             "desc": "If so, you need to read Elements of Programming Interviews (EPI). EPI is your comprehensive guide to interviewing for software development roles. The core of EPI is a collection of over 250 problems with detailed solutions. The problems are representative of interview questions asked at leading software companies. The problems are illustrated with 200 figures, 300 tested programs, and 150 additional variants. The book begins with a summary of the nontechnical aspects of interviewing, such as strategies for a great interview, common mistakes, perspectives from the other side of the table, tips on negotiating the best offer, and a guide to the best ways to use EPI. We also provide a summary of data structures, algorithms, and problem solving patterns."
         },
         {
-            "id": 1,
+            "id": 4,
             "name": "Java The Complete Reference",
             "author": "Helbert Schildt",
             "tagline": "Comprehensive Coverage of the Java Language",
@@ -37,7 +37,7 @@
             "desc": "Fully updated for Java SE 11, Java: The Complete Reference, Eleventh Edition explains how to develop, compile, debug, and run Java programs. Best-selling programming author Herb Schildt covers the entire Java language, including its syntax, keywords, and fundamental programming principles. You’ll also find information on key portions of the Java API library, such as I/O, the Collections Framework, the stream library, and the concurrency utilities. Swing, JavaBeans, and servlets are examined and numerous examples demonstrate Java in action. Of course, the very important module system is discussed in detail. This Oracle Press resource also offers an introduction to JShell, Java’s interactive programming tool. Best of all, the book is written in the clear, crisp, uncompromising style that has made Schildt the choice of millions worldwide."
         },
         {
-            "id": 1,
+            "id": 5,
             "name": "Java Cookbook",
             "author": "Ian F. Darwin",
             "tagline": "Problems and Solutions for Java Developers",
@@ -47,7 +47,7 @@
             "lang": "English"
         },
         {
-            "id": 1,
+            "id": 6,
             "name": "Java for Absolute Beginners",
             "author": "Luliana Cosmina",
             "tagline": "Learn to Program the Fundamentals",
@@ -56,7 +56,7 @@
             "desc": "Write your first code in Java using simple, step-by-step examples that model real-word objects and events, making learning easy. With this book you’ll be able to pick up the concepts without fuss. Java for Absolute Beginners teaches Java development in language anyone can understand, giving you the best possible start. You’ll see clear code descriptions and layout so that you can get your code running as soon as possible. After reading this book, you'll come away with the basics to get started writing programs in Java."
         },
         {
-            "id": 2,
+            "id": 7,
             "name": "Java How to Program Early Objects",
             "author": "Paul Deitel, Harvey Deitel",
             "tagline": "Paul Deitel, Harvey Deitel",
@@ -65,7 +65,7 @@
             "desc": "Unparalleled breadth and depth of object-oriented programming concepts. The Deitels’ groundbreaking How to Program series offers unparalleled breadth and depth of programming fundamentals, object-oriented programming concepts and intermediate-level topics for further study. Java How to Program, Early Objects, 11th Edition, presents leading-edge computing technologies using the Deitel signature live-code approach, which demonstrates concepts in hundreds of complete working programs. The 11th Edition presents updated coverage of Java SE 8 and new Java SE 9 capabilities, including JShell, the Java Module System, and other key Java 9 topics."
         },
         {
-            "id": 3,
+            "id": 8,
             "name": "Java Program Design",
             "author": "Edward Sciore",
             "tagline": "Principles, Polymorphism, and Patterns",
@@ -74,7 +74,7 @@
             "desc": "Get a grounding in polymorphism and other fundamental aspects of object-oriented program design and implementation, and learn a subset of design patterns that any practicing Java professional simply must know in today’s job climate. Java Program Design presents program design principles to help practicing programmers up their game and remain relevant in the face of changing trends and an evolving language. The book enhances the traditional design patterns with Java's new functional programming features, such as functional interfaces and lambda expressions. The result is a fresh treatment of design patterns that expands their power and applicability, and reflects current best practice."
         },
         {
-            "id": 4,
+            "id": 9,
             "name": "Learn Java The Easy Way",
             "author": "Bryson Payne",
             "tagline": "A Hands-on Introduction to Programming",
@@ -83,7 +83,7 @@
             "desc": "Java is the world’s most popular programming language, but it’s known for having a steep learning curve. Learn Java the Easy Way takes the chore out of learning Java with hands-on projects that will get you building real, functioning apps right away. You’ll start by familiarizing yourself with JShell, Java’s interactive command line shell that allows programmers to run single lines of code and get immediate feedback. Then, you’ll create a guessing game, a secret message encoder, and a multitouch bubble-drawing app for both desktop and mobile devices using Eclipse, an industry-standard IDE, and Android Studio, the development environment for making Android apps."
         },
         {
-            "id": 5,
+            "id": 10,
             "name": "Microservies Patterns",
             "author": "Chris Richardson",
             "tagline": "With Examples in Java",
@@ -92,7 +92,7 @@
             "desc": "Microservices Patterns teaches you 44 reusable patterns to reliably develop and deploy production-quality microservices-based applications. This invaluable set of design patterns builds on decades of distributed system experience, adding new patterns for composing services into systems that scale and perform under real-world conditions. More than just a patterns catalog, this practical guide with worked examples offers industry-tested advice to help you design, implement, test, and deploy your microservices-based application."
         },
         {
-            "id": 6,
+            "id": 11,
             "name": "Programming with Java A Primer",
             "author": "E. Balagurusamy",
             "tagline": "E. Balagurusamy",
