@@ -1,6 +1,15 @@
 {
     "books": [
         {
+            "id": 181,
+            "name": "Practical Deep Learning",
+            "author": "Ron Kneusel",
+            "tagline": "A Python-Based Introduction",
+            "url": "https://firebasestorage.googleapis.com/v0/b/book5-9e9f0.appspot.com/o/Practical%20Deep%20Learning%20by%20Ron%20Kneusel%20%5BRon%20Kneusel%5D%20(z-lib.org).pdf?alt=media&token=142ddb07-f699-44a3-8637-bb3642659d8f",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51A0N9Rr2dS._SX377_BO1,204,203,200_.jpg",
+            "desc": "Practical Deep Learning teaches total beginners how to build the datasets and models needed to train neural networks for your own DL projects. If you’ve been curious about machine learning but didn’t know where to start, this is the book you’ve been waiting for. Focusing on the subfield of machine learning known as deep learning, it explains core concepts and gives you the foundation you need to start building your own models. Rather than simply outlining recipes for using existing toolkits, Practical Deep Learning teaches you the why of deep learning and will inspire you to explore further."
+        },
+        {
             "id": 1,
             "name": "Introduction to Database Management System",
             "author": "Atul Kahate",
